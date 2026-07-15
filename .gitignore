@@ -1,0 +1,12 @@
+/node_modules
+/.next
+/out
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+
+# Base de datos local y variables de entorno
+/progreso.db
+/progreso.db-*
+.env
+.env.local

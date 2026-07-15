@@ -1,0 +1,2295 @@
+COD: 2A01001
+PREGUNTA: Si a una empresa de transportes, propietaria de unas naves industriales, el arrendatario le adeuda varias mensualidades de renta, ¿cómo debe proceder para cobrarlas?
+A: Formulando la oportuna reclamación ante la correspondiente Junta Arbitral de Transportes.
+B: Formulando la oportuna reclamación ante los Tribunales de Justicia.
+C: Formulando la oportuna reclamación en la Asociación de Propietarios e Inquilinos.
+D: Cerrando las naves y solicitando la subasta judicial de los bienes contenidos en ellas.
+SOLUCION: B
+NORMA: RD 1211/1990, art. 6
+
+COD: 2A01002
+PREGUNTA: La definición siguiente: "Por el contrato de arrendamiento una de las partes se obliga a ceder a otra el goce o uso de una cosa"…
+A: es verdadera y completa.
+B: es verdadera, pero incompleta por faltarle la mención del tiempo y del precio.
+C: es falsa porque no se cede el uso sino la propiedad.
+D: es falsa pues no hay obligación de cesión ya que esta siempre es facultativa.
+SOLUCION: B
+NORMA: Código Civil, art. 1543
+
+COD: 2A01003
+PREGUNTA: ¿Qué es un arrendamiento?
+A: Un pacto en virtud del cual el dueño de una cosa cede a otro el uso de ella por tiempo determinado y mediante precio cierto.
+B: Es un uso característico de la Comunidad Foral Navarra y de la Comunidad Autónoma de Cataluña.
+C: Una cesión temporal de la posesión de un bien material o inmaterial y siempre de duración inferior a 5 años.
+D: Una cesión de un objeto con obligación de venta al arrendador si este lo desea.
+SOLUCION: A
+NORMA: Código Civil, art. 1543
+
+COD: 2A01004
+PREGUNTA: ¿Qué se puede arrendar?
+A: Únicamente los inmuebles.
+B: Cosas, obras y servicios.
+C: Cosas y obras.
+D: Viviendas y fincas agrícolas solamente.
+SOLUCION: B
+NORMA: Código Civil, art. 1542
+
+COD: 2A01005
+PREGUNTA: ¿Permite la normativa un contrato de arrendamiento por tiempo indefinido?
+A: Sí, si estuviésemos ante un arrendamiento perpetuo.
+B: Sí, pero solo es posible en cosas que permitan esa perpetuidad de uso por no destruirse.
+C: Sí en bienes inmuebles y no en los muebles.
+D: No, los arrendamientos deben tener un tiempo fijo y determinado.
+SOLUCION: D
+NORMA: Código Civil, art. 1543; Código Civil, art. 1583
+
+COD: 2A01006
+PREGUNTA: En un contrato de arrendamiento, ¿cuáles son las obligaciones del arrendador?
+A: Entregar la cosa al arrendatario y conservar la cosa en estado de servir para el uso al que se destina.
+B: Entregar la cosa al arrendatario y realizar en la misma obras de mejora.
+C: Entregar la cosa al arrendatario y conservarla en buen estado, haciendo uso de ella en los casos justificados que se establezcan en el contrato.
+D: Conservar y mejorar razonablemente la cosa arrendada.
+SOLUCION: A
+NORMA: Código Civil, art. 1554
+
+COD: 2A01007
+PREGUNTA: En un contrato de arrendamiento de bienes, ¿cuáles son las obligaciones del arrendatario?
+A: Pagar, usar con diligencia, responder del deterioro y devolver como las recibió.
+B: Asegurar el cobro de un precio determinado y cierto.
+C: Conservarlas y mejorarlas razonablemente.
+D: Responder de los deterioros debidos a la naturaleza propia de la cosa.
+SOLUCION: A
+NORMA: Código Civil, art. 1555; Código Civil, art. 1561; Código Civil, art. 1564
+
+COD: 2A01008
+PREGUNTA: En un contrato de arrendamiento de bienes, ¿cuáles son las obligaciones principales del arrendador y del arrendatario?
+A: Entregar la cosa y pagar el precio convenido.
+B: Documentar el contrato por escrito y abonar el importe por adelantado.
+C: No es un contrato bilateral porque solo implica la obligación de facilitar el uso de la cosa arrendada al arrendador.
+D: Pagar los impuestos y tasas municipales.
+SOLUCION: A
+NORMA: Código Civil, art. 1546; Código Civil, art. 1554; Código Civil, art. 1555
+
+COD: 2A01009
+PREGUNTA: En el contrato de arrendamiento de cosas, ¿el arrendatario adquiere la propiedad de las cosas durante el período de duración del contrato?
+A: Sí.
+B: Solo en el arrendamiento de bienes inmuebles.
+C: Solo en el arrendamiento de bienes muebles.
+D: No, solo adquiere el goce y el uso de la cosa.
+SOLUCION: D
+NORMA: Código Civil, art. 1546
+
+COD: 2A01010
+PREGUNTA: ¿Qué personas intervienen en un contrato de arrendamiento?
+A: El arrendatario y el inquilino.
+B: El arrendador y el arrendatario.
+C: El arrendador, el arrendatario y el subarrendador.
+D: El arrendador, el adquirente y el arrendatario.
+SOLUCION: B
+NORMA: Código Civil, art. 1546
+
+COD: 2A01011
+PREGUNTA: ¿Quién es el arrendatario en el contrato de arrendamiento de cosas?
+A: El propietario del bien arrendado.
+B: Quien recibe el pago del precio del arrendamiento.
+C: El que está obligado a mantener el disfrute pacífico en las cosas arrendadas.
+D: Quien recibe la cosa para usar o gozar de ella.
+SOLUCION: D
+NORMA: Código Civil, art. 1546
+
+COD: 2A01012
+PREGUNTA: ¿Quién es el arrendador en el contrato de arrendamiento de cosas?
+A: La persona que recibe el bien arrendado.
+B: La persona que usa el bien arrendado.
+C: La persona que se compromete al pago del arrendamiento.
+D: La persona que cede la cosa a otro para su uso o disfrute.
+SOLUCION: D
+NORMA: Código Civil, art. 1546
+
+COD: 2A01013
+PREGUNTA: ¿Qué finalidad tiene el renting?
+A: Que el arrendador acceda a la propiedad de los bienes.
+B: Que el arrendatario use los bienes por un tiempo.
+C: Aumentar el capital de una sociedad.
+D: Ceder créditos, entre otras.
+SOLUCION: B
+NORMA: Código de Comercio, art. 50; Código Civil, art. 1543
+
+COD: 2A01014
+PREGUNTA: ¿Qué caracteriza al contrato de renting?
+A: Existe opción de compra al finalizar el contrato.
+B: La propiedad del bien es adquirida por el arrendador.
+C: No existe opción de compra al finalizar el contrato.
+D: No se incluye el mantenimiento.
+SOLUCION: C
+NORMA: Código de Comercio, art. 50; Código Civil, art. 1561
+
+COD: 2A01015
+PREGUNTA: ¿Qué caracteriza al contrato de renting?
+A: Su objeto suelen ser bienes de rápido deterioro.
+B: Incorpora otros servicios como el de mantenimiento de los bienes.
+C: No existe opción de compra al finalizar el contrato.
+D: Todas las afirmaciones anteriores son ciertas.
+SOLUCION: D
+NORMA: Código de Comercio, art. 50; Código Civil, art. 1544; Código Civil, art. 1561
+
+COD: 2A01016
+PREGUNTA: ¿Cuál es la obligación fundamental que corre a cargo del comitente?
+A: Pagar la comisión.
+B: Cumplir el mandato.
+C: Entregar la cosa al comisionista.
+D: Rendir cuentas al comisionista.
+SOLUCION: A
+NORMA: Código de Comercio, art. 277
+
+COD: 2A01017
+PREGUNTA: ¿En qué consiste la provisión de fondos en el contrato de comisión mercantil?
+A: En la cantidad de dinero que el comisionista pone a disposición del comitente.
+B: En la suma que el comitente tiene que pagar al comisionista por el desempeño de sus funciones.
+C: En la cantidad de dinero que se pone a disposición del comisionista por parte del comitente para cubrir los gastos.
+D: En la suma de dinero necesaria para que el comisionista pague los impuestos correspondientes.
+SOLUCION: C
+NORMA: Código de Comercio, art. 250
+
+COD: 2A01018
+PREGUNTA: ¿Es obligatorio hacer provisión de fondos por parte del comitente?
+A: Sí, siempre.
+B: Solo cuando lo exija el comisionista.
+C: No es obligatorio salvo que lo exija por escrito el comisionista. La falta de entrega de los fondos no afecta a ninguna sus obligaciones.
+D: No es obligatorio, pero si el comisionista lo pide y no se le entrega, sin la provisión, el comisionista no está obligado a cumplir su cometido.
+SOLUCION: D
+NORMA: Código de Comercio, art. 250
+
+COD: 2A01019
+PREGUNTA: ¿Por qué motivos puede extinguirse la comisión?
+A: La comisión es irrevocable hasta la finalización del contrato.
+B: Por el transcurso del tiempo, siempre que no medie pacto expreso en contrario.
+C: Por revocación del comitente o muerte del comisionista.
+D: Por muerte del comitente.
+SOLUCION: C
+NORMA: Código de Comercio, art. 279; Código de Comercio, art. 280
+
+COD: 2A01020
+PREGUNTA: Cuando el comisionista contrate en nombre propio, ¿cómo queda afectado?
+A: Tendrá obligación de declarar quién sea el comitente.
+B: Quedará obligado como si el negocio fuera suyo.
+C: Nunca podrá contratar en nombre propio.
+D: Deberá hacerlo constar en el Registro Mercantil.
+SOLUCION: B
+NORMA: Código de Comercio, art. 246
+
+COD: 2A01021
+PREGUNTA: El comisionista, ¿puede delegar el encargo que le haya hecho el comitente en otra persona?
+A: Sí, siempre que la persona en quien delegue sea comerciante.
+B: Sí, siempre que retribuya el servicio.
+C: Sí, si el comitente lo autoriza o consiente.
+D: No, en ningún caso.
+SOLUCION: C
+NORMA: Código de Comercio, art. 261
+
+COD: 2A01022
+PREGUNTA: En el caso de rehusar un comisionista el encargo que se le haga, ¿qué debe hacerse?
+A: Deberá comunicarlo al comitente lo más pronto posible.
+B: No necesita comunicarlo hasta que transcurran cinco días del nombramiento.
+C: Solo deberá comunicarlo si el comitente no es comerciante.
+D: No estará obligado a custodiar y conservar los efectos que el comitente le haya remitido.
+SOLUCION: A
+NORMA: Código de Comercio, art. 248
+
+COD: 2A01023
+PREGUNTA: En el contrato de comisión mercantil, ¿qué condición deben tener las partes?
+A: Las dos partes deben ser comerciantes.
+B: Al menos una de las partes del contrato debe ser comerciante.
+C: El comisionista siempre tiene que ser comerciante.
+D: Las dos partes contratantes pueden no ser comerciantes.
+SOLUCION: B
+NORMA: Código de Comercio, art. 244
+
+COD: 2A01024
+PREGUNTA: En el contrato de comisión, ¿quién es el comitente?
+A: Quien recibe la cosa en depósito.
+B: Quien ejecuta los actos de comercio.
+C: Quien encarga a otro realizar determinado acto de comercio.
+D: Quien entrega la cosa objeto de depósito.
+SOLUCION: C
+NORMA: Código de Comercio, art. 244; Código de Comercio, art. 245
+
+COD: 2A01025
+PREGUNTA: Señale cuál de las siguiente obligaciones no le corresponde al comisionista.
+A: Seguir las instrucciones del comitente.
+B: Desempeñar la comisión personalmente, salvo autorización del comitente.
+C: Aplicar los fondos recibidos al fin encomendado por el comitente.
+D: Hacer provisión de fondos.
+SOLUCION: D
+NORMA: Código de Comercio, art. 250; Código de Comercio, art. 255; Código de Comercio, art. 256; Código de Comercio, art. 261
+
+COD: 2A01026
+PREGUNTA: Señale cuál de las siguientes no es una obligación del comitente.
+A: Pagar el precio de la comisión.
+B: Resarcir al comisionista los gastos realizados.
+C: Asumir los efectos que deriven del contrato celebrado por el comisionista.
+D: Desempeñar la comisión encargada al comisionista.
+SOLUCION: D
+NORMA: Código de Comercio, art. 247; Código de Comercio, art. 277; Código de Comercio, art. 278
+
+COD: 2A01027
+PREGUNTA: ¿Qué es un contrato de compraventa?
+A: Un contrato en que una persona compra a otra, llamada vendedora, una cosa determinada y por precio cierto y vende otra cosa a una persona distinta a cambio también de un precio cierto.
+B: Un contrato por el que el vendedor se obliga a entregar una cosa determinada y el comprador a pagar un precio cierto en dinero o signo que lo represente.
+C: El intercambio de precio por servicio.
+D: Ninguna de las respuestas anteriores es correcta.
+SOLUCION: B
+NORMA: Código Civil, art. 1445
+
+COD: 2A01028
+PREGUNTA: El contrato de compraventa y el de permuta, ¿son la misma cosa?
+A: Sí.
+B: Solo cuando afectan a bienes muebles.
+C: Solo cuando afectan a bienes inmuebles.
+D: No.
+SOLUCION: D
+NORMA: Código Civil, art. 1446; Código Civil, art. 1538
+
+COD: 2A01029
+PREGUNTA: Cuando una persona vende a otra una cosa con un defecto que no se ve y que impide utilizarla para el fin para el que se compró, ¿quién responderá de ese vicio oculto?
+A: El comprador.
+B: El vendedor.
+C: A partes iguales, el comprador y el vendedor.
+D: El vendedor, siempre que se le comunique dentro de las 24 horas siguientes a la venta.
+SOLUCION: B
+NORMA: Código Civil, art. 1474
+
+COD: 2A01030
+PREGUNTA: ¿Qué obligaciones tiene el vendedor en la compraventa?
+A: Conservar y custodiar, entregar la cosa y responder del saneamiento y vicios ocultos.
+B: Restituir la cosa a cambio de precio.
+C: Solamente conservar y custodiar la cosa hasta su entrega y no responder de vicios ocultos.
+D: La única obligación del vendedor es entregar la cosa.
+SOLUCION: A
+NORMA: Código Civil, art. 1461
+
+COD: 2A01031
+PREGUNTA: En el contrato de compraventa, ¿quién está obligado a conservar y custodiar el bien hasta el momento de su entrega?
+A: El comprador.
+B: El vendedor.
+C: Por partes iguales entre el comprador y el vendedor.
+D: El intermediario, cuando lo haya.
+SOLUCION: B
+NORMA: Código Civil, art. 1461
+
+COD: 2A01032
+PREGUNTA: En el contrato de compraventa, ¿a qué está obligado el comprador?
+A: A entregar la mercancía en el lugar y tiempo determinado en el contrato.
+B: A pagar el precio convenido en el lugar y tiempo fijados.
+C: A entregar los documentos que representen la cosa.
+D: A conservar la cosa en buen estado de funcionamiento.
+SOLUCION: B
+NORMA: Código Civil, art. 1500
+
+COD: 2A01033
+PREGUNTA: Si en el momento de la celebración de un contrato de compraventa no se señala el momento del pago, ¿cuándo debe realizarse?
+A: Cuando lo pida el vendedor.
+B: Cuando lo decida el comprador.
+C: A los 90 días de la celebración del contrato.
+D: En el momento de hacer la entrega de la cosa vendida.
+SOLUCION: D
+NORMA: Código Civil, art. 1500
+
+COD: 2A01034
+PREGUNTA: El precio en el contrato de compraventa …
+A: se puede fijar en bienes muebles o inmuebles.
+B: se puede fijar en especie o cualquier tipo de bienes.
+C: puede no estar determinado.
+D: debe estar determinado en dinero o signo que lo represente.
+SOLUCION: D
+NORMA: Código Civil, art. 1445
+
+COD: 2A01035
+PREGUNTA: En un contrato de compraventa se establece que el precio se determinará por el valor que alcance el bien en la cotización un día concreto en la bolsa de Tokio, ¿es válido el contrato?
+A: Sí, porque los contratos son válidos aunque no se fije el precio.
+B: Sí, porque el precio quedará fijado el día señalado sin necesidad de un nuevo acuerdo entre las partes. Está ya determinado.
+C: No, porque está prohibido fijar el precio por la cotización en bolsa del bien vendido.
+D: No, porque el precio no se ha fijado exactamente en el momento de la celebración del contrato.
+SOLUCION: B
+NORMA: Código Civil, art. 1448
+
+COD: 2A01036
+PREGUNTA: ¿Qué se requiere para que un depósito sea mercantil?
+A: Que el depositario sea comerciante.
+B: Que sean objeto de comercio las cosas depositadas.
+C: Que el depósito sea, por sí, una operación mercantil o que se haga como causa o consecuencia de operaciones mercantiles.
+D: Todas las afirmaciones anteriores son necesarias.
+SOLUCION: D
+NORMA: Código de Comercio, art. 303
+
+COD: 2A01037
+PREGUNTA: Cuando el depositante, en un contrato de depósito mercantil, autoriza al depositario a disponer de las cosas objeto del depósito, ¿continuará la relación regida por los derechos y obligaciones de depositante y depositario?
+A: Sí, por supuesto.
+B: Sí, si el valor del depósito es menor de 600 euros.
+C: No, se aplicarán las normas del préstamo mercantil o las del contrato que hubieren celebrado.
+D: No cuando el valor del depósito sea mayor de 601 euros.
+SOLUCION: C
+NORMA: Código de Comercio, art. 309
+
+COD: 2A01038
+PREGUNTA: Con carácter general, ¿cómo se perfecciona el contrato de depósito mercantil?
+A: Por el simple consentimiento de las partes.
+B: Por escritura pública.
+C: Por la entrega de la cosa al depositario.
+D: Por el pago del precio.
+SOLUCION: C
+NORMA: Código de Comercio, art. 305
+
+COD: 2A01039
+PREGUNTA: Si el depositario tiene permiso para usar la cosa depositada, ¿en qué tipo de contrato se convierte?
+A: En contrato de fianza.
+B: En contrato de hipoteca.
+C: En contrato de usufructo.
+D: En contrato de préstamo.
+SOLUCION: D
+NORMA: Código de Comercio, art. 309
+
+COD: 2A01040
+PREGUNTA: ¿Tiene derecho el depositario a exigir retribución por un depósito mercantil?
+A: Sí, siempre que la duración del depósito sea superior a un mes.
+B: Sí, si no existe pacto expreso en contrario.
+C: Solo para depósitos de valor superior a 600 euros.
+D: No, nunca.
+SOLUCION: B
+NORMA: Código de Comercio, art. 304
+
+COD: 2A01041
+PREGUNTA: En un contrato de depósito mercantil, si las partes contratantes no han fijado la cuota de retribución, ¿cómo deberá regularse dicha cuota?
+A: De acuerdo con las tablas publicadas por la Dirección General de Depósitos de la Comunidad Autónoma..
+B: No deberá haber, en ese caso, retribución.
+C: Se aplicará el precio máximo.
+D: Se regulará según los usos de la plaza en que el depósito se hubiera constituido.
+SOLUCION: D
+NORMA: Código de Comercio, art. 304
+
+COD: 2A01042
+PREGUNTA: En un contrato de depósito mercantil, ¿quién debe responder de los daños y perjuicios que sufran las cosas depositadas por naturaleza o vicio de las mismas cuando no se adoptan las medidas necesarias para evitarlos?
+A: El depositante.
+B: El propietario de las mercancías.
+C: El transportista.
+D: El depositario.
+SOLUCION: D
+NORMA: Código de Comercio, art. 306
+
+COD: 2A01043
+PREGUNTA: En un contrato de depósito mercantil, ¿a qué queda obligado el depositario?
+A: A vender las mercancías objeto del depósito.
+B: A recibir, conservar y devolver las mercancías o cosas objeto del depósito.
+C: A entregar las mercancías a otra persona o comerciante para su almacenamiento y custodia.
+D: A la distribución de las mercancías.
+SOLUCION: B
+NORMA: Código de Comercio, art. 306
+
+COD: 2A01044
+PREGUNTA: ¿El depositario tiene derecho al reembolso de los gastos realizados para conservar las cosas depositadas?
+A: Sí.
+B: No, porque la conservación forma parte de los deberes del depositario y ya se retribuye adecuadamente.
+C: Sólo cuando se haya pactado.
+D: Solo cuando sea el causante directo de los daños.
+SOLUCION: A
+NORMA: Código de Comercio, art. 306
+
+COD: 2A01045
+PREGUNTA: ¿Cuál es la obligación fundamental del depositario en un contrato mercantil?
+A: Conservar la cosa según la reciba.
+B: Pagar las reparaciones de la cosa depositada.
+C: Usar la cosa depositada.
+D: Pagar el alquiler del lugar en que se realiza el depósito.
+SOLUCION: A
+NORMA: Código de Comercio, art. 306
+
+COD: 2A01046
+PREGUNTA: ¿Cuándo deberá devolver el depositario la cosa objeto de depósito mercantil?
+A: Al mes de haberla recibido.
+B: Cuando el depositante se la pida.
+C: Cuando la cosa depositada corra riesgo de deteriorarse.
+D: Cuando lo crea oportuno el propio depositario.
+SOLUCION: B
+NORMA: Código de Comercio, art. 306
+
+COD: 2A01047
+PREGUNTA: ¿Cómo se denomina el derecho que permite al depositario conservar en su poder la cosa depositada hasta que se abone el completo pago de lo que se le deba por razón del depósito?
+A: Derecho de garantía.
+B: Derecho de excusión.
+C: Derecho de retención.
+D: Derecho de caución.
+SOLUCION: C
+NORMA: Código de Comercio, art. 50; Código Civil, art. 1780
+
+COD: 2A01048
+PREGUNTA: En un contrato de depósito mercantil, ¿puede el depositario usar la cosa depositada mientras dure el contrato?
+A: Sí, siempre.
+B: Sí, cuando el objeto de depósito sea un bien mueble.
+C: Sí, siempre que sea un comerciante.
+D: No, solo con el consentimiento del depositante.
+SOLUCION: D
+NORMA: Código de Comercio, art. 309
+
+COD: 2A01049
+PREGUNTA: Si una persona capaz de contratar acepta el depósito hecho por otra que es incapaz, ¿qué consecuencias tendrá este contrato?
+A: Será válido si quien acepta no era conocedor de la incapacidad de la otra parte.
+B: Estará obligado a la devolución del depósito a petición del tutor del incapaz.
+C: El depósito será válido sin más.
+D: Se convierte en tutor del incapaz.
+SOLUCION: B
+NORMA: Código de Comercio, art. 50; Código Civil, art. 1764
+
+COD: 2A01050
+PREGUNTA: En el contrato de depósito, ¿quién es el depositario?
+A: La persona que entrega la cosa para su depósito.
+B: La persona que recibe la cosa en custodia.
+C: El intermediario que actúa como comisionista en esta actividad mercantil.
+D: El dueño de la mercancía.
+SOLUCION: B
+NORMA: Código de Comercio, art. 305
+
+COD: 2A01051
+PREGUNTA: ¿Qué es necesario para que el depósito quede válidamente constituido?
+A: Que el depositario reciba las mercancías y pague su precio o valor.
+B: Que el depositante anuncie al depositario su intención de entregarle las mercancías para guardarlas.
+C: Que se efectúe la entrega de las mercancías para guardarlas.
+D: Que el depositante cobre el valor del depósito.
+SOLUCION: C
+NORMA: Código de Comercio, art. 305
+
+COD: 2A01052
+PREGUNTA: Para que un depósito sea considerado de carácter mercantil, es necesario que…
+A: el valor de lo depositado supere los 6.000€.
+B: las cosas depositadas sean objeto de comercio.
+C: el depositante sea un comerciante.
+D: Todas son correctas
+SOLUCION: B
+NORMA: Código de Comercio, art. 303
+
+COD: 2A01053
+PREGUNTA: En el contrato de renting, el arrendador….
+A: puede recuperar el bien en cualquier momento.
+B: se hace cargo del mantenimiento del bien durante la duración del contrato.
+C: puede recuperar el bien en cualquier momento, previo preaviso.
+D: se compromete a la venta del bien al arrendatario al finalizar el contrato.
+SOLUCION: B
+NORMA: Código de Comercio, art. 50; Código Civil, art. 1554
+
+COD: 2A01054
+PREGUNTA: Cuando una compraventa se documenta en escritura pública,…
+A: es el comprador quien decide el momento de entrega de la cosa.
+B: el otorgamiento de esta equivale a la entrega de la cosa.
+C: no es válida si no se especifica cuál será el momento de entrega de la cosa.
+D: no se entrega la cosa hasta la inscripción de la escritura en el registro correspondiente.
+SOLUCION: B
+NORMA: Código Civil, art. 1462
+
+COD: 2A01055
+PREGUNTA: En un contrato de compraventa, salvo pacto en contrario, ¿quién debe pagar los gastos de transporte de la cosa para su entrega?
+A: El comprador
+B: El vendedor y el comprador a partes iguales.
+C: El vendedor.
+D: Si el transporte excede el 10 % del precio, el vendedor
+SOLUCION: A
+NORMA: Código Civil, art. 1465
+
+COD: 2A01056
+PREGUNTA: ¿Debe responder el vendedor de los vicios ocultos de la cosa vendida cuando no sean conocidos por él?
+A: No, solo está obligado a efectuar las reparaciones necesarias para solucionarlos.
+B: Solo en caso de que sean de tal importancia que impidan totalmente el uso de la cosa.
+C: No, pero debe devolver la parte proporcional de precio correspondiente a la devaluación de la cosa debido a los vicios.
+D: Sí, salvo que se haya estipulado lo contrario.
+SOLUCION: D
+NORMA: Código Civil, art. 1485
+
+COD: 2A01057
+PREGUNTA: ¿Qué caracteriza al contrato de renting?
+A: Tiene una duración menor a la del contrato de leasing.
+B: Incorpora otros servicios como el de mantenimiento de los bienes.
+C: No existe opción de compra al finalizar el contrato.
+D: Todas las afirmaciones anteriores son ciertas.
+SOLUCION: D
+NORMA: Código de Comercio, art. 50; Código Civil, art. 1554
+
+COD: 2A01058
+PREGUNTA: Si, en un local arrendado por la empresa como garaje, el arrendador hace obras de conservación, ¿tiene derecho a incrementar la renta mensual?
+A: Sí, tiene derecho a repercutir cualquier gasto de obras.
+B: Sí, si su importe supera el montante de un año de renta.
+C: No, los gastos de obras siempre son de su cuenta.
+D: No si son obras necesarias para conservar el local en condiciones de uso.
+SOLUCION: D
+NORMA: Ley 29/1994, art. 21
+
+COD: 2A01059
+PREGUNTA: En un local arrendado para oficinas ha sido necesario realizar obras imprescindibles de conservación que han durado 45 días. ¿Han tenido algún efecto sobre el contrato?
+A: Sí, han generado el derecho a incrementar la renta por parte del arrendador.
+B: No, no han tenido ningún efecto.
+C: Sí, el arrendatario tiene derecho a una reducción de la renta proporcional a la parte del local que no pudo usar durante las obras.
+D: Sí, el arrendatario tiene derecho a rescindir unilateralmente el contrato.
+SOLUCION: C
+NORMA: Ley 29/1994, art. 21
+
+COD: 2A01061
+PREGUNTA: En el caso de que el arrendador de un inmueble arrendado como oficina quiera venderlo…
+A: debe esperar a la finalización del contrato de arrendamiento.
+B: debe notificarlo al arrendatario, que tiene derecho de adquisición preferente.
+C: únicamente debe hacer constar en el contrato de compraventa la existencia del arrendamiento.
+D: debe rescindir el contrato e indemnizar al arrendatario.
+SOLUCION: B
+NORMA: Ley 29/1994, art. 25
+
+COD: 2A01062
+PREGUNTA: Una empresa de transporte regular de viajeros tiene arrendado un local que utiliza, desde hace 8 años, para atención a sus clientes y venta de billetes. ¿Tiene algún derecho en el momento del vencimiento del contrato de arrendamiento?
+A: No, no tiene ningún derecho específico.
+B: Únicamente tiene el derecho de arrendamiento preferente.
+C: Sí, tiene derecho a una indemnización si notificó su intención de renovar con cuatro meses de antelación.
+D: Sí, tiene derecho a mantener la misma renta durante el primer año del nuevo contrato.
+SOLUCION: C
+NORMA: Ley 29/1994, art. 34
+
+COD: 2A01063
+PREGUNTA: Una empresa de transportes alquila un local para uso de garaje, ¿qué fianza establece la norma que debe constituir?
+A: 1 mes de renta.
+B: 2 meses de renta.
+C: 3 meses de renta.
+D: No es obligatoria la constitución de fianza si el arrendatario es persona jurídica.
+SOLUCION: B
+NORMA: Ley 29/1994, art. 36
+
+COD: 2A01064
+PREGUNTA: Una empresa de transporte con forma jurídica de S.L. no debe actualizar la fianza constituida en contrato de arrendamiento de sus oficinas hasta pasados…
+A: 5 años.
+B: 6 años.
+C: 7 años.
+D: 10 años.
+SOLUCION: C
+NORMA: Ley 29/1994, art. 36
+
+COD: 2A01065
+PREGUNTA: Una empresa de transporte compra a plazos el mobiliario de su oficina, ¿cómo debe formalizar el contrato?
+A: No necesita formalizarlo, pero sí suscribir un seguro que cubra el posible impago.
+B: No necesita formalizarlo, basta el acuerdo oral.
+C: Por escrito.
+D: Por escrito si el precio total es superior a 1.500 €
+SOLUCION: C
+NORMA: Ley 28/1998, art. 6
+
+COD: 2A01066
+PREGUNTA: En el contrato compraventa a plazos de unos vehículos debe constar obligatoriamente….
+A: la referencia del seguro contratado para responder por impago.
+B: la obligación del pago al contado en caso de no obtener el crédito de financiación previsto.
+C: la penalización por retraso en el pago de los plazos.
+D: el precio de venta al contado.
+SOLUCION: D
+NORMA: Ley 28/1998, art. 7
+
+COD: 2A01067
+PREGUNTA: En contrato de compra a plazos del equipo informático se establece que, en caso de no obtener el crédito que lo financie, la empresa deberá efectuar el pago total al contado. ¿Es correcto?
+A: No, es una cláusula nula.
+B: Sí, pero el pago se podrá efectuar hasta tres meses después de la formalización del contrato.
+C: Sí pero solo cuando el importe total sea inferior a 1.500 €.
+D: Sí, si la empresa es una persona jurídica.
+SOLUCION: A
+NORMA: Ley 28/1998, art. 6
+
+COD: 2A01068
+PREGUNTA: En una compra a plazos de un vehículo, una empresa se retrasa en el pago de uno de los plazos, ¿qué puede hacer el vendedor?
+A: Nada, debe haber tres plazos impagados para que el vendedor pueda resolver el contrato.
+B: Si la empresa es persona jurídica, resolver el contrato.
+C: Si se trata del último plazo, resolver el contrato.
+D: Pedir la devolución del vehículo y dar por resuelto el contrato.
+SOLUCION: C
+NORMA: Ley 28/1998, art. 10
+
+COD: 2A01069
+PREGUNTA: En una venta a plazos de un vehículo, ¿qué demora en el pago de los plazos debe producirse para que el vendedor pueda optar por resolver el contrato?
+A: 1 plazo si es el primero.
+B: 2 plazos.
+C: 3 plazos.
+D: 4 plazos.
+SOLUCION: B
+NORMA: Ley 28/1998, art. 10
+
+COD: 2A01080
+PREGUNTA: Para que sea válida la celebración de un contrato por vía electrónica, ¿es necesario el previo acuerdo de las partes?
+A: Solo si la cuantía del contrato es superior a 1.000 €.
+B: No, no es necesario.
+C: Sí, es un requisito indispensable.
+D: Solo cuando una de las partes tenga la consideración de consumidor.
+SOLUCION: B
+NORMA: Ley 34/2002, art. 23
+
+COD: 2A01081
+PREGUNTA: Si no hay pacto al respecto, ¿dónde se considera celebrado un contrato electrónico entre empresarios?
+A: Donde esté establecido el prestador del servicio.
+B: Donde se realice la prestación del servicio.
+C: Donde se encuentre el usuario del servicio.
+D: En la sede social del usuario del servicio.
+SOLUCION: A
+NORMA: Ley 34/2002, art. 29
+
+COD: 2A01082
+PREGUNTA: El prestador de servicios que realice actividades de contratación electrónica, antes de iniciar el procedimiento de contratación, debe informar al interesado sobre…
+A: los medios técnicos que pone a su disposición para corregir errores.
+B: el archivo del documento electrónico en el que se formalice el contrato.
+C: los trámites que deben seguirse para celebrar el contrato.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: Ley 34/2002, art. 27
+
+COD: 2A01083
+PREGUNTA: En la contratación electrónica, ¿qué información debe proporcionar el prestador de servicios una vez formalizado el contrato?
+A: La dirección del servidor en el que se archivará el contrato.
+B: El resultado de la verificación de la firma electrónica utilizada por el usuario.
+C: La recepción de la aceptación mediante el envío de un acuse de recibo por correo electrónico 
+D: El código de acceso al archivo donde se encuentre el documento del contrato.
+SOLUCION: C
+NORMA: Ley 34/2002, art. 28
+
+COD: 2A01084
+PREGUNTA: Después de celebrado un contrato electrónico, el prestador de servicios debe confirmar…
+A: que la aceptación la ha realizado una persona y no un sistema informático.
+B: mediante el envío de un correo, la dirección de correo electrónico suministrada por el destinatario del servicio.
+C: la aceptación de la oferta recibida siempre que la confirmación pueda ser archivada por el destinatario del servicio.
+D: No debe efectuar ninguna confirmación.
+SOLUCION: B
+NORMA: Ley 34/2002, art. 28
+
+COD: 2A01085
+PREGUNTA: ¿Puede una empresa que tiene alquilado un local como garaje subarrendarlo a otra?
+A: Sí, pero solo si se trata de una empresa filial.
+B: Sí, sin necesidad de contar con el consentimiento del arrendador.
+C: Sí, pero requiere previo consentimiento del arrendador.
+D: No, bajo ninguna circunstancia.
+SOLUCION: B
+NORMA: Ley 29/1994, art. 32
+
+COD: 2A01086
+PREGUNTA: En el contrato de arrendamiento de cosas, ¿qué caracteriza el uso y disfrute a que tiene derecho el arrendatario?
+A: Es por tiempo ilimitado salvo pacto en contrario.
+B: Su precio está el función de uso que se haga de la cosa.
+C: Su duración y límite están tasados en la norma.
+D: Se realiza por tiempo determinado y precio cierto.
+SOLUCION: D
+NORMA: Código Civil, art. 1543
+
+COD: 2A01087
+PREGUNTA: ¿Quiénes pueden pactar un contrato de arrendamiento de cosa?
+A: El propietario de la cosa y el usufructuario de la misma.
+B: El poseedor de la cosa y el adquirente del uso de la misma.
+C: El propietario de la cosa y el adquirente del uso de la misma.
+D: El depositario de la cosa y su futuro adquirente.
+SOLUCION: C
+NORMA: Código Civil, art. 1546
+
+COD: 2A01088
+PREGUNTA: ¿Cómo se denomina a quien adquiere, por contrato, el uso de una cosa a cambio del pago de un precio?
+A: Comisionista.
+B: Depositario.
+C: Usufructuario.
+D: Arrendatario.
+SOLUCION: D
+NORMA: Código Civil, art. 1546
+
+COD: 2A01089
+PREGUNTA: ¿Cómo se denomina al propietario que cede, mediante contrato, una cosa a otro para su uso o disfrute a cambio de un precio?
+A: Usufructuador.
+B: Comitente.
+C: Arrendador.
+D: Depositante.
+SOLUCION: C
+NORMA: Código Civil, art. 1546
+
+COD: 2A01090
+PREGUNTA: Para comprar un vehículo a plazos, ¿una empresa de transporte debe formalizar por escrito el contrato de compraventa?
+A: No, basta el acuerdo verbal.
+B: Si, cuando el número de pagos aplazados sea superior a 3.
+C: Si, cuando el total de la cantidad aplazada supere los 6000 €.
+D: Si, en todo caso.
+SOLUCION: D
+NORMA: Ley 28/1998, art. 6
+
+COD: 2A01091
+PREGUNTA: ¿Cuál de las siguientes no es una de las obligaciones del comitente en un contrato de comisión?
+A: Resarcir al comisionista los gastos realizados. 
+B: Desempeñar la comisión encargada.
+C: Pagar el precio de la comisión.
+D: Asumir los efectos que deriven del contrato celebrado por el comisionista.
+SOLUCION: B
+NORMA: Código de Comercio, art. 247; Código de Comercio, art. 277; Código de Comercio, art. 278
+
+COD: 2A01092
+PREGUNTA: ¿Cuál de las siguientes es una característica de un depósito mercantil?
+A: Al menos el depositante debe ser un comerciante.
+B: El depositante y el depositario deben ser comerciantes.
+C: Al menos el depositario debe ser un comerciante.
+D: No es necesario que ni depositante ni depositario sean comerciantes.
+SOLUCION: C
+NORMA: Código de Comercio, art. 303
+
+COD: 2A02001
+PREGUNTA: ¿Quiénes deben contratar los servicios regulares de uso especial?
+A: Las Administraciones competentes por razón del destino del servicio.
+B: Las Administraciones competentes por razón del inicio del servicio.
+C: Los representantes de los usuarios.
+D: Estos servicios no pueden ser objeto de contrato.
+SOLUCION: C
+NORMA: RD 1211/1990, art. 106
+
+COD: 2A02002
+PREGUNTA: En el caso de la contratación de un servicio regular de uso especial, ¿quiénes pueden contratar en calidad de representantes de los usuarios?
+A: Los directores de colegios.
+B: Los propietarios de los colegios.
+C: Los órganos administrativos competentes sobre centros escolares.
+D: Todas son correctas.
+SOLUCION: D
+NORMA: RD 1211/1990, art. 106
+
+COD: 2A02003
+PREGUNTA: En el caso de la contratación de un servicio regular de uso especial, ¿quiénes pueden contratar en calidad de representantes de los usuarios?
+A: Los propietarios de centros de producción.
+B: Los representantes de los trabajadores.
+C: Los representantes de asociaciones de padres de alumnos. 
+D: Todas son correctas.
+SOLUCION: D
+NORMA: RD 1211/1990, art. 106
+
+COD: 2A02004
+PREGUNTA: El contrato de transporte de viajeros tiene como objeto…
+A: exclusivamente el desplazamiento de las personas.
+B: el desplazamiento de las personas y sus equipajes.
+C: el desplazamiento de las personas, sus equipajes y aquellas mercancías que, aunque no  les acompañen, se incluyan en el mismo de común acuerdo.
+D: el desplazamiento de las personas siempre y cuando constituyan un grupo homogéneo.
+SOLUCION: B
+NORMA: Ley 16/1987, art. 63
+
+COD: 2A02005
+PREGUNTA: La contratación de un transporte regular de viajeros de uso general se realiza…
+A: como regla general, por toda la capacidad del vehículo.
+B: según el número de plazas que libremente pacten las partes.
+C: plaza a plaza, de forma individual.
+D: Los transporte regulares no pueden ser objeto de contratación.
+SOLUCION: B
+NORMA: RD 1211/1990, art. 89
+
+COD: 2A02006
+PREGUNTA: La contratación de un transporte discrecional de viajeros se realiza…
+A: plaza a plaza, de forma individual.
+B: como regla general, por toda la capacidad del vehículo.
+C: según el número de plazas que libremente pacten las partes.
+D: Los transporte discrecionales no pueden ser objeto de contratación.
+SOLUCION: B
+NORMA: Ley 16/1987, art. 99
+
+COD: 2A02007
+PREGUNTA: ¿En qué caso puede contratarse por plaza un transporte discrecional de viajeros?
+A: Cuando lo autorice motivadamente el Ministerio de Transportes.
+B: Cuando lo autorice el órgano competente por razón del domicilio social del transportista.
+C: Cuando lo autorice el órgano competente por razón del domicilio de más del 50 % de los usuarios del servicio.
+D: Cuando lo autorice el órgano competente en función del lugar en el que se inicie el servicio.
+SOLUCION: D
+NORMA: RD 1211/1990, art. 122
+
+COD: 2A02008
+PREGUNTA: Previa autorización administrativa, ¿en qué casos puede contratarse por plaza un transporte discrecional de viajeros?
+A: En el de servicios ocasionales, sin reiteración de horario, realizados en relación con acontecimientos de afluencia masiva de público.
+B: Siempre que la Administración constate la insuficiencia de los servicios regulares existentes.
+C: En el caso de acontecimientos que supongan un incremento exponencial de la necesidad de transporte.
+D: Los servicios discrecionales siempre tienen que contratarse por la totalidad de la capacidad del vehículo.
+SOLUCION: A
+NORMA: RD 1211/1990, art. 122
+
+COD: 2A02009
+PREGUNTA: Previa autorización administrativa, ¿en qué casos puede contratarse por plaza un transporte discrecional de viajeros?
+A: Los servicios discrecionales siempre tienen que contratarse por la totalidad de la capacidad del vehículo.
+B: Siempre que la Administración constate la insuficiencia de los servicios regulares existentes.
+C: En el de servicios ocasionales, sin reiteración de horario, organizados con un objetivo o finalidad común a la totalidad de los viajeros
+D: En el caso de acontecimientos que supongan un incremento exponencial de la necesidad de transporte.
+SOLUCION: C
+NORMA: RD 1211/1990, art. 122
+
+COD: 2A02010
+PREGUNTA: ¿Qué datos debe contener, entre otros, un contrato de transporte de viajeros regular de uso especial?
+A: Identificación de los conductores que lo llevarán a cabo.
+B: La ruta o rutas a seguir.
+C: La relación completa de usuarios del transporte.
+D: Los títulos de transporte que se expedirán.
+SOLUCION: B
+NORMA: RD 1211/1990, art. 107
+
+COD: 2A02011
+PREGUNTA: ¿Cuándo puede realizarse un servicio regular de uso especial de acuerdo exclusivamente con el contenido del contrato que lo fundamenta?
+A: En ningún caso, siempre es necesaria la autorización administrativa.
+B: Si transcurridos 3 meses desde la solicitud de autorización, la Administración no ha resuelto.
+C: Si transcurridos 6 meses desde la solicitud de autorización, la Administración no ha resuelto.
+D: Siempre, la autorización administrativa únicamente se refiere al transportista y no al contenido del servicio.
+SOLUCION: B
+NORMA: RD 1211/1990, art. 106
+
+COD: 2A02012
+PREGUNTA: En la ejecución de un contrato de transporte de viajeros, ¿en qué momento es responsable el porteador respecto de los perjuicios que puedan sufrir los viajeros como consecuencia de un incumpliendo de la normativa por su parte?
+A: Solo mientras los viajeros se encuentran en el vehículo.
+B: Mientras los viajeros se encuentran en el vehículo y en el momento de acceso y abandono del mismo.
+C: En todo el curso del viaje.
+D: En todo el curso del viaje y a su llegada al punto de destino.
+SOLUCION: D
+NORMA: Ley 16/1987, art. 23
+
+COD: 2A02013
+PREGUNTA: En la ejecución de un contrato de transporte de viajeros, el personal utilizado por el transportista…
+A: debe encontrarse encuadrado en su organización empresarial.
+B: debe llevar un ejemplar del contrato en el vehículo.
+C: responde directamente de cualquier daño o pérdida de equipajes.
+D: tiene la consideración de porteador.
+SOLUCION: A
+NORMA: Ley 16/1987, art. 54
+
+COD: 2A02014
+PREGUNTA: En la ejecución de un contrato de transporte de viajeros, ¿deben utilizarse vehículos accesibles?
+A: Solo cuando estén matriculados después del 1 de enero de 2006.
+B: Solo cuando las partes lo acuerden por escrito.
+C: Solo cuando lo solicite el contratante y así conste por escrito.
+D: Sí, deberán cumplir las condiciones básicas de accesibilidad para personas con discapacidad.
+SOLUCION: D
+NORMA: Ley 16/1987, art. 54
+
+COD: 2A02015
+PREGUNTA: En relación con la ejecución de un contrato de transporte, ¿en qué casos debe emitir el transportista un billete al viajero?
+A: Siempre que se trate de un transporte público.
+B: Siempre que se trate de un transporte regular con una distancia programada igual o superior a 250 km.
+C: Siempre que se trate de un transporte regular o discrecional de ámbito superior al local. 
+D: Siempre que el viajero lo solicite como prueba de la existencia del contrato.
+SOLUCION: B
+NORMA: Reglamento Comunitario 181/2011, art. 4
+
+COD: 2A02016
+PREGUNTA: En relación con la ejecución de un contrato de transporte regular de uso general, ¿en qué casos debe emitir el transportista un billete al viajero?
+A: En todos los casos.
+B: Siempre que tenga carácter interurbano.
+C: Siempre que la distancia programada sea igual o superior a 50 km.
+D: Siempre que la distancia programada sea igual o superior a 250 km.
+SOLUCION: D
+NORMA: Reglamento Comunitario 181/2011, art. 4
+
+COD: 2A02017
+PREGUNTA: En relación con el contrato de transporte de viajeros, ¿qué consideración tiene el billete?
+A: Es la prueba de la existencia del contrato.
+B: Es el contrato mismo.
+C: Ninguna, es un documento ajeno al contrato.
+D: Ninguna, solo da derecho a la cobertura del S.O.V.
+SOLUCION: A
+NORMA: Reglamento Comunitario 181/2011, art. 3
+
+COD: 2A02018
+PREGUNTA: En un transporte regular de uso general, ¿está obligado el porteador a contratar con todos aquellos usuarios que lo deseen?
+A: No, puede ejercer su derecho de admisión.
+B: No, pero debe comunicar, en un plazo de 24 horas, su negativa motivada a la Administración. 
+C: Si, salvo que el contrato suponga exceder las plazas ofertadas en la expedición.
+D: Si, siempre, salvo causa de fuerza mayor que deberá acreditar.
+SOLUCION: C
+NORMA: RD 1211/1990, art. 89
+
+COD: 2A02019
+PREGUNTA: ¿Cuándo puede un transportista no aceptar contratar un servicio de transporte regular de uso general con un viajero?
+A: Cuando el contrato suponga exceder las plazas ofertadas en la expedición correspondiente.
+B: Cuando el viajero se niegue a facilitar sus datos personales en el momento de la contratación.
+C: En caso de avería del vehículo que debía realizar el servicio.
+D: En ningún caso, está obligado a aceptar todas las solicitudes de contratación que se le soliciten.
+SOLUCION: A
+NORMA: RD 1211/1990, art. 89
+
+COD: 2A02020
+PREGUNTA: En caso de accidente durante la ejecución de un contrato de transporte de más de 250 km de recorrido, ¿qué responsabilidad tiene el porteador frente a los viajeros?
+A: Facilitar los datos del seguro contratado para la tramitación de las correspondientes compensaciones.
+B: Devolver la cantidad abonada por los viajeros.
+C: Proporcionar, cuando resulte necesario, alojamiento y comida.
+D: Las que hayan pactado libremente las partes en el contrato.
+SOLUCION: C
+NORMA: Reglamento Comunitario 181/2011, art. 8
+
+COD: 2A02021
+PREGUNTA: En caso de accidente durante la ejecución de un contrato de transporte de más de 250 km de recorrido, ¿qué responsabilidad tiene el porteador frente a los viajeros?
+A: Proporcionar asistencia adecuada y proporcionada, incluidos primeros auxilios.
+B: Comunicar el incidente a los familiares más cercanos.
+C: Devolver la cantidad abonada por los viajeros.
+D: Ninguna especial, para eso existe un seguro de accidentes contratado.
+SOLUCION: A
+NORMA: Reglamento Comunitario 181/2011, art. 8
+
+COD: 2A02022
+PREGUNTA: En caso de accidente durante la ejecución de un contrato de transporte de más de 250 km de recorrido, ¿qué responsabilidad tiene el porteador frente a los viajeros?
+A: Recabar los datos de los familiares a los que comunicar el incidente.
+B: Facilitar los datos del seguro contratado para la tramitación de las correspondientes compensaciones.
+C: Facilitarles asistencia jurídica en relación con las posibles reclamaciones económicas que quieran presentar.
+D: Proporcionar, cuando resulte necesario, alojamiento.
+SOLUCION: D
+NORMA: Reglamento Comunitario 181/2011, art. 8
+
+COD: 2A02023
+PREGUNTA: En caso de accidente durante la ejecución de un contrato de transporte de más de 250 Km de recorrido ¿qué responsabilidad tiene el porteador frente a los viajeros?
+A: Devolver la cantidad abonada por los viajeros.
+B: Facilitarles asistencia jurídica en relación con las posibles reclamaciones económicas que quieran presentar.
+C: Proporcionar asistencia adecuada y proporcionada para sus necesidades prácticas inmediatas tras el accidente. 
+D: Las que hayan pactado libremente las partes en el contrato.
+SOLUCION: C
+NORMA: Reglamento Comunitario 181/2011, art. 8
+
+COD: 2A02024
+PREGUNTA: Si, durante la realización de un servicio regular de viajeros con un recorrido programado de 450 km, se avería el autobús, ¿qué debe hacer el porteador?
+A: No está obligado a realizar acción alguna si acredita que ha realizado un mantenimiento adecuado del vehículo.
+B: Proporcionar a los viajeros transporte desde el punto donde se produjo la avería hasta el municipio más cercano.
+C: Proporcionar a los viajeros transporte desde el punto donde se produjo la avería hasta destino.
+D: Reembolsar a los viajeros el 50 % del precio del billete en concepto de indemnización.
+SOLUCION: C
+NORMA: Reglamento Comunitario 181/2011, art. 19
+
+COD: 2A02025
+PREGUNTA: Si, durante el desarrollo de un servicio regular de viajeros con un recorrido programado de 100 km, se avería el autobús, ¿qué debe hacer el porteador?
+A: La normativa no establece obligación concreta alguna.
+B: Proporcionar a los viajeros transporte desde el punto donde se produjo la avería hasta el municipio más cercano.
+C: Proporcionar a los viajeros transporte desde el punto donde se produjo la avería hasta destino.
+D: Reembolsar a los viajeros el 50 % del precio del billete en concepto de indemnización.
+SOLUCION: A
+NORMA: Reglamento Comunitario 181/2011, art. 19
+
+COD: 2A02026
+PREGUNTA: Durante a ejecución de un contrato de transporte se produce un accidente que hace que, de forma inmediata, los viajeros necesiten alojamiento y comida. ¿Puede el porteador limitar el coste de dichas prestaciones?
+A: No, debe proporcionarlas ya que le obliga la normativa vigente.
+B: No debe limitar nada ya que no tiene responsabilidad alguna respecto de ellas.
+C: Sí, puede limitarlas haciéndose responsable de hasta el 70 % de su coste.
+D: Sí, puede limitarlas hasta 80€ por viajero y noche.
+SOLUCION: D
+NORMA: Reglamento Comunitario 181/2011, art. 8
+
+COD: 2A02027
+PREGUNTA: Durante la ejecución de un contrato de transporte se produce un accidente que hace que, de forma inmediata, los viajeros necesiten alojamiento y comida. ¿Puede el porteador limitar el coste de dichas prestaciones?
+A: Sí, puede limitarlas a un máximo de dos noches por viajero.
+B: Sí, puede limitarlas a un máximo de cuatro noches por viajero.
+C: No, debe proporcionarlas ya que le obliga la normativa vigente.
+D: No debe limitar nada ya que no tiene responsabilidad alguna respecto de ellas.
+SOLUCION: A
+NORMA: Reglamento Comunitario 181/2011, art. 8
+
+COD: 2A02028
+PREGUNTA: Si, tras un accidente producido durante la ejecución de un contrato de transporte, el porteador facilita ropa y alimentos a los viajeros afectados...
+A: estará reconociendo su responsabilidad respecto del propio accidente.
+B: realizará una actuación que corresponde a la aseguradora y, por tanto, le podrá reclamar los costes posteriormente.
+C: realizará un actuación a la que está obligado sin que eso signifique ningún reconocimiento de responsabilidad respecto del accidente.
+D: llevará a cabo una buena acción sin más.
+SOLUCION: C
+NORMA: Reglamento Comunitario 181/2011, art. 8
+
+COD: 2A02029
+PREGUNTA: ¿Tiene obligación el transportista de informar al viajero sobre los derechos que la normativa le reconoce en cuanto parte de un contrato de transporte?
+A: No, es la Administración quien tiene que difundir esos derechos.
+B: No, es responsabilidad del propio viajero conocer sus derechos.
+C: Sí, debe informarle antes de la salida.
+D: Sí, puede informarle en cualquier momento del transporte antes de la llegada a destino.
+SOLUCION: C
+NORMA: Reglamento Comunitario 181/2011, art. 25
+
+COD: 2A02030
+PREGUNTA: El porteador está obligado a informar a los viajeros sobre sus derechos como tales, ¿dónde suministrará, al menos, esa información según la normativa?
+A: En las estaciones de autobuses y, si es posible, en internet.
+B: En el dorso de los billetes.
+C: En folletos en los lugares de expedición de billetes.
+D: En folletos en el interior de los autobuses.
+SOLUCION: A
+NORMA: Reglamento Comunitario 181/2011, art. 25
+
+COD: 2A02031
+PREGUNTA: ¿En qué caso puede el porteador impedir el uso de un servicio regular de uso general a una persona que ya lo tenga contratado y esté en posesión de su billete?
+A: Cuando su equipaje no reúna las condiciones mínimas de sanidad e higiene.
+B: Cuando porte objetos que supongan incomodidad para el resto de viajeros .
+C: Cuando porte algún objeto que suponga un peligro para el resto de viajeros .
+D: Todas la respuestas son correctas
+SOLUCION: D
+NORMA: RD 1211/1990, art. 89
+
+COD: 2A02032
+PREGUNTA: ¿En qué caso puede el porteador impedir el uso de un servicio regular de uso general a una persona que ya lo tenga contratado y esté en posesión de su billete?
+A: Cuando el conductor, en el ejercicio del derecho de admisión, lo decida.
+B: Cuando la persona altere las normas elementales de educación y convivencia.
+C: En los casos en los que el reglamento de uso interno de la empresa, visado por la Administración correspondiente, así lo prevea.
+D: Cuando presente el billete en un formato electrónico.
+SOLUCION: B
+NORMA: RD 1211/1990, art. 89
+
+COD: 2A02033
+PREGUNTA: En un servicio regular con un recorrido de 350 km, en caso de retraso en la salida, ¿qué debe hacer el transportista?
+A: Ofrecer a los viajeros un lugar cómodo de espera.
+B: Aceptar el depósito de los equipajes en la bodega del vehículo.
+C: Informar lo antes posible a los viajeros de la situación.
+D: Indemnizar con un 10 % del precio del billete por cada hora de retraso.
+SOLUCION: C
+NORMA: Reglamento Comunitario 181/2011, art. 20
+
+COD: 2A02034
+PREGUNTA: ¿Qué plazo concede la norma al transportista para informar a los viajeros de un retraso en la salida de un servicio regular con un recorrido de 250 km?
+A: Una hora.
+B: 30 minutos.
+C: 15 minutos.
+D: Ninguno en concreto, tan solo indica que debe informar lo antes posible.
+SOLUCION: B
+NORMA: Reglamento Comunitario 181/2011, art. 20
+
+COD: 2A02035
+PREGUNTA: En un servicio regular con un recorrido de 150 km, en caso de retraso en la salida, ¿qué debe hacer el transportista?
+A: Ofrecer a los viajeros un lugar cómodo de espera.
+B: Aceptar el depósito de los equipajes en la bodega del vehículo.
+C: Indemnizar con un 10 % del precio del billete por cada hora de retraso.
+D: No se establece obligación alguna al ser un recorrido inferior a 250 km.
+SOLUCION: D
+NORMA: Reglamento Comunitario 181/2011, art. 20
+
+COD: 2A02036
+PREGUNTA: ¿Qué plazo concede la norma al transportista para informar a los viajeros de un retraso en la salida de un servicio regular con un recorrido de 200 km?
+A: Una hora.
+B: 30 minutos.
+C: 15 minutos.
+D: Ninguno en concreto al ser un recorrido inferior a 250 km.
+SOLUCION: D
+NORMA: Reglamento Comunitario 181/2011, art. 20
+
+COD: 2A02037
+PREGUNTA: En un servicio regular con un recorrido de 350 km, en caso de cancelación del mismo, ¿qué debe hacer el transportista?
+A: Ofrecer a los viajeros un lugar cómodo de espera.
+B: Aceptar el depósito de los equipajes en la bodega del vehículo.
+C: Informar lo antes posible a los viajeros de la situación.
+D: Indemnizar con un 10 % del precio del billete por cada hora de retraso.
+SOLUCION: C
+NORMA: Reglamento Comunitario 181/2011, art. 20
+
+COD: 2A02038
+PREGUNTA: ¿Qué plazo concede la norma al transportista para informar a los viajeros de la cancelación de un servicio regular con un recorrido de 250 km?
+A: Una hora.
+B: 30 minutos.
+C: 15 minutos.
+D: Ninguno en concreto, tan solo indica que debe informar lo antes posible.
+SOLUCION: B
+NORMA: Reglamento Comunitario 181/2011, art. 20
+
+COD: 2A02039
+PREGUNTA: En un servicio regular con un recorrido de 150 km, en caso de cancelación, ¿qué debe hacer el transportista?
+A: Ofrecer a los viajeros un lugar cómodo de espera del transporte alternativo.
+B: Aceptar el depósito de los equipajes en su locales.
+C: Indemnizar con el precio del billete incrementado en un 10%.
+D: No se establece obligación alguna al ser un recorrido inferior a 250 km.
+SOLUCION: D
+NORMA: Reglamento Comunitario 181/2011, art. 20
+
+COD: 2A02040
+PREGUNTA: ¿Qué plazo concede la norma al transportista para informar a los viajeros de la cancelación de un servicio regular con un recurrido de 200 km?
+A: Una hora.
+B: 30 minutos.
+C: 15 minutos.
+D: Ninguno en concreto al ser un recorrido inferior a 250 km.
+SOLUCION: D
+NORMA: Reglamento Comunitario 181/2011, art. 20
+
+COD: 2A02041
+PREGUNTA: Cuanto un servicio regular de uso general con un recorrido programado de 250 km vaya a ser cancelado, ¿qué debe hacer el transportista respecto de los contratantes del mismo?
+A: Ofrecer a los viajeros optar entre el reembolso y la vuelta al inicio del viaje o la continuación del viaje a la primera ocasión.
+B: Siempre debe indemnizar con un mínimo del 10 % del precio del billete.
+C: Ofrecer a los viajeros optar entre una indemnización o la realización del viaje a la primera ocasión.
+D: Si la siguiente expedición de recorrido similar se va a efectuar en un plazo inferior a 120 minutos, únicamente debe comunicarlo a los viajeros y proceder al cambio de los billetes correspondientes.
+SOLUCION: A
+NORMA: Reglamento Comunitario 181/2011, art. 19
+
+COD: 2A02042
+PREGUNTA: Cuanto un servicio regular de uso general con un recorrido programado de 250 km vaya a tener un retraso superior a 120 minutos, ¿qué debe hacer el transportista respecto de los contratantes del mismo?
+A: Ofrecer a los viajeros optar entre una indemnización o la realización del viaje a la primera ocasión.
+B: Proceder automáticamente al reembolso de los billetes.
+C: Ofrecer a los viajeros optar entre el reembolso y la vuelta al inicio del viaje o la continuación del viaje a la primera ocasión.
+D: Siempre debe indemnizar con un mínimo del 10 % del precio del billete.
+SOLUCION: C
+NORMA: Reglamento Comunitario 181/2011, art. 19
+
+COD: 2A02043
+PREGUNTA: En caso de cancelación de un servicio regular con un recorrido programado de 250 km, si un viajero que lo tenía contratado opta por el reembolso del precio del billete, ¿cómo puede hacerlo efectivo el transportista?
+A: Exclusivamente en dinero.
+B: En dinero o en cualquier forma que acepte el viajero.
+C: Exclusivamente en títulos de viaje.
+D: El viajero solo puede optar por el reembolso cuando el recorrido programado sea superior a 250 km.
+SOLUCION: B
+NORMA: Reglamento Comunitario 181/2011, art. 19
+
+COD: 2A02044
+PREGUNTA: En caso de que se prevea que un servicio regular con un recorrido programado de 250 km va a tener un retraso superior a 120 minutos, si un viajero que lo tenía contratado opta por el reembolso del precio del billete, ¿cómo puede hacerlo efectivo el transportista?
+A: En dinero o en cualquier forma que acepte el viajero.
+B: Exclusivamente en dinero.
+C: El viajero solo puede optar por el reembolso cuando el recorrido programado sea superior a 350 km.
+D: El viajero solo puede optar por el reembolso en caso de cancelación del servicio.
+SOLUCION: A
+NORMA: Reglamento Comunitario 181/2011, art. 19
+
+COD: 2A02045
+PREGUNTA: Ante la cancelación de un servicio regular con un recorrido programado de 300 km, el transportista no dio opción alguna a los viajeros que lo tenían contratado, ¿tienen éstos algún derecho al respecto?
+A: A los perjuicios producidos que puedan probar documentalmente.
+B: Al reembolso del precio del billete.
+C: Al reembolso del precio del billete más una indemnización del 50 % del precio del mismo.
+D: A la indemnización que, expresamente, indique la empresa en sus condiciones de contratación.
+SOLUCION: C
+NORMA: Reglamento Comunitario 181/2011, art. 19
+
+COD: 2A02046
+PREGUNTA: Ante el retraso previsto de un servicio regular con un recorrido programado de 300 km, el transportista no da opción alguna a los viajeros que lo tienen contratado, ¿tienen éstos algún derecho al respecto?
+A: Tienen reserva de plaza automática en el primer autobús con recorrido coincidente.
+B: Al reembolso del precio del billete más una indemnización del 50 % del precio del mismo.
+C: Al reembolso del precio del billete.
+D: A la indemnización que, expresamente, indique la empresa en sus condiciones de contratación.
+SOLUCION: B
+NORMA: Reglamento Comunitario 181/2011, art. 19
+
+COD: 2A02047
+PREGUNTA: Ante la cancelación de un servicio regular con un recorrido programado de 300 km y una duración superior a tres horas, ¿qué debe hacer el transportista en relación con los viajeros que lo tengan programado?
+A: Ofrecerles comida y refrigerios.
+B: Reservarles plaza automáticamente en la primera expedición coincidente que sea posible.
+C: Ofrecerles un lugar de depósito seguro para sus equipajes.
+D: Entregarles un folleto con la indicación del conjunto de derechos que pueden ejercer.
+SOLUCION: A
+NORMA: Reglamento Comunitario 181/2011, art. 21
+
+COD: 2A02048
+PREGUNTA: Ante el retraso, en más de 90 minutos, de un servicio regular con un recorrido programado de 300 km y una duración superior a tres horas, ¿qué debe hacer el transportista en relación con los viajeros que lo tengan programado?
+A: Reservarles plaza automáticamente en la primera expedición coincidente que sea posible.
+B: Ofrecerles un lugar de depósito seguro para sus equipajes.
+C: Ofrecerles alojamiento y traslado al mismo.
+D: Entregarles un folleto con la indicación del conjunto de derechos que pueden ejercer.
+SOLUCION: C
+NORMA: Reglamento Comunitario 181/2011, art. 21
+
+COD: 2A02049
+PREGUNTA: Ante la cancelación de un servicio regular con un recorrido programado de 300 km y una duración superior a tres horas es necesario suministrar alojamiento a los viajeros que lo tenían contratado. ¿Puede el porteador limitar el coste de dicha prestación?
+A: Sí, puede limitarla haciéndose responsable de hasta el 70 % de su coste.
+B: Sí, puede limitarla hasta 80€ por viajero y noche.
+C: No, debe proporcionarla ya que le obliga la normativa vigente y no hace referencia a dicha posibilidad.
+D: No debe limitar nada ya que no tiene obligación de proporcionarla.
+SOLUCION: B
+NORMA: Reglamento Comunitario 181/2011, art. 21
+
+COD: 2A02050
+PREGUNTA: Ante el retraso, en más de 90 minutos, de un servicio regular con un recorrido programado de 300 km y una duración superior a tres horas, es necesario suministrar alojamiento a los viajeros que lo tenían contratado. ¿Puede el porteador limitar el coste de dicha prestación?
+A: No debe limitar nada ya que no tiene obligación de proporcionarla.
+B: No, debe proporcionarla ya que le obliga la normativa vigente y no hace referencia a dicha posibilidad.
+C: Sí, puede limitarla haciéndose responsable de hasta el 70 % de su coste.
+D: Sí, puede limitarla hasta 80€ por viajero y noche.
+SOLUCION: D
+NORMA: Reglamento Comunitario 181/2011, art. 21
+
+COD: 2A02051
+PREGUNTA: Ante la petición de reserva de plaza de una persona con movilidad reducida que quiera contratar un transporte regular, ¿puede negarse el porteador a aceptarla?
+A: Sí, si la reserva no se produce con más de 24 horas de antelación.
+B: Sí, siempre y cuando lo haga por escrito y de forma motivada.
+C: No, estaría vulnerando un derecho general de los viajeros.
+D: No, pero podría aplicar un recargo, no superior al 5 %, al precio del billete.
+SOLUCION: C
+NORMA: Reglamento Comunitario 181/2011, art. 9
+
+COD: 2A02052
+PREGUNTA: ¿Puede un contratista negarse a embarcar a una persona con movilidad reducida que haya contratado un transporte regular?
+A: No, es un derecho que tienen los viajeros.
+B: No, pero podrá exigir el pago de un suplemento de 5 % del precio del billete.
+C: Sí, si no informó de sus necesidades especiales con 36 horas de antelación.
+D: Sí, pero deberá justificar su negativa por escrito y entregarle un ejemplar al viajero.
+SOLUCION: A
+NORMA: Reglamento Comunitario 181/2011, art. 9
+
+COD: 2A02053
+PREGUNTA: ¿Puede un contratista negarse a embarcar a una persona con movilidad reducida que haya contratado un transporte regular?
+A: Sí, si la reserva no se produjo con más de 24 horas de antelación y se comunicó la existencia de necesidades especiales.
+B: Sí, si el diseño del vehículo hace imposible el traslado seguro del viajero.
+C: Sí, si no se presenta con un acompañante que pueda ayudar al embarque.
+D: No, estaría vulnerando un derecho general de los viajeros.
+SOLUCION: B
+NORMA: Reglamento Comunitario 181/2011, art. 10
+
+COD: 2A02054
+PREGUNTA: ¿Puede un contratista negarse a embarcar a una persona con movilidad reducida que haya contratado un transporte regular?
+A: No, pero podrá exigir el pago de un suplemento del 5 % del precio del billete.
+B: Sí, si no informó de sus necesidades especiales con 36 horas de antelación.
+C: No, estaría vulnerando un derecho general de los viajeros.
+D: Sí, si el diseño de las paradas hacen físicamente posible el desembarque de forma segura.
+SOLUCION: D
+NORMA: Reglamento Comunitario 181/2011, art. 10
+
+COD: 2A02055
+PREGUNTA: En un transporte regular con un recorrido de 350 km, ¿qué puede hacer una persona con movilidad reducida ante la negativa del transportista a aceptar su reserva?
+A: Reiterar su petición en un plazo de 12 horas y, si persiste la negativa, solicitar la indemnización legalmente establecida.
+B: Pedir que le comunique la negativa por escrito para poder tramitar la correspondiente reclamación.
+C: Solicitar de la Administración competente que inste al transportista a aceptar la reserva.
+D: Solicitar ir acompañada por otra persona de su elección, capaz de prestarle la asistencia necesaria.
+SOLUCION: D
+NORMA: Reglamento Comunitario 181/2011, art. 10
+
+COD: 2A02056
+PREGUNTA: Ante la negativa de un transportista a aceptar la reserva de una persona con discapacidad en un transporte regular con un recorrido de 250 km, si esta designa un acompañante para prestarle la asistencia necesaria, ¿qué debe hacer el transportista?
+A: Reservar una plaza, cobrando el menor precio posible de los estipulados, para el acompañante lo más cercana posible a dicha persona.
+B: Facilitar al acompañante un billete con una bonificación del 50 %.
+C: Aceptar que dicho acompañante viaje gratuitamente. 
+D: Facilitar, gratuitamente, un billete de vuelta al acompañante.
+SOLUCION: C
+NORMA: Reglamento Comunitario 181/2011, art. 10
+
+COD: 2A02057
+PREGUNTA: Ante la negativa de reserva de plaza a una persona con discapacidad en un servicio regular con un recorrido superior a 250 km, esta designa un acompañante para ayudarla. ¿En qué condiciones debe ser transportado dicho acompañante?
+A: Con bonificación en los itinerarios de ida y de vuelta.
+B: Con bonificación únicamente en el itinerario de ida.
+C: Con bonificación en el itinerario de vuelta.
+D: Gratuitamente.
+SOLUCION: D
+NORMA: Reglamento Comunitario 181/2011, art. 10
+
+COD: 2A02058
+PREGUNTA: El transportista está obligado a prestar asistencia a las personas con movilidad reducida que hayan contratado un servicio regular con un recorrido superior a 250 km si…
+A: indican la necesidad de dicha asistencia con una antelación mínima de 36 horas
+B: la solicitan por escrito en el momento de la reserva.
+C: la contratan, pagando el suplemento correspondiente, en el momento de la reserva.
+D: el transportista la tiene previamente ofertada en su página web. 
+SOLUCION: A
+NORMA: Reglamento Comunitario 181/2011, art. 14
+
+COD: 2A02059
+PREGUNTA: La persona con discapacidad que haya contratado un servicio regular con un recorrido de 250 km y haya solicitado, con la antelación suficiente, asistencia por parte del transportista, ¿con cuánta antelación a la salida del autobús debe personarse en la estación?
+A: Si el transportista no le indica otra cosa, con un mínimo de 60 minutos.
+B: Con la que le indique al transportista siempre que sea inferior a 60 minutos.
+C: Si el transportista no le indica otra cosa, con un mínimo de 30 minutos.
+D: Con la que le indique al transportista siempre que sea inferior a 30 minutos.
+SOLUCION: C
+NORMA: Reglamento Comunitario 181/2011, art. 14
+
+COD: 2A02060
+PREGUNTA: Ante una persona con discapacidad que ha contratado un transporte regular con un recorrido de 350 Km y también ha solicitado, con antelación suficiente, asistencia, ¿qué debe hacer el transportista en caso de negarle el embarque en el vehículo?
+A: Reembolsarle el importe de la reserva y ofrecerle una indemnización no inferior al 50 % del importe de la misma.
+B: Reembolsar el importe de la reserva e informar por escrito de los motivos de la denegación.
+C: Darle a elegir entre el reembolso de la reserva o la continuación del viaje por medios alternativos para llegar al destino pactado en el contrato de transporte.
+D: Indemnizarle con el duplo del precio de la reserva contratada.
+SOLUCION: C
+NORMA: Reglamento Comunitario 181/2011, art. 10
+
+COD: 2A02061
+PREGUNTA: Un transportista decide negar el embarque a una persona con discapacidad que tiene la reserva contratada para un transporte regular de 400 km de recorrido y que había solicitado asistencia con una antelación de 48 horas. ¿Puede hacerlo?
+A: Sí, pero debe ofrecerle elegir entre el reembolso o la realización del viaje contratado por medios alternativos.
+B: Sí, pero debe reembolsar el precio de la reserva e indemnizarla con el 50 % de dicha cantidad.
+C: Sí, pero debe reembolsar el precio de la reserva y entregar su negativa motivada por escrito.
+D: No, en ningún caso.
+SOLUCION: A
+NORMA: Reglamento Comunitario 181/2011, art. 10
+
+COD: 2A02062
+PREGUNTA: Durante la ejecución de un contrato de transporte regular de viajeros se producen daños en la silla de ruedas de uno de ellos, ¿qué responsabilidad tiene el transportista?
+A: Ninguna, salvo que se acredite que hubo dolo o negligencia por su parte.
+B: Es responsable de los daños hasta un límite de 450€, de manera similar a los equipajes.
+C: Es responsable de los daños solo cuando la silla sea depositada en la bodega del vehículo.
+D: Es responsable por una cantidad igual al coste de la reparación.
+SOLUCION: D
+NORMA: Reglamento Comunitario 181/2011, art. 17
+
+COD: 2A02063
+PREGUNTA: ¿Cuál es el límite de la indemnización que debe pagar el porteador por la pérdida de una silla de ruedas de uno de los viajeros durante la ejecución de un contrato de transporte regular de viajeros?
+A: El coste de sustitución.
+B: 1.500€.
+C: El mismo que el previsto para los equipajes.
+D: Hasta el 80 % del coste de sustitución.
+SOLUCION: A
+NORMA: Reglamento Comunitario 181/2011, art. 17
+
+COD: 2A02064
+PREGUNTA: En un contrato de transporte de viajeros, ¿a quién se denomina porteador?
+A: A la agencia de viajes con la que se contrata.
+B: Al transportista que ejecuta el contrato.
+C: A la agencia de viajes y al transportista indistintamente.
+D: Al conductor del vehículo con el que se ejecuta el contrato.
+SOLUCION: B
+NORMA: Ley 16/1987, art. 54
+
+COD: 2A02065
+PREGUNTA: En un contrato de transporte de viajeros por carretera, ¿qué se considera equipaje?
+A: El conjunto de objetos, con un peso máximo total de 50 kg., que acompañen al viajero durante el viaje a bordo de la bodega del vehículo.
+B: El conjunto de objetos que acompañen al viajero durante el viaje a bordo de la bodega del vehículo.
+C: El conjunto de objetos que el viajero indica que quiere que sean trasladados, simultáneamente, hasta su punto de destino, sea cual sea el medio utilizado.
+D: Los bultos que son designados como equipaje en el contrato, siempre que se hagan constar por escrito en él.
+SOLUCION: B
+NORMA: Ley 16/1987, art. 23
+
+COD: 2A02066
+PREGUNTA: En un contrato de transporte de viajeros por carretera, ¿qué se considera equipaje?
+A: Los objetos que acompañan al viajero en el vehículo en el que se realiza el transporte.
+B: Los objetos que el viajero lleva consigo en el habitáculo del vehículo.
+C: Los objetos que acompañan al viajero en un remolque del vehículo en el que se realiza el transporte.
+D: Los objetos que el viajero designa como tales en el contrato, siempre que se relacionen por escrito en el mismo.
+SOLUCION: C
+NORMA: Ley 16/1987, art. 23
+
+COD: 2A02067
+PREGUNTA: En un contrato de transporte de viajeros por carretera, ¿qué se considera bultos de mano?
+A: Aquellos paquetes que, formando parte del equipaje, tienen un peso inferior a 2 kg.
+B: Aquellos bultos que, formando parte del equipaje, tienen un peso inferior a 5 kg.
+C: Aquellos objetos que acompañen al pasajero a bordo del vehículo.
+D: Aquellos objetos destinados al uso personal de un viajero que le acompañen en el habitáculo del vehículo.
+SOLUCION: D
+NORMA: Ley 16/1987, art. 23
+
+COD: 2A02068
+PREGUNTA: Un vehículo que efectúa un servicio de transporte de viajeros efectúa "encargos" cuando...
+A: las condiciones concretas del servicio son decididas por los usuarios durante su desarrollo.
+B: ejecuta simultáneamente varios contratos de transporte de viajeros.
+C: se obliga a transportar cualquier viajero que le sea indicado por el contratista del transporte, incluso una vez iniciado el servicio.
+D: se obliga a transportar en el vehículo objetos que no tengan relación alguna con ninguno de los viajeros.
+SOLUCION: D
+NORMA: Ley 16/1987, art. 23
+
+COD: 2A02069
+PREGUNTA: Un "encargo" realizado por un autobús, ¿es objeto de un contrato de transporte de viajeros?
+A: Sí, si está vinculado a alguno de los viajeros.
+B: Sí, por tratarse de un autobús.
+C: No, será objeto de un contrato de transporte de mercancías.
+D: No, los autobuses no pueden hacer "encargos".
+SOLUCION: C
+NORMA: Ley 16/1987, art. 23
+
+COD: 2A02070
+PREGUNTA: ¿Quién es el responsable de la pérdida de un bulto de mano durante la ejecución de un contrato de transporte de viajeros?
+A: Siempre el viajero si no facturó el bulto.
+B: El porteador cuando el viajero haya facturado el bulto.
+C: Siempre el porteador.
+D: El viajero, salvo que pruebe la responsabilidad del porteador.
+SOLUCION: D
+NORMA: Ley 16/1987, art. 23
+
+COD: 2A02071
+PREGUNTA: En el transcurso de la ejecución de un contrato de transporte, durante una parada en las que viajeros abandonan el vehículo, se producen daños en un bulto de mano de un viajero. ¿Quién es el responsable de los mismos?
+A: El transportista, salvo que, inmediatamente, el conductor hubiera cerrado las puertas del vehículo.
+B: Siempre el transportista, en las mismas condiciones que el resto de objetos que conforman el equipaje de los viajeros.
+C: Siempre el viajero.
+D: El viajero, salvo que hubiera efectuado una facturación del bulto.
+SOLUCION: A
+NORMA: Ley 16/1987, art. 23
+
+COD: 2A02072
+PREGUNTA: En el transporte de viajeros, la responsabilidad del transportista respecto del equipaje:
+A: depende del valor de todo lo que en él se contenga.
+B: está limitada legalmente, salvo pacto en contrario.
+C: solo existe si se establece expresamente en el propio contrato.
+D: será la que regulan las Condiciones Generales de Contratación en el transporte de viajeros.
+SOLUCION: B
+NORMA: Ley 16/1987, art. 23
+
+COD: 2A02073
+PREGUNTA: ¿En una línea de transporte regular de uso general de viajeros se deben aplicar en algún caso las condiciones de seguridad establecidas por la normativa para el transporte escolar?
+A: Sí, cuando al menos el 50 % de las plazas estén reservadas para el transporte de alumnos menores de 16 años.
+B: Sí, cuando al menos el 25 % de las plazas estén reservadas para el transporte de alumnos menores de 16 años.
+C: Sí, siempre que tenga paradas en las cercanías de centros escolares.
+D: No.
+SOLUCION: A
+NORMA: RD 443/2001, art. 1
+
+COD: 2A02074
+PREGUNTA: En la contratación de un transporte discrecional de viajeros, ¿cuándo se deben aplicar las condiciones de seguridad establecidas por la normativa para el transporte escolar?
+A: Cuando el 50 % de los viajeros sean menores de dieciséis años.
+B: Cuando tres cuartas partes, o más, de los viajeros sean menores de dieciséis años.
+C: Cuando el 50 % de los viajeros sean menores de doce años.
+D: Cuando el 70%, o más, de los viajeros sean menores de catorce años.
+SOLUCION: B
+NORMA: RD 443/2001, art. 1
+
+COD: 2A02075
+PREGUNTA: En la contratación de un transporte regular de uso especial de viajeros, ¿cuándo se deben aplicar las condiciones de seguridad establecidas por la normativa para el transporte escolar?
+A: Cuando el 50 % de los viajeros sean menores de 12 años durante toda la duración del contrato.
+B: Cuando más de 5 viajeros sean menores de 6 años al inicio del curso.
+C: Cuando al menos el 30 % de los viajeros sean menores de 10 años durante toda la duración del contrato.
+D: Cuando al menos la tercera parte, o más, de los viajeros sean menores de 16 años en el momento del inicio del curso.
+SOLUCION: D
+NORMA: RD 443/2001, art. 1
+
+COD: 2A02076
+PREGUNTA: Se contrata una excursión de 25 alumnos de un instituto, de los cuales 9 son menores de dieciséis años, ¿deben aplicarse las condiciones que para el transporte de menores establece la normativa?
+A: Sí, porque son alumnos de un centro educativo y más del 25 % son menores de dieciséis años.
+B: Sí, porque hay más de 1/3 de menores de dieciséis años.
+C: No, porque no hay 3/4 o más de menores de dieciséis años.
+D: No, porque se trata de un transporte discrecional.
+SOLUCION: C
+NORMA: RD 443/2001, art. 1
+
+COD: 2A02077
+PREGUNTA: ¿Qué obligación tiene el acompañante durante la ejecución de un contrato de transporte escolar?
+A: Deberá conocer el funcionamiento de los mecanismos de seguridad del vehículo.
+B: Es el encargado del cuidado de los menores durante el transporte y en las operaciones de acceso y abandono del vehículo.
+C: Es el responsable de la recogida y acompañamiento de los alumnos desde y hasta el interior del recinto escolar.
+D: Todas las respuestas anteriores son correctas.
+SOLUCION: D
+NORMA: RD 443/2001, art. 8
+
+COD: 2A02078
+PREGUNTA: En la ejecución de un contrato de transporte escolar, ¿es obligatoria la presencia de un acompañante?
+A: Sí, cuando se especifique en la autorización de transporte escolar.
+B: Sí, pero solo cuando algunos alumnos sean menores de 7 años.
+C: Sí, es obligatoria siempre.
+D: No es obligatoria.
+SOLUCION: A
+NORMA: RD 443/2001, art. 8
+
+COD: 2A02079
+PREGUNTA: Se contrata una excursión de alumnos de un centro escolar en el que el 50 % es menor de doce años. ¿Es necesaria la presencia de un acompañante en el vehículo según la normativa vigente?
+A: Sí, siempre.
+B: Solo en el caso de que el transporte tenga una duración superior a 1 hora.
+C: Solo en el caso de que el transporte tenga un recorrido programado superior a 100 km.
+D: Sí, pero solo si en el contrato lo acuerdan las partes.
+SOLUCION: A
+NORMA: RD 443/2001, art. 8
+
+COD: 2A02080
+PREGUNTA: Se contrata una excursión de alumnos de un centro escolar en el que el 51 % es menor de dieciséis años. ¿Es necesaria la presencia de un acompañante en el vehículo según la normativa vigente?
+A: Solo en el caso de que el transporte tenga una duración superior a 2 horas.
+B: Solo en el caso de que el transporte tenga un recorrido programado superior a 300 km.
+C: Sí, siempre.
+D: No es obligatoria.
+SOLUCION: D
+NORMA: RD 443/2001, art. 8
+
+COD: 2A02081
+PREGUNTA: Durante la ejecución de un contrato de transporte escolar, ¿será obligatoria la presencia de un acompañante en el transporte de alumnos de Centros de Educación Especial?
+A: Sí, pero solo cuando se trate de niños menores de cinco años.
+B: Sí, pero solo cuando se establezca en el contrato.
+C: Sí, es siempre obligatoria.
+D: No es obligatoria.
+SOLUCION: C
+NORMA: RD 443/2001, art. 8
+
+COD: 2A02082
+PREGUNTA: ¿Cuál es la duración máxima por la que puede contratarse un transporte regular de uso especial de escolares?
+A: No hay duración máxima, pero la distancia contratada no puede exceder de 100 km.
+B: No hay duración máxima, pero la distancia contratada no puede exceder de 50 km.
+C: Una hora de permanencia en el vehículo.
+D: Treinta minutos de permanencia en el vehículo.
+SOLUCION: C
+NORMA: RD 443/2001, art. 11
+
+COD: 2A02083
+PREGUNTA: ¿Cuál es la duración máxima por la que puede contratarse un transporte discrecional de escolares?
+A: No hay limitación alguna establecida por la normativa.
+B: Una hora de permanencia en el vehículo.
+C: No hay duración máxima, pero la distancia contratada no puede exceder de 100 km.
+D: Dos horas de permanencia en el vehículo o 200 km de recorrido en cada sentido.
+SOLUCION: A
+NORMA: RD 443/2001, art. 11
+
+COD: 2A02084
+PREGUNTA: En la ejecución de un contrato de transporte escolar, en los casos en que resulte obligatoria la presencia de un acompañante, ¿cuándo podrá efectuarse el transporte sin que este se encuentre a bordo del vehículo?
+A: Nunca.
+B: Cuando sea el primer día de la semana de que se trate.
+C: Cuando la no realización del transporte implique un riesgo mayor para los menores.
+D: Cuando todos los alumnos transportados sean menores de 6 años.
+SOLUCION: C
+NORMA: RD 443/2001, art. 8
+
+COD: 2A02085
+PREGUNTA: ¿Qué figura entre las obligaciones de los contratantes de un servicio de transporte escolar?
+A: Exigir al transportista el justificante de haber suscrito el correspondiente contrato de seguro complementario de responsabilidad civil ilimitada por los daños que puedan sufrir los ocupantes del vehículo.
+B: Exigir al transportista que el conductor sea menor de 30 años.
+C: Comprobar que el transportista está al corriente de sus obligaciones fiscales y sociales.
+D: No existen obligaciones por parte del contratante.
+SOLUCION: A
+NORMA: RD 443/2001, art. 13
+
+COD: 2A02086
+PREGUNTA: Las entidades que contraten servicios de transporte escolar o de menores, ¿qué exigirán acreditar al transportista?
+A: La disposición de flota suficiente.
+B: La formación adecuada de los conductores.
+C: La tarjeta ITV (Inspección Técnica de Vehículos) y el justificante de seguro complementario de responsabilidad civil.
+D: La falta de infracciones muy graves en el último año.
+SOLUCION: C
+NORMA: RD 443/2001, art. 13
+
+COD: 2A02087
+PREGUNTA: La reiteración de los servicios relativos a un contrato de transporte escolar sin la presencia de acompañante, cuando sea obligatoria, ¿qué consideración puede tener?
+A: Puede dar lugar a la revocación de la autorización administrativa correspondiente.
+B: Ninguna si dicha circunstancia se hace constar, junto con su justificación, en la hoja de ruta de cada servicio.
+C: Puede ser considerada como incumplimiento de contrato.
+D: El contratista tiene derecho a una indemnización a partir del tercer servicio efectuado en dichas circunstancias.
+SOLUCION: C
+NORMA: RD 443/2001, art. 8
+
+COD: 2A02088
+PREGUNTA: ¿Quién es el responsable de la presencia de un acompañante en el vehículo durante la realización de un transporte escolar en que sea obligatoria?
+A: El transportista.
+B: Aquella parte del contrato que deba acreditarle.
+C: La entidad contratante del transporte.
+D: Quien hayan acordado las partes en el correspondiente contrato.
+SOLUCION: A
+NORMA: RD 443/2001, art. 8
+
+COD: 2A02089
+PREGUNTA: En relación con la realización de un contrato de transporte escolar, la acreditación de la persona encargada de los niños, ¿será aportada por la entidad organizadora del servicio?
+A: No.
+B: Sí, salvo que en el contrato se especifique otra cosa.
+C: Sí en todos los casos.
+D: Ninguna respuesta es correcta.
+SOLUCION: B
+NORMA: RD 443/2001, art. 8
+
+COD: 2A02090
+PREGUNTA: Las entidades que contraten transportes públicos regulares de uso especial de escolares por carretera, cuando al menos la tercera parte, o más, de los alumnos transportados sean menores de dieciséis años en el momento en que comenzó el curso escolar, ¿qué deberán exigir al transportista que acredite?
+A: La titularidad de la correspondiente autorización de transporte discrecional de viajeros.
+B: La posesión de la correspondiente tarjeta ITV en vigor, acreditativa de que los vehículos en que ha de realizarse el transporte cumplen lo dispuesto en el Real Decreto 443/2001, en materia de inspección técnica.
+C: La suscripción de los pertinentes contratos de seguro.
+D: Todas las respuestas anteriores son correctas.
+SOLUCION: D
+NORMA: RD 443/2001, art. 13
+
+COD: 2A02091
+PREGUNTA: Las entidades que contraten transportes públicos regulares de uso especial de escolares por carretera, cuando al menos la tercera parte, o más, de los alumnos transportados sean menores de dieciséis años en el momento en que comenzó el curso escolar, ¿qué deberán exigir que acredite al transportista?
+A: La titularidad de la correspondiente autorización de transporte discrecional de viajeros.
+B: La posesión de la correspondiente certificación de calidad.
+C: La reserva de plazas que sean necesarias para personas con movilidad reducida, cercanas a las puertas de servicio.
+D: Ninguna de las respuestas anteriores es correcta.
+SOLUCION: A
+NORMA: RD 443/2001, art. 13
+
+COD: 2A02092
+PREGUNTA: Las entidades que contraten transportes públicos regulares de uso especial de escolares por carretera, cuando al menos la tercera parte, o más, de los alumnos transportados sean menores de dieciséis años en el momento en que comenzó el curso escolar, ¿qué deberán exigir que acredite al transportista?
+A: El pago del correspondiente Impuesto de Circulación.
+B: La posesión de la correspondiente tarjeta ITV en vigor acreditativa de que los vehículos en que ha de realizarse el transporte cumplen lo dispuesto en el Real Decreto 443/2001.
+C: La realización de una auditoría interna el año anterior al inicio del curso escolar.
+D: Ninguna de las respuestas anteriores es correcta.
+SOLUCION: B
+NORMA: RD 443/2001, art. 13
+
+COD: 2A02093
+PREGUNTA: Las entidades que contraten transportes públicos regulares de uso especial de escolares por carretera, cuando al menos la tercera parte, o más, de los alumnos transportados sean menores de dieciséis años en el momento en que comenzó el curso escolar, ¿qué deberán exigir que acredite al transportista?
+A: El pago del correspondiente Impuesto de Circulación.
+B: La posesión de la correspondiente Certificación de Calidad.
+C: La suscripción de los pertinentes contratos de seguro.
+D: Ninguna de las respuestas anteriores es correcta.
+SOLUCION: C
+NORMA: RD 443/2001, art. 13
+
+COD: 2A02094
+PREGUNTA: Las entidades que contraten transportes públicos regulares de uso especial de escolares por carretera, cuando al menos la tercera parte, o más, de los alumnos transportados sean menores de dieciséis años en el momento en que comenzó el curso escolar, ¿qué deberán exigir que acredite al transportista?
+A: El pago del correspondiente Impuesto de Circulación.
+B: La posesión de la correspondiente Certificación de Calidad.
+C: La realización de una auditoría interna el año anterior al inicio del curso escolar.
+D: Ninguna de las respuestas anteriores es correcta.
+SOLUCION: D
+NORMA: RD 443/2001, art. 13
+
+COD: 2A02095
+PREGUNTA: ¿Qué es la contratación conjunta previa de transporte y alojamiento, vendida u ofrecida en venta con arreglo a un precio global?
+A: Un servicio de lanzadera.
+B: Un viaje internacional.
+C: Un viaje combinado.
+D: Un servicio regular de viajeros de carácter especial.
+SOLUCION: C
+NORMA: RD Legislativo 1/2007, art. 151
+
+COD: 2A02097
+PREGUNTA: Una persona que haya reservado un viaje combinado en una agencia de viajes, ¿puede ceder su reserva a otra?
+A: No, en ningún caso.
+B: Sí, si la cesión se comunica por escrito a la agencia 7 días naturales antes del inicio del viaje.
+C: Sí, en cualquier momento.
+D: Sí, pero solo si se trata de estancias superiores a 24 horas.
+SOLUCION: B
+NORMA: RD Legislativo 1/2007, art. 157
+
+COD: 2A02098
+PREGUNTA: ¿Pueden revisarse los precios establecidos en un contrato de viaje combinado?
+A: No, no pueden ser revisados.
+B: Sí, pero solo pueden ser revisados a la baja.
+C: Sí, pero solo pueden revisarse si el contrato establece de manera explícita la posibilidad de revisión.
+D: Sí, pero solo pueden ser revisados al alza.
+SOLUCION: C
+NORMA: RD Legislativo 1/2007, art. 158
+
+COD: 2A02099
+PREGUNTA: ¿Pueden revisarse los precios establecidos en un contrato de viaje combinado?
+A: Sí, pero solo pueden ser revisados al alza.
+B: Sí, si se establece la posibilidad de revisión al alza y a la baja.
+C: Sí, pero solo pueden ser revisados a la baja.
+D: No, no pueden ser revisados.
+SOLUCION: B
+NORMA: RD Legislativo 1/2007, art. 158
+
+COD: 2A02100
+PREGUNTA: ¿Cómo puede incidir el precio del coste del combustible en el precio de un transporte combinado?
+A: Al alza o a la baja, pero siempre antes de 15 días del inicio del viaje.
+B: Solo al alza hasta el momento de la salida.
+C: Al alza o a la baja durante todo el transporte.
+D: En caso de incidir a la baja, lo hará hasta el momento del inicio del viaje.
+SOLUCION: D
+NORMA: RD Legislativo 1/2007, art. 158
+
+COD: 2A02101
+PREGUNTA: ¿Cuándo es nula la revisión de precios al alza de un viaje combinado?
+A: Cuando se efectúa en el plazo de 5 días inmediatamente anteriores a la fecha de salida del viaje.
+B: Nunca es nula.
+C: Cuando se efectúa en el plazo de 15 días inmediatamente anteriores a la fecha de salida del viaje.
+D: Cuando se efectúa en los 20 días inmediatamente anteriores a la fecha de salida del viaje.
+SOLUCION: D
+NORMA: RD Legislativo 1/2007, art. 158
+
+COD: 2A02102
+PREGUNTA: ¿Qué debe figurar por escrito entre las cláusulas del contrato de viaje combinado?
+A: Una breve historia del lugar de destino.
+B: El destino o los destinos del viaje.
+C: El contenido de las comidas que vayan a servirse.
+D: La duración de las excursiones.
+SOLUCION: B
+NORMA: RD Legislativo 1/2007, art. 155
+
+COD: 2A02103
+PREGUNTA: ¿En qué documento debe constar el nombre y la dirección del organizador de un viaje combinado?
+A: En el billete de avión.
+B: En el talón de reserva del hotel.
+C: En el contrato del viaje combinado.
+D: No es necesario que figure por escrito.
+SOLUCION: C
+NORMA: RD Legislativo 1/2007, art. 155
+
+COD: 2A02104
+PREGUNTA: La revisión de precios al alza efectuada 15 días antes de la fecha de salida del viaje combinado:
+A: es nula.
+B: es legal.
+C: es legal si estaba previsto en el contrato una posible revisión de precios.
+D: Solo se pueden revisar los precios 30 días antes de la fecha de salida.
+SOLUCION: A
+NORMA: RD Legislativo 1/2007, art. 158
+
+COD: 2A02105
+PREGUNTA: ¿Con qué antelación mínima debe comunicarse la cesión de una reserva al organizador de un viaje combinado?
+A: 48 horas antes del inicio.
+B: 7 días antes del inicio.
+C: 15 días antes del inicio.
+D: No debe comunicarse.
+SOLUCION: B
+NORMA: RD Legislativo 1/2007, art. 157
+
+COD: 2A02106
+PREGUNTA: En el caso de que haya cesión de reserva del viaje combinado por parte del beneficiario, ¿quién debe responder de los gastos que ocasione dicha cesión?
+A: La cesión nunca genera gastos, con lo que no hay responsabilidad por este concepto.
+B: La persona que cede su reserva.
+C: El cesionario exclusivamente.
+D: La persona que ceda su reserva del viaje combinado y el cesionario serán responsables solidarios.
+SOLUCION: D
+NORMA: RD Legislativo 1/2007, art. 157
+
+COD: 2A02107
+PREGUNTA: La cesión de un contrato de transporte combinado, ¿puede suponer costes para alguna de las partes?
+A: Sí, el organizador debe informar de ellas previamente.
+B: Sí, siempre constituyen el 1 % del coste total del contrato.
+C: Solo para el cesionario.
+D: No, en ningún caso.
+SOLUCION: A
+NORMA: RD Legislativo 1/2007, art. 157
+
+COD: 2A02108
+PREGUNTA: En caso de cesión de un contrato de viaje combinado, ¿quién responde del pago de la cantidad pendiente de pago del precio acordado?
+A: El cedente.
+B: El cesionario.
+C: Quien acuerden libremente cedente y cesionario.
+D: El cedente y el cesionario solidariamente.
+SOLUCION: D
+NORMA: RD Legislativo 1/2007, art. 157
+
+COD: 2A02109
+PREGUNTA: La cesión de la reserva de un viaje combinado, ¿se puede realizar a cualquier persona?
+A: Esta cesión, en el caso de viajes combinados, no se puede realizar.
+B: Sí, se puede realizar a cualquier persona sin limitación alguna.
+C: Se puede realizar a cualquier persona siempre que reúna todas las condiciones requeridas para el mismo.
+D: Se puede realizar a cualquier persona, siempre y cuando sea una persona propuesta por la correspondiente Agencia de Viajes.
+SOLUCION: C
+NORMA: RD Legislativo 1/2007, art. 157
+
+COD: 2A02110
+PREGUNTA: En el caso de que haya modificación de algún elemento esencial del contrato de viaje combinado antes de la salida, ¿qué puede hacer el viajero?
+A: Podrá optar entre resolver el contrato o aceptar la modificación.
+B: Solo puede aceptar la modificación introducida.
+C: Puede resolver el contrato pagando la penalización pactada.
+D: Puede vender la reserva que haya realizado puesto que el viaje todavía no ha comenzado.
+SOLUCION: A
+NORMA: RD Legislativo 1/2007, art. 159
+
+COD: 2A02111
+PREGUNTA: En el caso de que haya modificación de algún elemento esencial del contrato de viaje combinado antes de la salida, y el viajero acepte dicha modificación, ¿qué ocurre con el precio inicialmente pactado?
+A: El precio debe permanecer inalterable salvo pacto expreso en el contrato inicial.
+B: Se acepta la modificación y su repercusión en el precio.
+C: Se aumenta en un máximo del 5 %.
+D: No puede suponer una alteración del precio inicial superior al  15%.
+SOLUCION: B
+NORMA: RD Legislativo 1/2007, art. 159
+
+COD: 2A02112
+PREGUNTA: ¿Qué ocurre si el organizador tuviera que cancelar el viaje combinado antes de la fecha de salida acordada?
+A: El viajero pierde las cantidades desembolsadas.
+B: El viajero solo tiene derecho a que el organizador le ofrezca otro viaje combinado de calidad equivalente.
+C: El viajero podrá exigir al organizador la penalización establecida en el contrato.
+D: El viajero puede resolver el contrato con el reembolso de todas las cantidades satisfechas y una compensación adicional.
+SOLUCION: D
+NORMA: RD Legislativo 1/2007, art. 160
+
+COD: 2A02113
+PREGUNTA: ¿Existe obligación de indemnizar, por parte del organizador y detallista, cuando el viaje haya sido cancelado por falta de personas inscritas y esto haya sido comunicado por escrito al consumidor?
+A: Sí, siempre.
+B: No, en ningún caso.
+C: No, siempre y cuando el organizador lo haya comunicado al consumidor antes de la fecha límite fijada a tal fin en el contrato.
+D: Dependerá del número de personas inscritas.
+SOLUCION: C
+NORMA: RD Legislativo 1/2007, art. 160
+
+COD: 2A02114
+PREGUNTA: ¿Qué ocurrirá en el caso de que no puedan prestarse una parte importante de los servicios previstos en un contrato de viaje combinado una vez se haya iniciado el viaje?
+A: El organizador adoptará las soluciones adecuadas para la continuación del viaje organizado sin suplemento alguno de precio para el viajero.
+B: El organizador abonará al viajero el importe de la diferencia entre las prestaciones previstas y las suministradas.
+C: En caso de falta de subsanación, el viajero puede rescindir el contrato y solicitar una indemnización.
+D: Todas las respuestas anteriores son válidas puesto que son posibles actuaciones ante la pregunta realizada.
+SOLUCION: D
+NORMA: RD Legislativo 1/2007, art. 161
+
+COD: 2A02115
+PREGUNTA: ¿Constituye objeto de un contrato de viaje combinado la contratación conjunta de un transporte de viajeros y el alquiler de un turismo para traslados posteriores a la llegada a destino?
+A: No, de hecho no pueden contratarse conjuntamente ambos servicios.
+B: No, pero pueden contratarse conjuntamente si el suministrador de ambos servicios es la misma persona.
+C: Sí, puede contratarse con el mismo transportista.
+D: Sí, pero debe contratarse a través de una agencia de viajes.
+SOLUCION: D
+NORMA: RD Legislativo 1/2007, art. 151
+
+COD: 2A02116
+PREGUNTA: ¿Qué se entiende por contrato de viaje combinado?
+A: El conjunto de las condiciones que se establecen, entre el porteador y el viajero, para realizar el viaje combinado.
+B: El grupo de cláusulas, incluidas en un contrato de transporte de viajeros, aplicables a los servicios de alojamiento y manutención.
+C: El acuerdo que vincula al organizador y al detallista.
+D: El conjunto de contratos que regulan los servicios de viaje de un viaje combinado.
+SOLUCION: D
+NORMA: RD Legislativo 1/2007, art. 151
+
+COD: 2A02118
+PREGUNTA: Si en un contrato de transporte combinado se ha pactado la posibilidad de revisión del precio, ¿qué puede hacer el viajero ante un incremento, comunicado en plazo, de un 10 %?
+A: Si no se pactó límite de incremento, debe aceptarlo.
+B: Puede optar por resolver el contrato sin penalización alguna.
+C: Puede optar por resolver el contrato pagando la penalización pactada en el mismo.
+D: Puede optar por resolver el contrato renunciando al 1 % de las cantidades previamente abonadas.
+SOLUCION: B
+NORMA: RD Legislativo 1/2007, art. 158
+
+COD: 2A02119
+PREGUNTA: ¿Pueden ser revisados los precios establecidos en el contrato de viaje combinado?
+A: Sí, pero solo si el contrato establece de manera explícita esta posibilidad.
+B: Sí, pero la revisión solo procederá para incorporar variaciones al alza del precio los alojamientos.
+C: Sí, la revisión tendrá lugar para incorporar variaciones del precio de los transportes, entre otras causas.
+D: Son correctas las respuestas A y C.
+SOLUCION: D
+NORMA: RD Legislativo 1/2007, art. 158
+
+COD: 2A02120
+PREGUNTA: ¿Qué deberá contener el contrato de viaje combinado entre sus cláusulas?
+A: En caso de fraccionamiento de la estancia, los distintos períodos y sus fechas.
+B: El itinerario.
+C: Las visitas, excursiones o demás servicios incluidos en el precio total convenido del viaje combinado.
+D: Todas las respuestas anteriores son verdaderas.
+SOLUCION: D
+NORMA: RD Legislativo 1/2007, art. 155
+
+COD: 2A02121
+PREGUNTA: ¿Qué deberá contener el contrato de viaje combinado entre sus cláusulas?
+A: Las modalidades de pago del precio y, en su caso, calendario y condiciones de financiación.
+B: Toda solicitud especial que el consumidor haya transmitido al organizador o al detallista y que este haya aceptado.
+C: Las fechas, horas y lugares de salida y de regreso.
+D: Todas las respuestas anteriores son verdaderas.
+SOLUCION: D
+NORMA: RD Legislativo 1/2007, art. 155
+
+COD: 2A02122
+PREGUNTA: ¿Qué deberá contener el contrato de viaje combinado entre sus cláusulas?
+A: Las modalidades de pago del precio y, en su caso, calendario y condiciones de financiación.
+B: La filiación del guía turístico encargado del viaje.
+C: La marca y modelo de los vehículos a motor utilizados en el viaje.
+D: Todas las respuestas anteriores son verdaderas.
+SOLUCION: A
+NORMA: RD Legislativo 1/2007, art. 155
+
+COD: 2A02123
+PREGUNTA: ¿Qué deberá contener el contrato de viaje combinado entre sus cláusulas?
+A: Toda solicitud especial que el consumidor haya transmitido al organizador y que este haya aceptado.
+B: La nacionalidad del organizador.
+C: Las ofertas de compañías competidoras.
+D: Todas las respuestas anteriores son verdaderas.
+SOLUCION: A
+NORMA: RD Legislativo 1/2007, art. 155
+
+COD: 2A02124
+PREGUNTA: ¿Qué información deben facilitar los organizadores de viajes combinados a los consumidores con los que hayan contratado antes del inicio del viaje?
+A: Los horarios y lugares de las escalas y enlaces.
+B: La hora límite para facturar.
+C: La hora programada de conexiones de transporte.
+D: Todas las respuestas anteriores son verdaderas.
+SOLUCION: D
+NORMA: RD Legislativo 1/2007, art. 155
+
+COD: 2A02125
+PREGUNTA: ¿Qué información deben facilitar los organizadores de viajes combinados a los consumidores con los que hayan contratado antes del inicio del viaje?
+A: Los horarios y lugares de las escalas y los enlaces.
+B: La dirección y número de teléfono de los museos, galerías de arte y centros culturales que van a visitarse.
+C: En caso de estancias de más de 6 noches, la relación de hospitales de urgencia.
+D: Todas las respuestas anteriores son verdaderas.
+SOLUCION: A
+NORMA: RD Legislativo 1/2007, art. 155
+
+COD: 2A02126
+PREGUNTA: ¿Qué información deben facilitar los organizadores de viajes combinados a los consumidores con los que hayan contratado antes del inicio del viaje?
+A: La dirección y número de teléfono de los museos, galerías de arte y centros culturales que van a visitarse.
+B: La hora programada de conexiones de transporte.
+C: En caso de estancias de más de 6 noches, la relación de hospitales de urgencia.
+D: Todas las respuestas anteriores son verdaderas.
+SOLUCION: B
+NORMA: RD Legislativo 1/2007, art. 155
+
+COD: 2A02127
+PREGUNTA: ¿Qué información deben facilitar los organizadores de viajes combinados a los consumidores con los que hayan contratado antes del inicio del viaje?
+A: La dirección y número de teléfono de los museos, galerías de arte y centros culturales que van a visitarse.
+B: En caso de estancias de más de 6 noches, la relación de hospitales de urgencia.
+C: La hora límite para facturar.
+D: Todas las respuestas anteriores son verdaderas.
+SOLUCION: C
+NORMA: RD Legislativo 1/2007, art. 155
+
+COD: 2A02128
+PREGUNTA: ¿Existe obligación de indemnizar, por parte del organizador y el detallista, cuando el viaje haya sido cancelado por circunstancias inevitables y extraordinarias?
+A: No, en ningún caso.
+B: No si se notifica la cancelación al viajero sin demora indebida antes del inicio del viaje combinado.
+C: Dependerá del número de personas inscritas.
+D: Si, siempre.
+SOLUCION: B
+NORMA: RD Legislativo 1/2007, art. 160
+
+COD: 2A02129
+PREGUNTA: Independientemente del derecho que tiene el usuario a que le devuelvan las cantidades pagadas cuando desista de los servicios solicitados en un viaje combinado, ¿qué deberá abonar el viajero al organizador o detallista?
+A: Los gastos de gestión.
+B: Los gastos de anulación.
+C: No tiene que abonar nada.
+D: La penalización correspondiente. 
+SOLUCION: D
+NORMA: RD Legislativo 1/2007, art. 160
+
+COD: 2A02130
+PREGUNTA: Si, ante la modificación sustancial de las condiciones de un transporte combinado, el viajero decide resolver el contrato, el organizador debe…
+A: comunicarle el importe de la penalización correspondiente.
+B: reembolsar los pagos realizados por el viajero, descontando un 0,25 % por gastos de gestión.
+C: reembolsar todos los pagos realizados por el viajero.
+D: solicitar el pago de todos los gastos relacionados con la gestión del viaje desde el momento de la contratación hasta el de la rescisión.
+SOLUCION: C
+NORMA: RD Legislativo 1/2007, art. 159
+
+COD: 2A02131
+PREGUNTA: ¿Puede modificar el organizador de un viaje combinado algún elemento esencial del contrato antes de la salida?
+A: Sí, puesto que el viaje todavía no ha comenzado.
+B: Solo en el caso de que el viajero acepte dicho cambio, de otro modo no es posible ninguna modificación.
+C: Solo en el caso de que se vea obligado a ello y lo comunique inmediatamente al viajero.
+D: Nunca.
+SOLUCION: C
+NORMA: RD Legislativo 1/2007, art. 159
+
+COD: 2A02132
+PREGUNTA: Independientemente del derecho que tiene el viajero a que le devuelvan las cantidades abonadas cuando desista de los servicios solicitados en un viaje combinado, ¿qué cantidad deberá indemnizar al organizador o detallista?
+A: Siempre abonar una penalización del 25 % del importe total del viaje.
+B: Abonar una penalización del 40 % del importe total del viaje si el desistimiento se produce dentro de las cuarenta y ocho horas anteriores a la salida.
+C: Abonar el precio del viaje combinado menos el ahorro de costes y los ingresos derivados de la utilización alternativa de los servicios de viaje.
+D: No debe abonar penalización alguna si el desistimiento se produce dentro de las 24 horas anteriores a la salida.
+SOLUCION: C
+NORMA: RD Legislativo 1/2007, art. 160
+
+COD: 2A02133
+PREGUNTA: Los billetes expedidos a los viajeros en una línea regular de transporte por carretera, ¿tienen el valor de título de transporte?
+A: Sí, en todos los casos.
+B: Sí, cuando son nominativos.
+C: Sí, siempre que el trayecto sea superior a 50 Km.
+D: No.
+SOLUCION: A
+NORMA: OM 25/10/1990, art. 7
+
+COD: 2A02134
+PREGUNTA: ¿Qué datos debe contener, entre otros, un contrato de transporte de viajeros regular de uso especial?
+A: Identificación de los seguros de accidentes suscritos.
+B: La relación completa de usuarios del transporte.
+C: Indemnización en caso de retraso injustificado en la prestación del servicio.
+D: Los vehículos con los que el transportista debe realizar, con carácter general, el transporte
+SOLUCION: D
+NORMA: RD 1211/1990, art. 107
+
+COD: 2A02135
+PREGUNTA: Según el Real Decreto Legislativo 1/2007 sobre Derechos de los consumidores y usuarios, ¿los transportistas pueden ser organizadores y detallistas de viajes combinados?
+A: No, únicamente las agencias de viajes.
+B: No, agencias de viajes, transitarios y consignatarios.
+C: No, únicamente agencias de viajes y operadores turísticos.
+D: Si.
+SOLUCION: A
+NORMA: RD Legislativo 1/2007, art. 151
+
+COD: 2A02136
+PREGUNTA: En un transporte de viajeros por carretera, ¿en qué momento empieza a responder el transportista de los posibles daños que sufran los pasajeros?
+A: Desde que el vehículo inicia el viaje arrancando el motor el conductor.
+B: Desde el embarque del viajero.
+C: Desde la adquisición del billete.
+D: Desde la entrega del equipaje para su colocación en la bodega del vehículo.
+SOLUCION: B
+NORMA: Ley 16/1987, art. 23
+
+COD: 2A02138
+PREGUNTA: En el transporte de viajeros, la responsabilidad del transportista respecto del equipaje…
+A: depende del valor de todo lo que en él se contenga.
+B: está limitada legalmente, salvo pacto en contrario.
+C: solo existe si se establece expresamente en el propio contrato.
+D: será la que establezca la Junta Arbitral competente.
+SOLUCION: B
+NORMA: Ley 16/1987, art. 23
+
+COD: 2A05001
+PREGUNTA: ¿A qué órgano se solicita la ejecución de los laudos dictados por las Juntas Arbitrales del Transporte?
+A: A la Dirección General de Transportes correspondiente.
+B: A los órganos de Inspección de Transportes.
+C: Al órgano judicial competente.
+D: A la policía municipal.
+SOLUCION: C
+NORMA: RD 1211/1990, art. 9
+
+COD: 2A05002
+PREGUNTA: En un procedimiento arbitral, ¿cuál es el plazo máximo para decidir la controversia?
+A: Tres meses.
+B: Tres meses, prorrogables dos más desde la contestación a la demanda.
+C: Seis meses, prorrogables dos más desde la contestación a la demanda.
+D: No tienen plazo establecido.
+SOLUCION: C
+NORMA: Ley 60/2003, art. 37
+
+COD: 2A05003
+PREGUNTA: En un transporte nacional por carretera, ¿cómo se puede acudir a la correspondiente Junta Arbitral para formular una reclamación por impago de portes?
+A: Únicamente a través de una asociación empresarial y haciendo la reclamación de los portes en impreso oficial.
+B: Necesariamente por medio de abogado y procurador que hagan la reclamación como si se tratara ante un órgano judicial ordinario.
+C: Personalmente o por medio de otra persona que ostente la representación y formulando la reclamación por escrito.
+D: Personalmente, pudiendo formular la reclamación oralmente o por escrito.
+SOLUCION: C
+NORMA: RD 1211/1990, art. 9
+
+COD: 2A05004
+PREGUNTA: En un transporte nacional por carretera, si la cuantía de una controversia no excede de 15.000 euros, ¿son competentes las Juntas Arbitrales del Transporte para conocer de la misma?
+A: Siempre que sea en relación con el cumplimiento del contrato de transporte, no pudiendo pactarse lo contrario.
+B: Siempre que sea en relación con cualquier tema relacionado con el transporte.
+C: Siempre que sea en relación con el cumplimiento del contrato de transporte, pero las partes pueden formular previamente pacto expreso en contrario.
+D: Siempre que sea en relación con el cumplimiento del contrato de transporte, pero las partes pueden formular su negativa en cualquier momento.
+SOLUCION: C
+NORMA: Ley 16/1987, art. 38
+
+COD: 2A05005
+PREGUNTA: En un transporte nacional por carretera, una vez celebrada la vista oral y dictado el laudo, ¿qué plazo hay que esperar para obtener la ejecución del laudo por el órgano judicial competente?
+A: 20 días.
+B: 15 días.
+C: 10 días.
+D: 5 días.
+SOLUCION: A
+NORMA: RD 1211/1990, art. 9
+
+COD: 2A05006
+PREGUNTA: En relación con un procedimiento tramitado por una Junta Arbitral de transportes, ¿qué ocurre si el reclamante no comparece a la vista oral?
+A: La inactividad de las partes no impide que se dicte el laudo.
+B: Se señalará una nueva fecha para la vista.
+C: Se le adjudicarán las costas del procedimiento.
+D: Se le tiene por desistido en su reclamación.
+SOLUCION: D
+NORMA: RD 1211/1990, art. 9
+
+COD: 2A05007
+PREGUNTA: En un procedimiento tramitado por una Junta Arbitral de transportes, ¿qué ocurrirá si la parte reclamada no comparece a la vista?
+A: Se señalará una nueva fecha para la vista.
+B: Se le adjudicarán los gastos de la Junta.
+C: Se celebrará la vista igualmente.
+D: Se dictará laudo sin celebrar la vista.
+SOLUCION: C
+NORMA: RD 1211/1990, art. 9
+
+COD: 2A05008
+PREGUNTA: La ejecución de los laudos dictados en España por las Juntas Arbitrales de Transporte, ¿ante qué órgano de ser solicitada?
+A: Ante el juez de Primera Instancia del lugar donde se hayan dictado los laudos.
+B: Ante los órganos de Inspección de Transportes.
+C: Ante la Dirección General de Transportes correspondiente.
+D: Ante los Juzgados de lo Mercantil competentes en el domicilio del reclamante.
+SOLUCION: A
+NORMA: Ley 60/2003, art. 8
+
+COD: 2A05009
+PREGUNTA: La Ley de Arbitraje, ¿se aplicará a las Juntas Arbitrales del Transporte?
+A: Sí, pero solo en lo no previsto por la LOTT y sus normas de desarrollo.
+B: Sí, en toda su amplitud y sin limitaciones.
+C: No, solo se aplicará el procedimiento previsto en la LOTT y en sus normas de desarrollo.
+D: Solo en los casos en que las partes no hayan pactado su exclusión.
+SOLUCION: A
+NORMA: Ley 60/2003, art. 1
+
+COD: 2A05010
+PREGUNTA: Las Juntas Arbitrales de Transporte, ¿en qué ámbito son competentes por razón de materia?
+A: Civil.
+B: Laboral.
+C: Penal.
+D: Mercantil.
+SOLUCION: D
+NORMA: RD 1211/1990, art. 6
+
+COD: 2A05011
+PREGUNTA: Las Juntas Arbitrales, ¿tienen competencia en el transporte multimodal?
+A: Siempre que exista un solo contrato de transporte.
+B: Siempre que uno de los modos de transporte sea terrestre.
+C: Las dos anteriores son correctas.
+D: No tienen competencia.
+SOLUCION: C
+NORMA: RD 1211/1990, art. 6
+
+COD: 2A05012
+PREGUNTA: Para la comparecencia ante una Junta Arbitral, ¿es necesaria la asistencia de abogado y procurador?
+A: Sí.
+B: Solo de Abogado.
+C: No.
+D: Es necesaria únicamente para reclamaciones superiores a 6.000 euros.
+SOLUCION: C
+NORMA: RD 1211/1990, art. 9
+
+COD: 2A05013
+PREGUNTA: Una vez presentada la reclamación ante la Junta Arbitral, ¿cuál es la primera acción que esta lleva a cabo?
+A: Comunica a las dos partes la identidad de los componentes de la Junta a efectos de posible recusación.
+B: Envía copia de la reclamación al demandado comunicándole el día de la vista.
+C: Solicita a ambas partes el justificante del pago de la tasa establecida.
+D: Comunica al demandado la existencia de la reclamación y le da vista del expediente.
+SOLUCION: B
+NORMA: RD 1211/1990, art. 9
+
+COD: 2A05014
+PREGUNTA: ¿A quién se debe solicitar la ejecución de los laudos dictados en España por las Juntas Arbitrales de Transporte?
+A: A los Juzgados de lo Mercantil.
+B: Al juez de Primera Instancia del lugar donde se hayan dictado los laudos.
+C: A los órganos de Inspección de Transportes.
+D: A la Dirección General de Transportes correspondiente.
+SOLUCION: B
+NORMA: Ley 60/2003, art. 8
+
+COD: 2A05015
+PREGUNTA: ¿Cómo es el procedimiento que la normativa establece para el funcionamiento de las Juntas Arbitrales de Transportes?
+A: Formalista y procesalmente riguroso.
+B: No formalista y simplificado.
+C: Depende de la cuantía de la controversia: hasta 15.000 euros es sencillo, pero por encima de esa cifra es formalista y complejo.
+D: Ninguna de las respuestas anteriores es correcta.
+SOLUCION: B
+NORMA: Ley 16/1987, art. 38
+
+COD: 2A05016
+PREGUNTA: ¿Cómo se insta la actuación de las Juntas Arbitrales?
+A: Por escrito, a petición de cualquier interviniente o persona que tenga un interés legítimo en el contrato de transporte.
+B: Por simple comunicación verbal o telefónica al órgano competente de cada Comunidad autónoma.
+C: Previa autorización de la Dirección General de Transportes de la que dependa.
+D: A requerimiento del Juzgado correspondiente.
+SOLUCION: A
+NORMA: RD 1211/1990, art. 9
+
+COD: 2A05017
+PREGUNTA: ¿Cuál es la composición de las Juntas Arbitrales de Transporte según la LOTT (Ley de Ordenación de los Transportes Terrestres)?
+A: Están compuestas por miembros de la Administración, representantes de las empresas de transporte y representantes de usuarios y cargadores.
+B: Están compuestas solamente por representantes de las empresas de transporte y representantes de los usuarios y cargadores.
+C: Están compuestas solamente por miembros de la Administración.
+D: Están compuestas solamente por un presidente, que es miembro de la Administración, y por representantes de las asociaciones o empresas de transporte.
+SOLUCION: A
+NORMA: Ley 16/1987, art. 37
+
+COD: 2A05018
+PREGUNTA: ¿Cuál es la composición de las Juntas Arbitrales de transporte?
+A: Se componen de un presidente y un mínimo de dos y un máximo de cuatro vocales.
+B: Se componen de un presidente y seis vocales permanentes.
+C: Se componen de un presidente y cuatro vocales permanentes.
+D: Se componen de un presidente, un secretario, dos auxiliares y cinco vocales permanentes.
+SOLUCION: A
+NORMA: RD 1211/1990, art. 8
+
+COD: 2A05019
+PREGUNTA: ¿Cuándo prescribe la posibilidad de reclamar o ejercitar una acción ante las Juntas Arbitrales de Transporte?
+A: En los mismos plazos en que procedería si se tratara de una acción judicial.
+B: A los tres meses de la ejecución el contrato de transporte.
+C: A los dos meses desde la celebración del contrato de transporte.
+D: A los seis meses desde la celebración del contrato de transporte en todos los casos.
+SOLUCION: A
+NORMA: RD 1211/1990, art. 9
+
+COD: 2A05020
+PREGUNTA: ¿De qué forma será la vista en el procedimiento arbitral de transportes?
+A: Siempre escrita.
+B: Siempre oral.
+C: Puede ser oral o escrita.
+D: Puede ser telemática si la reclamación es inferior a 500 €.
+SOLUCION: B
+NORMA: RD 1211/1990, art. 9
+
+COD: 2A05021
+PREGUNTA: ¿En qué caso puede el Presidente de la Junta Arbitral decidir que se prescinda de la vista oral?
+A: Cuando la controversia no tenga contenido económico.
+B: Cuando la reclamación no exceda de 100€.
+C: Cuando ambas partes lo soliciten por escrito de común acuerdo.
+D: En ningún caso.
+SOLUCION: B
+NORMA: RD 1211/1990, art. 9
+
+COD: 2A05022
+PREGUNTA: ¿En qué plazo habrá de ejercitarse la acción de anulación del laudo de una Junta Arbitral?
+A: Dentro de los 2 meses siguientes a su notificación.
+B: Dentro de los 30 días siguientes a su notificación.
+C: Dentro de los 15 días siguientes a su notificación.
+D: El laudo no se puede anular. 
+SOLUCION: A
+NORMA: Ley 60/2003, art. 41
+
+COD: 2A05023
+PREGUNTA: ¿En qué supuestos una controversia relacionada con el incumplimiento de un contrato de transporte terrestre nacional habrá de ser sometida a la Junta Arbitral si lo pide una de las partes?
+A: Cuando la cuantía de la controversia no exceda de 15.000 euros y las partes no hayan pactado expresamente, antes de la realización del transporte, la exclusión de la intervención de las Juntas Arbitrales.
+B: Cuando el reclamante tenga la condición de consumidor o usuario y la cuantía de la reclamación no exceda de 6.000 euros.
+C: Cuando la cuantía no exceda de 6.000 euros y las partes contratantes tengan su domicilio en la misma localidad.
+D: Cuando la cuantía de la controversia exceda de 15.000 euros y las partes no hayan pactado nada al respecto.
+SOLUCION: A
+NORMA: Ley 16/1987, art. 38
+
+COD: 2A05024
+PREGUNTA: ¿Puede decidir una Junta Arbitral de Transportes sobre una materia laboral de una empresa de transportes?
+A: Sí, si la reclamación la presentan representantes de los trabajadores.
+B: Sí, si así lo acuerdan las partes.
+C: Sí, pero solo cuando se trata del pago de dietas originadas con ocasión de un viaje.
+D: No, no es posible.
+SOLUCION: D
+NORMA: RD 1211/1990, art. 6
+
+COD: 2A05025
+PREGUNTA: ¿Qué debe contener el escrito de reclamación ante una Junta Arbitral?
+A: La referencia al pago de la tasa correspondiente.
+B: La aceptación expresa de la composición de la Junta con renuncia a formular recusación alguna.
+C: La proposición de fechas para la vista oral.
+D: La proposición de pruebas.
+SOLUCION: D
+NORMA: RD 1211/1990, art. 9
+
+COD: 2A05027
+PREGUNTA: ¿Qué efectos tendrán las decisiones de las Juntas Arbitrales?
+A: Los previstos en la legislación general de arbitraje.
+B: Los previstos en el procedimiento que al efecto establece la Ley de Procedimiento Administrativo.
+C: Los previstos en la LOTT (Ley de Ordenación de los Transportes Terrestres).
+D: Los previstos en la Ley de Enjuiciamiento Civil.
+SOLUCION: A
+NORMA: RD 1211/1990, art. 9
+
+COD: 2A05028
+PREGUNTA: ¿Qué hace falta para comparecer ante la Junta Arbitral de Transporte?
+A: No hace falta abogado ni procurador.
+B: No hace falta abogado, pero sí procurador.
+C: No hace falta procurador, pero sí abogado.
+D: Hace falta abogado y procurador.
+SOLUCION: A
+NORMA: RD 1211/1990, art. 9
+
+COD: 2A05029
+PREGUNTA: ¿Qué prevé la normativa que puede hacer una empresa de transportes si tiene dudas sobre la cuantía o las condiciones de los portes a facturar por un servicio concreto?
+A: Solicitar informe o dictamen a la correspondiente Junta Arbitral de Transportes.
+B: Pedir a una asociación profesional implantada en su provincia que le informe de la tarifa aplicable.
+C: Hallar la media aritmética de las tarifas aplicadas en servicios similares.
+D: Pedir informe a la Dirección General de Transporte Terrestre o al organismo autonómico correspondiente.
+SOLUCION: A
+NORMA: RD 1211/1990, art. 6
+
+COD: 2A05030
+PREGUNTA: ¿Son competentes las Juntas Arbitrales de Transporte para resolver los conflictos por competencia ilícita surgidos entre transportistas?
+A: Sí.
+B: Sí, previa autorización de la Dirección General de Transportes.
+C: Sí, siempre que la competencia ilícita se base en cobro de precio inferior a la tarifa mínima.
+D: No.
+SOLUCION: D
+NORMA: RD 1211/1990, art. 6
+
+COD: 2A05031
+PREGUNTA: Cuando exista controversia acerca del cumplimiento del contrato de transporte interior por carretera, la parte demandante, ¿dónde podrá presentar su reclamación?
+A: Solamente ante la Junta Arbitral del Transporte competente en el lugar de origen del transporte.
+B: Ante la Junta Arbitral del Transporte competente, en el lugar de origen o de destino del transporte, o ante la competente en el lugar de celebración del contrato, salvo acuerdos de sumisión a una Junta concreta.
+C: Exclusivamente, en toda clase de reclamaciones, ante la Junta Arbitral del Transporte donde se encuentren las mercancías, salvo que exista pacto expreso entre las partes de sumisión a una Junta Arbitral determinada.
+D: Únicamente ante la Junta Arbitral del Transporte del lugar del domicilio del reclamante.
+SOLUCION: B
+NORMA: RD 1211/1990, art. 7
+
+COD: 2A05032
+PREGUNTA: En caso de controversias en relación con el cumplimiento del contrato interior de transporte terrestre, cuando la controversia no exceda de 15.000 euros,:
+A: las partes contratantes podrán pactar expresamente el sometimiento al arbitraje de las Juntas.
+B: se entenderá que existe acuerdo de sometimiento al arbitraje de las Juntas Arbitrales del Transporte si ninguna de las partes se manifestó al respecto en contra antes de iniciarse el transporte.
+C: deberán atenerse a lo que dicte el Ministerio de Transportes.
+D: será el Juzgado de Primera Instancia quien decida al respecto.
+SOLUCION: B
+NORMA: Ley 16/1987, art. 38
+
+COD: 2A05033
+PREGUNTA: En caso de haberse dictado un laudo arbitral en el extranjero, en materia de transportes, su ejecución en España, ¿por qué legislación se regirá?
+A: Por la Sala de lo Civil del Tribunal Supremo.
+B: Por el Convenio sobre reconocimiento y ejecución de las sentencias arbitrales extranjeras, hecho en Nueva York, el 10 de junio de 1958.
+C: Por el Juzgado de Primera Instancia del domicilio del interesado.
+D: Por la Junta Arbitral de Transportes de Madrid.
+SOLUCION: B
+NORMA: Ley 60/2003, art. 46
+
+COD: 2A05034
+PREGUNTA: En el transporte nacional de viajeros por carretera, si las partes contratantes han pactado el sometimiento al arbitraje de las Juntas Arbitrales de transporte, ¿hasta qué límite de cuantía podrán intervenir éstas?
+A: 6.000 euros.
+B: No existe límite.
+C: 10.000 euros.
+D: 3.000 euros.
+SOLUCION: B
+NORMA: Ley 16/1987, art. 38
+
+COD: 2A05035
+PREGUNTA: Si, durante el desarrollo de un transporte discrecional de viajeros, se produce un accidente, ¿quién es responsable de los daños en los equipajes?
+A: El responsable del accidente a través de su compañía de seguros.
+B: El Consorcio de Compensación de Seguros.
+C: El transportista.
+D: El transportista, pero solo si se prueba dolo o negligencia por su parte.
+SOLUCION: C
+NORMA: Ley 16/1987, art. 23
+
+COD: 2A05036
+PREGUNTA: ¿Cuál es el límite de la indemnización que debe pagar el porteador por la pérdida de dos piezas de equipaje de uno de los viajeros, sin que la causa haya sido un accidente, durante la ejecución de un contrato de transporte regular de viajeros?
+A: 1.200€ si la distancia programada es de 250 km o superior.
+B: 450€.
+C: 2.400€ si la distancia programada es de 250 km o superior.
+D: 900€.
+SOLUCION: D
+NORMA: Ley 16/1987, art. 23
+
+COD: 2A05037
+PREGUNTA: ¿Cuál es el límite de la indemnización que debe pagar el porteador por la pérdida de una maleta de uno de los viajeros, por causa un accidente, durante la ejecución de un contrato discrecional de viajeros?
+A: 1.200€.
+B: No hay límite, el valor de la pérdida que pueda acreditar el viajero.
+C: 1.200€, pero solo si se prueba dolo o culpa del transportista en el accidente.
+D: 450€.
+SOLUCION: D
+NORMA: Ley 16/1987, art. 23
+
+COD: 2A05038
+PREGUNTA: ¿Cuál es el límite de la indemnización que debe pagar el porteador por la pérdida de dos piezas de equipaje de uno de los viajeros, sin que la causa haya sido un accidente, durante la ejecución de un contrato de transporte regular de viajeros de 300 km de recorrido programado?
+A: 1.200€.
+B: 900€.
+C: 450€.
+D: No hay límite, el valor de la pérdida que pueda acreditar el viajero.
+SOLUCION: B
+NORMA: Ley 16/1987, art. 23
+
+COD: 2A05039
+PREGUNTA: En un contrato de transporte nacional de viajeros por carretera, ¿se puede pactar el sometimiento a una determinada Junta Arbitral?
+A: Sí, si así se hace constar expresamente.
+B: No, debe ser siempre aquella que sea competente en razón del territorio donde se celebre el contrato.
+C: No, debe ser siempre aquella que sea competente en razón del territorio donde termine el viaje.
+D: No, debe ser siempre la competente por razón de origen o destino del transporte o lugar de celebración del contrato de transporte.
+SOLUCION: A
+NORMA: RD 1211/1990, art. 7
+
+COD: 2A05040
+PREGUNTA: En los transportes nacionales por carretera, ¿qué carácter tiene la tramitación y resolución de reclamaciones por impago de portes que llevan a cabo las Juntas Arbitrales del Transporte?
+A: Gratuito.
+B: Oneroso, porque se pagan las oportunas tasas.
+C: Oneroso, porque se paga el 1 % de la reclamación objeto de estudio y resolución.
+D: Gratuito en el transporte de viajeros y oneroso en el de mercancías.
+SOLUCION: A
+NORMA: RD 1211/1990, art. 9
+

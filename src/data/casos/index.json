@@ -1,0 +1,38 @@
+[
+  {
+    "id": "A",
+    "title": "Bloque A",
+    "count": 100,
+    "file": "A.json"
+  },
+  {
+    "id": "B",
+    "title": "Bloque B",
+    "count": 66,
+    "file": "B.json"
+  },
+  {
+    "id": "C",
+    "title": "Bloque C",
+    "count": 140,
+    "file": "C.json"
+  },
+  {
+    "id": "D",
+    "title": "Bloque D",
+    "count": 86,
+    "file": "D.json"
+  },
+  {
+    "id": "E",
+    "title": "Bloque E",
+    "count": 162,
+    "file": "E.json"
+  },
+  {
+    "id": "F",
+    "title": "Bloque F",
+    "count": 47,
+    "file": "F.json"
+  }
+]

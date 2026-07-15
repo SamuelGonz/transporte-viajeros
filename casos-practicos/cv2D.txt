@@ -1,0 +1,3854 @@
+COD: 2D01001
+PREGUNTA:
+
+Un empresario de transporte de viajeros en autobús celebra la boda de una hija y, concienciado como está, de los efectos negativos del alcohol en la conducción de vehículos y en la seguridad vial, pone dos de sus autobuses de modo gratuito al servicio de los invitados, para su desplazamiento al lugar de celebración del evento y posterior regreso, de modo que eviten utilizar su propio vehículo.
+El importe de este servicio de transporte lo ha valorado el empresario, a efectos de control interno, en 3.400 euros.
+Conteste a las siguientes cuestiones: ¿Qué tipo impositivo se deberá aplicar a este servicio a efectos del Impuesto sobre el Valor Añadido? ¿A cuánto ascenderá el importe a liquidar por este servicio en concepto de Impuesto sobre el Valor Añadido? ¿Deberá el empresario reflejar este servicio en el libro registro de facturas expedidas?
+
+
+RESPUESTA A:
+A) 10 %. 
+B) 340 euros. 
+C) No, porque no son servicios prestados a terceros.
+
+RESPUESTA B:
+A) 10 %. 
+B) 340 euros. 
+C) Sí.
+
+RESPUESTA C:
+A) 4 %, ya que, al no ser servicios a terceros, se aplica el tipo más bajo. 
+B) 136 euros. 
+C) No, porque no son servicios prestados a terceros.
+
+RESPUESTA D:
+A) 4 %, ya que, al no ser servicios a terceros, se aplica el tipo más bajo. 
+B) 136 euros. 
+C) Sí.
+
+RESPUESTA E:
+A) No se aplica ningún tipo impositivo ya que se trata de servicios no sujetos al Impuesto sobre el Valor Añadido. 
+B) 0 euros. 
+C) No.
+
+RESPUESTA F:
+A) No se aplica ningún tipo impositivo ya que se trata de servicios no sujetos al Impuesto sobre el Valor Añadido. 
+B) 0 euros. 
+C) Sí, aunque no estén sujetos al impuesto, deben constar a efectos informativos.
+
+RESPUESTA G:
+A) No se aplica ningún tipo impositivo ya que, aunque son servicios sujetos al Impuesto sobre el Valor Añadido, están exentos. 
+B) 0 euros. 
+C) No.
+
+RESPUESTA H:
+A) No se aplica ningún tipo impositivo ya que, aunque son servicios sujetos al Impuesto sobre el Valor Añadido, están exentos. 
+B) 0 euros. 
+C) Sí, como servicios sujetos se deben reflejar en el libro, aunque no haya que tributar por ellos.
+
+SOLUCION: RESPUESTA B
+
+NORMA: Ley 37/1992, art. 12; Ley 37/1992, art. 90; Ley 37/1992, art. 164; RD 1624/1992, art. 63
+
+
+COD: 2D01002
+PREGUNTA:
+
+Una empresa española de transporte de viajeros en autocar es contratada por una agencia de viajes para prestar un servicio turístico por diferentes ciudades de Marruecos. En el viaje de regreso a España, el conductor reposta antes de abandonar territorio marroquí, aprovechando que le resulta más económico.
+En la frontera, las autoridades aduaneras españolas efectúan una inspección y en la misma detectan que lleva una carga de 170 litros de gasóleo en el depósito del propio vehículo. Como consecuencia de ello, levantan acta en la que establecen que deberá efectuar el pago del Impuesto sobre el Valor Añadido por la importación de los citados litros de carburante. A estos efectos, el carburante contenido en el depósito se valora en 750 euros.
+Conteste a las siguientes cuestiones: ¿Qué tipo impositivo se deberá aplicar a esta importación a efectos del Impuesto sobre el Valor Añadido? ¿A cuánto ascenderá el importe a liquidar por esta importación en concepto de Impuesto sobre el Valor Añadido?
+
+
+RESPUESTA A:
+A) No se aplica ningún tipo impositivo ya que la importación de carburante no está sujeta al Impuesto sobre el Valor Añadido cuando se trata del contenido en el depósito de los vehículos industriales. 
+B) 0 euros.
+
+RESPUESTA B:
+A) No se aplica ningún tipo impositivo ya que la importación de carburante, aunque está sujeta al Impuesto sobre el Valor Añadido, queda exenta cuando se trata del contenido en el depósito de los vehículos industriales hasta 300 litros. 
+B) 0 euros.
+
+RESPUESTA C:
+A) No se aplica ningún tipo impositivo ya que la importación de carburante, aunque está sujeta al Impuesto sobre el Valor Añadido, queda exenta, en todo caso, cuando se trata del contenido en el depósito de los vehículos industriales. 
+B) 0 euros.
+
+RESPUESTA D:
+A) No se aplica ningún tipo impositivo ya que la importación de carburante, aunque está sujeta al Impuesto sobre el Valor Añadido, queda exenta cuando se trata del contenido en el depósito de los vehículos industriales hasta 200 litros. 
+B) 0 euros.
+
+RESPUESTA E:
+A) No se aplica ningún tipo impositivo ya que la importación de carburante no está sujeta al Impuesto sobre el Valor Añadido. 
+B) 0 euros.
+
+RESPUESTA F:
+A) 21 %. 
+B) 157,50 euros.
+
+RESPUESTA G:
+A) 10 %. 
+B) 75 euros.
+
+RESPUESTA H:
+A) 4 %. 
+B) 30 euros.
+
+SOLUCION: RESPUESTA D
+
+NORMA: Ley 37/1992, art. 57
+
+
+COD: 2D01003
+PREGUNTA:
+
+Una empresa de transporte de viajeros en autocar acuerda con un concesionario de vehículos, el día 20 de enero, la compra de un autocar nuevo por el precio de 195.000 euros, IVA excluido. En ese momento abona al concesionario un anticipo de 19.500 euros como prueba y señal del compromiso de compra, estipulándose que el resto del precio será pagado en el momento de la entrega del vehículo.
+El acuerdo estipula que el vehículo será puesto a disposición del comprador el 25 de febrero. No obstante, diferentes retrasos del fabricante hacen que, finalmente, no sea entregado al transportista hasta el 16 de marzo, fecha en la que este paga la cantidad que estaba pendiente.
+Conteste a las siguientes cuestiones: ¿En qué fecha se devenga el IVA de esta compraventa? ¿Qué tipo impositivo se deberá aplicar a esta operación a efectos del Impuesto sobre el Valor Añadido? ¿A cuánto ascenderá la cuota de IVA pagada en el momento en el que el transportista recibe el vehículo?
+
+
+RESPUESTA A:
+A) Todo el IVA se devengaría el 20 de enero, pero es una operación exenta por tratarse de un vehículo destinado a uso profesional. 
+B) 0 %. 
+C) A 0 euros.
+
+RESPUESTA B:
+A) Todo el IVA se devengaría el 16 de marzo, pero es una operación exenta por tratarse de un vehículo destinado a uso profesional. 
+B) 0 %. 
+C) A 0 euros.
+
+RESPUESTA C:
+A) El IVA correspondiente al anticipo se devenga el 20 de enero y el correspondiente al resto del precio se devenga el 16 de marzo. 
+B) 21 %. 
+C) A 36.855 euros.
+
+RESPUESTA D:
+A) El IVA correspondiente al anticipo se devenga el 20 de enero y el correspondiente al resto del precio se devenga el 16 de marzo. 
+B) 10 %. 
+C) A 17.550 euros.
+
+RESPUESTA E:
+A) Todo el IVA de la operación se devenga el 20 de enero. 
+B) 21 %. 
+C) A 0 euros, porque toda la cuota se debió pagar el 20 de enero.
+
+RESPUESTA F:
+A) Todo el IVA de la operación se devenga el 20 de enero. 
+B) 10 %. 
+C) A 0 euros, porque toda la cuota se debió pagar el 20 de enero.
+
+RESPUESTA G:
+A) Todo el IVA de la operación se devenga el 16 de marzo. 
+B) 21 %. 
+C) A 40.950 euros.
+
+RESPUESTA H:
+A) Todo el IVA de la operación se devenga el 16 de marzo. 
+B) 10 %. 
+C) A 19.500 euros.
+
+SOLUCION: RESPUESTA C
+
+NORMA: Ley 37/1992, art. 75; Ley 37/1992, art. 90
+
+
+COD: 2D01004
+PREGUNTA:
+
+Una empresa de transporte de viajeros en autocar firma un contrato con una compañía aérea para efectuar el traslado de sus trabajadores desde el domicilio hasta el aeropuerto en el que tiene el centro principal de operaciones, así como el retorno al domicilio tras finalizar la jornada laboral.
+En el contrato se estipula que el servicio se facturará semanalmente al precio de 7.800 euros por semana, añadiendo a dicho precio una prima del 3 % en caso de que se alcance una puntualidad de, al menos, el 95 %.
+Una vez finalizada la primera semana de prestación del servicio de transporte, se comprueba que se ha alcanzado una puntualidad del 97 %.
+Conteste a las siguientes cuestiones: ¿A cuánto asciende la base imponible correspondiente al servicio de transporte de la primera semana a efectos del Impuesto sobre el Valor Añadido? ¿Qué tipo impositivo se deberá aplicar a esta operación a efectos del Impuesto sobre el Valor Añadido? ¿A cuánto ascenderá la cuota de IVA?
+
+
+RESPUESTA A:
+A) 7.566 euros. 
+B) 21 %. 
+C) 1.588,86 euros.
+
+RESPUESTA B:
+A) 7.566 euros. 
+B) 10 %. 
+C) 756,60 euros.
+
+RESPUESTA C:
+A) 7.800 euros. 
+B) 4 %. 
+C) 312 euros.
+
+RESPUESTA D:
+A) 7.800 euros. 
+B) 21 %. 
+C) 1.638 euros.
+
+RESPUESTA E:
+A) 7.800 euros. 
+B) 10 %. 
+C) 780 euros.
+
+RESPUESTA F:
+A) 8.034 euros. 
+B) 4 %. 
+C) 321,36 euros.
+
+RESPUESTA G:
+A) 8.034 euros. 
+B) 21 %. 
+C) 1.687,14 euros.
+
+RESPUESTA H:
+A) 8.034 euros. 
+B) 10 %. 
+C) 803,40 euros.
+
+SOLUCION: RESPUESTA H
+
+NORMA: Ley 37/1992, art. 78; Ley 37/1992, art. 91
+
+
+COD: 2D01005
+PREGUNTA:
+
+Una asociación de vecinos contrata con un transportista de viajeros por carretera un servicio de transporte en autocar a fin de poder efectuar una excursión desde Villafranca de los Caballeros, su ciudad de residencia, hasta Málaga.
+El precio acordado es de 5.500 euros, en el que se ha incluido el coste de un seguro de viaje que asciende a 350 euros.
+Conteste a las siguientes cuestiones: ¿A cuánto asciende la base imponible correspondiente a este servicio a efectos del Impuesto sobre el Valor Añadido? ¿Qué tipo impositivo se deberá aplicar a la operación a efectos del Impuesto sobre el Valor Añadido? ¿A cuánto ascenderá la cuota de IVA?
+
+
+RESPUESTA A:
+A) 5.850 euros. 
+B) 10 %. 
+C) 585 euros.
+
+RESPUESTA B:
+A) 5.850 euros. 
+B) 21 %. 
+C) 1.228,50 euros.
+
+RESPUESTA C:
+A) 5.500 euros. 
+B) 21 %. 
+C) 1.155 euros.
+
+RESPUESTA D:
+A) 5.500 euros. 
+B) 4 %. 
+C) 220 euros.
+
+RESPUESTA E:
+A) 5.500 euros. 
+B) 10 %. 
+C) 550 euros.
+
+RESPUESTA F:
+A) 5.150 euros. 
+B) 21 %. 
+C) 1.081,50 euros.
+
+RESPUESTA G:
+A) 5.150 euros. 
+B) 4 %. 
+C) 206 euros.
+
+RESPUESTA H:
+A) 5.150 euros. 
+B) 10 %. 
+C) 515 euros.
+
+SOLUCION: RESPUESTA E
+
+NORMA: Ley 37/1992, art. 78; Ley 37/1992, art. 91
+
+
+COD: 2D01006
+PREGUNTA:
+
+El conductor de un autocar reposta 210 litros de carburante en una estación de servicio. El coste del producto adquirido, sin computar el IVA, es de 112 euros, de los cuales 47 euros corresponden al Impuesto sobre Hidrocarburos.
+Conteste a las siguientes cuestiones: ¿A cuánto asciende la base imponible correspondiente a este suministro a efectos del Impuesto sobre el Valor Añadido? ¿Qué tipo impositivo se deberá aplicar a la operación a efectos del Impuesto sobre el Valor Añadido? ¿A cuánto ascenderá la cuota de IVA?
+
+
+RESPUESTA A:
+A) 159 euros. 
+B) 21 %. 
+C) 33,39 euros.
+
+RESPUESTA B:
+A) 159 euros. 
+B) 10 %. 
+C) 15,90 euros.
+
+RESPUESTA C:
+A) 65 euros. 
+B) 21 %. 
+C) 13,65 euros.
+
+RESPUESTA D:
+A) 65 euros. 
+B) 10 %. 
+C) 6,50 euros.
+
+RESPUESTA E:
+A) 65 euros. 
+B) 4 %. 
+C) 2,60 euros.
+
+RESPUESTA F:
+A) 112 euros. 
+B) 4 %. 
+C) 4,48 euros.
+
+RESPUESTA G:
+A) 112 euros. 
+B) 21 %. 
+C) 23,52 euros.
+
+RESPUESTA H:
+A) 112 euros. 
+B) 10 %. 
+C) 11,20 euros.
+
+SOLUCION: RESPUESTA G
+
+NORMA: Ley 37/1992, art. 78; Ley 37/1992, art. 90
+
+
+COD: 2D01007
+PREGUNTA:
+
+Una empresa de transporte de viajeros en autocar, que colabora habitualmente con la adjudicataria de un contrato de concesión de servicios regulares de uso general, efectuando refuerzos con sus vehículos, factura los servicios prestados en la segunda quincena de diciembre cuyo precio asciende a 12.100 euros.
+Habiendo constatado que los servicios de refuerzo prestados en el conjunto del año han alcanzado un volumen importante, aplica en dicha factura una bonificación del 1 % sobre dicho volumen anual. El precio de los servicios de refuerzo prestados en todo el año ha ascendido a 226.400 euros.
+Conteste a las siguientes cuestiones: ¿A cuánto asciende la base imponible de la factura correspondiente a los servicios de la segunda quincena de diciembre? ¿Qué tipo impositivo se deberá aplicar en dicha factura a efectos del Impuesto sobre el Valor Añadido? ¿A cuánto ascenderá la cuota de IVA?
+
+
+RESPUESTA A:
+A) 11.979 euros. 
+B) 21 %. 
+C) 2.515,59 euros.
+
+RESPUESTA B:
+A) 11.979 euros. 
+B) 10 %. 
+C) 1.197,90 euros.
+
+RESPUESTA C:
+A) 12.100 euros. 
+B) 4 %. 
+C) 484 euros.
+
+RESPUESTA D:
+A) 12.100 euros. 
+B) 21 %. 
+C) 2.541 euros.
+
+RESPUESTA E:
+A) 12.100 euros. 
+B) 10 %. 
+C) 1.210 euros.
+
+RESPUESTA F:
+A) 9.836 euros. 
+B) 10 %. 
+C) 983,60 euros.
+
+RESPUESTA G:
+A) 9.836 euros. 
+B) 21 %. 
+C) 2.065,56 euros.
+
+RESPUESTA H:
+A) 9.836 euros. 
+B) 4 %. 
+C) 393,44 euros.
+
+SOLUCION: RESPUESTA F
+
+NORMA: Ley 37/1992, art. 78; Ley 37/1992, art. 91
+
+
+COD: 2D01008
+PREGUNTA:
+
+Una empresa multiservicios presenta, entre otros, los siguientes datos en su contabilidad, referidos al primer trimestre del ejercicio:  
+  	INGRESOS  	IMPORTE SIN IVA  
+  	Por prestación de servicios gravados al tipo general de IVA  	54.125  
+  	Por prestación de servicios gravados al 10% de IVA  	9.823  
+  	GASTOS  	  
+  	Alquiler de local  	6.800  
+  	Electricidad  	350  
+  	Teléfono  	280  
+  	Arrendamiento de vehículos  	3.500  
+  	Carburante vehículos  	865  
+  	Cambio de aceite vehículos  	225  
+  	Otros suministros corrientes gravados al tipo general de IVA  	9.790 
+Para el desempeño de su negocio cuenta con dos vehículos, dos turismos que también utilizan el empresario y su familia en actividades privadas.
+La empresa está incluida en el Régimen General del Impuesto sobre el Valor Añadido.
+Calcule el resultado de la liquidación del Impuesto sobre el Valor Añadido correspondiente a este trimestre.
+
+
+RESPUESTA A:
+A ingresar 8.732,35 euros.
+
+RESPUESTA B:
+A ingresar 6.799 euros.
+
+RESPUESTA C:
+A ingresar 7.429 euros.
+
+RESPUESTA D:
+A ingresar 7.625 euros.
+
+RESPUESTA E:
+A ingresar 7.114 euros.
+
+RESPUESTA F:
+A ingresar 8.135,95 euros.
+
+RESPUESTA G:
+A ingresar 7.768,45 euros.
+
+RESPUESTA H:
+A ingresar 8.250,39 euros.
+
+SOLUCION: RESPUESTA H
+
+NORMA: Ley 37/1992, art. 90; Ley 37/1992, art. 95; Ley 37/1992, art. 99; Ley 37/1992, art. 75; Ley 37/1992, art. 78; Ley 37/1992, art. 92; RD 1624/1992, art. 71
+
+
+COD: 2D01009
+PREGUNTA:
+
+Una empresa de transporte discrecional de viajeros en autocar presenta, entre otros, los siguientes datos en su contabilidad, referidos al primer trimestre del ejercicio:  
+  	INGRESOS  	IMPORTE SIN IVA  
+  	Por prestación de servicios de transporte  	68.950  
+  	GASTOS  	  
+  	Arrendamiento de garaje  	8.740  
+  	Electricidad  	680  
+  	Teléfono  	540  
+  	Reparaciones de vehículos  	10.962  
+  	Carburante  	15.384  
+  	Adquisición de 20 relojes para atención a clientes  	2.500  
+  	Dietas de conductores  	2.080  
+  	Otros suministros corrientes gravados al tipo general de IVA  	9.790 
+La empresa está incluida en el Régimen General del Impuesto sobre el Valor Añadido.
+Calcule el resultado de la liquidación del Impuesto sobre el Valor Añadido correspondiente a este trimestre.
+
+
+RESPUESTA A:
+A ingresar 4.799,34 euros.
+
+RESPUESTA B:
+A ingresar 3.310,16 euros.
+
+RESPUESTA C:
+A compensar 3.310,16 euros.
+
+RESPUESTA D:
+A ingresar 2.785,16 euros.
+
+RESPUESTA E:
+A compensar 2.785,16 euros.
+
+RESPUESTA F:
+A ingresar 4.274,34 euros.
+
+RESPUESTA G:
+A ingresar 4.362,54 euros.
+
+RESPUESTA H:
+A compensar 4.362,54 euros.
+
+SOLUCION: RESPUESTA E
+
+NORMA: Ley 37/1992, art. 90; Ley 37/1992, art. 96; Ley 37/1992, art. 99; Ley 37/1992, art. 91; Ley 37/1992, art. 75; Ley 37/1992, art. 78; Ley 37/1992, art. 92; Ley 37/1992, art. 1; Ley 37/1992, art. 96; Ley 37/1992, art. 115; RD 1624/1992, art. 71
+
+
+COD: 2D01010
+PREGUNTA:
+
+Una empresa de transporte discrecional de viajeros en autocar presenta, entre otros, los siguientes datos en su contabilidad, referidos a los trimestres primero y segundo del ejercicio:  
+  	IMPORTE SIN IVA  	  	  
+  	INGRESOS  	PRIMER TRIMESTRE  	SEGUNDO TRIMESTRE  
+  	Por prestación de servicios de transporte  	10.680  	12.840  
+  	GASTOS  	  	  
+  	Arrendamiento de local  	2.620  	2.620  
+  	Electricidad  	355  	380  
+  	Teléfono  	390  	390  
+  	Reparaciones de vehículos  	2.340  	1.550  
+  	Carburante  	1.874  	1.996  
+  	Peajes  	360  	420  
+  	Otros suministros corrientes gravados al tipo general de IVA  	3.547  	3.980  
+  	Salarios  	9.850  	9.850 
+La empresa está incluida en el Régimen General del Impuesto sobre el Valor Añadido.
+Calcule el resultado de las liquidaciones del Impuesto sobre el Valor Añadido correspondientes a cada uno de estos dos trimestres.
+
+
+RESPUESTA A:
+Primer trimestre: a pagar 1.344,06 euros. Segundo trimestre: a pagar 2.440,62 euros.
+
+RESPUESTA B:
+Primer trimestre: a pagar 1.344,06 euros. Segundo trimestre: a compensar 2.440,62 euros.
+
+RESPUESTA C:
+Primer trimestre: a compensar 1.344,06 euros. Segundo trimestre: a pagar 2.440,62 euros.
+
+RESPUESTA D:
+Primer trimestre: a compensar 1.344,06 euros. Segundo trimestre: a pagar 1.096,56 euros.
+
+RESPUESTA E:
+Primer trimestre: a pagar 1.344,06 euros. Segundo trimestre: a compensar 1.096,56 euros.
+
+RESPUESTA F:
+Primer trimestre: a pagar 1.344,06 euros. Segundo trimestre: a pagar 1.096,56 euros.
+
+RESPUESTA G:
+Primer trimestre: a compensar 1.344,06 euros. Segundo trimestre: a compensar 1.096,56 euros.
+
+RESPUESTA H:
+Primer trimestre: a compensar 1.344,06 euros. Segundo trimestre: a compensar 2.440,62 euros.
+
+SOLUCION: RESPUESTA G
+
+NORMA: Ley 37/1992, art. 90; Ley 37/1992, art. 99; Ley 37/1992, art. 75; Ley 37/1992, art. 78; Ley 37/1992, art. 91; Ley 37/1992, art. 92; Ley 37/1992, art. 1; Ley 37/1992, art. 115; RD 1624/1992, art. 71
+
+
+COD: 2D01011
+PREGUNTA:
+
+Una empresa de transporte de viajeros en autocar es contratada por un centro educativo para efectuar diariamente el traslado de los alumnos desde sus domicilios hasta el centro. El contrato contempla la ejecución de tres rutas distintas, que son valoradas al mismo precio, y la facturación mensual de los servicios prestados.
+En la primera de las facturas emitidas por el transportista figura como cantidad total a pagar la de 6.748,50 euros.
+Responda a las siguientes cuestiones: ¿Qué tipo impositivo debe figurar en la factura a efectos del Impuesto sobre el Valor Añadido? ¿A cuánto asciende el precio aplicado mensualmente a cada ruta, antes de impuestos?
+
+
+RESPUESTA A:
+A) 21 %. 
+B) 5.577 euros.
+
+RESPUESTA B:
+A) 21 %. 
+B) 1.859,09 euros.
+
+RESPUESTA C:
+A) 21 %. 
+B) 1.171,50 euros.
+
+RESPUESTA D:
+A) 21 %. 
+B) 2.045 euros.
+
+RESPUESTA E:
+A) 10 %. 
+B) 2.249,50 euros.
+
+RESPUESTA F:
+A) 10 %. 
+B) 2.045 euros.
+
+RESPUESTA G:
+A) 10 %. 
+B) 613,50 euros.
+
+RESPUESTA H:
+A) 10 %. 
+B) 6.135 euros.
+
+SOLUCION: RESPUESTA F
+
+NORMA: Ley 37/1992, art. 90; Ley 37/1992, art. 91; Ley 37/1992, art. 78; RD 1619/2012, art. 6
+
+
+COD: 2D01012
+PREGUNTA:
+
+Transportes Variados, S.A. es una sociedad dedicada tanto al transporte de mercancías por carretera como al de viajeros en autocar. En el tercer trimestre del año ha facturado servicios por importe de 84.430 euros, antes de impuestos, de los cuales un 36 % corresponden a la actividad de transporte de viajeros. Asimismo, en dicho trimestre ha tenido unos gastos vinculados con sus actividades de transporte de 52.625 euros.
+La sociedad está sujeta al régimen general del Impuesto sobre el Valor Añadido.
+Responda a las siguientes cuestiones: ¿Qué cantidad debe figurar en concepto de cuotas devengadas en la declaración del Impuesto sobre el Valor Añadido correspondiente a este trimestre? ¿Cuándo se debe presentar la declaración del impuesto de este trimestre?
+
+
+RESPUESTA A:
+A) 8.443 euros. 
+B) Del 1 al 20 de octubre.
+
+RESPUESTA B:
+A) 6.679,05 euros. 
+B) Del 1 al 30 de octubre.
+
+RESPUESTA C:
+A) 3.180,50 euros. 
+B) Del 1 al 30 de octubre.
+
+RESPUESTA D:
+A) 5.419,57 euros. 
+B) Del 1 al 30 de octubre.
+
+RESPUESTA E:
+A) 4.439,97 euros. 
+B) Del 1 al 30 de octubre.
+
+RESPUESTA F:
+A) 11.786,42 euros. 
+B) Del 1 al 20 de octubre.
+
+RESPUESTA G:
+A) 17.730,30 euros. 
+B) Del 1 al 20 de octubre.
+
+RESPUESTA H:
+A) 14.386,87 euros. 
+B) Del 1 al 20 de octubre.
+
+SOLUCION: RESPUESTA H
+
+NORMA: Ley 37/1992, art. 90; RD 1624/1992, art. 71; Ley 37/1992, art. 91; Ley 37/1992, art. 75; Ley 37/1992, art. 78
+
+
+COD: 2D01013
+PREGUNTA:
+
+La sociedad Grúas y Transportes, S.L., dedicada al transporte de mercancías por carretera y especializada en el rescate y traslado de vehículos accidentados y averiados, requiere los servicios de Viajes y Excursiones, S.A., empresa de transporte de viajeros en autocar, para efectuar el transporte de sus trabajadores y familiares de estos con ocasión de una excursión.
+Grúas y Transportes, S.L. acuerda un precio de 900 euros, antes de impuestos, con Viajes y Excursiones, S.A. por este servicio.
+Responda a las siguientes cuestiones: ¿Qué tipo impositivo hay que aplicar a este servicio a efectos del Impuesto sobre el Valor Añadido? ¿Qué cantidad debe aparecer en la factura correspondiente como cuota de IVA?
+
+
+RESPUESTA A:
+A) El tipo es cero por ser una operación no sujeta al impuesto. 
+B) 0 euros.
+
+RESPUESTA B:
+A) El tipo es cero por ser una operación sujeta al impuesto, pero exenta. 
+B) 0 euros.
+
+RESPUESTA C:
+A) 21 %. 
+B) 156,20 euros.
+
+RESPUESTA D:
+A) 21 %. 
+B) 189 euros.
+
+RESPUESTA E:
+A) 10 %. 
+B) 90 euros.
+
+RESPUESTA F:
+A) 10 %. 
+B) 81,20 euros. 
+
+RESPUESTA G:
+A) 4 %. 
+B) 36 euros.
+
+RESPUESTA H:
+A) 4 %. 
+B) 34,62 euros.
+
+SOLUCION: RESPUESTA E
+
+NORMA: Ley 37/1992, art. 90; Ley 37/1992, art. 91; Ley 37/1992, art. 78
+
+
+COD: 2D01014
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1: 41 asientos, incluidos el del conductor y el del guía -Vehículo 2: 35 asientos, incluidos el del conductor y el del guía
+Para desarrollar la actividad tiene contratados a dos conductores, uno con jornada completa y otro con media jornada. Además, él mismo trabaja a tiempo completo en la empresa.
+Este transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 1.700,62 euros -Asiento: 79,72 euros
+Durante el año ha percibido de sus clientes, en concepto de IVA devengado, la cantidad de 11.247 euros.
+Calcule la cuota devengada por operaciones corrientes que debe computar a efectos de la liquidación del Impuesto sobre el Valor Añadido.
+
+
+RESPUESTA A:
+11.247 euros.
+
+RESPUESTA B:
+9.300,52 euros.
+
+RESPUESTA C:
+9.141,08 euros.
+
+RESPUESTA D:
+10.841,70 euros.
+
+RESPUESTA E:
+11.160,58 euros.
+
+RESPUESTA F:
+9.459,96 euros.
+
+RESPUESTA G:
+9.991,39 euros.
+
+RESPUESTA H:
+10.310,27 euros.
+
+SOLUCION: RESPUESTA G
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D01015
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1: 45 asientos, incluidos el del conductor y el del guía -Vehículo 2: 43 asientos, incluidos el del conductor y el del guía
+Para desarrollar la actividad tiene contratados a dos conductores, uno con jornada completa y otro con media jornada. Además, él mismo, aunque está jubilado, trabaja a tiempo parcial en la empresa desarrollando una cuarta parte de la jornada ordinaria.
+Este transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 1.700,62 euros -Asiento: 79,72 euros
+Durante el año ha percibido de sus clientes, en concepto de IVA devengado, la cantidad de 11.247 euros.
+Calcule la cuota devengada por operaciones corrientes que debe computar a efectos de la liquidación del Impuesto sobre el Valor Añadido.
+
+
+RESPUESTA A:
+9.832 euros.
+
+RESPUESTA B:
+9.991,44 euros.
+
+RESPUESTA C:
+12.117,22 euros.
+
+RESPUESTA D:
+11.957,78 euros.
+
+RESPUESTA E:
+11.798,34 euros.
+
+RESPUESTA F:
+9.672,57 euros.
+
+RESPUESTA G:
+10.097,72 euros.
+
+RESPUESTA H:
+11.247 euros.
+
+SOLUCION: RESPUESTA F
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D01016
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1: 41 asientos en total -Vehículo 2: 35 asientos en total
+El vehículo de 41 asientos cuenta con un asiento específico para el guía y el otro no.
+Para desarrollar la actividad tiene contratado a un conductor con jornada completa y él mismo trabaja a tiempo completo. Además, su cónyuge trabaja también en la empresa a tiempo completo, bajo la condición de autónomo colaborador del empresario principal.
+Este transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 1.700,62 euros -Asiento: 79,72 euros
+Durante el año ha percibido de sus clientes, en concepto de IVA devengado, la cantidad de 12.460 euros.
+Calcule la cuota devengada por operaciones corrientes que debe computar a efectos de la liquidación del Impuesto sobre el Valor Añadido.
+
+
+RESPUESTA A:
+12.460 euros.
+
+RESPUESTA B:
+11.001,14 euros.
+
+RESPUESTA C:
+11.160,58 euros.
+
+RESPUESTA D:
+10.310,27 euros.
+
+RESPUESTA E:
+9.459,96 euros.
+
+RESPUESTA F:
+9.220,80 euros.
+
+RESPUESTA G:
+10.921,42 euros.
+
+RESPUESTA H:
+10.071,11 euros.
+
+SOLUCION: RESPUESTA H
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D01017
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de tres vehículos cuya capacidad es la siguiente: -Vehículo 1: 40 asientos en total -Vehículo 2: 38 asientos en total -Vehículo 3: 25 asientos en total
+Los dos primeros vehículos tienen un asiento específico para el guía y el tercero no.
+Para desarrollar la actividad tiene contratados a dos conductores: uno con jornada completa y el otro solo efectúa un 75 % de la jornada normal. Además, él mismo, aunque está jubilado, trabaja en la empresa realizando una cuarta parte de la jornada ordinaria.
+Este transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 1.700,62 euros -Asiento: 79,72 euros
+Durante el año ha percibido de sus clientes, en concepto de IVA devengado, la cantidad de 14.225 euros.
+Calcule la cuota devengada por operaciones corrientes que debe computar a efectos de la liquidación del Impuesto sobre el Valor Añadido.
+
+
+RESPUESTA A:
+11.452,96 euros.
+
+RESPUESTA B:
+14.225 euros.
+
+RESPUESTA C:
+13.313,02 euros.
+
+RESPUESTA D:
+11.612,40 euros.
+
+RESPUESTA E:
+11.213,80 euros.
+
+RESPUESTA F:
+12.914,42 euros.
+
+RESPUESTA G:
+12.489,26 euros.
+
+RESPUESTA H:
+12.887,86 euros.
+
+SOLUCION: RESPUESTA E
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D01018
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1: 41 asientos, incluidos el del conductor y el del guía -Vehículo 2: 35 asientos, incluidos el del conductor y el del guía
+Para desarrollar la actividad tiene contratados a dos conductores, ambos con jornada completa. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.
+Este transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 1.700,62 euros -Asiento: 79,72 euros
+Durante el año ha percibido de sus clientes, en concepto de IVA devengado, la cantidad de 10.505 euros y ha pagado 9.740 euros a sus proveedores en concepto de IVA soportado en gastos corrientes.
+Calcule la cuota mínima por operaciones corrientes que resultará en la liquidación del Impuesto sobre el Valor Añadido.
+
+
+RESPUESTA A:
+76,50 euros.
+
+RESPUESTA B:
+765 euros.
+
+RESPUESTA C:
+101,50 euros.
+
+RESPUESTA D:
+1.015,08 euros.
+
+RESPUESTA E:
+103,10 euros.
+
+RESPUESTA F:
+1.031,02 euros.
+
+RESPUESTA G:
+99,91 euros.
+
+RESPUESTA H:
+999,13 euros.
+
+SOLUCION: RESPUESTA G
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D01019
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1: 45 asientos, además de los del conductor y el guía -Vehículo 2: 37 asientos, además de los del conductor y el guía
+Para desarrollar la actividad tiene contratados a tres conductores: uno con jornada completa y los otros dos a media jornada. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.
+Este transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 1.700,62 euros -Asiento: 79,72 euros
+Durante el año ha percibido de sus clientes, en concepto de IVA devengado, la cantidad de 14.905 euros y ha pagado 5.740 euros a sus proveedores en concepto de IVA soportado en gastos corrientes.
+Calcule la cuota derivada del régimen simplificado que resultará en la liquidación del Impuesto sobre el Valor Añadido.
+
+
+RESPUESTA A:
+6.749,21 euros.
+
+RESPUESTA B:
+674,92 euros.
+
+RESPUESTA C:
+6.624,32 euros.
+
+RESPUESTA D:
+662,43 euros.
+
+RESPUESTA E:
+494,07 euros.
+
+RESPUESTA F:
+4.940,70 euros.
+
+RESPUESTA G:
+5.048,59 euros.
+
+RESPUESTA H:
+504,85 euros.
+
+SOLUCION: RESPUESTA F
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D01020
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de un único vehículo cuya capacidad es de 45 asientos en total. El vehículo dispone de asiento específico para el guía.
+Para desarrollar la actividad tiene contratado a un conductor con media jornada. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.
+Este transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 1.700,62 euros -Asiento: 79,72 euros
+Durante el año ha percibido de sus clientes, en concepto de IVA devengado, la cantidad de 7.820 euros y ha pagado 4.540 euros a sus proveedores en concepto de IVA soportado en gastos corrientes. Además, tiene pendientes de deducción 325 euros por cuotas de IVA soportadas en gastos corrientes en el año anterior.
+Calcule la cuota derivada del régimen simplificado que resultará en la liquidación del Impuesto sobre el Valor Añadido.
+
+
+RESPUESTA A:
+748,02 euros.
+
+RESPUESTA B:
+588,58 euros.
+
+RESPUESTA C:
+2.289,20 euros.
+
+RESPUESTA D:
+2.237,92 euros.
+
+RESPUESTA E:
+1.912,92 euros.
+
+RESPUESTA F:
+371,74 euros.
+
+RESPUESTA G:
+212,30 euros.
+
+RESPUESTA H:
+537,29 euros.
+
+SOLUCION: RESPUESTA H
+
+NORMA: Ley 37/1992, art. 123; OM HAC/1425/2025, Anexo II
+
+
+COD: 2D01021
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de un único vehículo cuya capacidad es de 48 asientos en total. El vehículo cuanta con asiento específico para guía.
+Para desarrollar la actividad tiene contratado a un conductor con media jornada. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.
+Este transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 1.700,62 euros -Asiento: 79,72 euros
+Su contabilidad registra, entre otros, los siguientes datos en el conjunto del año:  
+  	INGRESOS  	IMPORTE SIN IVA  
+  	Por prestación de servicios de transporte  	64.125  
+  	GASTOS  	  
+  	Alquiler de local  	6.800  
+  	Electricidad  	350  
+  	Teléfono  	280  
+  	Reparaciones  	3.690  
+  	Carburante  	10.842  
+  	Otros suministros corrientes gravados al tipo general de IVA  	1.578 
+Calcule la cuota derivada del régimen simplificado que resultará en la liquidación del Impuesto sobre el Valor Añadido.
+
+
+RESPUESTA A:
+2.284,40 euros.
+
+RESPUESTA B:
+2.212,13 euros.
+
+RESPUESTA C:
+2.124,96 euros.
+
+RESPUESTA D:
+2.054,28 euros.
+
+RESPUESTA E:
+583,78 euros.
+
+RESPUESTA F:
+528,51 euros.
+
+RESPUESTA G:
+370,66 euros.
+
+RESPUESTA H:
+424,34 euros.
+
+SOLUCION: RESPUESTA G
+
+NORMA: Ley 37/1992, art. 90; Ley 37/1992, art. 91; OM HAC/1425/2025, Anexo II
+
+
+COD: 2D01022
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de un único vehículo cuya capacidad es de 28 asientos en total. El vehículo no dispone de asiento específico para el guía.
+Para desarrollar la actividad no tiene trabajadores asalariados, efectuando él mismo el trabajo a tiempo completo.
+Este transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 1.700,62 euros -Asiento: 79,72 euros
+Durante el año ha percibido de sus clientes, en concepto de IVA devengado, la cantidad de 6.820 euros y ha pagado 4.540 euros a sus proveedores en concepto de IVA soportado en gastos corrientes.
+Calcule la cuota derivada del régimen simplificado que resultará en la liquidación del Impuesto sobre el Valor Añadido.
+
+
+RESPUESTA A:
+116,34 euros.
+
+RESPUESTA B:
+243,09 euros.
+
+RESPUESTA C:
+195,26 euros.
+
+RESPUESTA D:
+ -646,54 euros.
+
+RESPUESTA E:
+38,53 euros.
+
+RESPUESTA F:
+ -725,47 euros.
+
+RESPUESTA G:
+ -686,94 euros.
+
+RESPUESTA H:
+39,32 euros.
+
+SOLUCION: RESPUESTA E
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D01023
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de un único vehículo cuya capacidad es de 29 asientos en total. El vehículo no dispone de asiento específico para el guía.
+Para desarrollar la actividad no tiene trabajadores asalariados, efectuando él mismo el trabajo a tiempo completo.
+Este transportista está acogido al régimen simplificado del Impuesto sobre el Valor Añadido, siendo el siguiente el valor de los módulos computables: -Persona empleada: 1.700,62 euros -Asiento: 79,72 euros
+Durante el segundo trimestre del año ha percibido de sus clientes, en concepto de IVA devengado, la cantidad de 3.741 euros y ha pagado 3.432 euros por IVA soportado en gastos corrientes.
+Conteste las siguientes cuestiones: ¿A cuánto asciende la cuota trimestral del Impuesto sobre el Valor Añadido correspondiente al período en cuestión? ¿Cuándo debe presentar la declaración referida a este trimestre?
+
+
+RESPUESTA A:
+A) 393,27 euros. 
+B) Del 1 al 30 de julio.
+
+RESPUESTA B:
+A) 39,33 euros. 
+B) Del 1 al 30 de julio.
+
+RESPUESTA C:
+A) 196,63 euros. 
+B) Del 1 al 30 de julio.
+
+RESPUESTA D:
+A) 309 euros. 
+B) Del 1 al 30 de julio.
+
+RESPUESTA E:
+A) 393,27 euros. 
+B) Del 1 al 20 de julio.
+
+RESPUESTA F:
+A) 39,33 euros. 
+B) Del 1 al 20 de julio.
+
+RESPUESTA G:
+A) 196,63 euros. 
+B) Del 1 al 20 de julio.
+
+RESPUESTA H:
+A) 309 euros. 
+B) Del 1 al 20 de julio.
+
+SOLUCION: RESPUESTA F
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D01024
+PREGUNTA:
+
+De la contabilidad de un transportista de viajeros en autocar es posible extraer, entre otros, los siguientes datos:  
+  	INGRESOS  	IMPORTE SIN IVA  	FECHA DE FACTURA  	FECHA DE COBRO/PAGO  
+  	Prestación de servicios de transporte  	10.680  	25 de enero  	15 de marzo  
+  	Prestación de servicios de transporte  	6.524  	18 de febrero  	6 de abril  
+  	GASTOS  	  	  	  
+  	Arrendamiento de local  	2.620  	31 de marzo  	5 de abril  
+  	Electricidad  	355  	20 de enero  	27 de enero  
+  	Teléfono  	390  	18 de marzo  	25 de marzo  
+  	Reparaciones de vehículos  	2.340  	20 de marzo  	2 de abril  
+  	Carburante  	1.874  	28 de febrero  	3 de abril  
+  	Peajes  	360  	31 de enero  	5 de febrero 
+El transportista está acogido al régimen especial del criterio de caja a efectos del Impuesto sobre el Valor Añadido.
+Responda a las siguientes cuestiones: ¿Qué volumen de operaciones, como máximo, ha podido tener este empresario durante el año natural anterior? ¿Qué cantidades figurarán en concepto de IVA devengado y de IVA soportado en la declaración correspondiente al primer trimestre?
+
+
+RESPUESTA A:
+A) 1.000.000  euros. 
+B) IVA devengado: 1.720,40 euros; IVA soportado: 1.667,19 euros.
+
+RESPUESTA B:
+A) 1.000.000  euros.  
+B) IVA devengado: 1.068 euros; IVA soportado: 1.667,19 euros.
+
+RESPUESTA C:
+A) 1.000.000  euros.  
+B) IVA devengado: 1.720,40 euros; IVA soportado: 232,05 euros.
+
+RESPUESTA D:
+A) 1.000.000  euros.  
+B) IVA devengado: 1.068 euros; IVA soportado: 232,05 euros.
+
+RESPUESTA E:
+A) 2.000.000  euros. 
+B) IVA devengado: 1.720,40 euros; IVA soportado: 1.667,19 euros.
+
+RESPUESTA F:
+A) 2.000.000  euros.  
+B) IVA devengado: 1.068 euros; IVA soportado: 1.667,19 euros.
+
+RESPUESTA G:
+A) 2.000.000  euros.  
+B) IVA devengado: 1.720,40 euros; IVA soportado: 232,05 euros.
+
+RESPUESTA H:
+A) 2.000.000  euros.  
+B) IVA devengado: 1.068 euros; IVA soportado: 232,05 euros.
+
+SOLUCION: RESPUESTA H
+
+NORMA: Ley 37/1992, 163 decies; Ley 37/1992, 163 terdecies; Ley 37/1992, art. 90; Ley 37/1992, art. 91
+
+
+COD: 2D02001
+PREGUNTA:
+
+Una empresa de transporte de viajeros en autobús dispone para el desempeño de su actividad de cinco vehículos, debidamente matriculados, cuyas características son las siguientes:  
+  	  	Número de plazas  
+  	Autocar 1  	52  
+  	Autocar 2  	48  
+  	Autobús de transporte público urbano 1  	35  
+  	Autobús de transporte público urbano 2  	51  
+  	Autobús de transporte público urbano 3  	20 
+Las tarifas generales del Impuesto sobre Vehículos de Tracción Mecánica establecidas en la ley son las siguientes:  
+  	Clase de vehículo  	Cuota–Euros  
+  	De menos de 21 plazas  	83,30  
+  	De 21 a 50 plazas  	118,64  
+  	De más de 50 plazas  	148,30 
+Conteste a las siguientes cuestiones: ¿Por qué vehículos de los que posee la empresa se debe pagar el Impuesto sobre Vehículos de Tracción Mecánica? ¿A cuánto ascenderá el importe a pagar si el ayuntamiento competente para exigir el impuesto aplica las tarifas generales establecidas en la ley? ¿A cuánto ascenderá el importe a pagar si el ayuntamiento aplica, sobre las tarifas generales, el coeficiente máximo de incremento permitido por la ley?
+
+
+RESPUESTA A:
+A) Por los autocares exclusivamente. 
+B) 266,94 euros. 
+C) 533,88 euros.
+
+RESPUESTA B:
+A) Por los autobuses de transporte público urbano exclusivamente. 
+B) 350,24 euros. 
+C) 700,48 euros.
+
+RESPUESTA C:
+A) Por todos los vehículos. 
+B) 617,18 euros. 
+C) 1.234,36 euros.
+
+RESPUESTA D:
+A) Por todos los vehículos, excepto por el que tiene 20 plazas. 
+B) 533,88 euros. 
+C) 1.067,76 euros. 
+
+RESPUESTA E:
+A) Por los autocares exclusivamente. 
+B) 266,94 euros. 
+C) 400,41 euros.
+
+RESPUESTA F:
+A) Por los autobuses de transporte público urbano exclusivamente. 
+B) 350,24 euros. 
+C) 525,36 euros.
+
+RESPUESTA G:
+A) Por todos los vehículos. 
+B) 617,18 euros. 
+C) 925,77 euros.
+
+RESPUESTA H:
+A) Por todos los vehículos, excepto por el que tiene 20 plazas. 
+B) 533,88 euros. 
+C) 800,82 euros. 
+
+SOLUCION: RESPUESTA A
+
+NORMA: RD Legislativo 2/2004, art. 93; RD Legislativo 2/2004, art. 95; RD Legislativo 2/2004, art. 92
+
+
+COD: 2D02002
+PREGUNTA:
+
+Una empresa de transporte de viajeros en autobús dispone para el desempeño de su actividad de cinco vehículos debidamente matriculados, todos ellos adquiridos nuevos, cuyas características son las siguientes:  
+  	  	Fecha de adquisición  	Número de plazas  
+  	Autocar 1  	Hace cinco años  	52  
+  	Autocar 2  	Hace tres años  	48  
+  	Autocar 3  	1 de junio del año en curso  	35  
+  	Autobús de transporte público urbano 1  	Hace seis años  	51  
+  	Autobús de transporte público urbano 2  	16 de mayo del año en curso  	20 
+El autocar 1 no ha circulado durante un mes en el año en curso por causa de una avería mecánica.
+Las tarifas generales del Impuesto sobre Vehículos de Tracción Mecánica establecidas en la ley son las siguientes:  
+  	Clase de vehículo  	Cuota–Euros  
+  	De menos de 21 plazas  	83,30  
+  	De 21 a 50 plazas  	118,64  
+  	De más de 50 plazas  	148,30 
+Conteste a las siguientes cuestiones: ¿Por qué vehículos de los que posee la empresa se debe pagar el Impuesto sobre Vehículos de Tracción Mecánica en el año en curso? ¿A cuánto ascenderá el importe a pagar en el año en curso si el ayuntamiento competente para exigir el impuesto aplica las tarifas generales establecidas en la ley? ¿A cuánto ascenderá el importe a pagar si el ayuntamiento aplica, sobre las tarifas generales, el coeficiente máximo de incremento permitido por la ley?
+
+
+RESPUESTA A:
+A) Por todos los vehículos, excepto por los que han sido adquiridos en el año en curso. 
+B) 415,24 euros. 
+C) 830, 48 euros. 
+
+RESPUESTA B:
+A) Por los autobuses de transporte público urbano exclusivamente. 
+B) 231,60 euros. 
+C) 463,20 euros.
+
+RESPUESTA C:
+A) Por todos los vehículos. 
+B) 617,18 euros. 
+C) 1.234,36 euros.
+
+RESPUESTA D:
+A) Por todos los vehículos, excepto por los que han sido adquiridos en el año en curso. 
+B) 415,24 euros. 
+C) 622,86 euros. 
+
+RESPUESTA E:
+A) Por los autocares exclusivamente. 
+B) 385,58 euros. 
+C) 578,37 euros.
+
+RESPUESTA F:
+A) Por los autobuses de transporte público urbano exclusivamente. 
+B) 210,77 euros. 
+C) 316,16 euros.
+
+RESPUESTA G:
+A) Por todos los vehículos. 
+B) 566,69 euros. 
+C) 850,04 euros.
+
+RESPUESTA H:
+A) Por los autocares exclusivamente. 
+B) 355,92 euros. 
+C) 711,84 euros.
+
+SOLUCION: RESPUESTA H
+
+NORMA: RD Legislativo 2/2004, art. 93; RD Legislativo 2/2004, art. 95; RD Legislativo 2/2004, art. 96; RD Legislativo 2/2004, art. 92
+
+
+COD: 2D03001
+PREGUNTA:
+
+Una empresa española de transporte de viajeros en autocar es contratada por una agencia de viajes para efectuar, entre diferentes ciudades de Marruecos, los desplazamientos de un grupo de turistas. En el viaje de regreso a España, el conductor reposta antes de abandonar territorio marroquí, aprovechando que le resulta más económico.
+En la frontera, las autoridades aduaneras españolas efectúan una inspección y en la misma detectan que lleva una carga de 180 litros de biodiésel en el depósito del propio vehículo. Como consecuencia de ello, levantan acta en la que establecen que deberá efectuar el pago del Impuesto sobre Hidrocarburos por estar importando los citados litros de biodiésel.
+Para el cálculo de la cuota a ingresar por este impuesto, el epígrafe correspondiente de la Ley de Impuestos Especiales estipula un tipo general de 307 euros por 1.000 litros y un tipo especial de 72 euros por 1.000 litros.
+Conteste a las siguientes cuestiones: De los usos del producto que se encuentran sujetos al Impuesto sobre Hidrocarburos, ¿cuál concurre en este caso? ¿A cuánto ascenderá el importe a pagar? ¿Cómo se efectuaría, en su caso, la liquidación y pago de la deuda?
+
+
+RESPUESTA A:
+A) Uso como carburante. 
+B) No hay que pagar nada porque la importación en los depósitos de vehículos comerciales está exenta hasta 200 litros. 
+C) En la forma prevista para la deuda aduanera.
+
+RESPUESTA B:
+A) Uso como carburante. 
+B) No hay que pagar nada porque el uso de biodiésel para efectuar transporte por carretera está exento.  
+C) En la forma prevista para la deuda aduanera.
+
+RESPUESTA C:
+A) Uso como combustible. 
+B) No hay que pagar nada porque el uso de biodiésel para efectuar transporte por carretera está exento. 
+C) En la forma prevista para la deuda aduanera.
+
+RESPUESTA D:
+A) Uso como combustible. 
+B) No hay que pagar nada porque la importación en los depósitos de vehículos comerciales está exenta hasta 350 litros. 
+C) En la forma prevista para la deuda aduanera.
+
+RESPUESTA E:
+A) Uso como combustible. 
+B) No hay que pagar nada porque la importación en los depósitos de vehículos comerciales está exenta hasta 200 litros. 
+C) Mediante autoliquidación, que se presentará y abonará en el plazo de un mes.
+
+RESPUESTA F:
+A) Uso como combustible. 
+B) No hay que pagar nada porque la importación en los depósitos de vehículos comerciales está exenta hasta 200 litros. 
+C) En la forma prevista para la deuda aduanera.
+
+RESPUESTA G:
+A) Uso como carburante. 
+B) No hay que pagar nada porque la importación en los depósitos de vehículos comerciales está exenta hasta 350 litros. 
+C) Mediante autoliquidación, que se presentará y abonará en el plazo de dos meses.
+
+RESPUESTA H:
+A) Uso como carburante. 
+B) No hay que pagar nada porque la importación en los depósitos de vehículos comerciales está exenta hasta 200 litros. 
+C) Mediante autoliquidación, que se presentará y abonará en el plazo de un mes.
+
+SOLUCION: RESPUESTA A
+
+NORMA: Ley 38/1992, art. 18; Ley 38/1992, art. 49; Ley 38/1992, art. 51; Ley 38/1992, art. 2; Ley 38/1992, art. 46
+
+
+COD: 2D03002
+PREGUNTA:
+
+Una empresa de transporte de viajeros en autocar debidamente autorizada desarrolla su actividad con los vehículos cuyas características y consumo de carburante son los siguientes:  
+  	  	Categoría  	Consumo anual de carburante (litros)  
+  	Vehículo 1  	M3  	52.000  
+  	Vehículo 2  	M3  	51.500  
+  	Vehículo 3  	M2  	50.660  
+  	Vehículo 4  	M2  	58.000  
+  	Vehículo 5  	M2  	52.324 
+Los conductores de esta empresa utilizan siempre tarjetas-gasóleo profesional como medio de pago al repostar.
+La normativa cuantifica en 25 euros por 1.000 litros el importe de la devolución estatal a la que se tiene derecho para el tipo de carburante que utiliza.
+Conteste a las siguientes cuestiones: ¿Qué requisitos deberá cumplir para tener derecho a la devolución del Impuesto sobre Hidrocarburos? ¿A cuánto ascenderá la devolución estatal por el consumo de ese año? ¿Cuándo se efectuará la devolución?
+
+
+RESPUESTA A:
+A) Estar inscrito en el Censo de beneficiarios de devoluciones por gasóleo profesional y de vehículos de su titularidad y presentar una declaración anual. 
+B) 6.612 euros. 
+C) A la finalización de cada trimestre natural.
+
+RESPUESTA B:
+A) Estar inscrito en el Censo de beneficiarios de devoluciones por gasóleo profesional y de vehículos de su titularidad.  
+B) 6.612 euros. 
+C) A la finalización de cada mes natural.
+
+RESPUESTA C:
+A) Presentar una declaración trimestral. 
+B) 6.612 euros. 
+C) A la finalización de cada trimestre natural.
+
+RESPUESTA D:
+A) Presentar una declaración anual. 
+B) 6.250 euros. 
+C) A la finalización de cada año.
+
+RESPUESTA E:
+A) Estar inscrito en el Censo de beneficiarios de devoluciones por gasóleo profesional y de vehículos de su titularidad y presentar una declaración trimestral. 
+B) 3.750 euros. 
+C) A la finalización de cada trimestre natural.
+
+RESPUESTA F:
+A) Estar inscrito en el Censo de beneficiarios de devoluciones por gasóleo profesional y de vehículos de su titularidad y presentar una declaración anual. 
+B) 6.250 euros. 
+C) A la finalización de cada semestre.
+
+RESPUESTA G:
+A) Estar inscrito en el Censo de beneficiarios de devoluciones por gasóleo profesional y de vehículos de su titularidad y presentar una declaración anual. 
+B) 3.750 euros. 
+C) A la finalización de cada trimestre natural.
+
+RESPUESTA H:
+A) Estar inscrito en el Censo de beneficiarios de devoluciones por gasóleo profesional y de vehículos de su titularidad y presentar una declaración anual. 
+B) 6.250 euros. 
+C) A la finalización de cada mes natural.
+
+SOLUCION: RESPUESTA H
+
+NORMA: Ley 38/1992, 52 bis; OM HFP/941/2022, art. 2; OM HFP/941/2022, art. 9; OM HFP/941/2022, art. 10
+
+
+COD: 2D03003
+PREGUNTA:
+
+Una empresa que tiene como objeto la fabricación de componentes para automóviles efectúa su actividad en una factoría en la que trabajan 750 personas a doble turno. Para el traslado de los trabajadores a la factoría, cuenta con tres autocares cuyas características y consumo de carburante son los siguientes:  
+  	  	Categoría  	Consumo anual de carburante (litros)  
+  	Vehículo 1  	M3  	52.000  
+  	Vehículo 2  	M3  	51.500  
+  	Vehículo 3  	M2  	50.660 
+La empresa cuenta con autorización de transporte privado complementario de viajeros (VDE).
+Los conductores de estos vehículos utilizan siempre tarjetas-gasóleo profesional como medio de pago al repostar.
+La normativa cuantifica en 25 euros por 1.000 litros el importe de la devolución estatal a la que se tiene derecho para el tipo de carburante que utiliza.
+Conteste a las siguientes cuestiones: ¿Tiene derecho esta empresa a la devolución del Impuesto sobre Hidrocarburos? En caso de tener derecho, ¿a cuánto ascendería la devolución estatal por el consumo de ese año? En caso de tener derecho y obtener la devolución, ¿tendría que efectuar la empresa alguna gestión administrativa?
+
+
+RESPUESTA A:
+A) No, porque no efectúa transporte público. 
+B) 3.750 euros. 
+C) Sí, presentar una declaración trimestral en la que se refleje el número de kilómetros recorridos con cada vehículo.
+
+RESPUESTA B:
+A) No, porque no efectúa transporte público. 
+B) 3.750 euros. 
+C) Sí, presentar una declaración anual en la que se refleje el número de kilómetros recorridos con cada vehículo.
+
+RESPUESTA C:
+A) No, porque no efectúa transporte público. 
+B) 3.854 euros. 
+C) Sí, presentar una declaración trimestral en la que se refleje el número de kilómetros recorridos con cada vehículo.
+
+RESPUESTA D:
+A) No, porque no efectúa transporte público. 
+B) 2.500 euros. 
+C) Sí, presentar una declaración anual en la que se refleje el número de kilómetros recorridos con cada vehículo.
+
+RESPUESTA E:
+A) Sí. 
+B) 3.854 euros. 
+C) Sí, presentar una declaración trimestral en la que se refleje el número de kilómetros recorridos con cada vehículo.
+
+RESPUESTA F:
+A) Sí. 
+B) 3.854 euros. 
+C) Sí, presentar una declaración anual en la que se refleje el número de kilómetros recorridos con cada vehículo.
+
+RESPUESTA G:
+A) Sí. 
+B) 3.750 euros. 
+C) Sí, presentar una declaración anual en la que se refleje el número de kilómetros recorridos con cada vehículo.
+
+RESPUESTA H:
+A) Sí. 
+B) 2.500 euros. 
+C) Sí, presentar una declaración trimestral en la que se refleje el número de kilómetros recorridos con cada vehículo.
+
+SOLUCION: RESPUESTA G
+
+NORMA: Ley 38/1992, 52 bis; OM HFP/941/2022, art. 10
+
+
+COD: 2D03004
+PREGUNTA:
+
+Transportes del Sur, S.L., es una sociedad dedicada al transporte público de viajeros en autocar que tiene su sede en la ciudad de Huelva. Para el desarrollo de su actividad dispone de tres autocares de 45, 50 y 52 plazas respectivamente. Además, para servicio interno de la empresa tiene un furgón de 4 toneladas de masa máxima autorizada.
+Transportes del Sur efectúa frecuentes viajes con todos sus vehículos a diferentes puntos de Portugal.
+Las autoridades portuguesas, al amparo de la Directiva1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras varias,deciden establecer un peaje específico para este tipo de vehículos en uno de los tramos de carretera que habitualmente utiliza esta empresa.
+Como justificante de pago de este peaje, se viene entregando a todos los usuarios un recibo en el que únicamente figura el importe total pagado.
+Conteste a las siguientes cuestiones: ¿A qué vehículos de esta empresa se podría exigir el peaje? ¿Qué componentes podría tener el peaje? ¿Son correctos los recibos expedidos?
+
+
+RESPUESTA A:
+A) A todos los vehículos.
+B) Tasa por infraestructura, tasa por costes externos y tasa por congestión. 
+C) No, porque, además del importe total, debe constar el importe de la tasa por infraestructura, el de la tasa por costes externos y el de la tasa por congestión, si forman parte del peaje.
+
+RESPUESTA B:
+A) Al furgón exclusivamente. 
+B) Tasa por infraestructura y tasa por ocupación. 
+C) No, porque, además del importe total, debe constar el importe de la tasa por infraestructura y el de la tasa por costes externos, si forman parte del peaje.
+
+RESPUESTA C:
+A) Al furgón exclusivamente. 
+B) Tasa por ocupación y tasa por costes externos. 
+C) Sí.
+
+RESPUESTA D:
+A) Al furgón exclusivamente. 
+B) Tasa por infraestructura y tasa por costes externos. 
+C) No, porque, además del importe total, debe constar el importe de la tasa por infraestructura y el de la tasa por costes externos, si forman parte del peaje.
+
+RESPUESTA E:
+A) A los tres autocares exclusivamente. 
+B) Tasa por infraestructura y tasa por ocupación. 
+C) No, porque, además del importe total, debe constar el importe de la tasa por infraestructura y el de la tasa por costes externos, si forman parte del peaje.
+
+RESPUESTA F:
+A) A los tres autocares exclusivamente. 
+B) Tasa por infraestructura y tasa por costes externos. 
+C) Sí.
+
+RESPUESTA G:
+A) A todos los vehículos. 
+B) Tasa por ocupación y tasa por costes externos. 
+C) Sí.
+
+RESPUESTA H:
+A) A todos los vehículos. 
+B) Tasa por infraestructura y tasa por ocupación. 
+C) Sí.
+
+SOLUCION: RESPUESTA A
+
+NORMA: Directiva 1999/62/CE, art. 2; Directiva 1999/62/CE, art. 7; Directiva 1999/62/CE, 7 undecies
+
+
+COD: 2D04001
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1: 41 asientos, incluidos el del conductor y el del guía -Vehículo 2: 35 asientos, incluidos el del conductor y el del guía
+Para desarrollar la actividad tiene contratados a dos conductores: uno con jornada completa y otro con media jornada. Además, él mismo trabaja a tiempo completo en la empresa.
+Este transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.981,02 euros -Persona no asalariada: 16.016,97 euros -Asiento: 121,40 euros
+Calcule el rendimiento neto previo de este empresario.
+
+
+RESPUESTA A:
+29.714,90 euros.
+
+RESPUESTA B:
+30.719,81 euros.
+
+RESPUESTA C:
+29.229,30 euros.
+
+RESPUESTA D:
+27.738,79 euros.
+
+RESPUESTA E:
+13.212,33 euros.
+
+RESPUESTA F:
+31.205,41 euros.
+
+RESPUESTA G:
+15.188,44 euros.
+
+RESPUESTA H:
+13.697,33 euros.
+
+SOLUCION: RESPUESTA C
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04002
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1: 45 asientos en total. -Vehículo 2: 35 asientos en total.
+Ninguno de los vehículos cuenta con asiento específico para el guía.
+Para desarrollar la actividad tiene contratado a un conductor con jornada completa. Además, él mismo trabaja a tiempo completo en la empresa, si bien percibe una pensión por incapacidad.
+Este transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.981,02 euros -Persona no asalariada: 16.016,97 euros -Asiento: 121,40 euros
+Calcule el rendimiento neto previo de este empresario.
+
+
+RESPUESTA A:
+28.224,39 euros.
+
+RESPUESTA B:
+28.709,99 euros.
+
+RESPUESTA C:
+24.462,94 euros.
+
+RESPUESTA D:
+24.220,14 euros.
+
+RESPUESTA E:
+24.705,74 euros.
+
+RESPUESTA F:
+28.467,19 euros.
+
+RESPUESTA G:
+32.471,43 euros.
+
+RESPUESTA H:
+32.228,63 euros.
+
+SOLUCION: RESPUESTA F
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04003
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1: 45 asientos, incluidos el del conductor y el del guía -Vehículo 2: 43 asientos, incluidos el del conductor y el del guía
+Para desarrollar la actividad tiene contratados a dos conductores: uno con jornada completa y otro con media jornada. Además, él mismo, aunque está jubilado, trabaja a tiempo parcial en la empresa, desarrollando una cuarta parte de la jornada ordinaria.
+Este transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.981,02 euros -Persona no asalariada: 16.016,97 euros -Asiento: 121,40 euros
+Calcule el rendimiento neto previo de este empresario.
+
+
+RESPUESTA A:
+19.158,97 euros.
+
+RESPUESTA B:
+18.916,17 euros.
+
+RESPUESTA C:
+20.163,88 euros.
+
+RESPUESTA D:
+30.686,10 euros.
+
+RESPUESTA E:
+32.176,61 euros.
+
+RESPUESTA F:
+32.662,21 euros.
+
+RESPUESTA G:
+32.419,41 euros.
+
+RESPUESTA H:
+18.673,37 euros.
+
+SOLUCION: RESPUESTA H
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04004
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1: 41 asientos en total -Vehículo 2: 35 asientos en total
+El vehículo de 41 asientos dispone de un asiento específico para el guía y el otro no.
+Para desarrollar la actividad tiene contratado a un conductor con jornada completa y él mismo trabaja a tiempo completo. Además, su cónyuge trabaja también en la empresa a tiempo completo bajo la condición de autónomo colaborador del empresario principal.
+Este transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.981,02 euros -Persona no asalariada: 16.016,97 euros -Asiento: 121,40 euros
+Calcule el rendimiento neto previo de este empresario.
+
+
+RESPUESTA A:
+36.232,88 euros.
+
+RESPUESTA B:
+35.868,68 euros.
+
+RESPUESTA C:
+35.990,08 euros.
+
+RESPUESTA D:
+36.111,47 euros.
+
+RESPUESTA E:
+30.841,21 euros.
+
+RESPUESTA F:
+43.877,16 euros.
+
+RESPUESTA G:
+29.350,70 euros.
+
+RESPUESTA H:
+29.714,90 euros.
+
+SOLUCION: RESPUESTA B
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04005
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1: 40 asientos, incluidos el del conductor y el del guía -Vehículo 2: 45 asientos, incluidos el del conductor y el del guía
+Para desarrollar la actividad tiene contratados a dos conductores: uno con jornada completa y otro con media jornada. El conductor de media jornada tiene reconocida una discapacidad del 40 %. Además, el propio empresario trabaja a tiempo completo en la empresa.
+Este transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.981,02 euros -Persona no asalariada: 16.016,97 euros -Asiento: 121,40 euros
+Calcule el rendimiento neto previo de este empresario.
+
+
+RESPUESTA A:
+30.434,87 euros.
+
+RESPUESTA B:
+30.192,07 euros.
+
+RESPUESTA C:
+30.321,90 euros.
+
+RESPUESTA D:
+29.427,59 euros.
+
+RESPUESTA E:
+30.807,50 euros.
+
+RESPUESTA F:
+29.689,61 euros.
+
+RESPUESTA G:
+30.062,24 euros.
+
+RESPUESTA H:
+29.576,64 euros.
+
+SOLUCION: RESPUESTA D
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04006
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de dos vehículos cuya capacidad es la siguiente: -Vehículo 1: 39 asientos, incluidos el del conductor y el del guía -Vehículo 2: 37 asientos, incluidos el del conductor y el del guía
+Para desarrollar la actividad tiene contratados a dos conductores: uno con jornada completa y otro con media jornada. Además, él mismo, que tiene reconocida una discapacidad del 33 %, trabaja a tiempo completo en la empresa.
+Este transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.981,02 euros -Persona no asalariada: 16.016,97 euros -Asiento: 121,40 euros
+Calcule el rendimiento neto previo de este empresario.
+
+
+RESPUESTA A:
+26.715,56 euros.
+
+RESPUESTA B:
+19.619,11 euros.
+
+RESPUESTA C:
+29.229,30 euros.
+
+RESPUESTA D:
+27.201,16 euros.
+
+RESPUESTA E:
+25.710,65 euros.
+
+RESPUESTA F:
+25.225,06 euros.
+
+RESPUESTA G:
+25.467,85 euros.
+
+RESPUESTA H:
+29.472,10 euros.
+
+SOLUCION: RESPUESTA F
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04007
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de tres vehículos cuya capacidad es la siguiente: -Vehículo 1: 40 asientos en total -Vehículo 2: 38 asientos en total -Vehículo 3: 25 asientos en total
+Los dos primeros vehículos tienen un asiento específico para el guía y el tercero no.
+Para desarrollar la actividad tiene contratados a dos conductores: uno con jornada completa y el otro solo efectúa un 75 % de la jornada normal. Además, él mismo, aunque está jubilado, trabaja en la empresa realizando una cuarta parte de la jornada ordinaria.
+Este transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.981,02 euros -Persona no asalariada: 16.016,97 euros -Asiento: 121,40 euros
+Calcule el rendimiento neto previo de este empresario.
+
+
+RESPUESTA A:
+21.863,48 euros.
+
+RESPUESTA B:
+33.130,95 euros.
+
+RESPUESTA C:
+21.118,23 euros.
+
+RESPUESTA D:
+21.725,23 euros.
+
+RESPUESTA E:
+22.470,48 euros.
+
+RESPUESTA F:
+34.483,21 euros.
+
+RESPUESTA G:
+33.737,95 euros.
+
+RESPUESTA H:
+21.239,63 euros.
+
+SOLUCION: RESPUESTA C
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04008
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de dos vehículos diésel cuya capacidad es la siguiente: -Vehículo 1: 41 asientos, incluidos el del conductor y el del guía -Vehículo 2: 35 asientos, incluidos el del conductor y el del guía
+Los vehículos fueron adquiridos nuevos: el primero de ellos hace diez años y el segundo, el año anterior. Los precios de adquisición fueron 45.000 y 35.000 euros respectivamente y su valor residual se estima nulo.
+Para desarrollar la actividad tiene contratados a dos conductores, ambos con jornada completa. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.
+Este transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva.
+Calcule el rendimiento neto minorado que resultará, si viene aplicando la amortización máxima permitida, teniendo en cuenta la siguiente información: -Valor de los módulos computables      -Persona asalariada: 2.981,02 euros   -Persona no asalariada: 16.016,97 euros   -Asiento: 121,40 euros   -Amortización de vehículos      -Coeficiente lineal máximo: 25 %   -Período máximo: 8 años  
+
+
+RESPUESTA A:
+14.446,92 euros.
+
+RESPUESTA B:
+2.711,32 euros.
+
+RESPUESTA C:
+21.969,81 euros.
+
+RESPUESTA D:
+13.216,07 euros.
+
+RESPUESTA E:
+22.455,41 euros.
+
+RESPUESTA F:
+11.205,41 euros.
+
+RESPUESTA G:
+10.719,81 euros.
+
+RESPUESTA H:
+0 euros.
+
+SOLUCION: RESPUESTA D
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04009
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de dos vehículos diésel cuya capacidad es la siguiente: -Vehículo 1: 45 asientos, además de los del conductor y el guía -Vehículo 2: 37 asientos, además de los del conductor y el guía
+Los vehículos fueron adquiridos nuevos: el primero de ellos hace once años y el segundo, el año anterior. Los precios de adquisición fueron 45.000 y 38.000 euros respectivamente y su valor residual se estima nulo.
+Asimismo, este empresario compró hace cuatro años un local nuevo para su actividad por importe de 56.000 euros, de los cuales el 40 % corresponde al valor del suelo.
+Para desarrollar la actividad tiene contratados a dos conductores con jornada completa. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.
+Calcule el rendimiento neto minorado que resultará, si viene aplicando la amortización máxima permitida, teniendo en cuenta la siguiente información: -Valor de los módulos computables      -Persona asalariada: 2.981,02 euros   -Persona no asalariada: 16.016,97 euros   -Asiento: 121,40 euros   -Amortización de vehículos      -Coeficiente lineal máximo: 25 %   -Período máximo: 8 años   -Amortización de edificios y otras construcciones      -Coeficiente lineal máximo: 5 %   -Período máximo: 40 años  
+
+
+RESPUESTA A:
+0 euros.
+
+RESPUESTA B:
+11.625,32 euros.
+
+RESPUESTA C:
+12.110,92 euros.
+
+RESPUESTA D:
+13.230,92 euros.
+
+RESPUESTA E:
+21.239,41 euros.
+
+RESPUESTA F:
+12.000,07 euros.
+
+RESPUESTA G:
+20.753,81 euros.
+
+RESPUESTA H:
+9.650,40 euros.
+
+SOLUCION: RESPUESTA F
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04010
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de un único vehículo diésel cuya capacidad es de 45 asientos en total. El vehículo, que dispone de asiento específico para el guía, fue adquirido nuevo hace tres años por el precio de 39.000 euros y su valor residual se estima nulo.
+Para desarrollar la actividad tiene contratado a un conductor con media jornada. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.
+Este transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva.
+Calcule el rendimiento neto de módulos que resultará antes de efectuar la reducción del 5 % contemplada por la normativa, si viene aplicando la amortización máxima permitida, teniendo en cuenta la siguiente información: -Valor de los módulos computables      -Persona asalariada: 2.981,02 euros   -Persona no asalariada: 16.016,97 euros   -Asiento: 121,40 euros   -Amortización de vehículos      -Coeficiente lineal máximo: 25 %   -Período máximo: 8 años  
+
+
+RESPUESTA A:
+4.969,19 euros.
+
+RESPUESTA B:
+4.169,59 euros.
+
+RESPUESTA C:
+5.211,99 euros.
+
+RESPUESTA D:
+6.459,70 euros.
+
+RESPUESTA E:
+5.167,76 euros.
+
+RESPUESTA F:
+12.977,68 euros.
+
+RESPUESTA G:
+10.382,14 euros.
+
+RESPUESTA H:
+3.856,12 euros.
+
+SOLUCION: RESPUESTA H
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04011
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de un único vehículo diésel cuya capacidad es de 48 asientos en total. El vehículo, que dispone de asiento específico para guía, fue adquirido nuevo hace diez años por el precio de 43.000 euros y su valor residual se estima nulo.
+Para desarrollar la actividad tiene contratado a un conductor con media jornada. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.
+Este transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva.
+Calcule el rendimiento neto de módulos que resultará antes de efectuar la reducción del 5 % contemplada por la normativa, si viene aplicando la amortización máxima permitida, teniendo en cuenta la siguiente información: -Valor de los módulos computables      -Persona asalariada: 2.981,02 euros   -Persona no asalariada: 16.016,97 euros   -Asiento: 121,40 euros   -Amortización de vehículos      -Coeficiente lineal máximo: 25 %   -Período máximo: 8 años  
+
+
+RESPUESTA A:
+15.083,39 euros.
+
+RESPUESTA B:
+11.947,48 euros.
+
+RESPUESTA C:
+4.333,39 euros.
+
+RESPUESTA D:
+3.466,71 euros.
+
+RESPUESTA E:
+15.326,19 euros.
+
+RESPUESTA F:
+12.260,95 euros.
+
+RESPUESTA G:
+13.259,12 euros.
+
+RESPUESTA H:
+0 euros.
+
+SOLUCION: RESPUESTA B
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04012
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de tres vehículos, adquiridos hace 15 años, cuya capacidad es la siguiente: -Vehículo 1: 41 asientos en total -Vehículo 2: 35 asientos en total -Vehículo 3: 37 asientos en total
+El segundo vehículo no dispone de asiento específico para guía y los restantes sí.
+Para desarrollar la actividad tiene contratados a tres conductores, dos con jornada completa y el tercero con media jornada. Además, él mismo trabaja media jornada en la empresa.
+Este transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.981,02 euros -Persona no asalariada: 16.016,97 euros -Asiento: 121,40 euros
+Este empresario tuvo en el ejercicio anterior un rendimiento neto de actividades económicas de 20.500 euros, y no destina ninguna cantidad a la adquisición o rehabilitación de su vivienda habitual.
+Calcule el importe del pago fraccionado que deberá efectuar en el segundo trimestre del ejercicio.
+
+
+RESPUESTA A:
+1.097,42 euros.
+
+RESPUESTA B:
+731,61 euros.
+
+RESPUESTA C:
+1.487,50 euros.
+
+RESPUESTA D:
+1.048,93 euros.
+
+RESPUESTA E:
+1.042,55 euros.
+
+RESPUESTA F:
+695,03 euros.
+
+RESPUESTA G:
+1.413,13 euros.
+
+RESPUESTA H:
+1.059,85 euros.
+
+SOLUCION: RESPUESTA D
+
+NORMA: RD 439/2007, art. 110; OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04013
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de dos vehículos, adquiridos hace 15 años, cuya capacidad es la siguiente: -Vehículo 1: 43 asientos en total -Vehículo 2: 35 asientos en total
+El primer vehículo dispone de asiento específico para el guía y el segundo no.
+Para desarrollar la actividad tiene contratado a un conductor con jornada completa. Además, él mismo, que sufre una incapacidad del 25 %, trabaja media jornada en la empresa.
+Este transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.981,02 euros -Persona no asalariada: 16.016,97 euros -Asiento: 121,40 euros
+Este empresario tuvo en el ejercicio anterior un rendimiento neto de actividades económicas de 18.500 euros y no destina ninguna cantidad a la adquisición o rehabilitación de su vivienda habitual.
+Calcule el importe del pago fraccionado que deberá efectuar en el tercer trimestre del ejercicio.
+
+
+RESPUESTA A:
+763,59 euros.
+
+RESPUESTA B:
+381,79 euros.
+
+RESPUESTA C:
+481,89 euros.
+
+RESPUESTA D:
+564,20 euros.
+
+RESPUESTA E:
+803,78 euros.
+
+RESPUESTA F:
+602,84 euros.
+
+RESPUESTA G:
+583,07 euros.
+
+RESPUESTA H:
+777,43 euros.
+
+SOLUCION: RESPUESTA D
+
+NORMA: RD 439/2007, art. 110; OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04014
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de un único vehículo, adquirido hace 18 años, cuya capacidad es de 47 plazas en total. El vehículo dispone de asiento específico para el guía.
+Para desarrollar la actividad no tiene asalariados, efectuando él mismo el trabajo a tiempo completo.
+Este transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, siendo el siguiente el valor de los módulos computables: -Persona asalariada: 2.981,02 euros -Persona no asalariada: 16.016,97 euros -Asiento: 121,40 euros
+Este empresario tuvo en el ejercicio anterior un rendimiento neto de actividades económicas de 14.300 euros y no destina ninguna cantidad a la adquisición o rehabilitación de su vivienda habitual.
+Calcule el importe del pago fraccionado que deberá efectuar en el tercer trimestre del ejercicio.
+
+
+RESPUESTA A:
+612,17 euros.
+
+RESPUESTA B:
+816,23 euros.
+
+RESPUESTA C:
+859,19 euros.
+
+RESPUESTA D:
+644,39 euros.
+
+RESPUESTA E:
+429,59 euros.
+
+RESPUESTA F:
+648,04 euros.
+
+RESPUESTA G:
+432,02 euros.
+
+RESPUESTA H:
+326,50 euros.
+
+SOLUCION: RESPUESTA H
+
+NORMA: RD 439/2007, art. 110; OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04015
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de los siguientes vehículos diésel, todos ellos adquiridos nuevos y cuyo valor residual se estima nulo:  
+  	  	Precio de adquisición  	Antigüedad al inicio del ejercicio  
+  	Vehículo 1  	37.500  	10 años  
+  	Vehículo 2  	40.700  	10 años  
+  	Vehículo 3  	42.000  	9 años  
+  	Vehículo 4  	40.500  	8 años  
+  	Vehículo 5  	39.800  	5 años y 4 meses  
+  	Vehículo 6  	41.200  	5 años 
+Los ingresos obtenidos en el ejercicio ascienden a 585.700 euros, resultado de la prestación de servicios a diversos clientes, y los gastos computables a 356.200 euros, al margen de provisiones deducibles, gastos de difícil justificación y amortizaciones que resulten practicables.
+Este transportista determina el rendimiento, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación directa simplificada, en el cual las condiciones de amortización de los elementos de transporte son las siguientes: -Coeficiente lineal máximo: 16 % -Período máximo: 14 años
+Indique a cuánto asciende el rendimiento neto del ejercicio, si viene aplicando la amortización máxima permitida, pero no utiliza a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión previstos en la Ley del Impuesto sobre Sociedades.
+
+
+RESPUESTA A:
+210.060 euros.
+
+RESPUESTA B:
+215.070,67 euros.
+
+RESPUESTA C:
+190.828 euros.
+
+RESPUESTA D:
+188.828 euros.
+
+RESPUESTA E:
+199.557 euros.
+
+RESPUESTA F:
+181.286,60 euros.
+
+RESPUESTA G:
+229.500 euros.
+
+RESPUESTA H:
+227.500 euros.
+
+SOLUCION: RESPUESTA B
+
+NORMA: Ley 35/2006, art. 30; RD 439/2007, art. 30
+
+
+COD: 2D04016
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de los siguientes vehículos diésel, todos ellos adquiridos nuevos y cuyo valor residual se estima nulo:  
+  	  	Precio de adquisición  	Antigüedad al inicio del ejercicio  
+  	Vehículo 1  	37.500  	16 años  
+  	Vehículo 2  	40.700  	16 años  
+  	Vehículo 3  	45.000  	11 años  
+  	Vehículo 4  	40.500  	11 años  
+  	Vehículo 5  	40.800  	10 años  
+  	Vehículo 6  	43.600  	4 años 
+Los ingresos obtenidos en el ejercicio ascienden a 482.200 euros, resultado de la prestación de servicios a diversos clientes, y los gastos computables a 418.500 euros, al margen de provisiones deducibles, gastos de difícil justificación y amortizaciones que resulten practicables.
+Este transportista determina el rendimiento, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación directa simplificada, en el cual las condiciones de amortización de los elementos de transporte son las siguientes: -Coeficiente lineal máximo: 16 % -Período máximo: 14 años
+Indique a cuánto asciende el rendimiento neto del ejercicio, si viene aplicando la amortización máxima permitida, pero no utiliza a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión previstos en la Ley del Impuesto sobre Sociedades.
+
+
+RESPUESTA A:
+36.516 euros.
+
+RESPUESTA B:
+34.516 euros.
+
+RESPUESTA C:
+54.724 euros.
+
+RESPUESTA D:
+24.004 euros.
+
+RESPUESTA E:
+22.004 euros.
+
+RESPUESTA F:
+22.803,80 euros.
+
+RESPUESTA G:
+39.914 euros.
+
+RESPUESTA H:
+37.918,30 euros.
+
+SOLUCION: RESPUESTA C
+
+NORMA: Ley 35/2006, art. 30; RD 439/2007, art. 30
+
+
+COD: 2D04017
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de los siguientes vehículos diésel, todos ellos adquiridos nuevos y cuyo valor residual se estima nulo:  
+  	  	Precio de adquisición  	Antigüedad al inicio del ejercicio  
+  	Vehículo 1  	37.500  	17 años  
+  	Vehículo 2  	40.700  	16 años  
+  	Vehículo 3  	42.000  	15 años  
+  	Vehículo 4  	40.500  	11 años  
+  	Vehículo 5  	39.800  	10 años  
+  	Vehículo 6  	41.200  	5 años 
+Los ingresos obtenidos en el ejercicio ascienden a 440.200 euros, resultado de la prestación de servicios a diversos clientes, y los gastos a 305.700 euros, al margen de gastos de difícil justificación y amortizaciones que resulten practicables. Entre los gastos se incluyen provisiones por insolvencias por importe de 8.500 euros.
+Este transportista determina el rendimiento, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación directa simplificada, en el cual las condiciones de amortización de los elementos de transporte son las siguientes: -Coeficiente lineal máximo: 16 % -Período máximo: 14 años
+Indique a cuánto asciende el rendimiento neto del ejercicio, si viene aplicando la amortización máxima permitida, pero no utiliza a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión previstos en la Ley del Impuesto sobre Sociedades.
+
+
+RESPUESTA A:
+115.060 euros.
+
+RESPUESTA B:
+109.307 euros.
+
+RESPUESTA C:
+117.382 euros.
+
+RESPUESTA D:
+115.382 euros.
+
+RESPUESTA E:
+134.408 euros.
+
+RESPUESTA F:
+113.030 euros.
+
+RESPUESTA G:
+123.560 euros.
+
+RESPUESTA H:
+114.560 euros.
+
+SOLUCION: RESPUESTA E
+
+NORMA: Ley 35/2006, art. 30; RD 439/2007, art. 30
+
+
+COD: 2D04018
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de dos vehículos diésel cuya capacidad es la siguiente: -Vehículo 1: 45 asientos, además de los del conductor y el guía -Vehículo 2: 37 asientos, además de los del conductor y el guía
+Los vehículos fueron adquiridos nuevos, el primero de ellos hace diez años y el segundo, hace cuatro. Los precios de adquisición fueron 55.000 y 48.000 euros respectivamente. Su valor residual se estima nulo.
+Asimismo, este empresario compró hace tres años un local nuevo para su actividad por importe de 76.000 euros, de los cuales el 45 % corresponde al valor del suelo.
+Para desarrollar la actividad tiene contratados a tres conductores, uno con jornada completa y los otros dos a media jornada. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.
+Este transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva.
+Calcule el rendimiento neto minorado que resultará, si aplica la amortización mínima contemplada en la tabla oficial, teniendo en cuenta la siguiente información: -Valor de los módulos computables      -Persona asalariada: 2.981,02 euros   -Persona no asalariada: 16.016,97 euros   -Asiento: 121,40 euros   -Amortización de vehículos      -Coeficiente lineal máximo: 25 %   -Período máximo: 8 años   -Amortización de edificios y otras construcciones      -Coeficiente lineal máximo: 5 %   -Período máximo: 40 años  
+
+
+RESPUESTA A:
+12.095,26 euros.
+
+RESPUESTA B:
+11.050,26 euros.
+
+RESPUESTA C:
+11.240,26 euros.
+
+RESPUESTA D:
+11.628,74 euros.
+
+RESPUESTA E:
+12.483,74 euros.
+
+RESPUESTA F:
+14.868,55 euros.
+
+RESPUESTA G:
+14.480,07 euros.
+
+RESPUESTA H:
+16.135,07 euros.
+
+SOLUCION: RESPUESTA H
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04019
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de un único vehículo diésel cuya capacidad es de 48 asientos en total. El vehículo, que dispone de asiento específico para el guía, fue adquirido nuevo hace cuatro años por el precio de 46.000 euros y su valor residual se estima nulo.
+Para desarrollar la actividad tiene contratado a un conductor con media jornada. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.
+Este transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva.
+Calcule el rendimiento neto de módulos que resultará antes de efectuar la reducción del 5 % contemplada por la normativa, si aplica la amortización mínima prevista en la tabla oficial, teniendo en cuenta la siguiente información: -Valor de los módulos computables      -Persona asalariada: 2.981,02 euros   -Persona no asalariada: 16.016,97 euros   -Asiento: 121,40 euros   -Amortización de vehículos      -Coeficiente lineal máximo: 25 %   -Período máximo: 8 años  
+
+
+RESPUESTA A:
+7.347,48 euros.
+
+RESPUESTA B:
+6.510,95 euros.
+
+RESPUESTA C:
+9.576,19 euros.
+
+RESPUESTA D:
+9.333,39 euros.
+
+RESPUESTA E:
+10.823,90 euros.
+
+RESPUESTA F:
+7.509,12 euros.
+
+RESPUESTA G:
+566,71 euros.
+
+RESPUESTA H:
+3.583,39 euros.
+
+SOLUCION: RESPUESTA A
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04020
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de los siguientes vehículos diésel, todos ellos adquiridos nuevos y cuyo valor residual se estima nulo:  
+  	  	Precio de adquisición  	Antigüedad al inicio del ejercicio  
+  	Vehículo 1  	37.500  	17 años  
+  	Vehículo 2  	40.700  	16 años  
+  	Vehículo 3  	42.000  	15 años  
+  	Vehículo 4  	43.500  	11 años  
+  	Vehículo 5  	39.800  	10 años  
+  	Vehículo 6  	45.200  	5 años 
+Los resultados de la empresa arrojan los siguientes datos en el primer trimestre del ejercicio: -Ingresos: 105.000 euros -Gastos: 62.000 euros
+Los gastos indicados no incluyen amortizaciones, provisiones ni gastos de difícil justificación.
+Este transportista determina el rendimiento, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación directa simplificada, en el cual las condiciones de amortización de los elementos de transporte son las siguientes: -Coeficiente lineal máximo: 16 % -Período máximo: 14 años
+Este empresario tuvo en el ejercicio anterior un rendimiento neto de actividades económicas de 95.400 euros, y no destina ninguna cantidad a la adquisición o rehabilitación de su vivienda habitual.
+Indique a cuánto asciende el pago fraccionado que deberá efectuar en el primer trimestre, si viene aplicando la amortización máxima permitida, pero no utiliza a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión previstos en la Ley del Impuesto sobre Sociedades.
+
+
+RESPUESTA A:
+1.438,69 euros.
+
+RESPUESTA B:
+7.838,40 euros.
+
+RESPUESTA C:
+1.514,40 euros.
+
+RESPUESTA D:
+7.572 euros.
+
+RESPUESTA E:
+7.972 euros.
+
+RESPUESTA F:
+1.594,40 euros.
+
+RESPUESTA G:
+1.079,01 euros.
+
+RESPUESTA H:
+0 euros.
+
+SOLUCION: RESPUESTA B
+
+NORMA: Ley 35/2006, art. 30; RD 439/2007, art. 30; RD 439/2007, art. 110
+
+
+COD: 2D04021
+PREGUNTA:
+
+Un transportista de viajeros en autocar presenta los siguientes resultados en el primer y segundo trimestre del ejercicio:  
+  	  	Primer trimestre  	Segundo trimestre  
+  	Ingresos  	105.000  	123.000  
+  	Gastos totales  	62.000  	65.400  
+  	Provisiones  	6.400  	3.200  
+  	Gastos de difícil justificación  	2.000  	2.000 
+Este transportista, que determina el rendimiento, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación directa simplificada, tuvo en el ejercicio anterior un rendimiento neto de actividades económicas de 95.400 euros y no destina ninguna cantidad a la adquisición o rehabilitación de su vivienda habitual.
+Indique a cuánto ascienden los pagos fraccionados que deberá efectuar en el primer y segundo trimestre.
+
+
+RESPUESTA A:
+Primer trimestre: 1.482 euros. Segundo trimestre: 2.124 euros.
+
+RESPUESTA B:
+Primer trimestre: 1.976 euros. Segundo trimestre: 2.304 euros.
+
+RESPUESTA C:
+Primer trimestre: 9.880 euros. Segundo trimestre: 12.560 euros.
+
+RESPUESTA D:
+Primer trimestre: 1.482 euros. Segundo trimestre: 2.230 euros.
+
+RESPUESTA E:
+Primer trimestre: 9.880 euros. Segundo trimestre: 12.160 euros.
+
+RESPUESTA F:
+Primer trimestre: 1.976 euros. Segundo trimestre: 2.280 euros.
+
+RESPUESTA G:
+Primer trimestre: 8.200 euros. Segundo trimestre: 11.520 euros.
+
+RESPUESTA H:
+Primer trimestre: 6.520 euros. Segundo trimestre: 9.570 euros.
+
+SOLUCION: RESPUESTA C
+
+NORMA: Ley 35/2006, art. 30; RD 439/2007, art. 30; RD 439/2007, art. 110
+
+
+COD: 2D04022
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de los siguientes vehículos diésel, todos ellos adquiridos nuevos y cuyo valor residual se estima nulo:  
+  	  	Precio de adquisición  	Antigüedad al inicio del ejercicio  
+  	Vehículo 1  	37.500  	10 años  
+  	Vehículo 2  	40.700  	10 años  
+  	Vehículo 3  	42.000  	9 años  
+  	Vehículo 4  	43.500  	7 años  
+  	Vehículo 5  	39.800  	7 años  
+  	Vehículo 6  	45.200  	5 años 
+Los resultados de la empresa arrojan los siguientes datos en el primer trimestre del ejercicio: -Ingresos: 105.000 euros -Provisiones: 5.800 euros -Otros gastos: 62.000 euros
+Los gastos indicados no incluyen amortizaciones.
+Este transportista determina el rendimiento, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación directa normal y amortiza según la tabla establecida en la ley, en la cual las condiciones para los vehículos son las siguientes: -Coeficiente lineal máximo: 16 % -Período máximo: 14 años
+Este empresario tuvo en el ejercicio anterior un rendimiento neto de actividades económicas de 95.400 euros, y no destina ninguna cantidad a la adquisición o rehabilitación de su vivienda habitual.
+Indique a cuánto asciende el pago fraccionado que deberá efectuar en el primer trimestre, si viene aplicando la amortización máxima permitida, pero no utiliza a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión previstos en la Ley del Impuesto sobre Sociedades.
+
+
+RESPUESTA A:
+665,60 euros.
+
+RESPUESTA B:
+1.129,60 euros.
+
+RESPUESTA C:
+897,60 euros.
+
+RESPUESTA D:
+4.488 euros.
+
+RESPUESTA E:
+5 648 euros.
+
+RESPUESTA F:
+7.078,40 euros.
+
+RESPUESTA G:
+5.248 euros.
+
+RESPUESTA H:
+0 euros.
+
+SOLUCION: RESPUESTA F
+
+NORMA: Ley 35/2006, art. 30; RD 439/2007, art. 110
+
+
+COD: 2D04023
+PREGUNTA:
+
+Un transportista de viajeros en autocar presenta los siguientes resultados en el primer y segundo trimestre del ejercicio:  
+  	  	Primer trimestre  	Segundo trimestre  
+  	Ingresos  	105.000  	123.000  
+  	Provisiones  	6.400  	3.200  
+  	Otros gastos  	62.000  	65.400 
+Este transportista, que determina el rendimiento, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación directa normal, tuvo en el ejercicio anterior un rendimiento neto de actividades económicas de 95.400 euros y no destina ninguna cantidad a la adquisición o rehabilitación de su vivienda habitual.
+Indique a cuánto ascienden los pagos fraccionados que deberá efectuar en el primer y segundo trimestre.
+
+
+RESPUESTA A:
+Primer trimestre: 1.464 euros. Segundo trimestre: 2.176 euros.
+
+RESPUESTA B:
+Primer trimestre: 1.976 euros. Segundo trimestre: 2.432 euros.
+
+RESPUESTA C:
+Primer trimestre: 1.976 euros. Segundo trimestre: 2.304 euros.
+
+RESPUESTA D:
+Primer trimestre: 7.320 euros. Segundo trimestre: 10.880 euros.
+
+RESPUESTA E:
+Primer trimestre: 9.880 euros. Segundo trimestre: 12.160 euros.
+
+RESPUESTA F:
+Primer trimestre: 9.880 euros. Segundo trimestre: 12.280 euros.
+
+RESPUESTA G:
+Primer trimestre: 1.464 euros. Segundo trimestre: 2.230 euros.
+
+RESPUESTA H:
+Primer trimestre: 7.320 euros. Segundo trimestre: 9.570 euros.
+
+SOLUCION: RESPUESTA D
+
+NORMA: Ley 35/2006, art. 30; RD 439/2007, art. 110
+
+
+COD: 2D04024
+PREGUNTA:
+
+Un transportista de viajeros en autocar dispone en su empresa de los vehículos diésel cuyas características, precio y fecha de puesta en servicio es la siguiente:  
+  	  	Asientos totales  	Precio de adquisición  	Antigüedad (años)  	Fecha puesta en servicio  
+  	Vehículo 1  	39  	37.500  	12  	01 marzo  
+  	Vehículo 2  	43  	40.700  	12  	16 abril  
+  	Vehículo 3  	48  	42.000  	0  	16 junio año actual  
+  	Vehículo 4  	42  	40.500  	0  	01 sept. año actual 
+Todos los vehículos fueron adquiridos nuevos y cuentan con plaza específica para guía. Su valor residual se estima nulo.
+Para desarrollar la actividad tiene contratados a cuatro conductores: tres con jornada completa y uno a media jornada. Además, él mismo, que sufre una incapacidad física del 25 %, trabaja media jornada en la empresa.
+Este transportista determina el rendimiento de su actividad, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva.
+Calcule el rendimiento neto minorado que resultará en el año actual, si aplica la amortización mínima contemplada en la tabla oficial, teniendo en cuenta la siguiente información: -Valor de los módulos computables      -Persona asalariada: 2.981,02 euros   -Persona no asalariada: 16.016,97 euros   -Asiento: 121,40 euros   -Amortización de vehículos      -Coeficiente lineal máximo: 25 %   -Período máximo: 8 años  
+
+
+RESPUESTA A:
+20.368,82 euros.
+
+RESPUESTA B:
+21.145,78 euros.
+
+RESPUESTA C:
+23.552,03 euros.
+
+RESPUESTA D:
+26.927,03 euros.
+
+RESPUESTA E:
+28.119,44 euros.
+
+RESPUESTA F:
+26.534,05 euros.
+
+RESPUESTA G:
+34.526,23 euros.
+
+RESPUESTA H:
+26.150,07 euros.
+
+SOLUCION: RESPUESTA F
+
+NORMA: OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04025
+PREGUNTA:
+
+D. Gerardo Sanz es titular de una empresa de transporte de viajeros en autocar, para el desempeño de la cual dispone de cuatro vehículos diésel en propiedad que adquirió nuevos. Con la finalidad de sustituirlos por otros de mayor capacidad, D. Gerardo decide vender dos de ellos, cuyos datos de adquisición, funcionamiento y venta son los siguientes:  
+  	  	Precio de adquisición  	Tiempo en funcionamiento  	Precio de venta  
+  	Vehículo 1  	51.200  	5 años y 3 meses  	25.600  
+  	Vehículo 2  	46.400  	4 años y 7 meses  	22.800 
+Los vehículos ahora vendidos se han venido amortizando todos los años al tipo mínimo contemplado en la tabla oficial.
+El Sr. Sanz determina el rendimiento de su actividad empresarial, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, en el cual la amortización de vehículos está sujeta a los siguientes parámetros: -Coeficiente lineal máximo: 25 % -Período máximo: 8 años
+Calcule la ganancia o pérdida patrimonial derivada de esta operación por la que se deberá tributar.
+
+
+RESPUESTA A:
+Pérdida de 49.200 euros.
+
+RESPUESTA B:
+Ganancia de 21.145,78 euros.
+
+RESPUESTA C:
+Ganancia de 10.983,33 euros. 
+
+RESPUESTA D:
+Ganancia de 23.816,66 euros. 
+
+RESPUESTA E:
+Ganancia de 26.927,03 euros. 
+
+RESPUESTA F:
+Ganancia de 71.166,66 euros. 
+
+RESPUESTA G:
+Ganancia de 48.400 euros.
+
+RESPUESTA H:
+Ganancia de 6.000 euros. 
+
+SOLUCION: RESPUESTA C
+
+NORMA: Ley 35/2006, art. 34; Ley 35/2006, art. 35; OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04026
+PREGUNTA:
+
+D. Raúl del Pozo es titular de una empresa de transporte de viajeros en autocar, para el desempeño de la cual dispone de seis vehículos diésel en propiedad, que adquirió nuevos. Con la finalidad de modernizar su flota, D. Raúl decide vender dos de ellos, los más antiguos, cuyos datos de adquisición, funcionamiento y venta son los siguientes:  
+  	  	Precio de adquisición  	Tiempo en funcionamiento  	Precio de venta  
+  	Vehículo 1  	58.500  	7 años y 3 meses  	25.600  
+  	Vehículo 2  	53.900  	3 años y 5 meses  	22.800 
+Los vehículos ahora vendidos se han venido amortizando todos los años al tipo máximo previsto en la tabla oficial, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión previstos en la Ley del Impuesto sobre Sociedades.
+El Sr. del Pozo determina el rendimiento de su actividad empresarial, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación directa simplificada, en el cual la amortización de vehículos está sujeta a los siguientes parámetros: -Coeficiente lineal máximo: 16 % -Período máximo: 14 años
+Calcule la ganancia o pérdida patrimonial derivada de esta operación por la que se deberá tributar.
+
+
+RESPUESTA A:
+Pérdida de 31.100 euros.
+
+RESPUESTA B:
+Ganancia de 28.996 euros.
+
+RESPUESTA C:
+Ganancia de 22.800 euros. 
+
+RESPUESTA D:
+Ganancia de 25.600 euros. 
+
+RESPUESTA E:
+Pérdida de 3.396 euros. 
+
+RESPUESTA F:
+Ganancia de 48.400 euros.
+
+RESPUESTA G:
+Pérdida de 64.000 euros. 
+
+RESPUESTA H:
+Ganancia de 23.965,33 euros.
+
+SOLUCION: RESPUESTA H
+
+NORMA: Ley 35/2006, art. 30; Ley 35/2006, art. 34; Ley 35/2006, art. 35
+
+
+COD: 2D04027
+PREGUNTA:
+
+D. Federico Barbero es titular de una empresa de transporte de viajeros en autocar, para el desempeño de la cual dispone de cuatro vehículos diésel en propiedad que adquirió nuevos. Tras cumplir 66 años, D. Federico decide jubilarse y vende los cuatro vehículos. Los datos de adquisición, funcionamiento y venta de los mismos son los siguientes:  
+  	  	Precio de adquisición  	Tiempo en funcionamiento  	Precio de venta  
+  	Vehículo 1  	37.500  	11 años y 5 meses  	12.000  
+  	Vehículo 2  	40.700  	10 años  	13.500  
+  	Vehículo 3  	43.000  	5 años y 6 meses  	24.600  
+  	Vehículo 4  	40.500  	4 años y 8 meses  	22.800 
+Los vehículos ahora vendidos se han venido amortizando todos los años al tipo mínimo contemplado en la tabla oficial.
+El Sr. Barbero determina el rendimiento de su actividad empresarial, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, en el cual la amortización de vehículos está sujeta a los siguientes parámetros: -Coeficiente lineal máximo: 25 % -Período máximo: 8 años
+En ese mismo año, esta persona vende la que había sido hasta entonces su vivienda habitual, pues ha decidido instalarse en otra vivienda que venía utilizando como vacacional. La vivienda enajenada había sido comprada hace veinticinco años por el precio de 145.000 euros, impuestos y gastos incluidos, y ha sido vendida ahora por un importe neto de 320.000 euros.
+Calcule la ganancia o pérdida patrimonial total derivada de estas operaciones por la que se deberá tributar.
+
+
+RESPUESTA A:
+Pérdida de 36.100 euros.
+
+RESPUESTA B:
+Ganancia de 42.587,50 euros. 
+
+RESPUESTA C:
+Ganancia de 21.462,5 euros. 
+
+RESPUESTA D:
+Pérdida de 88.800 euros. 
+
+RESPUESTA E:
+Ganancia de 17.087,50 euros.
+
+RESPUESTA F:
+Ganancia de 217.587,500 euros.
+
+RESPUESTA G:
+Ganancia de 192.087,50 euros. 
+
+RESPUESTA H:
+Ganancia de 86.200 euros. 
+
+SOLUCION: RESPUESTA B
+
+NORMA: Ley 35/2006, art. 33; Ley 35/2006, art. 34; OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04028
+PREGUNTA:
+
+D. Fernando Valencia es titular de una empresa de transporte de viajeros en autocar, para el desempeño de la cual dispone de cuatro vehículos diésel en propiedad que adquirió nuevos. A fin de renovar la flota con vehículos más modernos y de mayor capacidad, D. Fernando vende los cuatro vehículos que tenía. Los datos de adquisición, funcionamiento y venta de los mismos son los siguientes:  
+  	  	Precio de adquisición  	Tiempo en funcionamiento  	Precio de venta  
+  	Vehículo 1  	39.500  	11 años y 5 meses  	12.600  
+  	Vehículo 2  	43.700  	10 años  	13.500  
+  	Vehículo 3  	45.800  	4 años y 7 meses  	26.600  
+  	Vehículo 4  	42.500  	2 años y 11 meses  	29.800 
+Los vehículos ahora vendidos se han venido amortizando todos los años al tipo mínimo contemplado en la tabla oficial.
+El Sr. Valencia determina el rendimiento de su actividad empresarial, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación objetiva, en el cual la amortización de vehículos está sujeta a los siguientes parámetros: -Coeficiente lineal máximo: 25 % -Período máximo: 8 años
+En ese mismo año, D. Fernando y su cónyuge venden la que había sido hasta entonces su vivienda habitual, destinando el dinero obtenido a la adquisición de una nueva vivienda habitual, seis meses después. La vivienda enajenada era propiedad de ambos al 50 %, había sido comprada hace veinte años por el precio de 130.000 euros, impuestos y gastos incluidos, y ha sido vendida ahora por un importe neto de 275.000 euros.
+Calcule la ganancia o pérdida patrimonial total derivada de estas operaciones por la que deberá tributar el Sr. Valencia.
+
+
+RESPUESTA A:
+Pérdida de 89.000 euros.
+
+RESPUESTA B:
+Ganancia de 9.834,37 euros.
+
+RESPUESTA C:
+Ganancia de 35.934,37 euros. 
+
+RESPUESTA D:
+Pérdida de 16.500 euros. 
+
+RESPUESTA E:
+Ganancia de 108.434,37 euros. 
+
+RESPUESTA F:
+Ganancia de 180.934,37 euros.
+
+RESPUESTA G:
+Ganancia de 154.834,37 euros. 
+
+RESPUESTA H:
+Ganancia de 86.200 euros. 
+
+SOLUCION: RESPUESTA C
+
+NORMA: Ley 35/2006, art. 34; Ley 35/2006, art. 38; RD 439/2007, art. 41; RD 439/2007, 41 bis; OM HAC/1425/2025, Anexo II
+
+
+COD: 2D04029
+PREGUNTA:
+
+D. Antonio Alcázar es titular de una empresa de transporte de viajeros en autocar, cuya actividad le ha proporcionado en el ejercicio un rendimiento neto sujeto a tributación de 95.620 euros.
+Para el desempeño de su negocio dispone de seis vehículos diésel en propiedad, que adquirió nuevos. Con la finalidad de modernizar su flota, D. Antonio ha vendido en ese mismo ejercicio dos de ellos, cuyos datos de adquisición, funcionamiento y venta son los siguientes:  
+  	  	Precio de adquisición  	Tiempo en funcionamiento  	Precio de venta  
+  	Vehículo 1  	54.100  	8 años y meses  	23.600  
+  	Vehículo 2  	51.800  	4 años y 4 meses  	29.800 
+Los vehículos ahora vendidos se han venido amortizando todos los años al tipo máximo previsto en la tabla oficial, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión previstos en la Ley del Impuesto sobre Sociedades.
+El Sr. Alcázar determina el rendimiento de su actividad empresarial, a efectos del Impuesto sobre la Renta de las Personas Físicas, por el método de estimación directa simplificada, en el cual la amortización de vehículos está sujeta a los siguientes parámetros: -Coeficiente lineal máximo: 16 % -Período máximo: 14 años
+Por otra parte, D. Antonio Alcázar es titular de un depósito bancario de 25.000 euros que le proporciona un rendimiento anual del 0,5 %.
+Calcule la base imponible general y del ahorro de este contribuyente.
+
+
+RESPUESTA A:
+Base general: 95.620 euros; base del ahorro: 14.039,67 euros.
+
+RESPUESTA B:
+Base general: 95.620 euros; base del ahorro: 43.165 euros.
+
+RESPUESTA C:
+Base general: 138.660 euros; base del ahorro: 125 euros.
+
+RESPUESTA D:
+Base general: 95.620 euros; base del ahorro: 0 euros.
+
+RESPUESTA E:
+Base general: 95.620 euros; base del ahorro: 37.639,67 euros.
+
+RESPUESTA F:
+Base general: 43.370 euros; base del ahorro: 125 euros.
+
+RESPUESTA G:
+Base general: 109.534,67 euros; base del ahorro: 125 euros.
+
+RESPUESTA H:
+Base general: 133.134,67 euros; base del ahorro: 125 euros.
+
+SOLUCION: RESPUESTA E
+
+NORMA: Ley 35/2006, art. 15; Ley 35/2006, art. 25; Ley 35/2006, art. 34; Ley 35/2006, art. 35
+
+
+COD: 2D04030
+PREGUNTA:
+
+D. Jesús Ángel Pérez es titular de una empresa de transporte de viajeros por carretera cuya actividad le ha proporcionado en el ejercicio un rendimiento neto sujeto a tributación de 56.284 euros.
+Para el desempeño de su negocio dispone de tres vehículos diésel en propiedad que adquirió nuevos. Con la finalidad de modernizar su flota, D. Jesús Ángel ha vendido en ese mismo ejercicio uno de ellos. Esta venta le ha generado una ganancia patrimonial de 6.542 euros.
+Por otra parte, el Sr. Pérez es titular de un depósito bancario de 36.000 euros que le proporciona un rendimiento anual del 0,55 %. Asimismo, en el ejercicio en cuestión efectuó una aportación de 8.000 euros a su plan de pensiones individual.
+Calcule la base liquidable general y del ahorro de este contribuyente a efectos del Impuesto sobre la Renta de las Personas Físicas.
+
+
+RESPUESTA A:
+Base general: 95.620 euros; base del ahorro: 14.039,66 euros.
+
+RESPUESTA B:
+Base general: 62.826 euros; base del ahorro: 198 euros.
+
+RESPUESTA C:
+Base general: 62.826 euros; base del ahorro: 8.198 euros.
+
+RESPUESTA D:
+Base general: 48.284 euros; base del ahorro: 198 euros.
+
+RESPUESTA E:
+Base general: 54.784 euros; base del ahorro: 198 euros.
+
+RESPUESTA F:
+Base general: 56.284 euros; base del ahorro: 14.740 euros.
+
+RESPUESTA G:
+Base general: 54.784 euros; base del ahorro: 6.740 euros.
+
+RESPUESTA H:
+Base general: 54.826 euros; base del ahorro: 8.198 euros.
+
+SOLUCION: RESPUESTA G
+
+NORMA: Ley 35/2006, art. 15; Ley 35/2006, art. 51; Ley 35/2006, art. 52
+
+
+COD: 2D04031
+PREGUNTA:
+
+Autocares Paco, S.L., es una sociedad dedicada al transporte de viajeros por carretera, disponiendo para el desempeño de su actividad de seis vehículos diésel, todos ellos adquiridos nuevos, para los que se estima un valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal es el siguiente:  
+  	  	Precio de adquisición  	Tiempo de funcionamiento  
+  	Vehículo 1  	47.500  	12 años y 4 meses  
+  	Vehículo 2  	50.700  	10 años y 6 meses  
+  	Vehículo 3  	52.000  	9 años  
+  	Vehículo 4  	50.500  	6 años  
+  	Vehículo 5  	49.800  	5 años y 7 meses  
+  	Vehículo 6  	51.200  	4 años 
+El resultado contable corregido de Autocares Paco, S.L., antes de computar amortizaciones, es de 487.565 euros, y amortiza sus activos por el método de amortización lineal, en el que las condiciones previstas para los elementos de transporte son las siguientes: -Coeficiente lineal máximo: 16 % -Periodo máximo: 14 años
+Determine la base imponible que corresponde a esta sociedad a efectos del Impuesto sobre Sociedades, considerando que viene aplicando la amortización máxima permitida, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.
+
+
+RESPUESTA A:
+472.041 euros.
+
+RESPUESTA B:
+462.168,33 euros.
+
+RESPUESTA C:
+448.230 euros.
+
+RESPUESTA D:
+487.565 euros.
+
+RESPUESTA E:
+454.563,33 euros.
+
+RESPUESTA F:
+459.610 euros.
+
+RESPUESTA G:
+462.145 euros.
+
+RESPUESTA H:
+457.395 euros.
+
+SOLUCION: RESPUESTA A
+
+NORMA: Ley 27/2014, art. 10; Ley 27/2014, art. 12
+
+
+COD: 2D04032
+PREGUNTA:
+
+Una sociedad limitada dedicada al transporte de viajeros en autocar dispone para el desempeño de su actividad de seis vehículos diésel, todos ellos adquiridos nuevos, para los que se estima un valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal es el siguiente:  
+  	  	Precio de adquisición  	Tiempo de funcionamiento  
+  	Vehículo 1  	47.500  	12 años y 4 meses  
+  	Vehículo 2  	50.700  	6 años y 3 meses  
+  	Vehículo 3  	52.000  	6 años y 2 meses  
+  	Vehículo 4  	50.500  	6 años  
+  	Vehículo 5  	49.800  	5 años y 7 meses  
+  	Vehículo 6  	51.200  	4 años 
+El resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 321.200 euros, y amortiza sus activos por el método de amortización lineal, en el que las condiciones previstas para los elementos de transporte son las siguientes: -Coeficiente lineal máximo: 16 % -Periodo máximo: 14 años
+Determine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades, considerando que viene aplicando la amortización máxima permitida, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.
+
+
+RESPUESTA A:
+300.850 euros.
+
+RESPUESTA B:
+295.780 euros.
+
+RESPUESTA C:
+291.030 euros.
+
+RESPUESTA D:
+304.982,67 euros.
+
+RESPUESTA E:
+321.200 euros.
+
+RESPUESTA F:
+280.850 euros.
+
+RESPUESTA G:
+275.780 euros.
+
+RESPUESTA H:
+301.200 euros.
+
+SOLUCION: RESPUESTA D
+
+NORMA: Ley 27/2014, art. 10; Ley 27/2014, art. 12
+
+
+COD: 2D04033
+PREGUNTA:
+
+Una sociedad limitada dedicada al transporte de viajeros en autocar dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se estima un valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal es el siguiente:  
+  	  	Precio de adquisición  	Tiempo de funcionamiento  
+  	Vehículo 1  	49.000  	12 años y 4 meses  
+  	Vehículo 2  	51.100  	10 años  
+  	Vehículo 3  	52.400  	6 años y 5 meses  
+  	Vehículo 4  	51.500  	6 años  
+  	Vehículo 5  	47.800  	3 años y 2 meses 
+Cuenta, asimismo, con un inmueble en propiedad, destinado a oficina comercial, adquirido nuevo hace veinte años por el precio de 165.000 euros, de los cuales el 58 % corresponde al coste del suelo.
+El resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 287.150 euros, y amortiza sus activos por el método de amortización lineal, en el que las condiciones previstas son las siguientes: -Elementos de transporte      -Coeficiente lineal máximo: 16 %   -Periodo máximo: 14 años   -Edificios comerciales, administrativos y de servicios      -Coeficiente lineal máximo: 2 %   -Periodo máximo: 100 años  
+Determine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades, considerando que viene aplicando todos los años la amortización máxima permitida, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.
+
+
+RESPUESTA A:
+270.594 euros.
+
+RESPUESTA B:
+255.424 euros.
+
+RESPUESTA C:
+256.117 euros.
+
+RESPUESTA D:
+245.897 euros.
+
+RESPUESTA E:
+276.056 euros.
+
+RESPUESTA F:
+266.177 euros.
+
+RESPUESTA G:
+275.594 euros.
+
+RESPUESTA H:
+287.150 euros.
+
+SOLUCION: RESPUESTA E
+
+NORMA: Ley 27/2014, art. 10; Ley 27/2014, art. 12; RD 634/2015, art. 3
+
+
+COD: 2D04034
+PREGUNTA:
+
+Una sociedad limitada dedicada al transporte de viajeros en autocar dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se estima un valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  
+  	  	Precio de adquisición  	Tiempo de funcionamiento  
+  	Vehículo 1  	49.000  	7 años  
+  	Vehículo 2  	51.100  	5 años  
+  	Vehículo 3  	52.400  	4 años y 6 meses  
+  	Vehículo 4  	51.500  	4 años y 3 meses  
+  	Vehículo 5  	47.800  	2 años y 7 meses 
+Esta sociedad amortiza sus vehículos por el método de amortización lineal, en el que las condiciones previstas son las siguientes: -Elementos de transporte      -Coeficiente lineal máximo: 16 %   -Periodo máximo: 14 años  
+Asimismo, el día 1 de marzo ha comprado un maletín de herramientas nuevo cuyo coste fue de 285 euros.
+Las condiciones previstas en la norma para la amortización lineal de útiles y herramientas son las siguientes: -Coeficiente lineal máximo: 25 % -Periodo máximo: 8 años
+El resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 246.350 euros.
+Determine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades, considerando que viene aplicando todos los años la amortización máxima permitida, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.
+
+
+RESPUESTA A:
+235.087,50 euros.
+
+RESPUESTA B:
+213.617 euros.
+
+RESPUESTA C:
+235.016,25 euros.
+
+RESPUESTA D:
+235.028,13 euros.
+
+RESPUESTA E:
+246.350 euros.
+
+RESPUESTA F:
+234.802,50 euros.
+
+RESPUESTA G:
+223.765,63 euros.
+
+RESPUESTA H:
+246.350 euros.
+
+SOLUCION: RESPUESTA B
+
+NORMA: Ley 27/2014, art. 10; Ley 27/2014, art. 12
+
+
+COD: 2D04035
+PREGUNTA:
+
+Una sociedad anónima dedicada al transporte de viajeros en autocar dispone para el desempeño de su actividad de seis vehículos diésel, todos ellos adquiridos nuevos, para los que se estima una vida útil de diez años y valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal es el siguiente:  
+  	  	Precio de adquisición  	Tiempo de funcionamiento  
+  	Vehículo 1  	49.000  	5 años y 4 meses  
+  	Vehículo 2  	51.100  	5 años  
+  	Vehículo 3  	52.400  	4 años y 6 meses  
+  	Vehículo 4  	51.500  	4 años y 3 meses  
+  	Vehículo 5  	47.800  	2 años y 8 meses  
+  	Vehículo 6  	56.800  	2 años y 7 meses 
+El resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 288.620 euros y amortiza sus vehículos aplicando un porcentaje constante del 25 % sobre el valor pendiente.
+Determine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades.
+
+
+RESPUESTA A:
+263.053,55 euros.
+
+RESPUESTA B:
+288.620 euros.
+
+RESPUESTA C:
+211.470 euros.
+
+RESPUESTA D:
+220.470 euros.
+
+RESPUESTA E:
+248.620 euros.
+
+RESPUESTA F:
+252.493,39 euros.
+
+RESPUESTA G:
+253.784,53 euros.
+
+RESPUESTA H:
+273.784,53 euros.
+
+SOLUCION: RESPUESTA A
+
+NORMA: Ley 27/2014, art. 10; Ley 27/2014, art. 12
+
+
+COD: 2D04036
+PREGUNTA:
+
+Una sociedad anónima dedicada al transporte de viajeros en autocar dispone para el desempeño de su actividad de seis vehículos diésel, todos ellos adquiridos nuevos, para los que se estima una vida útil de diez años y valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal es el siguiente:  
+  	  	Precio de adquisición  	Tiempo de funcionamiento  
+  	Vehículo 1  	49.000  	5 años  
+  	Vehículo 2  	51.100  	5 años  
+  	Vehículo 3  	52.400  	4 años  
+  	Vehículo 4  	51.500  	4 años  
+  	Vehículo 5  	47.800  	2 años  
+  	Vehículo 6  	56.800  	2 años 
+El resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 212.600 euros y amortiza sus vehículos aplicando un porcentaje constante del 25 % sobre el valor pendiente.
+Determine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades.
+
+
+RESPUESTA A:
+135.450 euros.
+
+RESPUESTA B:
+0 euros.
+
+RESPUESTA C:
+197.890,63 euros.
+
+RESPUESTA D:
+183.733,42 euros.
+
+RESPUESTA E:
+200.600 euros.
+
+RESPUESTA F:
+146.650 euros.
+
+RESPUESTA G:
+212.600 euros.
+
+RESPUESTA H:
+170.120,50 euros.
+
+SOLUCION: RESPUESTA D
+
+NORMA: Ley 27/2014, art. 10; Ley 27/2014, art. 12
+
+
+COD: 2D04037
+PREGUNTA:
+
+Una sociedad anónima dedicada al transporte de viajeros en autocar dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se estima una vida útil de diez años y valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  
+  	  	Precio de adquisición  	Tiempo de funcionamiento  
+  	Vehículo 1  	49.000  	5 años y 3 meses  
+  	Vehículo 2  	51.100  	5 años y 2 meses  
+  	Vehículo 3  	52.400  	4 años y 7 meses  
+  	Vehículo 4  	51.500  	4 años  
+  	Vehículo 5  	47.800  	2 años y 11 meses 
+Esta sociedad amortiza sus vehículos aplicando un porcentaje constante del 25 % sobre el valor pendiente.
+Asimismo, el día 1 de abril compró un gato hidráulico nuevo cuyo coste fue de 250 euros, al que aplicará la amortización máxima permitida.
+Las condiciones previstas en la norma para la amortización lineal de útiles y herramientas son las siguientes: -Coeficiente lineal máximo: 25 % -Período máximo: 8 años
+El resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 225.940 euros.
+Determine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades.
+
+
+RESPUESTA A:
+207.325,01 euros.
+
+RESPUESTA B:
+207.340,63 euros.
+
+RESPUESTA C:
+225.690 euros.
+
+RESPUESTA D:
+225.893,13 euros.
+
+RESPUESTA E:
+207.263,82 euros.
+
+RESPUESTA F:
+225.877,50 euros.
+
+RESPUESTA G:
+225.940 euros.
+
+RESPUESTA H:
+207.387,51 euros.
+
+SOLUCION: RESPUESTA E
+
+NORMA: Ley 27/2014, art. 10; Ley 27/2014, art. 12
+
+
+COD: 2D04038
+PREGUNTA:
+
+Una sociedad limitada dedicada al transporte de viajeros en autocar dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se estima una vida útil de diez años y valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  
+  	  	Precio de adquisición  	Tiempo de funcionamiento  
+  	Vehículo 1  	49.000  	5 años  
+  	Vehículo 2  	51.100  	5 años  
+  	Vehículo 3  	52.400  	4 años  
+  	Vehículo 4  	51.500  	4 años  
+  	Vehículo 5  	47.800  	2 años 
+Esta sociedad amortiza sus vehículos aplicando el método de los números dígitos decrecientes, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.
+El resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 225.500 euros.
+Determine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades.
+
+
+RESPUESTA A:
+177.640,60 euros.
+
+RESPUESTA B:
+193.175,25 euros.
+
+RESPUESTA C:
+205.115 euros.
+
+RESPUESTA D:
+195.500 euros.
+
+RESPUESTA E:
+225.500 euros.
+
+RESPUESTA F:
+202.527,28 euros.
+
+RESPUESTA G:
+198.112,73 euros.
+
+RESPUESTA H:
+207.105,45 euros.
+
+SOLUCION: RESPUESTA G
+
+NORMA: Ley 27/2014, art. 10; Ley 27/2014, art. 12
+
+
+COD: 2D04039
+PREGUNTA:
+
+Una sociedad anónima dedicada al transporte de viajeros en autocar dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se estima una vida útil de diez años y valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  
+  	  	Precio de adquisición  	Tiempo de funcionamiento  
+  	Vehículo 1  	49.000  	8 años  
+  	Vehículo 2  	51.100  	6 años  
+  	Vehículo 3  	52.400  	5 años  
+  	Vehículo 4  	51.500  	4 años  
+  	Vehículo 5  	47.800  	2 años 
+Esta sociedad amortiza sus vehículos aplicando el método de los números dígitos crecientes, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.
+El resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 253.500 euros.
+Determine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades.
+
+
+RESPUESTA A:
+225.972,73 euros.
+
+RESPUESTA B:
+253.500 euros.
+
+RESPUESTA C:
+226.089,10 euros.
+
+RESPUESTA D:
+220.500 euros.
+
+RESPUESTA E:
+198.127,50 euros.
+
+RESPUESTA F:
+195.885 euros.
+
+RESPUESTA G:
+208.239,65 euros.
+
+RESPUESTA H:
+230.550,90 euros.
+
+SOLUCION: RESPUESTA A
+
+NORMA: Ley 27/2014, art. 10; Ley 27/2014, art. 12
+
+
+COD: 2D04040
+PREGUNTA:
+
+Una sociedad limitada dedicada al transporte de viajeros en autocar dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se estima una vida útil de diez años y valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  
+  	  	Precio de adquisición  	Tiempo de funcionamiento  
+  	Vehículo 1  	59.000  	8 años  
+  	Vehículo 2  	55.100  	5 años  
+  	Vehículo 3  	54.400  	4 años  
+  	Vehículo 4  	50.500  	3 años  
+  	Vehículo 5  	46.800  	2 años 
+Esta sociedad amortiza sus vehículos aplicando el método de los números dígitos decrecientes, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.
+Asimismo, el día 1 de junio ha comprado un gato hidráulico nuevo cuyo coste fue de 290 euros, al que aplicará la amortización máxima permitida.
+Las condiciones previstas en la norma para la amortización lineal de útiles y herramientas son las siguientes: -Coeficiente lineal máximo: 25 % -Periodo máximo: 8 años
+El resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 265.040 euros.
+Determine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades.
+
+
+RESPUESTA A:
+206.458,50 euros.
+
+RESPUESTA B:
+200.125 euros.
+
+RESPUESTA C:
+238.643,88 euros.
+
+RESPUESTA D:
+265.040 euros.
+
+RESPUESTA E:
+242.963,85 euros.
+
+RESPUESTA F:
+238.426,37 euros.
+
+RESPUESTA G:
+216.458,50 euros.
+
+RESPUESTA H:
+242.746,35 euros.
+
+SOLUCION: RESPUESTA F
+
+NORMA: Ley 27/2014, art. 10; Ley 27/2014, art. 12
+
+
+COD: 2D04041
+PREGUNTA:
+
+Una sociedad limitada dedicada al transporte de viajeros en autocar dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se estima una vida útil de diez años y valor residual nulo. Su coste de adquisición y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  
+  	  	Precio de adquisición  	Tiempo de funcionamiento  
+  	Vehículo 1  	59.000  	8 años  
+  	Vehículo 2  	55.100  	5 años  
+  	Vehículo 3  	54.400  	4 años  
+  	Vehículo 4  	50.500  	3 años  
+  	Vehículo 5  	46.800  	2 años 
+Esta sociedad amortiza sus vehículos aplicando el método de los números dígitos crecientes, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.
+Asimismo, el día 1 de diciembre ha comprado un gato hidráulico nuevo cuyo coste fue de 290 euros, al que aplicará la amortización máxima permitida.
+Las condiciones previstas en la norma para la amortización lineal de útiles y herramientas son las siguientes: -Coeficiente lineal máximo: 25 % -Periodo máximo: 8 años
+El resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 265.040 euros.
+
+
+RESPUESTA A:
+228.131,17 euros.
+
+RESPUESTA B:
+265.040 euros.
+
+RESPUESTA C:
+238.131.17 euros.
+
+RESPUESTA D:
+238.197,63 euros.
+
+RESPUESTA E:
+237.913,63 euros.
+
+RESPUESTA F:
+250.423,50 euros.
+
+RESPUESTA G:
+245.897,60 euros.
+
+RESPUESTA H:
+241.652,67 euros.
+
+SOLUCION: RESPUESTA E
+
+NORMA: Ley 27/2014, art. 10; Ley 27/2014, art. 12
+
+
+COD: 2D04042
+PREGUNTA:
+
+Una sociedad limitada dedicada al transporte de viajeros en autocar dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos usados, para los que se estima un valor residual nulo. Su coste de adquisición y tiempo de funcionamiento en la empresa al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  
+  	  	Precio de adquisición  	Tiempo de funcionamiento  
+  	Vehículo 1  	49.000  	6 años y 4 meses  
+  	Vehículo 2  	51.100  	5 años  
+  	Vehículo 3  	52.400  	2 años y 6 meses  
+  	Vehículo 4  	51.500  	2 años y 3 meses  
+  	Vehículo 5  	47.800  	1 año y 7 meses 
+Esta sociedad amortiza sus vehículos por el método de amortización lineal, en el que las condiciones previstas son las siguientes: -Elementos de transporte      -Coeficiente lineal máximo: 16 %   -Periodo máximo: 14 años  
+El resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 146.350 euros.
+Determine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades, considerando que viene aplicando todos los años la amortización máxima permitida, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.
+
+
+RESPUESTA A:
+97.806 euros.
+
+RESPUESTA B:
+106.154 euros.
+
+RESPUESTA C:
+107.806 euros.
+
+RESPUESTA D:
+97.154 euros.
+
+RESPUESTA E:
+146.350 euros.
+
+RESPUESTA F:
+114.574 euros.
+
+RESPUESTA G:
+122.078 euros.
+
+RESPUESTA H:
+102.078 euros.
+
+SOLUCION: RESPUESTA B
+
+NORMA: Ley 27/2014, art. 10; Ley 27/2014, art. 12; RD 634/2015, art. 4
+
+
+COD: 2D04043
+PREGUNTA:
+
+Una sociedad anónima dedicada al transporte de viajeros en autocar dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se prevé una vida útil de diez años. Su coste de adquisición, valor residual estimado y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  
+  	  	Precio de adquisición  	Valor residual estimado  	Tiempo de funcionamiento  
+  	Vehículo 1  	49.000  	5.600  	8 años  
+  	Vehículo 2  	51.100  	5.800  	6 años  
+  	Vehículo 3  	52.400  	6.400  	5 años  
+  	Vehículo 4  	51.500  	6.300  	4 años  
+  	Vehículo 5  	47.800  	4.500  	2 años 
+Esta sociedad amortiza sus vehículos aplicando el método de los números dígitos crecientes, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.
+El resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 203.500 euros.
+Determine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades.
+
+
+RESPUESTA A:
+179.143,64 euros.
+
+RESPUESTA B:
+175.972,75 euros.
+
+RESPUESTA C:
+164.148,50 euros.
+
+RESPUESTA D:
+186.940,65 euros.
+
+RESPUESTA E:
+175.500 euros.
+
+RESPUESTA F:
+179.500 euros.
+
+RESPUESTA G:
+200.500 euros.
+
+RESPUESTA H:
+203.500 euros.
+
+SOLUCION: RESPUESTA A
+
+NORMA: Ley 27/2014, art. 10; Ley 27/2014, art. 12; RD 634/2015, art. 3
+
+
+COD: 2D04044
+PREGUNTA:
+
+Una sociedad anónima dedicada al transporte de viajeros en autocar dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se prevé una vida útil de diez años. Su coste de adquisición, valor residual estimado y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  
+  	  	Precio de adquisición  	Valor residual estimado  	Tiempo de funcionamiento  
+  	Vehículo 1  	49.000  	5.600  	8 años  
+  	Vehículo 2  	51.100  	5.800  	6 años  
+  	Vehículo 3  	52.400  	6.400  	5 años  
+  	Vehículo 4  	51.500  	6.300  	4 años  
+  	Vehículo 5  	47.800  	4.500  	2 años 
+Esta sociedad amortiza sus vehículos aplicando el método de los números dígitos decrecientes, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.
+El resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 223.500 euros.
+Determine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades.
+
+
+RESPUESTA A:
+198.550,90 euros.
+
+RESPUESTA B:
+203.500 euros.
+
+RESPUESTA C:
+214.748,65 euros.
+
+RESPUESTA D:
+210.540 euros.
+
+RESPUESTA E:
+200.550,90 euros.
+
+RESPUESTA F:
+203.216,36 euros.
+
+RESPUESTA G:
+200.667,27 euros.
+
+RESPUESTA H:
+223.500 euros.
+
+SOLUCION: RESPUESTA F
+
+NORMA: Ley 27/2014, art. 10; Ley 27/2014, art. 12; RD 634/2015, art. 3
+
+
+COD: 2D04045
+PREGUNTA:
+
+Una sociedad anónima dedicada al transporte de viajeros en autocar dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos. Su coste de adquisición, valor residual estimado y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  
+  	  	Precio de adquisición  	Valor residual estimado  	Tiempo de funcionamiento  
+  	Vehículo 1  	49.000  	5.600  	8 años  
+  	Vehículo 2  	51.100  	5.800  	6 años  
+  	Vehículo 3  	52.400  	6.400  	5 años  
+  	Vehículo 4  	51.500  	6.300  	4 años  
+  	Vehículo 5  	47.800  	4.500  	2 años 
+Esta sociedad amortiza sus vehículos por el método de amortización lineal, en el que las condiciones previstas son las siguientes: -Elementos de transporte      -Coeficiente lineal máximo: 16 %   -Período máximo: 14 años  
+El resultado contable corregido de esta sociedad, antes de computar amortizaciones, es de 205.470 euros.
+Determine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades, considerando que viene aplicando todos los años la amortización máxima permitida, sin utilizar a estos efectos los incentivos fiscales del régimen especial de entidades de reducida dimensión.
+
+
+RESPUESTA A:
+169.758 euros.
+
+RESPUESTA B:
+176.702 euros.
+
+RESPUESTA C:
+165.182 euros.
+
+RESPUESTA D:
+173.022 euros.
+
+RESPUESTA E:
+182.138 euros.
+
+RESPUESTA F:
+181.198 euros.
+
+RESPUESTA G:
+190.138 euros.
+
+RESPUESTA H:
+184.758 euros.
+
+SOLUCION: RESPUESTA E
+
+NORMA: Ley 27/2014, art. 10; Ley 27/2014, art. 12; RD 634/2015, art. 3
+
+
+COD: 2D04046
+PREGUNTA:
+
+Una sociedad anónima dedicada al transporte de viajeros en autocar dispone para el desempeño de su actividad de cinco vehículos diésel, todos ellos adquiridos nuevos, para los que se prevé una vida útil de diez años. Su coste de adquisición, valor residual estimado y tiempo de funcionamiento al inicio del ejercicio fiscal, que coincide con el año natural, es el siguiente:  
+  	  	Precio de adquisición  	Valor residual estimado  	Tiempo de funcionamiento  
+  	Vehículo 1  	49.000  	5.600  	5 años  
+  	Vehículo 2  	51.100  	5.800  	5 años  
+  	Vehículo 3  	52.400  	6.400  	4 años  
+  	Vehículo 4  	51.500  	6.300  	4 años  
+  	Vehículo 5  	47.800  	4.500  	2 años 
+Esta sociedad amortiza sus vehículos aplicando un porcentaje constante del 25 % sobre el valor pendiente.
+El resultado contable corregido, antes de computar amortizaciones, es de 205.140 euros.
+Determine la base imponible que le corresponde a efectos del Impuesto sobre Sociedades.
+
+
+RESPUESTA A:
+186.325,50 euros.
+
+RESPUESTA B:
+186.574,64 euros.
+
+RESPUESTA C:
+180.260,90 euros.
+
+RESPUESTA D:
+184.574,66 euros.
+
+RESPUESTA E:
+190.780 euros.
+
+RESPUESTA F:
+200.780 euros.
+
+RESPUESTA G:
+168.325,50 euros.
+
+RESPUESTA H:
+184.260,90 euros.
+
+SOLUCION: RESPUESTA B
+
+NORMA: Ley 27/2014, art. 10; Ley 27/2014, art. 12; RD 634/2015, art. 3
+
+
+COD: 2D04047
+PREGUNTA:
+
+Una sociedad anónima dedicada al transporte de viajeros en autocar registra, entre otros, los siguientes datos en su cuenta de pérdidas y ganancias:  
+  	Importe neto de la cifra de negocios  	247.800  
+  	 Prestaciones de servicios  	247.800  
+  	Aprovisionamientos  	-75.700  
+  	Gastos de personal  	-99.240  
+  	Otros gastos de explotación  	-35.100  
+  	Amortización del inmovilizado  	-24.840  
+  	Ingresos financieros  	1.870 
+La amortización del inmovilizado se ha calculado aplicando los coeficientes de amortización lineal contemplados en la Ley del Impuesto sobre Sociedades.
+En el apartado Otros gastos de explotación se han contabilizado 4.300 euros pagados en concepto de sanciones por infracción de la normativa de transporte.
+Determine la cuota íntegra del Impuesto sobre Sociedades que resulta de estos datos, considerando que la sociedad tributa al tipo general, no puede aplicar los incentivos fiscales del régimen especial de entidades de reducida dimensión y en el periodo impositivo inmediato anterior el importe neto de su cifra de negocios fue de 12.400.000 euros.
+
+
+RESPUESTA A:
+4.772,50 euros.
+
+RESPUESTA B:
+3.697,50 euros.
+
+RESPUESTA C:
+3.818 euros.
+
+RESPUESTA D:
+2.098 euros.
+
+RESPUESTA E:
+2.958 euros.
+
+RESPUESTA F:
+5.727 euros.
+
+RESPUESTA G:
+4.437 euros.
+
+RESPUESTA H:
+2.622,50 euros.
+
+SOLUCION: RESPUESTA A
+
+NORMA: Ley 27/2014, art. 15; Ley 27/2014, art. 29; Ley 27/2014, art. 30
+
+
+COD: 2D04048
+PREGUNTA:
+
+Una sociedad anónima dedicada al transporte de viajeros en autocar registra, entre otros, los siguientes datos en su cuenta de pérdidas y ganancias:  
+  	Importe neto de la cifra de negocios  	368.120  
+  	 Prestaciones de servicios  	368.120  
+  	Aprovisionamientos  	-102.568  
+  	Gastos de personal  	-136.247  
+  	Otros gastos de explotación  	-43.892  
+  	Amortización del inmovilizado  	-35.400  
+  	Ingresos financieros  	2.458 
+La amortización del inmovilizado se ha calculado aplicando los coeficientes de amortización lineal contemplados en la Ley del Impuesto sobre Sociedades.
+En el apartado Otros gastos de explotación se han contabilizado 3.600 euros correspondientes a una donación efectuada a Cruz Roja.
+Determine la cuota íntegra del Impuesto sobre Sociedades que resulta de estos datos, considerando que la sociedad tributa al tipo general, no puede aplicar los incentivos fiscales del régimen especial de entidades de reducida dimensión y en el periodo impositivo inmediato anterior el importe neto de su cifra de negocios fue de 12.400.000 euros.
+
+
+RESPUESTA A:
+16.821,30 euros.
+
+RESPUESTA B:
+15.741,30 euros.
+
+RESPUESTA C:
+10.494,20 euros.
+
+RESPUESTA D:
+11.214,20 euros.
+
+RESPUESTA E:
+14.661,30 euros.
+
+RESPUESTA F:
+14.017,75 euros.
+
+RESPUESTA G:
+13.117,75 euros.
+
+RESPUESTA H:
+12.217,75 euros.
+
+SOLUCION: RESPUESTA F
+
+NORMA: Ley 27/2014, art. 15; Ley 27/2014, art. 29; Ley 27/2014, art. 30
+
+
+COD: 2D04049
+PREGUNTA:
+
+Una sociedad anónima dedicada al transporte de viajeros en autocar registra, entre otros, los siguientes datos en su cuenta de pérdidas y ganancias:  
+  	Importe neto de la cifra de negocios  	489.620  
+  	 Prestaciones de servicios  	489.620  
+  	Aprovisionamientos  	-110.456  
+  	Gastos de personal  	-135.820  
+  	Otros gastos de explotación  	-57.601  
+  	Amortización del inmovilizado  	-49.235  
+  	Ingresos financieros  	5.620 
+La amortización del inmovilizado se ha calculado aplicando los coeficientes de amortización lineal contemplados en la Ley del Impuesto sobre Sociedades.
+Por otro lado, en la memoria anual se contempla la distribución en ese ejercicio de 20.500 euros a los accionistas de la sociedad en concepto de dividendos.
+Determine la cuota íntegra del Impuesto sobre Sociedades que resulta de estos datos, considerando que la sociedad tributa al tipo general, no puede aplicar los incentivos fiscales del régimen especial de entidades de reducida dimensión y en el periodo impositivo inmediato anterior el importe neto de su cifra de negocios fue de 12.400.000 euros.
+
+
+RESPUESTA A:
+5.125 euros.
+
+RESPUESTA B:
+35.532 euros.
+
+RESPUESTA C:
+6.150 euros.
+
+RESPUESTA D:
+24.325,60 euros.
+
+RESPUESTA E:
+32.525,60 euros.
+
+RESPUESTA F:
+28.425,60 euros.
+
+RESPUESTA G:
+40.657 euros.
+
+RESPUESTA H:
+30.407 euros.
+
+SOLUCION: RESPUESTA B
+
+NORMA: Ley 27/2014, art. 15; Ley 27/2014, art. 29; Ley 27/2014, art. 30
+
+
+COD: 2D04050
+PREGUNTA:
+
+Una sociedad anónima dedicada al transporte de viajeros en autocar registra, entre otros, los siguientes datos en su cuenta de pérdidas y ganancias:  
+  	Importe neto de la cifra de negocios  	674.326  
+  	Prestaciones de servicios  	674.326  
+  	Aprovisionamientos  	-151.357  
+  	Gastos de personal  	-205.690  
+  	Otros gastos de explotación  	-94.100  
+  	Amortización del inmovilizado  	-56.840  
+  	Ingresos financieros  	8.952 
+La amortización del inmovilizado se ha calculado aplicando los coeficientes de amortización lineal contemplados en la Ley del Impuesto sobre Sociedades.
+Por otro lado, en el ejercicio fiscal anterior la sociedad tuvo unos beneficios de 120.540 euros y en el acuerdo de aplicación de resultados se decidió destinar el 45 % de los mismos a incrementar los fondos propios.
+Determine la cuota íntegra del Impuesto sobre Sociedades que resulta de estos datos, considerando que la sociedad tributa al tipo general, la plantilla media de la empresa no ha aumentado en el periodo impositivo, no puede aplicar los incentivos fiscales del régimen especial de entidades de reducida dimensión y en el periodo impositivo inmediato anterior el importe neto de su cifra de negocios fue de 12.400.000 euros.
+
+
+RESPUESTA A:
+35.058,20 euros.
+
+RESPUESTA B:
+24.209,60 euros.
+
+RESPUESTA C:
+30.262 euros.
+
+RESPUESTA D:
+33973,34 euros.
+
+RESPUESTA E:
+50.960,01 euros.
+
+RESPUESTA F:
+52.587,30 euros.
+
+RESPUESTA G:
+43.822,75 euros.
+
+RESPUESTA H:
+41.110,60 euros.
+
+SOLUCION: RESPUESTA H
+
+NORMA: Ley 27/2014, art. 25; Ley 27/2014, art. 29; Ley 27/2014, art. 30
+
+
+COD: 2D04051
+PREGUNTA:
+
+Una sociedad limitada dedicada al transporte de viajeros en autocar registra, entre otros, los siguientes datos en su cuenta de pérdidas y ganancias:  
+  	Importe neto de la cifra de negocios  	1.548.623  
+  	 Prestaciones de servicios  	1.548.623  
+  	Aprovisionamientos  	-296.320  
+  	Gastos de personal  	-447.965  
+  	Otros gastos de explotación  	-305.400  
+  	Amortización del inmovilizado  	-167.230  
+  	Ingresos financieros  	24.985 
+La amortización del inmovilizado se ha calculado aplicando los coeficientes de amortización lineal contemplados en la Ley del Impuesto sobre Sociedades.
+Por otro lado, en el ejercicio fiscal anterior la sociedad registró una base imponible negativa de 305.584 euros.
+Determine la cuota íntegra del Impuesto sobre Sociedades que resulta de estos datos, considerando que la sociedad tributa al tipo general, no puede aplicar los incentivos fiscales del régimen especial de entidades de reducida dimensión y en el periodo impositivo inmediato anterior el importe neto de su cifra de negocios fue de 12.400.000 euros.
+
+
+RESPUESTA A:
+21.401,58 euros.
+
+RESPUESTA B:
+32.102,37 euros.
+
+RESPUESTA C:
+15 332,70 euros.
+
+RESPUESTA D:
+10221,80 euros.
+
+RESPUESTA E:
+12.777,25 euros.
+
+RESPUESTA F:
+71.338,60 euros.
+
+RESPUESTA G:
+26.751,97 euros.
+
+RESPUESTA H:
+89.173,25 euros.
+
+SOLUCION: RESPUESTA E
+
+NORMA: Ley 27/2014, art. 26; Ley 27/2014, art. 29; Ley 27/2014, art. 30
+
+
+COD: 2D04052
+PREGUNTA:
+
+Una sociedad limitada de reciente creación, dedicada al transporte de viajeros en autocar, registra, entre otros, los siguientes datos en la cuenta de pérdidas y ganancias correspondiente a su primer año de funcionamiento:  
+  	Importe neto de la cifra de negocios  	350.800  
+  	Prestaciones de servicios  	350.800  
+  	Aprovisionamientos  	-79.700  
+  	Gastos de personal  	-99.240  
+  	Otros gastos de explotación  	-35.100  
+  	Amortización del inmovilizado  	-45.840  
+  	Ingresos financieros  	270 
+La amortización del inmovilizado se ha calculado aplicando los coeficientes de amortización lineal contemplados en la Ley del Impuesto sobre Sociedades.
+En el apartado Otros gastos de explotación se han contabilizado 1.200 euros pagados en concepto de sanciones por infracción de la normativa de transporte.
+Determine la cuota íntegra del Impuesto sobre Sociedades que resulta de estos datos, considerando que la sociedad no aplica los incentivos fiscales del régimen especial de entidades de reducida dimensión.
+
+
+RESPUESTA A:
+22.497,50 euros.
+
+RESPUESTA B:
+22.797,50 euros.
+
+RESPUESTA C:
+23.097,50 euros.
+
+RESPUESTA D:
+13.678,50 euros.
+
+RESPUESTA E:
+13.498,50 euros.
+
+RESPUESTA F:
+13.858,50 euros.
+
+RESPUESTA G:
+17.998 euros.
+
+RESPUESTA H:
+18.238 euros.
+
+SOLUCION: RESPUESTA F
+
+NORMA: Ley 27/2014, art. 15; Ley 27/2014, art. 29; Ley 27/2014, art. 30
+
+
+COD: 2D04053
+PREGUNTA:
+
+Una sociedad limitada dedicada al transporte regular de viajeros en autocar, cuyo ejercicio fiscal coincide con el año natural, registra, entre otros, los siguientes datos en su cuenta de pérdidas y ganancias:  
+  	Importe neto de la cifra de negocios  	5.478.650  
+  	Prestaciones de servicios  	5.478.650  
+  	Aprovisionamientos  	-1.020.369  
+  	Gastos de personal  	-1.989.200  
+  	Otros gastos de explotación  	-547.058  
+  	Amortización del inmovilizado  	-397.250  
+  	Ingresos financieros  	38.985 
+La amortización del inmovilizado se ha calculado aplicando los coeficientes de amortización lineal contemplados en la Ley del Impuesto sobre Sociedades.
+Esta empresa ha contratado en este ejercicio a cinco trabajadores con discapacidad del 50 % y a otros dos con discapacidad del 68 %, incrementando el promedio de trabajadores con discapacidad superior al 33 % e inferior al 65 % en tres personas/año, y el promedio de trabajadores con discapacidad superior al 65 % en dos personas/año.
+Determine la cuota íntegra del Impuesto sobre Sociedades que resulta de estos datos, considerando que la sociedad tributa al tipo general, no puede aplicar los incentivos fiscales del régimen especial de entidades de reducida dimensión y en el periodo impositivo inmediato anterior el importe neto de su cifra de negocios fue de 12.400.000 euros.
+
+
+RESPUESTA A:
+312.751,60 euros.
+
+RESPUESTA B:
+339.939,50 euros.
+
+RESPUESTA C:
+261.751,60 euros.
+
+RESPUESTA D:
+469.127,40 euros.
+
+RESPUESTA E:
+418.127,40 euros.
+
+RESPUESTA F:
+321.939,50 euros.
+
+RESPUESTA G:
+243.751,60 euros.
+
+RESPUESTA H:
+390.939,50 euros.
+
+SOLUCION: RESPUESTA B
+
+NORMA: Ley 27/2014, art. 29; Ley 27/2014, art. 38; Ley 27/2014, art. 30
+
+
+COD: 2D04054
+PREGUNTA:
+
+Una sociedad limitada dedicada al transporte de viajeros en autocar, cuyo ejercicio fiscal coincide con el año natural, registra, entre otros, los siguientes datos en su cuenta de pérdidas y ganancias:  
+  	Importe neto de la cifra de negocios  	478.650  
+  	 Prestaciones de servicios  	478.650  
+  	Aprovisionamientos  	-90.369  
+  	Gastos de personal  	-158.200  
+  	Otros gastos de explotación  	-47.058  
+  	Ingresos financieros  	8.985 
+La sociedad ha adquirido en este mismo año dos vehículos diésel nuevos para el desempeño de su actividad, para los que se estima un valor residual nulo. Su precio y fecha de puesta en servicio son los siguientes:  
+  	  	Precio de adquisición  	Fecha de puesta en servicio  
+  	Vehículo 1  	49.000  	1 de marzo  
+  	Vehículo 2  	51.100  	1 de junio 
+La sociedad amortiza su inmovilizado por el método de amortización lineal, aplicando el coeficiente máximo permitido. Las tablas de amortización oficialmente aprobadas recogen las siguientes condiciones para los elementos de transporte: -Coeficiente lineal máximo: 16 % -Período máximo: 14 años.
+Las dotaciones para amortización, al margen de estos dos vehículos, ascienden en el año a 48.795 euros.
+La sociedad tuvo en el periodo impositivo inmediato anterior una cifra neta de negocios de 2.490.500 euros, mantiene una plantilla de seis trabajadores y no prevé su incremento en los próximos dos años.
+Determine la cuota íntegra del Impuesto sobre Sociedades que resulta de estos datos.
+
+
+RESPUESTA A:
+42.350,66 euros.
+
+RESPUESTA B:
+30.492,48 euros.
+
+RESPUESTA C:
+33.880,53 euros.
+
+RESPUESTA D:
+36.141,06 euros.
+
+RESPUESTA E:
+24.965,78 euros.
+
+RESPUESTA F:
+45.176,33 euros.
+
+RESPUESTA G:
+40.658,70 euros.
+
+RESPUESTA H:
+29.679,82 euros.
+
+SOLUCION: RESPUESTA E
+
+NORMA: Ley 27/2014, art. 29; Ley 27/2014, art. 101; Ley 27/2014, art. 103; Ley 27/2014, art. 105; Ley 27/2014, art. 30; Ley 27/2014, disposición transitoria cuadragésima cuarta
+
+
+COD: 2D04055
+PREGUNTA:
+
+Una sociedad limitada dedicada al transporte de viajeros en autocar registra, entre otros, los siguientes datos en la cuenta de pérdidas y ganancias:  
+  	Importe neto de la cifra de negocios  	896.731  
+  	Prestaciones de servicios  	896.731  
+  	Aprovisionamientos  	-295.745  
+  	Otros ingresos de explotación  	18.000  
+  	Gastos de personal  	-379.630  
+  	Otros gastos de explotación  	-87.623  
+  	Amortización del inmovilizado  	-67.500 
+Entre los ingresos se incluye una renta de 18.000 euros, derivada del arrendamiento de un local de negocio, sobre la que se le viene practicando la retención estipulada por la norma.
+La amortización del inmovilizado se ha calculado aplicando los coeficientes de amortización lineal contemplados en la Ley del Impuesto sobre Sociedades.
+Determine la cuota del Impuesto sobre Sociedades que resulta de estos datos, después de aplicar las deducciones que sean procedentes, considerando que la sociedad tributa al tipo general, no puede aplicar los incentivos fiscales del régimen especial de entidades de reducida dimensión y en el periodo impositivo inmediato anterior el importe neto de su cifra de negocios fue de 12.400.000 euros.
+
+
+RESPUESTA A:
+16.558,25 euros.
+
+RESPUESTA B:
+21.058,25 euros.
+
+RESPUESTA C:
+13.426,60 euros.
+
+RESPUESTA D:
+12.346,60 euros.
+
+RESPUESTA E:
+16.846,60 euros.
+
+RESPUESTA F:
+17.245 euros.
+
+RESPUESTA G:
+17.638,25 euros.
+
+RESPUESTA H:
+17.458,25 euros.
+
+SOLUCION: RESPUESTA G
+
+NORMA: Ley 27/2014, art. 29; Ley 27/2014, art. 128; RD 634/2015, art. 60; Ley 27/2014, art. 41; Ley 27/2014, art. 30
+
+
+COD: 2D04056
+PREGUNTA:
+
+Una sociedad anónima dedicada al transporte de viajeros en autocar, cuyo ejercicio fiscal coincide con el año natural, ha registrado, entre otros, los siguientes datos en la cuenta de pérdidas y ganancias:  
+  	Importe neto de la cifra de negocios  	462.042  
+  	Prestaciones de servicios  	462.042  
+  	Aprovisionamientos  	-105.745  
+  	Otros ingresos de explotación  	15.000  
+  	Gastos de personal  	-190.630  
+  	Otros gastos de explotación  	-82.623  
+  	Amortización del inmovilizado  	-27.500 
+La amortización del inmovilizado se ha calculado aplicando los coeficientes de amortización lineal contemplados en la Ley del Impuesto sobre Sociedades.
+Indique la cuantía del pago fraccionado que deberá efectuar en octubre del año siguiente por el Impuesto sobre Sociedades, considerando que la sociedad determina sus pagos fraccionados sobre la base de los resultados del período anterior (opción del artículo 40.2 de la Ley del Impuesto), tributa al tipo general, no puede aplicar los incentivos fiscales del régimen especial de entidades de reducida dimensión y en el periodo impositivo inmediato anterior a los aquí considerados el importe neto de su cifra de negocios fue de 12.400.000 euros.
+
+
+RESPUESTA A:
+3.527,20 euros.
+
+RESPUESTA B:
+3.174,48 euros.
+
+RESPUESTA C:
+2.821,76 euros.
+
+RESPUESTA D:
+3.174,48 euros.
+
+RESPUESTA E:
+2.539,58 euros.
+
+RESPUESTA F:
+3.809,37 euros.
+
+RESPUESTA G:
+4.232,64 euros.
+
+RESPUESTA H:
+4.409 euros.
+
+SOLUCION: RESPUESTA B
+
+NORMA: Ley 27/2014, art. 29; Ley 27/2014, art. 40; Ley 27/2014, art. 124; Ley 27/2014, art. 30
+
+

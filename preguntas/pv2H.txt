@@ -1,0 +1,2404 @@
+COD: 2H01001
+PREGUNTA: Como regla general, ¿durante cuánto tiempo puede conducir en España una persona titular de un permiso de conducción extranjero no expedido por un país de la UE o el EEE?
+A: Tres meses desde su entrada en España.
+B: Seis meses desde su entrada en España.
+C: Un año desde su entrada en España.
+D: No puede conducir en España si no convalida el permiso antes.
+SOLUCION: B
+NORMA: RD 818/2009, art. 21
+
+COD: 2H01002
+PREGUNTA: Como regla general, ¿durante cuánto tiempo puede conducir en España una persona titular de un permiso de conducción extranjero no expedido por un país de la UE o el EEE?
+A: Tres meses desde que obtenga permiso de residencia en España.
+B: Seis meses desde su entrada en España.
+C: Un año desde que obtenga permiso de residencia en España.
+D: No puede conducir en España, debe examinarse y obtener un permiso español.
+SOLUCION: B
+NORMA: RD 818/2009, art. 21
+
+COD: 2H01003
+PREGUNTA: Transcurrido el plazo de validez de un permiso extranjero, no UE ni EEE, ¿qué debe hacer su titular para poder seguir conduciendo en España?
+A: Debe examinarse y obtener un permiso español.
+B: Puede solicitar la prórroga de la validez de su permiso por seis meses más.
+C: Puede solicitar la prórroga de validez hasta un año más.
+D: Deber solicitar el canje de su permiso por su equivalente español.
+SOLUCION: D
+NORMA: RD 818/2009, art. 22
+
+COD: 2H01004
+PREGUNTA: En el permiso español procedente de un canje de un permiso extranjero no comunitario se hará constar…
+A: una validez reducida de tres años.
+B: la fecha de expedición del permiso extranjero.
+C: el hecho de que procede de un canje de permiso no comunitario.
+D: No tendrá ninguna mención especial.
+SOLUCION: C
+NORMA: RD 818/2009, art. 23
+
+COD: 2H01005
+PREGUNTA: ¿Qué documento puede sustituir temporalmente, cuando sea necesario, un permiso de circulación con los mismos efectos que este?
+A: Una licencia provisional.
+B: Un permiso provisional.
+C: Una autorización temporal.
+D: No existe ese tipo de documento.
+SOLUCION: C
+NORMA: RD 818/2009, art. 1
+
+COD: 2H01006
+PREGUNTA: ¿De cuántos permisos de conducción puede ser titular una persona?
+A: Uno por categoría de vehículo que esté habilitado para conducir.
+B: Dos, el propio de su país y otro temporal en el país donde resida más de seis meses continuados.
+C: Puede llegar a tener hasta tres si es titular del permiso ADR.
+D: Puede ser titular de dos si uno de ellos es el permiso ADR.
+SOLUCION: A
+NORMA: RD 818/2009, art. 1
+
+COD: 2H01007
+PREGUNTA: ¿Qué requisito es necesario para obtener un permiso de conducción?
+A: Ser nacional español o de un país de la UE.
+B: No ser titular de un permiso de conducción expedido en otro Estado miembro de la Unión Europea.
+C: No ser titular de otro permiso de conducción expedido por cualquier Estado firmante del Convenio de Viena.
+D: No haber obtenido otro permiso, de clase diferente, en el último año natural.
+SOLUCION: B
+NORMA: RD 818/2009, art. 7
+
+COD: 2H01008
+PREGUNTA: Los permisos de conducción expedidos en países de la UE o del EEE …
+A: deben ser convalidados para ser usados en España.
+B: son válidos en España, pero deben ser prorrogados cada dos años.
+C: son válidos en España, en las condiciones en que hubieran sido expedidos en su lugar de origen.
+D: solo son válidos en España los equivalentes a las clases B. C1 y D1.
+SOLUCION: C
+NORMA: RD 818/2009, art. 15
+
+COD: 2H01009
+PREGUNTA: Según el Reglamento General de Conductores, ¿qué permiso complementario necesitan los conductores de vehículos que realicen transporte escolar?
+A: Obtener una permiso especial que deben renovar cada 5 años.
+B: Obtener una permiso especial que se renueva automáticamente si no cometen infracciones graves o muy graves durante los dos años anteriores a su caducidad,
+C: Realizar un curso especial que imparte el Ministerio de Transportes.
+D: No necesitan obtener ningún permiso complementario especial que les habilite para ello.
+SOLUCION: D
+NORMA: RD 818/2009, art. 4
+
+COD: 2H01010
+PREGUNTA: ¿Qué período de vigencia tendrán los permisos de conducción de las clases D1 y D1+E cuando el titular tenga 25 años?
+A: 2 años.
+B: 3 años.
+C: 5 años.
+D: 10 años.
+SOLUCION: C
+NORMA: RD 818/2009, art. 12
+
+COD: 2H01011
+PREGUNTA: El permiso de conducción de la clase D+E solo podrá expedirse a los conductores que ya sean titulares de un permiso en vigor de la clase:
+A: B.
+B: D1.
+C: D.
+D: C.
+SOLUCION: C
+NORMA: RD 818/2009, art. 5
+
+COD: 2H01012
+PREGUNTA: El permiso de conducción de la clase D1+E solo podrá expedirse a los conductores que ya sean titulares de un permiso en vigor de la clase:
+A: B.
+B: D1.
+C: C1.
+D: C.
+SOLUCION: B
+NORMA: RD 818/2009, art. 5
+
+COD: 2H01013
+PREGUNTA: ¿Qué automóviles autoriza a conducir el permiso de la clase D1?
+A: Automóviles diseñados y construidos para el transporte de más de 16 pasajeros, además del conductor, y cuya longitud máxima no exceda de 8 metros.
+B: Automóviles diseñados y construidos para el transporte de no más de 16 pasajeros, además del conductor, y cuya longitud máxima no exceda de 8 metros.
+C: Automóviles diseñados y construidos para el transporte de no más de 16 pasajeros, además del conductor, y cuya longitud máxima exceda de 8 metros.
+D: Automóviles diseñados y construidos para el transporte de más de 16 pasajeros, además del conductor, y cuya longitud máxima exceda de 8 metros.
+SOLUCION: B
+NORMA: RD 818/2009, art. 4
+
+COD: 2H01014
+PREGUNTA: ¿Cuál será la edad mínima requerida para la obtención del permiso de conducción de la clase D si no se ha obtenido el CAP?
+A: 18 años.
+B: 24 años.
+C: 21 años.
+D: 20 años.
+SOLUCION: B
+NORMA: RD 818/2009, art. 4
+
+COD: 2H01015
+PREGUNTA: ¿Qué organismo será competente para expedir los permisos y licencias de conducción?
+A: El Ministerio de Transportes.
+B: Las Jefaturas Provinciales de Tráfico con las excepciones que se establezcan reglamentariamente.
+C: La Dirección General de la Guardia Civil.
+D: La Dirección General de la Policía.
+SOLUCION: B
+NORMA: RD 818/2009, art. 2
+
+COD: 2H01016
+PREGUNTA: ¿Cuál será la edad mínima requerida para la obtención del permiso de conducción de la clase D1+E si no se ha obtenido el CAP en la modalidad de cualificación inicial ordinaria?
+A: 21 años.
+B: 24 años.
+C: 18 años.
+D: 16 años.
+SOLUCION: A
+NORMA: RD 818/2009, art. 4
+
+COD: 2H01017
+PREGUNTA: ¿Cuál será la edad mínima requerida para la obtención del permiso de conducción de la clase D+E si no se ha obtenido el CAP?
+A: 21 años.
+B: 24 años.
+C: 18 años.
+D: 16 años.
+SOLUCION: B
+NORMA: RD 818/2009, art. 4
+
+COD: 2H01018
+PREGUNTA: Cualquier variación de los datos que figuran en el permiso o licencia de conducción deberá ser comunicada por el titular a la Jefatura Provincial de Tráfico dentro del plazo de:
+A: 10 días.
+B: 15 días.
+C: 20 días.
+D: 5 días.
+SOLUCION: B
+NORMA: RD 818/2009, art. 10
+
+COD: 2H01019
+PREGUNTA: ¿Qué vehículos autoriza a conducir el permiso de la clase D1+E?
+A: Conjuntos de vehículos acoplados compuestos por un vehículo tractor de los que autoriza a conducir el permiso de la clase D y un remolque cuya Masa Máxima Autorizada exceda de 750 kg.
+B: Conjuntos de vehículos acoplados compuestos por un vehículo tractor de los que autoriza a conducir el permiso de la clase D y un remolque cuya Masa Máxima Autorizada no exceda de 750 kg.
+C: Conjuntos de vehículos acoplados compuestos por un vehículo tractor de los que autoriza a conducir el permiso de la clase D1 y un remolque cuya Masa Máxima Autorizada exceda de 750 kg.
+D: Conjuntos de vehículos acoplados compuestos por un vehículo tractor de los que autoriza a conducir el permiso de la clase D1 y un remolque cuya Masa Máxima Autorizada exceda de 3.500 kg.
+SOLUCION: C
+NORMA: RD 818/2009, art. 4
+
+COD: 2H01020
+PREGUNTA: Señale la afirmación correcta.
+A: La obtención del permiso de las clases D y C implica la concesión del de las clases D+E y C1, respectivamente.
+B: La obtención del permiso de las clases C+E y D implica la concesión del de las clases C1 y D1, respectivamente.
+C: La obtención del permiso de las clases C y D implica la concesión del de las clases C1 y D1, respectivamente.
+D: La obtención del permiso de las clases C y D+E implica la concesión del de las clases C1 y D1, respectivamente.
+SOLUCION: C
+NORMA: RD 818/2009, art. 5
+
+COD: 2H01021
+PREGUNTA: Las pruebas de aptitud psicofísica tendrán por objeto dejar constancia de que no existe enfermedad o deficiencia que pueda suponer incapacidad para conducir asociada con:
+A: la capacidad neolectora.
+B: la capacidad intelectual.
+C: la posición socio-cultural.
+D: la capacidad visual y auditiva.
+SOLUCION: D
+NORMA: RD 818/2009, art. 43
+
+COD: 2H01022
+PREGUNTA: ¿A qué organismo se le deberá comunicar la variación de los datos que figuran en el permiso de conducción?
+A: A cualquier ITV.
+B: A la Jefatura Provincial de Tráfico correspondiente.
+C: A la Jefatura Central de Tráfico.
+D: Al Ayuntamiento de residencia del titular del permiso.
+SOLUCION: B
+NORMA: RD 818/2009, art. 10
+
+COD: 2H01023
+PREGUNTA: ¿En qué caso se podrán expedir duplicados del permiso de conducción?
+A: Siempre que lo solicite el titular, previo pago de la tasa.
+B: Cuando haya variación de algún dato de los que deben constar en el permiso.
+C: Solamente en caso de deterioro del original que lo haga ilegible.
+D: No existen los duplicados de permiso de conducción, solo las nuevas expediciones.
+SOLUCION: B
+NORMA: RD 818/2009, art. 11
+
+COD: 2H01024
+PREGUNTA: ¿En qué casos se podrán expedir duplicados del permiso de conducción?
+A: En cualquier caso, previa solicitud del interesado ante las Jefaturas Provinciales de Tráfico.
+B: Solamente en caso de deterioro del original.
+C: En los casos de sustracción, extravío o deterioro del original.
+D: En ningún caso.
+SOLUCION: C
+NORMA: RD 818/2009, art. 11
+
+COD: 2H01025
+PREGUNTA: ¿Qué período de vigencia tendrá el permiso de conducción de la clase D cuando el titular haya cumplido 66 años?
+A: 5 años.
+B: 3 años.
+C: 2 años.
+D: 1 año.
+SOLUCION: B
+NORMA: RD 818/2009, art. 12
+
+COD: 2H01026
+PREGUNTA: ¿Qué vehículos autoriza a conducir el permiso de la clase D+E?
+A: Conjuntos de vehículos acoplados compuestos por un vehículo tractor de los que autoriza a conducir el permiso de la clase D y un remolque cuya Masa Máxima Autorizada exceda de 750 kg.
+B: Conjuntos de vehículos acoplados compuestos por un vehículo tractor de los que autoriza a conducir el permiso de la clase D1 y un remolque cuya Masa Máxima Autorizada exceda de 750 kg.
+C: Conjuntos de vehículos acoplados compuestos por un vehículo tractor de los que autoriza a conducir el permiso de la clase D y un remolque cuya Masa Máxima Autorizada no exceda de 750 kg.
+D: Conjuntos de vehículos acoplados compuestos por un vehículo tractor de los que autoriza a conducir el permiso de la clase D y un remolque cuya Masa Máxima Autorizada exceda de 3.500 kg.
+SOLUCION: A
+NORMA: RD 818/2009, art. 4
+
+COD: 2H01027
+PREGUNTA: ¿Qué vehículos autoriza a conducir el permiso de la clase D?
+A: Automóviles diseñados y construidos para el transporte de más de 15 pasajeros, además del conductor.
+B: Automóviles diseñados y construidos para el transporte de más de 8 pasajeros, además del conductor.
+C: Automóviles diseñados y construidos para el transporte de hasta 8 pasajeros, además del conductor.
+D: Automóviles diseñados y construidos para el transporte de hasta 10 pasajeros, además del conductor.
+SOLUCION: B
+NORMA: RD 818/2009, art. 4
+
+COD: 2H01028
+PREGUNTA: ¿Qué requisitos son necesarios para obtener un permiso de conducción?
+A: Reunir las actitudes psíquicas requeridas en relación con la clase del permiso o licencia de conducción que se solicite.
+B: En el caso de extranjeros, acreditar la situación de residencia normal o estancia por estudios en España de, al menos, tres meses y haber cumplido la edad requerida.
+C: Reunir las actitudes físicas requeridas en relación con la clase del permiso o licencia de conducción que se solicite.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: RD 818/2009, art. 7
+
+COD: 2H01029
+PREGUNTA: ¿Qué período de vigencia tiene el permiso de conducir de la clase B si su titular tiene menos de 65 años?
+A: 5 años.
+B: 10 años.
+C: 4 años.
+D: 3 años.
+SOLUCION: B
+NORMA: RD 818/2009, art. 12
+
+COD: 2H01030
+PREGUNTA: ¿Qué documentos deben adjuntarse a la solicitud de duplicado del permiso de conducción?
+A: El permiso original cuando la causa de la solicitud sea por sustracción.
+B: Una fotografía del solicitante de 30 por 25 mm.
+C: El documento que acredite la variación de los datos que figuran en el permiso cuando la causa sea la variación de datos.
+D: El documento original acreditativo del código de identificación fiscal o CIF.
+SOLUCION: C
+NORMA: RD 818/2009, Anexo III.A y C
+
+COD: 2H01031
+PREGUNTA: La solicitud de prórroga de vigencia del permiso podrá presentarse:
+A: con una antelación máxima de dos meses a su fecha de caducidad, computándose desde esta última fecha el nuevo período de vigencia de la autorización. En supuestos excepcionales debidamente justificados, se podrá solicitar con una antelación mayor.
+B: con una antelación máxima de seis meses a su fecha de caducidad, computándose desde esta última fecha el nuevo período de vigencia de la autorización. En supuestos excepcionales debidamente justificados, se podrá solicitar con una antelación mayor.
+C: con una antelación mínima de tres meses a su fecha de caducidad, computándose desde esta última fecha el nuevo período de vigencia de la autorización. En supuestos excepcionales debidamente justificados, se podrá solicitar con una antelación menor.
+D: con una antelación máxima de tres meses a su fecha de caducidad, computándose desde esta última fecha el nuevo período de vigencia de la autorización. En supuestos excepcionales debidamente justificados, se podrá solicitar con una antelación mayor.
+SOLUCION: D
+NORMA: RD 818/2009, art. 13
+
+COD: 2H01032
+PREGUNTA: ¿Cuál será la edad mínima requerida para la obtención del permiso de conducción de la clase D+E cuando se haya obtenido el CAP previamente?
+A: 18 años.
+B: 24 años.
+C: 21 años.
+D: 20 años.
+SOLUCION: A
+NORMA: RD 818/2009, art. 4
+
+COD: 2H01033
+PREGUNTA: ¿Cuál será la edad mínima requerida para la obtención del permiso de conducción de la clase D cuando se haya obtenido el CAP previamente?
+A: 21 años.
+B: 24 años.
+C: 18 años.
+D: 16 años.
+SOLUCION: C
+NORMA: RD 818/2009, art. 4
+
+COD: 2H01034
+PREGUNTA: ¿Cuál será la edad mínima requerida para la obtención del permiso de conducción de la clase D1 si se ha obtenido previamente el CAP realizando la modalidad de cualificación inicial ordinaria?
+A: 21 años.
+B: 24 años.
+C: 18 años.
+D: 16 años.
+SOLUCION: C
+NORMA: RD 818/2009, art. 4
+
+COD: 2H01035
+PREGUNTA: Un conductor que haya obtenido el permiso de conducir de clase D a los 18 años no puede…
+A: efectuar transporte internacional.
+B: realizar un transporte escolar con un trayecto superior a 50 km.
+C: realizar un transporte regular con un trayecto superior a 100 km.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: RD 818/2009, art. 4
+
+COD: 2H01036
+PREGUNTA: Un conductor que haya obtenido el permiso de conducir de clase D+E a los 18 años no puede…
+A: efectuar transporte internacional.
+B: realizar un transporte escolar con un trayecto superior a 50 km.
+C: realizar un transporte regular con un trayecto superior a 100 km.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: RD 818/2009, art. 4
+
+COD: 2H01037
+PREGUNTA: Un conductor que tenga la edad de 20 años y que haya obtenido el permiso de conducir de clase D+E a los 18 años no puede…
+A: efectuar un transporte de menores con un trayecto superior a 200 km.
+B: realizar un transporte escolar con un trayecto superior a 50 km.
+C: realizar un transporte regular con un trayecto superior a 100 km.
+D: efectuar transporte internacional.
+SOLUCION: D
+NORMA: RD 818/2009, art. 4
+
+COD: 2H01038
+PREGUNTA: Un conductor que tenga la edad de 20 años y que haya obtenido el permiso de conducir de clase D a los 18 años no puede…
+A: efectuar un transporte de menores con un trayecto superior a 200 km.
+B: realizar un transporte escolar con un trayecto superior a 50 km.
+C: realizar un transporte regular con un trayecto superior a 100 km.
+D: efectuar transporte internacional.
+SOLUCION: D
+NORMA: RD 818/2009, art. 4
+
+COD: 2H01039
+PREGUNTA: ¿Cuál será la edad mínima requerida para la obtención del permiso de conducción de la clase D si se ha obtenido previamente el CAP realizando la modalidad de cualificación inicial acelerada?
+A: 24 años.
+B: 23 años.
+C: 21 años.
+D: 18 años.
+SOLUCION: C
+NORMA: RD 818/2009, art. 4
+
+COD: 2H01040
+PREGUNTA: ¿Cuál será la edad mínima requerida para la obtención del permiso de conducción de la clase D+E si se ha obtenido previamente el CAP realizando la modalidad de cualificación inicial acelerada?
+A: 24 años.
+B: 23 años.
+C: 21 años.
+D: 18 años.
+SOLUCION: C
+NORMA: RD 818/2009, art. 4
+
+COD: 2H01041
+PREGUNTA: ¿Cuál será la edad mínima requerida para la obtención del permiso de conducción de la clase D1+E si se ha obtenido previamente el CAP realizando la modalidad de cualificación inicial ordinaria?
+A: 21 años.
+B: 24 años.
+C: 18 años.
+D: 16 años.
+SOLUCION: C
+NORMA: RD 818/2009, art. 4
+
+COD: 2H01042
+PREGUNTA: Un conductor que haya obtenido el CAP realizando la modalidad de cualificación inicial acelerada y el permiso de conducir de clase D a los 21 años no puede…
+A: efectuar un transporte de menores con un trayecto superior a 200 km.
+B: realizar un transporte escolar con un trayecto superior a 50 km.
+C: realizar un transporte regular con un trayecto superior a 40 km.
+D: efectuar transporte internacional.
+SOLUCION: B
+NORMA: RD 818/2009, art. 4
+
+COD: 2H01043
+PREGUNTA: Un conductor que haya obtenido el CAP realizando la modalidad de cualificación inicial acelerada y el permiso de conducir de clase D+E a los 21 años no puede…
+A: efectuar un transporte de menores con un trayecto superior a 200 km.
+B: realizar un transporte escolar con un trayecto superior a 50 km.
+C: realizar un transporte regular con un trayecto superior a 40 km.
+D: efectuar transporte internacional.
+SOLUCION: B
+NORMA: RD 818/2009, art. 4
+
+COD: 2H02001
+PREGUNTA: ¿Cuál es la velocidad máxima a la que podrán circular los vehículos dedicados al transporte escolar por carretera convencional?
+A: 100 kilómetros/hora.
+B: 90 kilómetros/hora.
+C: 80 kilómetros/hora.
+D: 70 kilómetros/hora.
+SOLUCION: C
+NORMA: RD 443/2001, art. 9
+
+COD: 2H02002
+PREGUNTA: ¿Cuál es la velocidad máxima a la que pueden circular los vehículos que realicen transporte escolar o de menores en una autopista?
+A: 110 kilómetros/hora.
+B: 100 kilómetros/hora.
+C: 95 kilómetros/hora.
+D: 90 kilómetros/hora.
+SOLUCION: D
+NORMA: RD 443/2001, art. 9
+
+COD: 2H02003
+PREGUNTA: ¿Cuál es la velocidad máxima a la que pueden circular los vehículos que realicen transporte escolar o de menores en vías urbanas y travesías?
+A: 60 kilómetros/hora.
+B: 50 kilómetros/hora.
+C: 40 kilómetros/hora.
+D: 30 kilómetros/hora.
+SOLUCION: B
+NORMA: RD 443/2001, art. 9
+
+COD: 2H02004
+PREGUNTA: ¿Quiénes quedan obligados a someterse a las pruebas para la detección de posibles intoxicaciones por alcohol?
+A: Todos conductores de vehículos.
+B: Solo los conductores de vehículos con signos de embriaguez.
+C: Solo aquellos conductores que estén implicados directa o indirectamente en algún accidente.
+D: Solo aquellos conductores que estén implicados directamente en algún accidente.
+SOLUCION: A
+NORMA: RD 1428/2003, art. 21
+
+COD: 2H02005
+PREGUNTA: Por razones de fluidez del tráfico, la autoridad competente puede establecer…
+A: el seguimiento obligatorio de itinerarios concretos.
+B: la circulación en sentido opuesto al habitual .
+C: la prohibición del acceso a la vía a determinados usuarios.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: RD 1428/2003, art. 37
+
+COD: 2H02006
+PREGUNTA: ¿Se pueden establecer restricciones a la circulación por una carretera a vehículos con Masa Máxima Autorizada superior a 3.500 kilogramos?
+A: Sí, por razones climatológicas.
+B: Sí, cuando se prevea una elevada intensidad de tráfico.
+C: Solo en tramos urbanos.
+D: No, nunca.
+SOLUCION: B
+NORMA: RD 1428/2003, art. 37
+
+COD: 2H02007
+PREGUNTA: ¿Qué constituye un delito contra la seguridad vial?
+A: Conducir un vehículo en vía interurbana 40 km por encima de la velocidad permitida.
+B: Conducir un vehículo en vía urbana 50 km por encima de la velocidad permitida.
+C: Conducir un vehículo en vía urbana 60 km por encima de la velocidad permitida.
+D: Todas las respuestas son faltas administrativas.
+SOLUCION: C
+NORMA: Ley Orgánica 10/1995, art. 379
+
+COD: 2H02008
+PREGUNTA: ¿Qué constituye un delito contra la seguridad vial?
+A: Conducir un vehículo en vía interurbana 60 km por encima de la velocidad permitida.
+B: Conducir un vehículo en vía interurbana 80 km por encima de la velocidad permitida.
+C: Conducir un vehículo en vía urbana 40 km por encima de la velocidad permitida.
+D: Conducir un vehículo en vía urbana 50 km por encima de la velocidad permitida.
+SOLUCION: B
+NORMA: Ley Orgánica 10/1995, art. 379
+
+COD: 2H02009
+PREGUNTA: ¿Cuál es la tasa de alcohol en sangre a partir de la cual establece el Código Penal que un conductor ha cometido un delito contra la seguridad vial?
+A: 1 gr/l.
+B: 1,2 gr/l.
+C: 1,5 gr/l.
+D: 1,8 gr/l.
+SOLUCION: B
+NORMA: Ley Orgánica 10/1995, art. 379
+
+COD: 2H02010
+PREGUNTA: Conducir un vehículo con temeridad manifiesta, sin poner en peligro concreto la vida o integridad de las personas, ¿es un delito contra la seguridad vial?
+A: Sí, es un delito.
+B: No, es una falta penal.
+C: No, es una falta administrativa muy grave.
+D: No, es una falta administrativa grave.
+SOLUCION: A
+NORMA: Ley Orgánica 10/1995, art. 381
+
+COD: 2H02011
+PREGUNTA: Colocar en una vía un obstáculo imprevisto que altera la seguridad del tráfico:
+A: es una falta administrativa muy grave.
+B: es una falta administrativa grave.
+C: es un delito contra la seguridad del tráfico.
+D: Ninguna de las respuestas es correcta.
+SOLUCION: C
+NORMA: Ley Orgánica 10/1995, art. 385
+
+COD: 2H02012
+PREGUNTA: Cuando se circule por carriles reversibles…
+A: los conductores deberán llevar encendida la luz de corto alcance o de cruce, tanto de día como de noche.
+B: los conductores deberán llevar encendida la luz de corto alcance o de cruce, solo de noche.
+C: no es necesario utilizar luces especiales.
+D: los conductores deberán circular a la mitad de la velocidad permitida en el sentido normal de la circulación.
+SOLUCION: A
+NORMA: RD 1428/2003, art. 40
+
+COD: 2H02013
+PREGUNTA: El recorrido marcha atrás…
+A: está prohibido en todos los casos.
+B: se permite como maniobra complementaria de la parada, el estacionamiento o la incorporación y no podrá ser superior a quince metros ni invadir un cruce de vías.
+C: se permite como maniobra complementaria de cualquier otra que la exija y sin que pueda superar, en ningún caso, diez metros en línea recta.
+D: está permitida en todos los casos sin limitaciones, siempre que se adopten las debidas precauciones.
+SOLUCION: B
+NORMA: RD 1428/2003, art. 80
+
+COD: 2H02014
+PREGUNTA: Mientras conduce, ¿a qué está obligado el conductor por normativa?
+A: A mantener su propia libertad de movimientos.
+B: A conservar el campo necesario de visión.
+C: A atender de manera constante a la conducción.
+D: Todas las respuestas son correctas
+SOLUCION: D
+NORMA: RD 1428/2003, art. 18
+
+COD: 2H02015
+PREGUNTA: ¿El uso de qué dispositivos prohíbe la normativa con el vehículo en movimiento?
+A: Dispositivos GPS.
+B: Monitores de visión de cámaras de maniobras traseras.
+C: Cascos o auriculares conectados a aparatos receptores o reproductores de sonido.
+D: Todos los dispositivos anteriores están prohibidos.
+SOLUCION: C
+NORMA: RD 1428/2003, art. 18
+
+COD: 2H02016
+PREGUNTA: En ausencia de regulación para el paso de vehículos por puentes u obras en los que uno de ellos tenga que dar marcha atrás, los vehículos y transportes especiales que excedan de los pesos o dimensiones establecidos tendrán preferencia de paso:
+A: sobre el resto de los vehículos.
+B: sobre el resto de los vehículos, a excepción de los que transporten viajeros.
+C: sobre los turismos y motocicletas, exclusivamente.
+D: sobre los que transporten mercancías peligrosas, exclusivamente.
+SOLUCION: A
+NORMA: RD 1428/2003, art. 62
+
+COD: 2H02017
+PREGUNTA: En calzadas con doble sentido de circulación y tres carriles separados por marcas longitudinales discontinuas, ¿en qué caso se puede utilizar el carril central?
+A: Solo para efectuar adelantamientos.
+B: Tan solo para efectuar adelantamientos precisos y para cambiar de dirección hacia la izquierda.
+C: Solo para cambiar de dirección hacia la izquierda.
+D: Para poder desplazarse al carril situado más a su izquierda.
+SOLUCION: B
+NORMA: RD 1428/2003, art. 30
+
+COD: 2H02018
+PREGUNTA: ¿Qué vehículos deben circular por el arcén transitable de su derecha?
+A: Los vehículos cuya Masa Máxima Autorizada no exceda de 3.500 kilogramos y que, por razones de emergencia, lo hagan a velocidad anormalmente reducida.
+B: Los vehículos especiales con Masa Máxima Autorizada superior a 3.500 kilogramos.
+C: Los vehículos cuya Masa Máxima Autorizada exceda de 3.500 kilogramos y que, por razones de emergencia, lo hagan a velocidad anormalmente reducida.
+D: Solo los vehículos para personas de movilidad reducida.
+SOLUCION: A
+NORMA: RD 1428/2003, art. 36
+
+COD: 2H02019
+PREGUNTA: En los tramos estrechos de gran pendiente, como norma general, tendrá preferencia de paso el vehículo que circule en sentido:
+A: No se establecen preferencias en este caso.
+B: Depende de la cercanía al final de la pendiente.
+C: ascendente.
+D: descendente.
+SOLUCION: C
+NORMA: RD 1428/2003, art. 63
+
+COD: 2H02020
+PREGUNTA: ¿A qué velocidad máxima puede circular un autobús que realiza un transporte escolar por una autopista?
+A: 110 km/h.
+B: 100 km/h.
+C: 90 km/h.
+D: 80 km/h.
+SOLUCION: C
+NORMA: RD 1428/2003, art. 48
+
+COD: 2H02021
+PREGUNTA: ¿A qué velocidad máxima puede circular un autobús que realiza un transporte escolar por un carretera convencional?
+A: 100 km/h.
+B: 90 km/h.
+C: 80 km/h.
+D: 70 km/h.
+SOLUCION: C
+NORMA: RD 1428/2003, art. 48
+
+COD: 2H02022
+PREGUNTA: La velocidad para no entorpecer la marcha normal de otros vehículos circulando no deberá ser inferior:
+A: a 60 km/h en carreteras convencionales.
+B: si es un autobús, a 50 km/h en carreteras convencionales.
+C: si es un autobús, a 45 km/h en carreteras convencionales.
+D: si es un autobús, a 40 km/h en carreteras convencionales.
+SOLUCION: C
+NORMA: RD 1428/2003, art. 49
+
+COD: 2H02023
+PREGUNTA: La velocidad para no entorpecer la marcha normal de otros vehículos circulando no deberá ser inferior a:
+A: 60 kilómetros por hora, en cualquier tipo de carretera.
+B: 60 kilómetros por hora, en autopistas y autovías.
+C: 60 kilómetros por hora, en autovías y carreteras de una sola calzada.
+D: la mitad de la genéricamente establecida para autovías y vías rápidas.
+SOLUCION: B
+NORMA: RD 1428/2003, art. 49
+
+COD: 2H02024
+PREGUNTA: Los vehículos especiales o en régimen de transporte especial que no puedan desarrollar una velocidad superior a 60 km/h en autopistas…
+A: solo podrán circular por la calzada y en ningún caso por el arcén.
+B: podrán circular siempre que sea de día.
+C: podrán circular cuando se indique en la autorización complementaria de que dispongan.
+D: podrán circular libremente sin ninguna restricción.
+SOLUCION: C
+NORMA: RD 1428/2003, art. 38
+
+COD: 2H02025
+PREGUNTA: Para el cómputo de carriles:
+A: se tendrán en cuenta todos los que existan señalizados como tales y los arcenes.
+B: se tendrán en cuenta todos los que existan señalizados como tales, excepto los arcenes.
+C: no se tendrán en cuenta los reservados a determinados vehículos o a ciertas maniobras.
+D: No existe normativa legal al efecto del cómputo de carriles.
+SOLUCION: C
+NORMA: RD 1428/2003, art. 34
+
+COD: 2H02026
+PREGUNTA: Salvo causa justificada, se prohíbe la circulación por autopistas y autovías de vehículos a motor a una velocidad:
+A: inferior a 70 kilómetros por hora.
+B: de 65 kilómetros por hora.
+C: inferior a 60 kilómetros por hora.
+D: Solo se establecen límites de velocidad máxima para este tipo de vías.
+SOLUCION: C
+NORMA: RD 1428/2003, art. 49
+
+COD: 2H02027
+PREGUNTA: Un carril delimitado por ambos lados por líneas dobles discontinuas es un carril:
+A: reversible.
+B: de preferencia para servicios públicos.
+C: VAO. 
+D: de sentido provisional.
+SOLUCION: A
+NORMA: RD 1428/2003, art. 40
+
+COD: 2H02028
+PREGUNTA: ¿Cómo se debe circular por un carril reversible?
+A: Con una velocidad máxima reducida en 20 km/h a la máxima permitida para la vía.
+B: Con las luces de cruce, tanto de día como de noche.
+C: Guardando una distancia de seguridad de, al menos, el doble de la normal.
+D: Todas las respuestas son correctas.
+SOLUCION: B
+NORMA: RD 1428/2003, art. 40
+
+COD: 2H02029
+PREGUNTA: Se circulará a velocidad moderada y, si fuera preciso, se detendrá el vehículo cuando las circunstancias lo exijan, especialmente:
+A: al aproximarse a un autobús en situación de parada.
+B: cuando pueda salpicarse o proyectarse agua a los demás usuarios de la vía.
+C: en caso de deslumbramiento.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: RD 1428/2003, art. 46
+
+COD: 2H02030
+PREGUNTA: Se circulará a velocidad moderada y, si fuera preciso, se detendrá el vehículo cuando las circunstancias lo exijan, especialmente:
+A: cuando haya peatones en la parte de la vía que se esté utilizando o pueda preverse racionalmente su irrupción en ella.
+B: cuando no haya animales en la parte de la vía que se esté utilizando o sea poco previsible su irrupción en ella.
+C: cuando no haya peatones en la parte de la vía que se esté utilizando o sea poco previsible su irrupción en ella.
+D: en los tramos con edificios sin inmediato acceso a la parte de la vía que se está utilizando.
+SOLUCION: A
+NORMA: RD 1428/2003, art. 46
+
+COD: 2H02031
+PREGUNTA: Según el orden de prioridad entre los distintos tipos de señales de circulación, las prescripciones indicadas por las señales verticales prevalecerán sobre las indicadas por:
+A: las marcas viales.
+B: los semáforos.
+C: la señalización circunstancial que modifique el régimen normal de utilización de la vía.
+D: las señales y órdenes de los agentes de circulación.
+SOLUCION: A
+NORMA: RD 1428/2003, art. 133
+
+COD: 2H02032
+PREGUNTA: Según el orden de prioridad entre los distintos tipos de señales de circulación, las prescripciones indicadas por los semáforos prevalecerán sobre las indicadas por:
+A: las señales verticales de circulación y las marcas viales.
+B: las señales y órdenes de los agentes de circulación.
+C: la señalización circunstancial.
+D: cualquier otra señalización.
+SOLUCION: A
+NORMA: RD 1428/2003, art. 133
+
+COD: 2H02033
+PREGUNTA: Conducir un vehículo sin poseer el permiso de conducción necesario es …
+A: una falta administrativa muy grave.
+B: un delito contra la seguridad vial.
+C: una falta penal.
+D: una falta administrativa grave.
+SOLUCION: B
+NORMA: Ley Orgánica 10/1995, art. 384
+
+COD: 2H02034
+PREGUNTA: Abandonar el lugar de los hechos tras causar un accidente en el que haya víctimas y heridos graves es ...
+A: una falta administrativa muy grave.
+B: un delito contra la seguridad vial.
+C: una falta penal.
+D: una falta administrativa grave.
+SOLUCION: B
+NORMA: Ley Orgánica 10/1995, art. 382
+
+COD: 2H02035
+PREGUNTA: Un conductor que, a requerimiento de un agente de la autoridad, se niegue a someterse a las pruebas legalmente establecidas para la comprobación de las tasas de alcoholemia:
+A: comete un delito de imprudencia grave.
+B: comete un delito de desacato.
+C: comete un delito contra la seguridad vial.
+D: no comete ningún delito.
+SOLUCION: C
+NORMA: Ley Orgánica 10/1995, art. 383
+
+COD: 2H03001
+PREGUNTA: ¿Cuáles de los que se citan son elementos de seguridad activa de un vehículo?
+A: La dirección y el cinturón de seguridad.
+B: La dirección y los frenos.
+C: Los frenos y los apoyacabezas.
+D: Los neumáticos y el airbag.
+SOLUCION: B
+NORMA: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+REFERENCIA DOCTRINAL: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+
+COD: 2H03002
+PREGUNTA: ¿Cuáles de los que se citan son elementos de seguridad pasiva de un vehículo?
+A: La carrocería y los frenos.
+B: El cinturón de seguridad y la dirección.
+C: El cinturón de seguridad y el airbag.
+D: Los neumáticos y el parabrisas.
+SOLUCION: C
+NORMA: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+
+COD: 2H03003
+PREGUNTA: ¿Cada cuánto es conveniente revisar el correcto funcionamiento de todas las lámparas del alumbrado?
+A: Cada semana
+B: Cada dos semanas.
+C: Cada mes.
+D: Cada dos meses.
+SOLUCION: C
+NORMA: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+
+COD: 2H03004
+PREGUNTA: ¿Cada cuánto es conveniente revisar el correcto reglaje de los faros del vehículo?
+A: Cada mes.
+B: Cada dos meses.
+C: Cada tres meses.
+D: Cada seis meses.
+SOLUCION: A
+NORMA: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+
+COD: 2H03005
+PREGUNTA: ¿Qué debe hacerse en caso de que no funcionen las luces de gálibo?
+A: Deben cambiarse lo más rápidamente posible.
+B: Puede finalizarse el viaje ya que no afectan a la seguridad.
+C: Depende de las luces que se hayan fundido, se podrá continuar o no.
+D: Se debe parar inmediatamente y proceder al cambio.
+SOLUCION: A
+NORMA: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+
+COD: 2H03006
+PREGUNTA: ¿Qué es aconsejable respecto de los dos neumáticos de un mismo eje?
+A: Sustituirlos a la vez.
+B: Que sean de la misma marca.
+C: Que sean de las mismas características
+D: Todas las respuestas son correctas
+SOLUCION: D
+NORMA: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+
+COD: 2H03007
+PREGUNTA: ¿En qué eje deben ir los neumáticos más nuevos?
+A: No deben ir en el mismo eje.
+B: Es indiferente.
+C: En el eje delantero.
+D: En el eje trasero.
+SOLUCION: D
+NORMA: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+
+COD: 2H03008
+PREGUNTA: Para tener una frenada eficaz, es conveniente…
+A: comprobar únicamente el freno de los ejes tándem.
+B: asegurarse que los ejes traseros frenan más que los delanteros.
+C: asegurarse que los ejes delanteros frenan más que los traseros.
+D: asegurarse que no hay ejes que frenen más que otros.
+SOLUCION: D
+NORMA: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+
+COD: 2H03009
+PREGUNTA: ¿Qué es un lecho de frenado?
+A: La zona del taller en la que revisa el sistema de frenado.
+B: Una zona cerrada de prueba del estado de los frenos.
+C: Una pista para frenado de emergencia en carretera.
+D: Un tipo de cubierta que existe en carreteras de montaña para facilitar la acción del sistema de frenado de los vehículos.
+SOLUCION: C
+NORMA: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+
+COD: 2H03010
+PREGUNTA: Normalmente, ¿a qué distancia de su entrada encontraremos una señal que indique la existencia de un lecho de frenado?
+A: A 200 m.
+B: A 1 km.
+C: A 1,5 km.
+D: A 2 km.
+SOLUCION: B
+NORMA: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+
+COD: 2H03011
+PREGUNTA: ¿Dónde debe estar ubicada, si es posible, la parada de origen o destino en el transporte escolar?
+A: En la calle, en el sentido de la marcha.
+B: En el interior del recinto escolar.
+C: En un aparcamiento público.
+D: Fuera del recinto escolar, lo más cerca posible de la puerta de acceso al mismo.
+SOLUCION: B
+NORMA: RD 443/2001, art. 10
+
+COD: 2H03012
+PREGUNTA: ¿Está prevista la posibilidad de modificar la ubicación de paradas de un servicio de transporte escolar contenidas en la correspondiente autorización administrativa de transporte?
+A: Sí, si el órgano competente en la regulación del tráfico formula alguna observación en este sentido.
+B: Sí, si el Ministerio de Transportes lo propone.
+C: Sí, a propuesta del alcalde de la ciudad por donde discurra el transporte escolar.
+D: No, una vez que han sido autorizadas por el órgano competente.
+SOLUCION: A
+NORMA: RD 443/2001, art. 10
+
+COD: 2H03013
+PREGUNTA: ¿Qué establece la normativa respecto a los cinturones de seguridad en el transporte escolar y de menores?
+A: Que los asientos enfrentados a pasillo, en los vehículos de más de nueve plazas dedicados a esa clase de transporte, solo podrán ser ocupados por menores de dieciséis años cuando dichos asientos lleven instalados cinturones de seguridad.
+B: Que los asientos enfrentados a pasillo, en los vehículos de más de nueve plazas dedicados a esa clase de transporte, solo podrán ser ocupados por menores de seis años cuando dichos asientos lleven instalados cinturones de seguridad.
+C: Que el cinturón debe estar solo en el asiento del conductor y será de cualquier tipo.
+D: Que es válido cualquier tipo de cinturón, siempre que haya sido homologado.
+SOLUCION: A
+NORMA: RD 1428/2003, Disposición Adicional 4ª
+
+COD: 2H03014
+PREGUNTA: ¿Qué se entiende por "seguridad vial activa"?
+A: La que se refiere a los elementos de un vehículo que pueden evitar un accidente.
+B: La que depende de factores externos a la conducción
+C: La que guarda relación con el motor y partes mecánicas del vehículo.
+D: La que hace referencia al estado de la carretera.
+SOLUCION: A
+NORMA: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+REFERENCIA DOCTRINAL: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+
+COD: 2H03015
+PREGUNTA: ¿Quiénes están obligados a utilizar el cinturón de seguridad?
+A: Solo los pasajeros menores de 12 años.
+B: Solo el conductor y los pasajeros cuya estatura sea inferior a 1,50 metros.
+C: El conductor y los pasajeros, tanto en circulación urbana como interurbana.
+D: Las personas provistas de un certificado de exención por razones médicas.
+SOLUCION: C
+NORMA: RD 1428/2003, art. 117
+
+COD: 2H03016
+PREGUNTA: Cuando no resulte posible que la parada correspondiente al centro escolar esté ubicada dentro del recinto del mismo:
+A: se fijará en la glorieta o plaza más cercana al centro.
+B: se fijará en el lugar donde resulte la visibilidad del conductor y del acompañante sean mejores.
+C: se fijará en el lugar más cercano en el sentido de la marcha y que cuente con un semáforo o paso de peatones.
+D: Ninguna de las respuestas anteriores.
+SOLUCION: D
+NORMA: RD 443/2001, art. 10
+
+COD: 2H03017
+PREGUNTA: Cuando no resulte posible que la parada correspondiente al centro escolar esté ubicada dentro del recinto del mismo:
+A: se fijará en la intersección más cercana al centro.
+B: se fijará en el lugar donde exista un semáforo o paso de cebra cercano.
+C: se fijará en el lugar más cercano al centro sea cual sea el sentido de la marcha.
+D: se fijará de modo que las condiciones de acceso desde dicha parada al centro resulten lo más seguras posible, situándose siempre a la derecha en el sentido de la marcha.
+SOLUCION: D
+NORMA: RD 443/2001, art. 10
+
+COD: 2H03018
+PREGUNTA: El acceso y abandono de los menores a los vehículos que realicen transporte escolar deberá realizarse:
+A: por la puerta más cercana al conductor.
+B: por la puerta más lejana al conductor.
+C: por la puerta más cercana a las ruedas motrices.
+D: Ninguna de las anteriores respuestas es correcta.
+SOLUCION: A
+NORMA: RD 443/2001, art. 10
+
+COD: 2H03019
+PREGUNTA: El acceso y abandono de los menores a los vehículos que realicen transporte escolar deberá realizarse:
+A: por la puerta más cercana al conductor o, en su caso, al acompañante.
+B: por la puerta más lejana al conductor.
+C: por la puerta más cercana al centro escolar.
+D: Ninguna de las anteriores respuestas es correcta.
+SOLUCION: A
+NORMA: RD 443/2001, art. 10
+
+COD: 2H03020
+PREGUNTA: En el transporte de viajeros, en relación con la seguridad, debe prestarse atención a…
+A: la distribución de los pasajeros en el habitáculo.
+B: la colocación del equipaje para evitar desplazamientos.
+C: la distribución de los bultos de mano en la zona de equipajes del habitáculo.
+D: la ubicación de los pasajeros menores de 10 años.
+SOLUCION: B
+NORMA: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+
+COD: 2H03021
+PREGUNTA: En el transporte de viajeros, en relación con la seguridad, debe prestarse atención a…
+A: conducir de acuerdo con las características de las personas transportadas.
+B: la ocupación de vehículo.
+C: la distribución de los bultos de mano en la zona de equipajes del habitáculo.
+D: la ubicación de los pasajeros menores de 10 años.
+SOLUCION: A
+NORMA: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+
+COD: 2H03022
+PREGUNTA: En el transporte de viajeros, en relación con la seguridad, debe prestarse atención a…
+A: la distribución de los pasajeros en el habitáculo.
+B: la distribución de los bultos de mano en la zona de equipajes del habitáculo.
+C: verificar que los pasajeros utilizan los medios de seguridad.
+D: la ubicación de los pasajeros menores de 10 años.
+SOLUCION: C
+NORMA: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+
+COD: 2H03023
+PREGUNTA: En el transporte de viajeros, en relación con la seguridad, debe prestarse atención a…
+A: la distribución de los pasajeros en el habitáculo.
+B: la distribución de los bultos de mano en las zonas correspondientes del habitáculo.
+C: la ocupación del vehículo.
+D: las curvas, la potencia del autobús puede producir derrapes.
+SOLUCION: D
+NORMA: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+
+COD: 2H03024
+PREGUNTA: ¿Qué es la seguridad preventiva en relación con el vehículo?
+A: La formación sobre el uso de los dispositivos de seguridad del vehículo.
+B: El conjunto de actuaciones de mantenimiento de los sistema de seguridad del vehículo.
+C: Cualquier sistema que ayude al conductor a mantener su atención en la conducción.
+D: No existe este concepto.
+SOLUCION: C
+NORMA: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+
+COD: 2H03025
+PREGUNTA: ¿Qué constituye parte de la seguridad preventiva del vehículo?
+A: Los espejos retrovisores.
+B: Los dispositivos de señalización.
+C: El sistema de climatización
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+
+COD: 2H03026
+PREGUNTA: ¿Debe informar la empresa de transportes a los viajeros del autobús en relación con los cinturones de seguridad?
+A: Sí, debe informar sobre su ubicación.
+B: Debe informar sobre la forma de uso.
+C: Debe informar sobre la obligatoriedad de su uso.
+D: Todas las respuestas son correctas.
+SOLUCION: C
+NORMA: RD 1428/2003, art. 117
+
+COD: 2H03027
+PREGUNTA: ¿En qué momento deben informar las empresas de transporte de viajeros en autobús sobre los elementos que cuenta el vehículo destinados a garantizar la seguridad de los pasajeros?
+A: En el momento de la compra del billete.
+B: Inmediatamente antes de acceder al vehículo.
+C: En el momento de ofertar el servicio.
+D: Ninguna es correcta.
+SOLUCION: B
+NORMA: OM FOM/1230/2013, art. 4
+
+COD: 2H03028
+PREGUNTA: La información sobre los elementos de seguridad con que cuenta el vehículo, que las empresas de transporte de viajeros en autobús deben facilitar a los viajeros, deberá hacer referencia como mínimo a ...
+A: la ubicación de extintores.
+B: la utilización de cinturones de seguridad, cuando el vehículo cuente con ellos.
+C: la existencia de botiquín de primeros auxilios.
+D: Todas las respuestas anteriores son válidas.
+SOLUCION: D
+NORMA: OM FOM/1230/2013, art. 4
+
+COD: 2H03029
+PREGUNTA: La información sobre los elementos de seguridad con que cuenta el vehículo, que las empresas de transporte de viajeros en autobús deben facilitar a los viajeros, deberá hacer referencia como mínimo a los siguientes extremos:
+A: existencia de botiquín de primeros auxilios.
+B: ubicación de sistemas audiovisuales.
+C: localización de frenos de emergencia.
+D: Todas las respuestas anteriores son válidas.
+SOLUCION: A
+NORMA: OM FOM/1230/2013, art. 4
+
+COD: 2H03030
+PREGUNTA: La seguridad activa se refiere a factores:
+A: anteriores al accidente.
+B: posteriores al accidente.
+C: durante el accidente.
+D: anteriores y posteriores al accidente.
+SOLUCION: A
+NORMA: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+
+COD: 2H03031
+PREGUNTA: La seguridad pasiva se refiere a factores:
+A: durante el accidente.
+B: de la construcción del vehículo.
+C: anteriores al accidente.
+D: de a la señalización de la vía.
+SOLUCION: A
+NORMA: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual II Profesor de Formación Vial, Cuestiones de seguridad vial, Dirección General de Tráfico, 2019
+
+COD: 2H04001
+PREGUNTA: ¿Cómo debe señalizarse la inmovilización por emergencia de un vehículo en la calzada?
+A: Mediante la luz de emergencia, si el vehículo la lleva, y, cuando proceda, con las luces de posición y de gálibo y obligatoriamente con el dispositivo de preseñalización de peligro reglamentario.
+B: Con las luces de cruce y señales con el brazo.
+C: Con las luces de cruce y un trapo rojo. 
+D: Mediante la colocación de cualquier obstáculo sobre la calzada que avise de nuestra presencia.
+SOLUCION: A
+NORMA: RD 1428/2003, art. 130
+
+COD: 2H04002
+PREGUNTA: ¿Cómo se puede comprobar que se ha producido una parada cardiaca?
+A: Mediante examen termodinámico.
+B: Tomando el pulso radial.
+C: Tomando el pulso en el cuello.
+D: Comprobando la temperatura de la víctima.
+SOLUCION: C
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019
+
+COD: 2H04003
+PREGUNTA: ¿Cómo se debe realizar la reanimación cardiopulmonar?
+A: Se harán treinta compresiones torácicas, seguidas de dos ventilaciones de aire.
+B: Se aplicarán dos respiraciones cada dos masajes cardíacos.
+C: Solo hay que aplicar ventilaciones boca a boca.
+D: Ninguna de las respuestas anteriores es correcta.
+SOLUCION: A
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04004
+PREGUNTA: ¿Con qué ritmo se debe realizar el masaje cardiaco en adultos?
+A: 30 compresiones torácicas por minuto.
+B: 60 compresiones torácicas por minuto.
+C: 100 compresiones torácicas por minuto.
+D: 31 compresiones torácicas por hora.
+SOLUCION: C
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04005
+PREGUNTA: ¿Cuál debe ser la relación entre las compresiones y ventilaciones en la reanimación cardiopulmonar?
+A: Cinco compresiones por una ventilación.
+B: Diez compresiones por tres ventilaciones.
+C: Diez compresiones por una ventilación.
+D: Treinta compresiones por dos ventilaciones.
+SOLUCION: D
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04006
+PREGUNTA: ¿Cuál es el segundo paso a realizar, tras preservar la seguridad de la circulación, ante un accidente de tráfico con víctimas?
+A: Socorrer a los heridos.
+B: No detenerse para no entorpecer el tráfico.
+C: Pedir ayuda especializada.
+D: Dar agua a los heridos.
+SOLUCION: C
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04007
+PREGUNTA: ¿Cuáles son síntomas de que un accidentado entra en estado de shock o colapso?
+A: Piel enrojecida y pulso lento.
+B: Palidez y sudoración fría.
+C: Respiración lenta y confusión
+D: Todas las respuestas son correctas.
+SOLUCION: B
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04008
+PREGUNTA: ¿Cuál es la causa más frecuente de que un accidentado entre en estado de shock o colapso?
+A: Las hemorragias.
+B: La fiebre.
+C: La insolación. 
+D: La deshidratación.
+SOLUCION: A
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04009
+PREGUNTA: ¿Cuál es la mejor forma de trasladar a los heridos de un accidente de tráfico?
+A: En taxi.
+B: En ambulancia.
+C: En moto.
+D: En camión.
+SOLUCION: B
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04010
+PREGUNTA: ¿Cuál es la posición más adecuada para practicar la reanimación cardiopulmonar (RCP) a un accidentado?
+A: Boca arriba sobre una superficie dura.
+B: Semisentado.
+C: Acostado de lado, con la pierna superior flexionada.
+D: Boca abajo.
+SOLUCION: A
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04011
+PREGUNTA: ¿Cuáles son las características de las hemorragias arteriales?
+A: La sangre es de color oscuro y sale de modo continuo.
+B: La sangre es de color rojo vivo y sale con fuerza o a borbotones.
+C: La sangre es oscura y sale a borbotones.
+D: La sangre mana de forma continua.
+SOLUCION: B
+NORMA: Guía de primeros auxilios, Junta de Andalucía, Empresa Pública de Emergencias Sanitarias
+REFERENCIA DOCTRINAL: Guía de primeros auxilios, Junta de Andalucía, Empresa Pública de Emergencias Sanitarias
+
+COD: 2H04012
+PREGUNTA: ¿Debemos evitar mover el cuello de los heridos en accidente de circulación?
+A: Sí, siempre.
+B: Solo en el caso de conductores de motocicletas.
+C: Solo si están inconscientes.
+D: Únicamente si llevan el casco puesto.
+SOLUCION: A
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019
+
+COD: 2H04013
+PREGUNTA: ¿Dónde se tomará el pulso carotídeo?
+A: En el brazo.
+B: En la mano.
+C: En la pierna.
+D: En el cuello.
+SOLUCION: D
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019
+
+COD: 2H04014
+PREGUNTA: ¿Qué actuación se debe tener ante un accidentado que presenta una hemorragia?
+A: Se le dará a beber agua porque la hemorragia da sed.
+B: Se le administrará líquidos para reponer las pérdidas por la hemorragia.
+C: No hay que dar de beber a un accidentado que esté sangrando.
+D: Se le dará de beber siempre que la víctima lo solicite.
+SOLUCION: C
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019
+
+COD: 2H04015
+PREGUNTA: ¿Qué es la parada cardiorrespiratoria?
+A: Una asfixia, con pulso en el cuello.
+B: Un shock o colapso.
+C: La parada de la circulación sanguínea y de la respiración a la vez.
+D: La obstrucción de la vía aérea.
+SOLUCION: C
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04016
+PREGUNTA: ¿Qué es lo primero que debemos hacer en caso de encontrarnos con un accidente de tráfico con víctimas?
+A: Ayudar a las víctimas.
+B: Solicitar ayuda especializada.
+C: Preservar la seguridad de la circulación.
+D: No hay prioridades.
+SOLUCION: C
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04018
+PREGUNTA: ¿Quiénes están legalmente obligados a actuar ante un accidente de tráfico?
+A: Cualquier usuario de la vía que lo presencie.
+B: Solo los servicios de emergencia.
+C: Únicamente las fuerzas de seguridad.
+D: Solo el conductor del vehículo causante del accidente si está en condiciones de prestar ayuda.
+SOLUCION: A
+NORMA: RD 1428/2003, art. 129
+
+COD: 2H04019
+PREGUNTA: ¿Se debe tapar a los heridos de un accidente de tráfico?
+A: No, en ningún caso.
+B: Sí, para mantener la temperatura del cuerpo.
+C: Solo si la temperatura ambiente es inferior a 5 grados.
+D: Solo si sangran.
+SOLUCION: B
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04020
+PREGUNTA: ¿Se deben desprender las ropas pegadas a la piel de una zona quemada?
+A: Sí, es la primera medida a adoptar.
+B: Solo en el caso de que sean tejidos sintéticos.
+C: Sí, pero únicamente en las quemaduras de tercer grado.
+D: No, nunca. 
+SOLUCION: D
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04021
+PREGUNTA: Al auxiliar a los heridos de un accidente, ¿debemos darles calmantes del dolor?
+A: No, en ningún caso.
+B: Sí, pues siempre hay que aliviar el dolor.
+C: Sí, siempre que sean medicamentos aprobados.
+D: Solo si no son alérgicos.
+SOLUCION: A
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019
+
+COD: 2H04022
+PREGUNTA: Al realizar una verificación de materias extrañas en la boca, ¿la cabeza en qué posición debe estar?
+A: Inclinada hacia atrás.
+B: No importa la posición de la cabeza.
+C: Inclinada hacia delante.
+D: Ladeada.
+SOLUCION: D
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04023
+PREGUNTA: Ante la presencia de un accidente, atendiendo a la seguridad de la circulación, ¿dónde debemos estacionarnos?
+A: Fuera de la calzada, con las luces de emergencia.
+B: No debemos estacionarnos para evitar más atropellos.
+C: Junto a los vehículos accidentados.
+D: Es indiferente el lugar donde nos detengamos.
+SOLUCION: A
+NORMA: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+REFERENCIA DOCTRINAL: Programa de Intervención, Sensibilización y Reeducación Vial - Manual del formador. Dirección General de Tráfico - INTRAS
+
+COD: 2H04024
+PREGUNTA: ¿Cuáles son los síntomas de una posible lesión medular?
+A: Vómitos.
+B: Sudor frío.
+C: Modificación de la sensibilidad en alguna parte del cuerpo.
+D: Todas las respuestas son correctas
+SOLUCION: C
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04025
+PREGUNTA: ¿Es habitual el politraumatismo en las víctimas de accidentes de tráfico?
+A: Sí.
+B: Solo en ciclistas y motociclistas.
+C: Solo en peatones.
+D: No.
+SOLUCION: A
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04026
+PREGUNTA: ¿Qué es una fractura cerrada?
+A: Aquella en la que no hay separación entre las partes del hueso lindantes con la fractura.
+B: Aquella en la que no hay rotura de la piel.
+C: La que no supone rotura total del hueso.
+D: Todas las fracturas son cerradas.
+SOLUCION: B
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04027
+PREGUNTA: Las fracturas abiertas…
+A: se caracterizan por producirse un hematoma en la zona de la fractura.
+B: pueden ocasionar infección en la herida.
+C: no suponen la rotura total del hueso.
+D: Todas las fracturas son abiertas.
+SOLUCION: B
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04028
+PREGUNTA: Los síntomas característicos de la existencia de una fractura son:
+A: sudoración y piel fría.
+B: falta de sensibilidad en la zona.
+C: vómitos.
+D: edema o hematoma.
+SOLUCION: D
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04029
+PREGUNTA: Los síntomas característicos de la existencia de una fractura son:
+A: sudoración y piel fría.
+B: falta de sensibilidad en la zona.
+C: vómitos.
+D: deformidad o acortamiento.
+SOLUCION: D
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04030
+PREGUNTA: Ante la sospecha de que se ha producido una fractura, ¿qué se debe hacer?
+A: Mover la zona afectada levemente para comprobar si esta se ha producido y, si es así, esperar el auxilio de un experto.
+B: Presionar la fractura e inmovilizar el miembro.
+C: No inmovilizar el miembro afectado.
+D: Inmovilizar la zona fracturada.
+SOLUCION: D
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04031
+PREGUNTA: Ante un quemado en un accidente, se debe extinguir el fuego que pueda haber en sus ropas …
+A: únicamente cubriéndolo con una manta.
+B: preferiblemente con un extintor.
+C: preferiblemente con agua.
+D: Cualquier medio es bueno.
+SOLUCION: A
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04032
+PREGUNTA: Ante un quemado en un accidente:
+A: se debe aplicar pomada sobre las quemaduras.
+B: deben dejarse al aire las quemaduras.
+C: se deben tapar las quemaduras con apósitos secos.
+D: se deben tapar las quemaduras con apósitos humedecidos en agua.
+SOLUCION: D
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04033
+PREGUNTA: Ante un quemado en un accidente:
+A: debemos romper las ampollas para evitar que se hagan grandes.
+B: no hay que retirar los restos de ropa quemada.
+C: hay que darle pastillas para el dolor.
+D: no hay que taparlo porque ya está caliente.
+SOLUCION: B
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04034
+PREGUNTA: Ante una hemorragia externa, ¿qué se debe hacer?
+A: Aplicar una presión moderada sobre la herida interponiendo una gasa.
+B: Aplicar una pomada antibiótica.
+C: Lavar abundantemente con cualquier líquido.
+D: Aplicar un torniquete en cualquier caso.
+SOLUCION: A
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04035
+PREGUNTA: Ante una hemorragia nasal, ¿qué se debe hacer?
+A: No se debe movilizar el herido.
+B: Se pinza la nariz con dos dedos con cierta fuerza, manteniendo la cabeza inclinada hacia delante.
+C: Como primera medida, se introducirán gasas a presión.
+D: La cabeza siempre deberá estar inclinada hacia atrás.
+SOLUCION: B
+NORMA: Manual de primeros auxilios, Cruz Roja
+REFERENCIA DOCTRINAL: Manual de primeros auxilios, Cruz Roja
+
+COD: 2H04036
+PREGUNTA: Cuando ponemos a un accidentado herido en posición de "defensa", lo hacemos para:
+A: evitar que el herido vomite.
+B: evitar la obstrucción de las vías respiratorias y la aspiración del vómito.
+C: inmovilizar al herido.
+D: ayudar a recuperar la consciencia.
+SOLUCION: B
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04038
+PREGUNTA: En caso de accidente con víctimas y heridos inconscientes:
+A: se colocará a estos últimos en la posición más cómoda posible.
+B: se sacará a los heridos del vehículo, aunque ello suponga un peligro para su seguridad o para la circulación.
+C: se deberán suministrar los primeros auxilios fuera de la calzada.
+D: no deberá moverse a los heridos, salvo si peligra su seguridad o la de la circulación.
+SOLUCION: D
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04039
+PREGUNTA: En caso de accidente con víctimas, en relación con la actuación con los heridos,:
+A: únicamente se les suministrará agua a requerimiento de ellos.
+B: solo se le deben administrar alimentos sólidos.
+C: no se le debe dar ni bebida ni comida.
+D: se le dará de beber si lo desea.
+SOLUCION: C
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04040
+PREGUNTA: En caso de accidente, en relación con la seguridad de la circulación, ¿cuáles son las primeras medidas que debemos adoptar al llegar al lugar de los hechos?
+A: Reconocer al accidentado y tranquilizarlo.
+B: Proteger el lugar y eliminar peligros.
+C: Poner ropa de abrigo al accidentado.
+D: Tomar el pulso y vigilar la respiración del accidentado.
+SOLUCION: B
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04041
+PREGUNTA: En caso de tener que auxiliar a un accidentado que presente una herida sangrante con hemorragia externa abundante, ¿dónde se debe realizar la compresión directa?
+A: En el trayecto de la arteria, antes de la herida.
+B: En el trayecto de la arteria, después de la herida.
+C: Solo debe vendarse, no comprimirse.
+D: Hay que esperar a la asistencia médica.
+SOLUCION: A
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04042
+PREGUNTA: En el caso de una herida arterial sangrante en la mitad superior del brazo de un accidentado, ¿dónde se aplicará la presión directa?
+A: Por encima del codo.
+B: En la mano.
+C: En la muñeca.
+D: En la zona radial media.
+SOLUCION: A
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019
+
+COD: 2H04043
+PREGUNTA: En general, ¿hay que dar agua a los accidentados?
+A: Siempre.
+B: No, en general nunca hay que dar de beber a un accidentado.
+C: Solo hay que dar agua a los que presenten síntomas de asfixia.
+D: Solo pueden suministrarse líquidos a los heridos inconscientes.
+SOLUCION: B
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04044
+PREGUNTA: La forma más rápida, fácil y segura de detener inicialmente una hemorragia externa es:
+A: aplicar alcohol sobre la parte afectada.
+B: el torniquete.
+C: inmovilizar al accidentado.
+D: la presión directa.
+SOLUCION: D
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04045
+PREGUNTA: Los usuarios de las vías que se vean implicados en un accidente de tráfico, lo presencien o tengan conocimiento de él, ¿a qué estarán obligados?
+A: Solo a solicitar auxilio.
+B: A auxiliar o solicitar auxilio, solo si se ha alterado la seguridad de la circulación como consecuencia de los hechos.
+C: A auxiliar o solicitar auxilio, prestar su colaboración para evitar mayores peligros o daños y restablecer, en la medida de lo posible, la seguridad de la circulación y esclarecer los hechos.
+D: A detenerse en cualquier caso y recabar cuanta información pueda ser útil para la correcta intervención de los servicios de emergencia.
+SOLUCION: C
+NORMA: RD 1428/2003, art. 129
+
+COD: 2H04046
+PREGUNTA: Respecto de la respiración de un accidentado, ¿qué hechos deben alertar?
+A: Únicamente nos debe preocupar el aumento de respiraciones por minuto, el enlentecimiento no es patológico.
+B: Que respire unas 12 veces por minuto.
+C: Que la respiración sea lenta o sea excesivamente rápida.
+D: Solo debemos alertarnos ante una respiración muy lenta, el aumento de ritmo no es valorable.
+SOLUCION: C
+NORMA: Manual de primeros auxilios, Cruz Roja
+REFERENCIA DOCTRINAL: Manual de primeros auxilios, Cruz Roja
+
+COD: 2H04047
+PREGUNTA: Si el apósito con el que se comprime una hemorragia externa se empapa de sangre, ¿qué se debe hacer?
+A: Tirarlo y poner otro limpio en su lugar.
+B: Proceder a limpiar de nuevo la herida y comprimir en el punto de la hemorragia con un nuevo apósito.
+C: Aplicar alcohol sobre el apósito que teníamos.
+D: Añadir otro apósito encima del que teníamos.
+SOLUCION: D
+NORMA: Primeros auxilios en conflictos armados y otras situaciones de violencia. CICR - GINEBRA, 2006; Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Primeros auxilios en conflictos armados y otras situaciones de violencia. CICR - GINEBRA, 2006; Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04048
+PREGUNTA: Si en un accidente de tráfico un herido sufre una hemorragia externa, ¿qué debemos hacer, entre otras cosas, para intentar que deje de sangrar?
+A: Lavar la herida con agua fría.
+B: Esperar a que coagule espontáneamente.
+C: Darle agua para que no se deshidrate y compensar la pérdida de líquido.
+D: Presionar con un trapo limpio sobre el punto que sangra.
+SOLUCION: D
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04049
+PREGUNTA: Si existe fundada sospecha de que una víctima de accidente tiene una lesión en la columna vertebral…
+A: se la deberá colocar en posición de "defensa".
+B: no se deberá mover nunca al accidentado.
+C: se la colocará en posición semisentada.
+D: se deberá intentar que el accidentado camine para comprobar la extensión de la lesión.
+SOLUCION: B
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04051
+PREGUNTA: Si nos encontramos ante un accidente de tráfico con heridos graves:
+A: debemos movilizar a los heridos para que no se duerman.
+B: debemos trasladarlos en nuestro vehículo al hospital mas cercano.
+C: salvo peligro de incendio o atropello, no hay que mover a los heridos.
+D: no hay que detenerse para evitar obstáculos en la vía.
+SOLUCION: C
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2024
+
+COD: 2H04052
+PREGUNTA: Si se comprueba que el accidentado no respira una vez abiertas las vías respiratorias, …
+A: se deberá esperar la llegada de la ambulancia.
+B: se comenzará a efectuar el masaje cardiaco.
+C: se administrará agua a la víctima.
+D: se iniciará inmediatamente la RCP.
+SOLUCION: D
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019
+
+COD: 2H04053
+PREGUNTA: Si se sospecha de una lesión en la columna vertebral en un accidentado que solo manifiesta rigidez y dolor de cuello,:
+A: se le inmovilizará la cabeza, si es necesario con nuestras manos, todo el tiempo que haga falta.
+B: hay que situar a la víctima boca abajo.
+C: se debe colocar al lesionado acostado sobre su lado derecho.
+D: no es necesario hacer nada si no tiene mareos.
+SOLUCION: A
+NORMA: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019
+REFERENCIA DOCTRINAL: Manual IX Profesor de Formación Vial, Comportamiento y primeros auxilios en caso de accidente de tráfico, Dirección General de Tráfico, 2019
+
+COD: 2H04054
+PREGUNTA: Teniendo en cuenta la gravedad de los accidentados, ¿qué elementos, de los que se citan, determinan el orden de actuación con los heridos?
+A: El estado de consciencia, la respiración y la circulación sanguínea.
+B: La presencia de cualquier tipo de hemorragia.
+C: El presencia de dolor.
+D: Los procesos infecciosos.
+SOLUCION: A
+NORMA: Primeros auxilios en conflictos armados y otras situaciones de violencia. CICR - GINEBRA, 2006
+REFERENCIA DOCTRINAL: Primeros auxilios en conflictos armados y otras situaciones de violencia. CICR - GINEBRA, 2006
+
+COD: 2H04055
+PREGUNTA: Una quemadura de primer grado es:
+A: aquella en la que la piel se calcina por completo, lesionando los tejidos que se encuentran por debajo de la misma llegando, en algunos casos, a destruir músculos y vasos sanguíneos.
+B: la que afecta la dermis formando ampollas.
+C: la que afecta exclusivamente el pelo o las uñas.
+D: aquella que se manifiesta como un enrojecimiento de la parte externa de la piel produciendo una ligera inflamación. Es muy dolorosa.
+SOLUCION: D
+NORMA: Manual de primeros auxilios, Cruz Roja
+REFERENCIA DOCTRINAL: Manual de primeros auxilios, Cruz Roja
+
+COD: 2H04056
+PREGUNTA: Una quemadura de tercer grado es:
+A: aquella en la que la piel se calcina por completo, lesionando los tejidos que se encuentran por debajo de la misma llegando, en algunos casos, a destruir músculos y vasos sanguíneos.
+B: la que afecta la dermis formando ampollas.
+C: la que afecta exclusivamente el pelo o las uñas.
+D: aquella que se manifiesta como un enrojecimiento de la parte externa de la piel produciendo una ligera inflamación. Es muy dolorosa.
+SOLUCION: A
+NORMA: Manual de primeros auxilios, Cruz Roja
+REFERENCIA DOCTRINAL: Manual de primeros auxilios, Cruz Roja
+
+COD: 2H04057
+PREGUNTA: Una quemadura de segundo grado es:
+A: aquella en la que la piel se calcina por completo, lesionando los tejidos que se encuentran por debajo de la misma llegando, en algunos casos, a destruir músculos y vasos sanguíneos.
+B: la que afecta la dermis formando ampollas.
+C: la que afecta exclusivamente el pelo o las uñas.
+D: aquella que se manifiesta como un enrojecimiento de la parte externa de la piel produciendo una ligera inflamación. Es muy dolorosa.
+SOLUCION: B
+NORMA: Manual de primeros auxilios, Cruz Roja
+REFERENCIA DOCTRINAL: Manual de primeros auxilios, Cruz Roja
+
+COD: 2H05001
+PREGUNTA: ¿Cómo se denomina a la colocación adecuada de la carga en el vehículo para evitar posibles daños, facilitar descargas y proteger a las personas y a los propios objetos transportados?
+A: Manipulación.
+B: Estiba.
+C: Desestiba.
+D: Agrupamiento.
+SOLUCION: B
+NORMA: Manual de estiba para mercancías sólidas, Ricardo González Blanco, Ediciones UPC
+REFERENCIA DOCTRINAL: Manual de estiba para mercancías sólidas, Ricardo González Blanco, Ediciones UPC
+
+COD: 2H05002
+PREGUNTA: ¿Qué se debe tener en cuenta al efectuar la carga de un autocar?
+A: Las masas máximas permitidas.
+B: Los trámites administrativos.
+C: Calcular el teorema de Kamm.
+D: Hacer una comprobación previa del transporte.
+SOLUCION: A
+NORMA: RD 2822/1998, art. 14
+
+COD: 2H05003
+PREGUNTA: ¿Se pueden transportar animales en un autocar?
+A: Sí, cuando viajen junto a su dueño.
+B: Sí, cuando vayan debidamente sujetos.
+C: Sí, cuando exista en el vehículo un lugar para su transporte.
+D: En ningún caso.
+SOLUCION: C
+NORMA: RD 1428/2003, art. 11
+
+COD: 2H05004
+PREGUNTA: ¿Cómo se denomina la acción de colocar la carga en un vehículo para su transporte?
+A: Fuerza.
+B: Estiba.
+C: Carga.
+D: Cargamento.
+SOLUCION: B
+NORMA: Manual de estiba para mercancías sólidas, Ricardo González Blanco, Ediciones UPC
+REFERENCIA DOCTRINAL: Manual de estiba para mercancías sólidas, Ricardo González Blanco, Ediciones UPC
+
+COD: 2H05005
+PREGUNTA: ¿En qué circunstancias se pueden transportar animales en un autocar?
+A: Cuando se trate de animales domésticos.
+B: Cuando se trate de perros lazarillos que acompañan a invidentes.
+C: Cuando tengan un peso inferior a 50 kg.
+D: Las respuestas A y B son correctas.
+SOLUCION: B
+NORMA: RD 1428/2003, art. 11
+
+COD: 2H05006
+PREGUNTA: ¿Está prohibido transportar materias u objetos peligrosos en un autocar?
+A: Sí.
+B: Sí, salvo que se haga en las condiciones establecidas por la regulación específica de la materia.
+C: No.
+D: No, salvo que se superen determinados pesos.
+SOLUCION: B
+NORMA: RD 1428/2003, art. 11
+
+COD: 2H05007
+PREGUNTA: ¿Qué es la masa por eje?
+A: La masa que es capaz de soportar un eje en función de su construcción.
+B: La carga que es capaz de soportar un eje en función de su construcción.
+C: La masa que gravita sobre el suelo, transmitida por la totalidad de las ruedas acopladas a ese eje.
+D: La carga que gravita sobre el suelo, transmitida por la totalidad de las ruedas acopladas a ese eje.
+SOLUCION: C
+NORMA: RD 2822/1998, Anexo IX
+
+COD: 2H05008
+PREGUNTA: Una buena estiba requiere que la carga sea colocada:
+A: de forma transversal al vehículo.
+B: de la forma que asegure una mayor rentabilidad económica.
+C: de forma que nunca se superpongan más de 5 bultos.
+D: de modo que se eviten desperfectos en la misma.
+SOLUCION: D
+NORMA: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea
+REFERENCIA DOCTRINAL: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea
+
+COD: 2H05009
+PREGUNTA: Una buena estiba requiere que la carga sea colocada:
+A: de forma longitudinal al vehículo.
+B: con espacios de, al menos, cuatro centímetros entre los bultos.
+C: con espacios de, al menos, un centímetro entre los bultos.
+D: para ser transportada con un máximo de seguridad para el personal del vehículo.
+SOLUCION: D
+NORMA: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea
+REFERENCIA DOCTRINAL: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea
+
+COD: 2H05010
+PREGUNTA: Una buena estiba requiere que la carga sea colocada:
+A: para ser transportada con un máximo de seguridad para el vehículo.
+B: de forma transversal al vehículo.
+C: de forma longitudinal al vehículo.
+D: con espacios de, al menos, un centímetro entre los bultos.
+SOLUCION: A
+NORMA: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea
+REFERENCIA DOCTRINAL: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea
+
+COD: 2H05011
+PREGUNTA: ¿Qué es la masa máxima autorizada por eje?
+A: La masa especificada por el fabricante para cada eje.
+B: La carga especificada por el fabricante para cada eje.
+C: La carga máxima de un eje o grupo de ejes para utilización en circulación por las vías públicas.
+D: La masa máxima de un eje o grupo de ejes con carga para utilización en circulación por las vías públicas.
+SOLUCION: D
+NORMA: RD 2822/1998, Anexo IX
+
+COD: 2H05012
+PREGUNTA: ¿En qué situaciones se permite que los dispositivos de alumbrado del vehículo sean ocultados por la carga?
+A: Cuando la carga es muy voluminosa.
+B: Cuando es de día.
+C: Cuando se circula por carreteras de más de dos carriles por sentido.
+D: En ninguno de los supuestos anteriores.
+SOLUCION: D
+NORMA: RD 1428/2003, art. 14
+
+COD: 2H05013
+PREGUNTA: ¿Qué es la estiba?
+A: Es la acción de colocar la carga para ser transportada de la mejor manera.
+B: Es la actividad que regula la aceleración del vehículo.
+C: Es la forma de ahorrar combustible.
+D: Es la manera de conducir.
+SOLUCION: A
+NORMA: Manual de estiba para mercancías sólidas, Ricardo González Blanco, Ediciones UPC
+REFERENCIA DOCTRINAL: Manual de estiba para mercancías sólidas, Ricardo González Blanco, Ediciones UPC
+
+COD: 2H05014
+PREGUNTA: En un autobús, el desgaste prematuro de los neumáticos es un fenómeno típico:
+A: de la sobrecarga en el eje delantero, no así en el trasero.
+B: de la sobrecarga en los ejes delantero y trasero.
+C: de la sobrecarga en el eje trasero, no así en el delantero.
+D: El desgaste prematuro de los neumáticos no tiene relación nunca con la sobrecarga.
+SOLUCION: B
+NORMA: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+REFERENCIA DOCTRINAL: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+
+COD: 2H05015
+PREGUNTA: ¿Cómo se denomina el arte de colocar la carga para ser transportada de la mejor manera?
+A: Balanceo.
+B: Estiba.
+C: Cabeceo.
+D: Guiñada.
+SOLUCION: B
+NORMA: Manual de estiba para mercancías sólidas, Ricardo González Blanco, Ediciones UPC
+REFERENCIA DOCTRINAL: Manual de estiba para mercancías sólidas, Ricardo González Blanco, Ediciones UPC
+
+COD: 2H05016
+PREGUNTA: ¿Qué fenómeno es típico de una sobrecarga en el eje delantero de un autobús?
+A: La dureza de la dirección.
+B: El esfuerzo excesivo para la suspensión trasera.
+C: La suavidad de la dirección.
+D: La falta de apoyo en el eje delantero.
+SOLUCION: A
+NORMA: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+REFERENCIA DOCTRINAL: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+
+COD: 2H05017
+PREGUNTA: ¿Qué fenómeno es típico en una sobrecarga del eje delantero del autobús?
+A: La falta de apoyo en el eje delantero.
+B: El esfuerzo excesivo para la suspensión trasera y la repercusión de golpes en el chasis.
+C: El desgaste prematuro de los neumáticos de ese eje.
+D: La suavidad de la dirección del vehículo.
+SOLUCION: C
+NORMA: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+REFERENCIA DOCTRINAL: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+
+COD: 2H05018
+PREGUNTA: La normativa obliga a que la carga esté correctamente sujetada a fin de que:
+A: no se desplace en absoluto.
+B: no se desplace más de un tercio de su longitud.
+C: no se desplace de manera peligrosa.
+D: La normativa no contiene ninguna disposición sobre esa materia, solo existen recomendaciones.
+SOLUCION: C
+NORMA: RD 1428/2003, art. 14
+
+COD: 2H05019
+PREGUNTA: ¿El modo de estibar la carga tiene influencia en la estabilidad del vehículo?
+A: Sí.
+B: No.
+C: Depende del tipo de carretera.
+D: Depende del tipo de vehículo.
+SOLUCION: A
+NORMA: RD 1428/2003, art. 14
+
+COD: 2H05020
+PREGUNTA: ¿El modo de estibar la carga en un vehículo tiene alguna incidencia sobre la seguridad vial?
+A: No, salvo que la carga caiga sobre otro vehículo durante su transporte.
+B: No, salvo que la carga se desprenda del vehículo durante su transporte.
+C: En ningún caso.
+D: Sí, porque puede afectar a la estabilidad del vehículo.
+SOLUCION: D
+NORMA: RD 1428/2003, art. 14
+
+COD: 2H05021
+PREGUNTA: Indique cuál de las siguientes afirmaciones es correcta:
+A: El modo de estibar la carga incide en la estabilidad del vehículo.
+B: El modo de estibar la carga solo tiene incidencia para la protección de la propia carga.
+C: El modo de estibar la carga no incide en la protección del vehículo de posibles averías.
+D: El modo de estibar la carga no afecta al movimiento del vehículo.
+SOLUCION: A
+NORMA: Código de buenas prácticas para la estiba segura de la carga en el transporte por carretera, IRU
+REFERENCIA DOCTRINAL: Código de buenas prácticas para la estiba segura de la carga en el transporte por carretera, IRU
+
+COD: 2H05022
+PREGUNTA: ¿Puede provocar efectos negativos la sobrecarga de alguno de los ejes de un autobús?
+A: Sí.
+B: No.
+C: Sí, pero solamente si el eje que se sobrecarga es alguno de los delanteros.
+D: Sí, pero solamente si el eje que se sobrecarga es alguno de los traseros.
+SOLUCION: A
+NORMA: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+REFERENCIA DOCTRINAL: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+
+COD: 2H05023
+PREGUNTA: ¿Qué tipo de fuerzas de inercia o aceleraciones experimenta un vehículo en movimiento con repercusión sobre su carga?
+A: Longitudinales.
+B: Transversales.
+C: Verticales.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: Código de prácticas OMI/OIT/CEPE-Naciones Unidas sobre la arrumazón de las unidades de transporte
+REFERENCIA DOCTRINAL: Código de prácticas OMI/OIT/CEPE-Naciones Unidas sobre la arrumazón de las unidades de transporte
+
+COD: 2H05024
+PREGUNTA: A mayor altura del centro de gravedad, la estabilidad del autobús:
+A: disminuye.
+B: aumenta.
+C: aumenta, siempre que la parte más ligera de la carga permanezca en la base de la caja.
+D: No sufre alteraciones.
+SOLUCION: A
+NORMA: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+REFERENCIA DOCTRINAL: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+
+COD: 2H05025
+PREGUNTA: Para garantizar que el autobús reaccione correctamente durante una frenada, ¿qué se tendrá en cuenta respecto a su centro de gravedad?
+A: Que el centro de gravedad esté lo más bajo posible.
+B: Que el centro de gravedad esté situado lo más a la izquierda posible del vehículo.
+C: Que el centro de gravedad esté lo más alto posible.
+D: Que el centro de gravedad esté situado lo más a la derecha posible del vehículo.
+SOLUCION: A
+NORMA: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+REFERENCIA DOCTRINAL: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+
+COD: 2H05026
+PREGUNTA: ¿Qué supone un incremento de la altura del centro de gravedad del vehículo?
+A: Un incremento de la estabilidad del vehículo.
+B: Menores probabilidades de que se produzca un vuelco.
+C: Una reducción del riesgo en las curvas.
+D: Un incremento de la inestabilidad del vehículo con mayores probabilidades de que se produzca un vuelco.
+SOLUCION: D
+NORMA: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+REFERENCIA DOCTRINAL: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+
+COD: 2H05027
+PREGUNTA: ¿Qué supone un incremento de la altura del centro de gravedad del vehículo?
+A: Un incremento de la estabilidad del vehículo.
+B: Menores probabilidades de que se produzca un vuelco.
+C: Incrementa el riesgo en las curvas.
+D: Disminuye el riesgo en las curvas.
+SOLUCION: C
+NORMA: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+REFERENCIA DOCTRINAL: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+
+COD: 2H05028
+PREGUNTA: Un incremento de la altura del centro de gravedad del vehículo supone:
+A: una disminución del riesgo en las curvas.
+B: mayores probabilidades de que se produzca un vuelco.
+C: una disminución del riesgo ante la necesidad de tener que realizar una maniobra brusca para esquivar un peligro.
+D: una mayor velocidad de crucero.
+SOLUCION: B
+NORMA: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+REFERENCIA DOCTRINAL: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+
+COD: 2H05029
+PREGUNTA: ¿Qué fuerzas en el sentido de marcha del vehículo, causadas por aceleración o deceleración, debe poder soportar la sujeción de una carga?
+A: El peso de la carga multiplicado por 0,8.
+B: El peso de la carga multiplicado por 0,5.
+C: El peso de la carga multiplicado por 2.
+D: No hay nada regulado al respecto.
+SOLUCION: A
+NORMA: RD 563/2017, Anexo III
+
+COD: 2H05030
+PREGUNTA: ¿Qué fuerzas en sentido contrario al de marcha del vehículo, causadas por aceleración o deceleración, debe poder soportar la sujeción de una carga?
+A: El peso de la carga multiplicado por 0,8.
+B: El peso de la carga multiplicado por 0,5.
+C: El peso de la carga multiplicado por 2.
+D: No hay nada regulado al respecto.
+SOLUCION: B
+NORMA: RD 563/2017, Anexo III
+
+COD: 2H05031
+PREGUNTA: ¿Qué fuerzas en sentido lateral, causadas por aceleración o deceleración, debe poder soportar la sujeción de una carga?
+A: El peso de la carga multiplicado por 0,8.
+B: El peso de la carga multiplicado por 0,5.
+C: El peso de la carga multiplicado por 2.
+D: No hay nada regulado al respecto.
+SOLUCION: B
+NORMA: RD 563/2017, Anexo III
+
+COD: 2H05032
+PREGUNTA: Al efectuar la carga de un vehículo hay que asegurarse de que la sujeción de la misma:
+A: impide su inclinación longitudinal.
+B: impide su inclinación transversal.
+C: impide su inclinación vectorial.
+D: Las respuestas A y B son correctas.
+SOLUCION: D
+NORMA: RD 563/2017, Anexo III
+
+COD: 2H05033
+PREGUNTA: La normativa obliga a que la carga esté correctamente sujetada a fin de que:
+A: no se desplace en absoluto.
+B: no se desplace de manera peligrosa.
+C: no se desplace fuera del compartimento de carga.
+D: Las respuestas B y C son correctas.
+SOLUCION: D
+NORMA: RD 1428/2003, art. 14; RD  563/2017, art. 11
+
+COD: 2H05034
+PREGUNTA: ¿Qué supone un incremento de la altura del centro de gravedad del vehículo?
+A: Un incremento de la inestabilidad del vehículo.
+B: Mayor velocidad de crucero.
+C: Mejor aceleración.
+D: Un incremento de la estabilidad del vehículo.
+SOLUCION: A
+NORMA: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+REFERENCIA DOCTRINAL: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+
+COD: 2H05035
+PREGUNTA: ¿Qué supone un incremento de la altura del centro de gravedad del vehículo?
+A: Mejor aceleración.
+B: Un incremento de la estabilidad del vehículo.
+C: Disminuye el riesgo en las curvas.
+D: Incrementa el riesgo ante la necesidad de tener que realizar una maniobra brusca para esquivar un peligro.
+SOLUCION: D
+NORMA: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+REFERENCIA DOCTRINAL: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+
+COD: 2H05036
+PREGUNTA: Un factor que puede afectar a la estabilidad del vehículo es:
+A: la fuerza termotecnia lateral.
+B: la posición del centro de gravedad.
+C: la masa radial.
+D: la masa neta que se puede levantar.
+SOLUCION: B
+NORMA: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+REFERENCIA DOCTRINAL: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+
+COD: 2H05037
+PREGUNTA: ¿Qué factor puede afectar a la estabilidad del vehículo?
+A: La masa radial.
+B: La masa neta que se puede levantar.
+C: La resistencia al balanceo del chasis.
+D: La resistencia a la aceleración.
+SOLUCION: C
+NORMA: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+REFERENCIA DOCTRINAL: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+
+COD: 2H05038
+PREGUNTA: Un factor que puede afectar a la estabilidad del vehículo es:
+A: la masa neta que se puede transportar.
+B: la masa de velocidad máxima.
+C: la fuerza termotecnia lateral.
+D: la rigidez torsional de la carrocería.
+SOLUCION: D
+NORMA: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+REFERENCIA DOCTRINAL: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+
+COD: 2H05039
+PREGUNTA: Al hablar de la distribución de la carga en un vehículo nos referimos:
+A: al peso total de la carga.
+B: al peso total del vehículo cargado.
+C: a la parte del peso que soporta cada eje.
+D: Las respuestas A y B son correctas.
+SOLUCION: C
+NORMA: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea
+REFERENCIA DOCTRINAL: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea
+
+COD: 2H05040
+PREGUNTA: La distribución incorrecta de la carga:
+A: afecta positivamente a la estabilidad del vehículo.
+B: afecta a la maniobrabilidad de los operarios de descarga.
+C: reduce considerablemente el riesgo de accidente.
+D: afecta negativamente a la estabilidad del vehículo.
+SOLUCION: D
+NORMA: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea
+REFERENCIA DOCTRINAL: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea
+
+COD: 2H05041
+PREGUNTA: ¿A qué afecta la incorrecta distribución de la carga?
+A: A la estabilidad del vehículo.
+B: Al peso específico de la carga.
+C: Al centro de gravedad de la carga.
+D: A la fuerza termotécnica lateral.
+SOLUCION: A
+NORMA: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea
+REFERENCIA DOCTRINAL: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea
+
+COD: 2H05042
+PREGUNTA: ¿Qué es distribuir la carga en el vehículo?
+A: Repartir el peso total entre los ejes.
+B: Calcular el peso específico de la carga.
+C: Calcular la fuerza termotecnia lateral.
+D: Es lo mismo que calcular el centro de gravedad de la carga.
+SOLUCION: A
+NORMA: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea
+REFERENCIA DOCTRINAL: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea
+
+COD: 2H05043
+PREGUNTA: ¿A qué afecta directamente el incorrecto reparto de la carga?
+A: A la carga exclusivamente.
+B: Al tiempo necesario para realizar el transporte, que se ve incrementado.
+C: A la estabilidad y maniobrabilidad del vehículo.
+D: Al consumo de combustible, que aumenta.
+SOLUCION: C
+NORMA: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea
+REFERENCIA DOCTRINAL: Guía europea de mejores prácticas sobre sujeción de cargas para el transporte por carretera, Comisión Europea
+
+COD: 2H05044
+PREGUNTA: El conductor de un autocar debe procurar que el equipaje de los viajeros:
+A: viaje en el lugar específicamente destinado a ello, correctamente colocado.
+B: viaje, en todo caso, en el habitáculo de pasajeros, correctamente colocado.
+C: viaje al lado de su propietario.
+D: no viaje en el vehículo si supera 30 kg de peso.
+SOLUCION: A
+NORMA: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+REFERENCIA DOCTRINAL: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+
+COD: 2H05045
+PREGUNTA: ¿En qué parte del autocar se ubica el equipaje de mano de los viajeros?
+A: En la bodega.
+B: En la baca.
+C: En el habitáculo de los viajeros.
+D: En el remolque.
+SOLUCION: C
+NORMA: Ley 16/1987, art. 23
+
+COD: 2H05046
+PREGUNTA: El conductor de un autocar debe procurar que el equipaje de los viajeros:
+A: se coloque de modo que ocupe el menor espacio posible.
+B: se coloque de modo que no se desplace durante el viaje.
+C: se coloque junto al viajero.
+D: se coloque donde pueda estar controlado por su propietario.
+SOLUCION: B
+NORMA: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+REFERENCIA DOCTRINAL: Seguridad vial, conducción eficiente, medio ambiente y contaminación, Dirección General de Tráfico
+
+COD: 2H05124
+PREGUNTA: Se considera que la sujeción de la carga es correcta cuando, en cualquier situación de funcionamiento del vehículo:
+A: el cambio de posición de las cargas es mínimo.
+B: el cambio de posición de las cargas es nulo.
+C: el cambio de posición de las cargas no supera el 50 %.
+D: el cambio de posición de las cargas no supera el 50 %, salvo situaciones de emergencia.
+SOLUCION: A
+NORMA: RD 563/2017, art. 11
+
+COD: 2H05125
+PREGUNTA: Se considera que la sujeción de la carga es correcta cuando:
+A:  los equipajes no pueden desplazarse fuera de la superficie de carga, salvo situaciones de emergencia.
+B: los equipajes no pueden desplazarse fuera de la superficie de carga, salvo maniobras de arranque cuesta arriba.
+C: los equipajes no pueden desplazarse fuera de la superficie de carga, en cualquier situación de funcionamiento del vehículo.
+D: Las respuestas A y B son correctas.
+SOLUCION: C
+NORMA: RD 563/2017, art. 11
+
+COD: 2H05126
+PREGUNTA: ¿Las Fuerzas de Seguridad están habilitadas para inspeccionar la sujeción de la carga?
+A: No.
+B: Sí, durante su recorrido en carretera.
+C: Sí, pero solo dirigiéndose al punto de carga.
+D: Sí, pero solo cuando haya signos manifiestos de estiba inadecuada.
+SOLUCION: B
+NORMA: RD 563/2017, art. 11
+
+COD: 2H05127
+PREGUNTA: ¿Cómo se clasifican las deficiencias detectadas en la sujeción de la carga durante una inspección en carretera?
+A: Leves y graves.
+B: Graves y muy graves.
+C: Leves, graves y muy graves.
+D: Leves, graves y peligrosas.
+SOLUCION: D
+NORMA: RD 563/2017, Anexo III
+
+COD: 2H05128
+PREGUNTA: La deficiencia detectada durante una inspección en carretera que consiste en la posibilidad de un desplazamiento significativo de una parte de la carga se considera:
+A: leve.
+B: grave.
+C: muy grave.
+D: peligrosa.
+SOLUCION: B
+NORMA: RD 563/2017, Anexo III
+
+COD: 2H05129
+PREGUNTA: La deficiencia detectada durante una inspección en carretera que consiste en riesgo de pérdida de una parte de la carga, poniendo en peligro la seguridad del tráfico, se considera:
+A: leve.
+B: grave.
+C: muy grave.
+D: peligrosa.
+SOLUCION: D
+NORMA: RD 563/2017, Anexo III
+
+COD: 2H05130
+PREGUNTA: ¿Qué grado de deficiencia se da si, durante una inspección en carretera, se observa que la carga está sujetada correctamente, pero cabría formular recomendaciones en materia de seguridad?
+A: No hay deficiencia.
+B: Deficiencia leve.
+C: Deficiencia grave.
+D: Deficiencia muy grave.
+SOLUCION: B
+NORMA: RD 563/2017, Anexo III
+
+COD: 2H05131
+PREGUNTA: ¿Qué grado de deficiencia se asignará si, durante una inspección en carretera, se observa que la sujeción de la carga presenta varias de ellas?
+A: El del grupo de deficiencias más bajo.
+B: El del grupo de deficiencias intermedio.
+C: El del grupo de deficiencias más alto.
+D: El grado de deficiencia muy grave.
+SOLUCION: C
+NORMA: RD 563/2017, Anexo III
+
+COD: 2H06001
+PREGUNTA: ¿A qué distancia mínima de la intersección que indiquen se colocarán las señales de preseñalización?
+A: 5 km.
+B: 2 km.
+C: 1 km.
+D: 500 m.
+SOLUCION: D
+NORMA: RD 1428/2003, art. 162
+
+COD: 2H06002
+PREGUNTA: ¿Cómo se clasifican las carreteras según sus características, conforme a la normativa?
+A: Autovías, carreteras y caminos.
+B: Autopistas, autovías, carreteras convencionales.
+C: Autopistas, autovías, carreteras multicarril, carreteras convencionales.
+D: Carreteras multicarril y carreteras convencionales.
+SOLUCION: C
+NORMA: Ley 37/2015, art. 2
+
+COD: 2H06003
+PREGUNTA: ¿Cuál es la función de las señales de localización?
+A: La identificación de la carretera.
+B: La identificación del punto kilométrico.
+C: La indicación de la dirección de la próxima salida.
+D: Las poblaciones de varios itinerarios.
+SOLUCION: B
+NORMA: RD 1428/2003, art. 162
+
+COD: 2H06004
+PREGUNTA: ¿Cuál es una señal de orientación?
+A: Señal de identificación de carretera.
+B: Señal de dirección.
+C: Señal de localización.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: RD 1428/2003, art. 162
+
+COD: 2H06005
+PREGUNTA: En el Mapa Oficial de Carreteras, ¿aparece la ubicación de gasolineras?
+A: Sí, pero solo las que están situadas en autopistas y autovías.
+B: Sí, pero solo de las que cuentan con servicio de cafetería.
+C: Sí.
+D: No.
+SOLUCION: C
+NORMA: Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.
+REFERENCIA DOCTRINAL: Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.
+
+COD: 2H06006
+PREGUNTA: En el Mapa Oficial de Carreteras, ¿aparece la ubicación de puestos de la Cruz Roja?
+A: Sí.
+B: Sí, pero solo los que cuentan con unidad de cuidados intensivos.
+C: Sí, pero solo los que están cerca de las capitales de provincia.
+D: No.
+SOLUCION: A
+NORMA: Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.
+REFERENCIA DOCTRINAL: Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.
+
+COD: 2H06007
+PREGUNTA: En el Mapa Oficial de Carreteras, ¿se señalan las distancias kilométricas entre diversos puntos de las carreteras?
+A: Sí, si se trata de distancias entre capitales de Comunidades Autónomas.
+B: Sí, pero solo las distancias existentes entre Madrid y las demás poblaciones.
+C: Sí.
+D: No.
+SOLUCION: C
+NORMA: Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.
+REFERENCIA DOCTRINAL: Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.
+
+COD: 2H06008
+PREGUNTA: ¿Los caminos de servicio deben abrirse al uso público?
+A: Sí.
+B: Sí, cuando lo exija el interés general.
+C: No, nunca.
+D: Ninguna respuesta es correcta.
+SOLUCION: B
+NORMA: Ley 37/2015, art. 2
+
+COD: 2H06009
+PREGUNTA: ¿Qué caracteriza a las autopistas?
+A: Que no tienen acceso las propiedades colindantes.
+B: No cruzan ni son cruzadas al mismo nivel por otras vías.
+C: Tienen varios carriles para cada sentido de la circulación.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: Ley 37/2015, art. 2
+
+COD: 2H06010
+PREGUNTA: ¿Qué caracteriza a las autovías?
+A: Que no tienen acceso las propiedades colindantes.
+B: No cruzan ni son cruzadas al mismo nivel por otras vías.
+C: Tienen varios carriles para cada sentido de la circulación.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: Ley 37/2015, art. 2
+
+COD: 2H06011
+PREGUNTA: ¿Qué es una carretera multicarril?
+A: Un tipo de autopista.
+B: Un tipo de autovía.
+C: Una carretera que, sin ser autopista ni autovía, tiene varios carriles para la circulación en cada sentido.
+D: Cualquier carretera con más de un carril por sentido de circulación.
+SOLUCION: C
+NORMA: Ley 37/2015, art. 2
+
+COD: 2H06012
+PREGUNTA: ¿Qué función puede tener una señal de preseñalización?
+A: Indicar la existencia de señales de prohibición cercanas.
+B: Indicar la existencia de señales de limitación cercanas.
+C: Indicar direcciones en carreteras.
+D: Avisar de una zona de la carretera sin señalizar.
+SOLUCION: C
+NORMA: RD 1428/2003, art. 162
+
+COD: 2H06013
+PREGUNTA: ¿Qué no encontraremos en los mapas de carreteras?
+A: Puertos de montaña.
+B: Ubicación de gasolineras.
+C: Lugares turísticos.
+D: Información meteorológica.
+SOLUCION: D
+NORMA: Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.
+REFERENCIA DOCTRINAL: Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.
+
+COD: 2H06014
+PREGUNTA: ¿Qué se considera itinerarios de interés general, según la normativa?
+A: Constituyen acceso principal a un puerto o aeropuerto de interés general.
+B: Enlazan polígonos industriales de especial importancia con los núcleos de población cercanos.
+C: Tienen un aforo de vehículos superior a la media establecida en la norma.
+D: Constituyen acceso principal a una estación de ferrocarril con tráfico internacional.
+SOLUCION: A
+NORMA: Ley 37/2015, art. 4
+
+COD: 2H06015
+PREGUNTA: ¿Qué se considera itinerarios de interés general, según la normativa?
+A: Constituyen acceso principal a una estación de ferrocarril con tráfico internacional.
+B: Tienen un aforo de vehículos superior a la media establecida en la norma.
+C: Enlazan polígonos industriales de especial importancia con los núcleos de población cercanos.
+D: Sirven de acceso a los principales pasos fronterizos.
+SOLUCION: D
+NORMA: Ley 37/2015, art. 4
+
+COD: 2H06016
+PREGUNTA: ¿Quién edita en España el Mapa Oficial de Carreteras?
+A: Distintos organismos públicos y entidades privadas colaboradoras.
+B: La Dirección General de Tráfico.
+C: Las Comunidades Autónomas.
+D: El Ministerio de Transportes.
+SOLUCION: D
+NORMA: Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.
+REFERENCIA DOCTRINAL: Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.
+
+COD: 2H06017
+PREGUNTA: ¿Tienen la consideración de carreteras los caminos de servicio?
+A: Sí, en todos los casos.
+B: No.
+C: Sí, cuando tienen origen en una carretera.
+D: Solo cuando su anchura es superior a 2 metros.
+SOLUCION: B
+NORMA: Ley 37/2015, art. 2
+
+COD: 2H06019
+PREGUNTA: El fondo de la referencia identificativa de una carretera autonómica de segundo nivel será de color:
+A: amarillo.
+B: blanco.
+C: marrón.
+D: rojo.
+SOLUCION: C
+NORMA: RD 1428/2003, Anexo I.5.3.13
+
+COD: 2H06020
+PREGUNTA: El fondo de la referencia identificativa de una carretera autonómica de tercer nivel será de color:
+A: amarillo.
+B: rojo.
+C: blanco.
+D: marrón.
+SOLUCION: A
+NORMA: RD 1428/2003, Anexo I.5.3.13
+
+COD: 2H06021
+PREGUNTA: El fondo de la señal de indicación de una autovía para automóviles es de color:
+A: azul.
+B: amarilla.
+C: verde.
+D: naranja.
+SOLUCION: A
+NORMA: RD 1428/2003, Anexo I.5.3.8
+
+COD: 2H06022
+PREGUNTA: El fondo de la referencia identificativa de una carretera autonómica de primer nivel será de color:
+A: naranja.
+B: rojo.
+C: verde.
+D: azul.
+SOLUCION: A
+NORMA: RD 1428/2003, Anexo I.5.3.13
+
+COD: 2H06024
+PREGUNTA: La referencia identificativa de las vías de la red estatal de carreteras tiene, en las señales, el fondo color:
+A: rojo.
+B: verde.
+C: amarillo.
+D: azul.
+SOLUCION: A
+NORMA: RD 1428/2003, Anexo I.5.3.13
+
+COD: 2H06025
+PREGUNTA: En las señales, la referencia identificativa de un itinerario de la red internacional de carreteras…
+A: tiene el fondo de color azul.
+B: tiene el fondo de color amarillo.
+C: solo aparece en autopistas de peaje.
+D: tiene el fondo de color verde.
+SOLUCION: D
+NORMA: RD 1428/2003, Anexo I.5.3.13
+
+COD: 2H06027
+PREGUNTA: La señal indicativa de las autopistas de la red estatal tiene como características generales:
+A: fondo rojo, borde negro y letras blancas.
+B: fondo blanco, borde negro y letras negras.
+C: fondo amarillo, borde negro y letras negras.
+D: fondo azul, borde blanco y letras blancas.
+SOLUCION: D
+NORMA: RD 1428/2003, Anexo I.5.3.8
+
+COD: 2H06028
+PREGUNTA: La señal que identifica el fin de autovía es de fondo de color:
+A: azul con una franja diagonal negra.
+B: verde.
+C: azul con una franja diagonal roja.
+D: azul con dos franjas diagonales cruzadas de color rojo.
+SOLUCION: C
+NORMA: RD 1428/2003, Anexo I.5.3.8
+
+COD: 2H06029
+PREGUNTA: La señal que indica la localización de un puesto de socorro tendrá fondo de color azul y el símbolo de:
+A: un teléfono SOS.
+B: un hospital.
+C: una cruz roja.
+D: Esta señal no existe en el catálogo oficial de señales.
+SOLUCION: C
+NORMA: RD 1428/2003, Anexo I.5.3.10
+
+COD: 2H06030
+PREGUNTA: Las áreas de servicio de una carretera:
+A: tienen la consideración de carretera.
+B: se consideran un elemento funcional de la carretera.
+C: no forman parte del dominio público.
+D: son gestionadas por los municipios.
+SOLUCION: B
+NORMA: Ley 37/2015, art. 3
+
+COD: 2H06031
+PREGUNTA: Las áreas de servicio, ¿se pueden localizar en el Mapa Oficial de Carreteras?
+A: Sí, con una letra S blanca dentro de un cuadrado azul.
+B: Sí, con el símbolo de un surtidor de gasolina.
+C: No.
+D: Ninguna respuesta es correcta.
+SOLUCION: A
+NORMA: Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.
+REFERENCIA DOCTRINAL: Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.
+
+COD: 2H06032
+PREGUNTA: Las carreteras integradas en un itinerario de interés general dependen:
+A: del Ayuntamiento.
+B: de las Comunidades Autónomas.
+C: del Estado.
+D: de las Diputaciones Provinciales.
+SOLUCION: C
+NORMA: Ley 37/2015, art. 4
+
+COD: 2H06033
+PREGUNTA: Las carreteras que enlazan las Comunidades Autónomas, ¿son de interés general?
+A: Sí, siempre.
+B: Sí, si conectan los principales núcleos de población del territorio del Estado, formando una red que soporta tráficos de largo recorrido.
+C: No.
+D: Ninguna respuesta es correcta.
+SOLUCION: B
+NORMA: Ley 37/2015, art. 4
+
+COD: 2H06034
+PREGUNTA: Los puertos de montaña con problemas de nieve se señalan en el Mapa Oficial de Carreteras:
+A: con el dibujo de una montaña.
+B: con un círculo rojo.
+C: con un círculo azul.
+D: No están señalados en el mapa.
+SOLUCION: C
+NORMA: Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.
+REFERENCIA DOCTRINAL: Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.
+
+COD: 2H06035
+PREGUNTA: Según la normativa vigente, no se consideran carreteras…
+A: los caminos de servicio, entendiendo por tales los construidos como elementos auxiliares o complementarios de las actividades específicas de sus titulares.
+B: las carreteras convencionales que no reúnen las características propias de las autopistas, autovías y vías rápidas.
+C: los caminos construidos por las personas privadas con finalidad análoga a los caminos de servicio.
+D: Las respuestas A y C son correctas.
+SOLUCION: D
+NORMA: Ley 37/2015, art. 2
+
+COD: 2H06036
+PREGUNTA: Según la normativa vigente, se consideran carreteras:
+A: las vías interurbanas proyectadas y construidas fundamentalmente para la circulación de vehículos automóviles.
+B: las vías de dominio público o privado proyectadas y construidas fundamentalmente para la circulación de vehículos automóviles.
+C: las vías de dominio y uso público proyectadas y construidas fundamentalmente para la circulación de vehículos automóviles.
+D: los caminos de servicio, entendiendo por tales los construidos como elementos auxiliares o complementarios de las actividades específicas de sus titulares.
+SOLUCION: C
+NORMA: Ley 37/2015, art. 2
+
+COD: 2H06038
+PREGUNTA: Si consultamos el Mapa Oficial de Carreteras, ¿podemos saber la distancia kilométrica total existente entre dos capitales de provincia españolas?
+A: Sí, hay una tabla donde se indican distancias kilométricas aproximadas entre capitales de provincia.
+B: Sí, pero solo si disponemos de un escalímetro.
+C: Sí, pero solo se indican las distancias existentes entre capitales de Comunidades Autónomas.
+D: No.
+SOLUCION: A
+NORMA: Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.
+REFERENCIA DOCTRINAL: Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.
+
+COD: 2H06039
+PREGUNTA: Son elementos funcionales de una carretera:
+A: los equipamiento destinados al control del tráfico.
+B: las paradas de autobuses.
+C: las instalaciones de gestión del tráfico.
+D: Ninguna de las respuestas es correcta.
+SOLUCION: B
+NORMA: Ley 37/2015, art. 3
+
+COD: 2H06040
+PREGUNTA: Son elementos funcionales de una carretera:
+A: los equipamiento destinados al control del tráfico.
+B: los lechos de frenado.
+C: las instalaciones de gestión del tráfico.
+D: Ninguna de las respuestas es correcta.
+SOLUCION: B
+NORMA: Ley 37/2015, art. 3
+
+COD: 2H06041
+PREGUNTA: Son elementos funcionales de una carretera:
+A: los equipamiento destinados al control del tráfico.
+B: las áreas de servicio.
+C: las instalaciones de gestión del tráfico.
+D: Ninguna de las respuestas es correcta.
+SOLUCION: B
+NORMA: Ley 37/2015, art. 3
+
+COD: 2H06042
+PREGUNTA: Una autovía en construcción se señala en el Mapa Oficial de Carreteras:
+A: con una línea gris.
+B: con trazo discontinuo rojo.
+C: con trazo discontinuo negro.
+D: con una línea verde.
+SOLUCION: B
+NORMA: Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.
+REFERENCIA DOCTRINAL: Mapa Oficial de Carreteras del Ministerio de Transportes, Movilidad y Agenda Urbana.
+

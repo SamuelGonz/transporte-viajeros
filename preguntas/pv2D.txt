@@ -1,0 +1,3042 @@
+COD: 2D01001
+PREGUNTA: ¿Qué requisitos tiene que cumplir una empresa para poder acogerse al régimen simplificado del IVA?
+A: Tiene que ser siempre empresa de nacionalidad española.
+B: Tiene que ser siempre una entidad de carácter mercantil.
+C: Tiene que ser sociedad anónima.
+D: Tiene que ser empresario individual o entidad a la que se le aplica el régimen de atribución de rentas a efectos del IRPF.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 122
+
+COD: 2D01002
+PREGUNTA: ¿Qué implica el régimen simplificado del IVA?
+A: Que se debe llevar libro registro, pero no conservar las facturas.
+B: Que se debe conservar las facturas, pero no llevar libros.
+C: Que los sujetos pasivos deben llevar los libros registros de facturas recibidas y conservar las facturas recibidas y copia de las emitidas.
+D: Que los sujetos pasivos deben solamente llevar el libro registro de facturas emitidas.
+SOLUCION: C
+NORMA: RD 1624/1992, art. 40; RD 1619/2012, art. 19
+
+COD: 2D01003
+PREGUNTA: Como norma general, ¿cuál es la base imponible del IVA en un servicio de transporte?
+A: El precio total del servicio.
+B: El precio total, descontados los seguros.
+C: La tarifa mínima obligatoria, aunque no se cobre.
+D: La tarifa mínima obligatoria más el beneficio industrial.
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 78
+
+COD: 2D01004
+PREGUNTA: La compra de un vehículo nuevo para destinarlo al transporte, por un empresario debidamente autorizado para esta actividad, ¿está gravada con el IVA?
+A: Sí, en todo caso.
+B: No, en caso de dedicar el vehículo al transporte por cuenta propia.
+C: No, en caso de dedicarse al transporte público.
+D: No, en caso de que el vehículo se incluya en la declaración de la renta.
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 4; Ley 37/1992, art. 7
+
+COD: 2D01005
+PREGUNTA: ¿Cuál de los siguientes es requisito para acogerse al régimen simplificado del Impuesto sobre el Valor Añadido?
+A: Ser persona física.
+B: Realizar exclusivamente determinadas actividades señaladas de modo expreso, entre las que figura el transporte.
+C: Tener una facturación inferior a 30.000 euros anuales.
+D: Todas las anteriores son correctas.
+SOLUCION: B
+NORMA: Ley 37/1992, Art. 122
+
+COD: 2D01006
+PREGUNTA: ¿Son los empresarios del transporte sujetos pasivos del IVA?
+A: Sí.
+B: Sí, pero solo cuando tengan más de cinco vehículos.
+C: Sí, pero solo si son personas jurídicas.
+D: No, nunca.
+SOLUCION: A
+NORMA: Ley 37/1992, art. 11; Ley 37/1992, art. 84
+
+COD: 2D01007
+PREGUNTA: ¿Cuáles son los tipos impositivos del Impuesto sobre el Valor Añadido aplicables al transporte?
+A: El 6 % para mercancías y el 16 % para viajeros.
+B: El 10 % para viajeros y el 21 % para mercancías.
+C: El 8 % para viajeros y el 18 % para mercancías.
+D: El 21 % tanto para mercancías como para viajeros.
+SOLUCION: B
+NORMA: Ley 37/1992, art. 90; Ley 37/1992, art. 91
+
+COD: 2D01008
+PREGUNTA: ¿Cuál es, en España, el ámbito territorial de aplicación del Impuesto sobre el Valor Añadido?
+A: La Península y las Islas Baleares.
+B: La Península, las Islas Baleares y las Islas Canarias.
+C: Solo las islas.
+D: La Península y Ceuta y Melilla, exclusivamente.
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 3
+
+COD: 2D01009
+PREGUNTA: ¿Quién paga el Impuesto sobre el Valor Añadido?
+A: El que realiza la entrega de bienes.
+B: El consumidor al que se le entregan los bienes o se le presta el servicio.
+C: El que presta el servicio.
+D: Ninguno de los mencionados en las respuestas anteriores.
+SOLUCION: B
+NORMA: Ley 37/1992, Art. 1
+
+COD: 2D01010
+PREGUNTA: ¿Qué libros deberán llevar los empresarios incluidos en el régimen general del IVA, aparte de los que obliga el Código de Comercio?
+A: Libro registro de compras.
+B: El libro registro de ventas, el registro de caja y bancos y el registro de gastos.
+C: Libro registro de facturas expedidas, libro registro de facturas recibidas, libro registro de bienes de inversión y libro registro de determinadas operaciones intracomunitarias.
+D: El libro registro de compras y gastos y el libro registro de bienes de inversión.
+SOLUCION: C
+NORMA: RD 1624/1992, Art. 62
+
+COD: 2D01011
+PREGUNTA: ¿Cómo se considera el transporte de viajeros a efectos del IVA?
+A: Una prestación de servicios.
+B: Un contrato de obra.
+C: No tiene consideración.
+D: Una entrega de bienes.
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 11
+
+COD: 2D01012
+PREGUNTA: ¿Qué grava el Impuesto sobre el Valor Añadido?
+A: Las entregas de bienes y la prestación de servicios.
+B: El consumo de bienes.
+C: El consumo de servicios.
+D: La prestación de servicios exclusivamente.
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 4
+
+COD: 2D01013
+PREGUNTA: ¿Cuándo deben presentarse las declaraciones-liquidaciones del Impuesto sobre el Valor Añadido en el caso de las pequeñas empresas?
+A: Trimestralmente, salvo los supuestos excluidos por la normativa.
+B: Una vez al año.
+C: Mensualmente en todo caso.
+D: Semestralmente.
+SOLUCION: A
+NORMA: RD 1624/1992, Art. 71
+
+COD: 2D01014
+PREGUNTA: ¿A qué tributo está sujeta, con carácter general, la prestación de servicios de transporte de mercancías?
+A: A una contribución especial.
+B: Al Impuesto sobre el Valor Añadido.
+C: A la tasa de transporte.
+D: Al canon de coincidencia.
+SOLUCION: B
+NORMA: Ley 37/1992, art. 4; Ley 37/1992, art. 11
+
+COD: 2D01015
+PREGUNTA: ¿Cómo se determinan las cantidades a ingresar en Hacienda en el régimen simplificado del IVA?
+A: Por la diferencia entre las cuotas efectivamente devengadas y soportadas.
+B: Mediante la aplicación de índices y módulos fijados por Hacienda para el cálculo de la cuota devengada por operaciones corrientes.
+C: Mediante la aplicación de índices y módulos fijados por Hacienda para el cálculo de las cuotas devengadas y soportadas por operaciones corrientes.
+D: Mediante la aplicación de índices y módulos fijados por Hacienda para el cálculo del volumen de actividad.
+SOLUCION: B
+NORMA: Ley 37/1992, Art. 123
+
+COD: 2D01016
+PREGUNTA: De entre las opciones enumeradas a continuación, ¿qué impuesto grava la compra de combustible?
+A: Impuesto sobre el Valor Añadido.
+B: Impuesto sobre Actividades Económicas.
+C: Impuesto sobre Vehículos.
+D: Impuesto sobre Sociedades.
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 4
+
+COD: 2D01017
+PREGUNTA: ¿Cómo se considera al transporte a efectos del IVA?
+A: Un producto industrial.
+B: Un gasto.
+C: Un servicio.
+D: Un viaje.
+SOLUCION: C
+NORMA: Ley 37/1992, Art. 11
+
+COD: 2D01018
+PREGUNTA: ¿Cuáles de los siguientes bienes y servicios permiten deducir el IVA soportado en su adquisición?
+A: Espectáculos y servicios de carácter recreativo.
+B: Tabaco.
+C: Joyas, alhajas y piedras preciosas.
+D: Muestras gratuitas y objetos publicitarios de escaso valor.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 96
+
+COD: 2D01019
+PREGUNTA: ¿Qué grava el Impuesto sobre el Valor Añadido?
+A: Las primas de seguros.
+B: La transmisión de bienes entre consumidores.
+C: La constitución de sociedades.
+D: Las entregas de bienes y prestaciones de servicios efectuados por empresarios y profesionales.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 4
+
+COD: 2D01020
+PREGUNTA: ¿Qué operación de las siguientes no está gravada por IVA?
+A: Las entregas de bienes y prestaciones de servicios efectuadas por empresarios o profesionales.
+B: Las exportaciones de bienes.
+C: Las adquisiciones intracomunitarias de bienes.
+D: Las importaciones de bienes.
+SOLUCION: B
+NORMA: Ley 37/1992, Art. 1
+
+COD: 2D01021
+PREGUNTA: ¿Cuál es el porcentaje aplicable para la determinación de la cuota trimestral del régimen especial simplificado del IVA para la actividad del transporte de viajeros por carretera?
+A: El 9 %.
+B: El 6 %.
+C: El 5 %.
+D: El 1 %.
+SOLUCION: D
+NORMA: OM HAC/1425/2025, Anexo II, Instrucciones IVA, 3
+
+COD: 2D01022
+PREGUNTA: ¿Qué se considera personal empleado a efectos de la aplicación de los módulos del régimen simplificado del IVA a la actividad de transporte de mercancías por carretera?
+A: Solo el personal no asalariado.
+B: Solo el personal asalariado.
+C: Solo los contratados a tiempo parcial.
+D: Tanto el personal asalariado como el no asalariado.
+SOLUCION: D
+NORMA: OM HAC/1425/2025, Anexo II, Instrucciones IVA, 2
+
+COD: 2D01023
+PREGUNTA: ¿Cómo se cuantificarán los asientos de los vehículos para la aplicación de los módulos del régimen simplificado del IVA a una empresa de transporte de viajeros por carretera?
+A: Por el número de unidades que figura en la tarjeta de inspección técnica del vehículo, incluido el del conductor y el del guía.
+B: Por el número de unidades que figura en la tarjeta de inspección técnica del vehículo, excluido el del conductor y el del guía.
+C: El módulo vendrá definido por la potencia fiscal que figure en la Tarjeta de Inspección Técnica.
+D: Las tres respuestas anteriores son falsas.
+SOLUCION: B
+NORMA: OM HAC/1425/2025, Anexo II, Instrucciones IVA, 2
+
+COD: 2D01024
+PREGUNTA: ¿Son deducibles en el régimen simplificado del IVA las cuotas soportadas por la adquisición de un vehículo para desarrollar la actividad de transporte?
+A: Sí, porque es un activo fijo destinado al desarrollo de la actividad.
+B: Sí, pero solo es deducible la tercera parte de la cuota del IVA.
+C: Sí, pero solo es deducible la cuarta parte de la cuota del IVA.
+D: No son deducibles.
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 123
+
+COD: 2D01025
+PREGUNTA: ¿Qué puede hacer un sujeto pasivo que efectúa liquidaciones trimestrales de IVA el cual, a final de año, tiene deducciones que superan la cuota devengada?
+A: Debe renunciar al exceso de deducciones que no haya podido compensar a lo largo del año.
+B: Puede solicitar la devolución del exceso no compensado o dejarlo para su compensación en las liquidaciones de los siguientes trimestres, sin superar el plazo de cuatro años.
+C: Puede solicitar la devolución del exceso no compensado o dejarlo para su compensación en las liquidaciones de los siguientes trimestres, sin superar el año siguiente a aquel en el que se efectuaron las operaciones.
+D: Tiene que presentar una declaración complementaria.
+SOLUCION: B
+NORMA: Ley 37/1992, art. 99; Ley 37/1992, art. 115
+
+COD: 2D01026
+PREGUNTA: ¿Qué libros deben llevar los empresarios individuales sujetos al régimen simplificado del IVA?
+A: Libro registro de compras.
+B: Libro registro de ventas, registro de caja y bancos, registro de gastos.
+C: Libro registro de facturas recibidas.
+D: Registro de venta e ingresos, libro registro de compras y gastos y libro registro de bienes de inversión.
+SOLUCION: C
+NORMA: RD 1624/1992, Art. 40
+
+COD: 2D01027
+PREGUNTA: ¿Qué importe de facturación no deben superar los empresarios en el conjunto de sus actividades empresariales o profesionales, excepto las agrícolas, ganaderas o forestales, para no ser excluidos del régimen simplificado del IVA?
+A: 650.000 euros de volumen de ingresos en el año anterior.
+B: 500.000 euros de volumen de ingresos en el año anterior.
+C: 250.000 euros de volumen de ingresos en el año anterior.
+D: 300.000 euros de volumen de ingresos en el año anterior.
+SOLUCION: C
+NORMA: Ley 37/1992, Art. 122; Ley 37/1992, disposición transitoria decimotercera
+
+COD: 2D01028
+PREGUNTA: ¿Cuál es el plazo de presentación de las declaraciones-liquidaciones correspondientes a los pagos a cuenta trimestrales que tiene que realizar el sujeto pasivo en el régimen simplificado del Impuesto sobre el Valor Añadido?
+A: Los 20 primeros días de los meses de febrero, abril y diciembre.
+B: Los 20 primeros días de los meses de abril, julio y octubre.
+C: Los 5 primeros días de cada mes.
+D: Los 20 primeros días de los meses de abril, julio y diciembre.
+SOLUCION: B
+NORMA: RD 1624/1992, Art. 41
+
+COD: 2D01029
+PREGUNTA: ¿Cuál de estas operaciones está exenta del Impuesto sobre el Valor Añadido?
+A: La prestación de servicios de transporte.
+B: La enseñanza de idiomas.
+C: Los servicios de hostelería y restaurantes.
+D: La adquisición de gasóleo para vehículos.
+SOLUCION: B
+NORMA: Ley 37/1992, Art. 20
+
+COD: 2D01030
+PREGUNTA: ¿Cuándo se produce, normalmente, el devengo en las prestaciones de servicios de transporte, a efectos del Impuesto sobre el Valor Añadido?
+A: Cuando se preste el servicio de transporte.
+B: Dos meses después de que se preste el servicio de transporte.
+C: Antes de la prestación del servicio de transporte.
+D: Siempre los días 1 y 15 de cada mes, con independencia de cuándo se preste el servicio de transporte.
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 75
+
+COD: 2D01031
+PREGUNTA: ¿Cuáles son los tipos impositivos en el Impuesto sobre el Valor Añadido?
+A: El general, 33 %; el reducido, 14 % y el superreducido, 10 %.
+B: El general, 21 %; el reducido, 10 % y el superreducido, 4 %.
+C: Existe un tipo impositivo único del 21 %.
+D: El general, 21 % y el reducido, 10 %.
+SOLUCION: B
+NORMA: Ley 37/1992, art. 90; Ley 37/1992, art. 91
+
+COD: 2D01032
+PREGUNTA: ¿Cómo se calcula la cuota del Impuesto sobre el Valor Añadido que se repercute al cliente?
+A: Aplicando el tipo impositivo a la base imponible.
+B: Sumando el hecho imponible a la base imponible.
+C: Aplicando la cuota al IVA soportado.
+D: Ninguna de las anteriores respuestas es correcta.
+SOLUCION: A
+NORMA: Ley 37/1992, art. 90; Ley 58/2003, art. 56
+
+COD: 2D01033
+PREGUNTA: ¿A qué tipo impositivo tributan los transportes de viajeros y sus equipajes en el Impuesto sobre el Valor Añadido?
+A: Al 8 %.
+B: Al 21 %.
+C: Al 10%
+D: Están exentos.
+SOLUCION: C
+NORMA: Ley 37/1992, Art. 91
+
+COD: 2D01034
+PREGUNTA: ¿Cuándo se podrá modificar la base imponible del IVA?
+A: Cuando nos lo pida el cliente.
+B: Cuando el sujeto pasivo lo crea conveniente.
+C: Cuando no cuadre la contabilidad.
+D: Cuando no nos hayan pagado las cuotas repercutidas y, con posterioridad al devengo de las operaciones, medie una declaración judicial de concurso.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 80
+
+COD: 2D01035
+PREGUNTA: ¿Cuál de estas operaciones gravadas con el Impuesto sobre el Valor Añadido no permite deducir las cuotas soportadas?
+A: La compra de combustible.
+B: Las reparaciones de los elementos de transporte.
+C: La compra de calendarios para regalar a clientes.
+D: La compra de joyas para regalar a clientes.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 96
+
+COD: 2D01036
+PREGUNTA: ¿Computa el propio empresario como personal empleado a efectos de la aplicación de los módulos del régimen simplificado del IVA?
+A: Sí, siempre.
+B: Sí, pero solo si no tiene ningún empleado.
+C: Sí, pero solo si no tiene más de dos trabajadores asalariados.
+D: No, nunca.
+SOLUCION: A
+NORMA: OM HAC/1425/2025, Anexo II, Instrucciones IVA, 2
+
+COD: 2D01037
+PREGUNTA: Las prestaciones de servicios consistentes en transportes de pasajeros se consideran realizadas en el territorio español de aplicación del IVA:
+A: por la parte del trayecto que discurra por dicho territorio cualquiera que sea su destinatario.
+B: por la parte del trayecto que discurra por dicho territorio, pero solo si su destinatario es un empresario o profesional.
+C: por la parte del trayecto que discurra por dicho territorio, pero solo si su destinatario no es empresario o profesional.
+D: por la parte del trayecto que discurra por dicho territorio cualquiera que sea su destinatario, pero solo si se trata de transporte terrestre.
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 70
+
+COD: 2D01038
+PREGUNTA: ¿Qué podrá hacer una empresa que efectúa declaraciones-liquidaciones trimestrales de IVA, si en el primer trimestre tiene deducciones que superan la cuota devengada?
+A: Pagar la cuota devengada.
+B: Pedir la devolución de las deducciones no compensadas.
+C: Compensar el exceso de deducciones en el siguiente trimestre.
+D: No presentar la liquidación de ese trimestre.
+SOLUCION: C
+NORMA: Ley 37/1992, art. 99; Ley 37/1992, art. 115
+
+COD: 2D01039
+PREGUNTA: ¿Cuál es la cuota mínima por operaciones corrientes para la actividad de transporte de viajeros por carretera en el régimen simplificado del IVA?
+A: El 30 % de la cuota devengada por operaciones corrientes.
+B: El 3 % de la cuota devengada por operaciones corrientes.
+C: El 1 % de la cuota devengada por operaciones corrientes.
+D: No existe cuota mínima por operaciones corrientes.
+SOLUCION: C
+NORMA: OM HAC/1425/2025, Anexo II
+
+COD: 2D01040
+PREGUNTA: ¿Qué ocurre si un empresario individual, sujeto al régimen simplificado del IVA, sufre una incapacidad temporal y no tiene otro personal empleado?
+A: Nada, esto no influye en el pago de impuestos.
+B: El empresario puede solicitar de la Administración Tributaria una reducción de los módulos.
+C: El empresario obtiene automáticamente una reducción de los módulos.
+D: El empresario tiene la obligación de buscar una persona que lo sustituya.
+SOLUCION: B
+NORMA: RD 1624/1992, Art. 38
+
+COD: 2D01041
+PREGUNTA: ¿Cómo se calcula la cuota devengada por operaciones corrientes en el régimen simplificado del Impuesto sobre el Valor Añadido?
+A: Por la suma de las cuantías correspondientes a los módulos previstos para la actividad.
+B: Sumando el IVA de las facturas emitidas por el empresario.
+C: Sumando el IVA de las facturas recibidas por el empresario.
+D: Por el importe del módulo "Número de asientos".
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 123
+
+COD: 2D01042
+PREGUNTA: ¿Qué se incluye como "cuotas soportadas por operaciones corrientes" en el régimen simplificado del IVA?
+A: La suma de las cuantías correspondientes a los módulos previstos para la actividad.
+B: Las cuotas cobradas por el empresario a sus clientes.
+C: Las cuotas soportadas en la adquisición de activos fijos afectos a la actividad.
+D: Las cuotas soportadas en la adquisición o importación de bienes o servicios afectos a la actividad, distintos de los activos fijos.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 123
+
+COD: 2D01043
+PREGUNTA: ¿Qué bienes permiten a los empresarios deducir, en todo o en parte, las cuotas de IVA soportadas en su adquisición?
+A: Los que se afecten directa y exclusivamente a su actividad empresarial.
+B: Los automóviles de turismo destinados a satisfacer simultáneamente necesidades particulares y de la empresa.
+C: Todos los que se utilicen para la actividad empresarial, aunque no figuren en la contabilidad.
+D: Las respuestas A y B son correctas.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 95
+
+COD: 2D01044
+PREGUNTA: ¿Quién tiene la condición de sujeto pasivo del IVA en una adquisición intracomunitaria de bienes?
+A: Quien la realiza.
+B: Quien expide la mercancía.
+C: El transportista.
+D: Cualquiera de los anteriores, indistintamente.
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 85
+
+COD: 2D01045
+PREGUNTA: Los transportes intracomunitarios de bienes, cuyo destinatario no sea un empresario o profesional actuando como tal, se consideran realizados en el territorio español de aplicación del IVA:
+A: en todo caso.
+B: cuando se inicien en el mismo.
+C: cuando finalicen en el mismo.
+D: cuando recorran por el mismo más de 200 km.
+SOLUCION: B
+NORMA: Ley 37/1992, Art. 72
+
+COD: 2D01046
+PREGUNTA: ¿Cuál de estos impuestos no es directo?
+A: Impuesto sobre Sociedades.
+B: Impuesto sobre la Renta de las Personas Físicas.
+C: Impuesto sobre el Valor Añadido.
+D: Impuesto sobre Actividades Económicas.
+SOLUCION: C
+NORMA: Ley 37/1992, Art. 1
+
+COD: 2D01047
+PREGUNTA: ¿Cuál de las siguientes es causa de exclusión del régimen simplificado del IVA para un transportista de viajeros en autocar?
+A: Haber superado cualquier día del año los cinco vehículos.
+B: Superar 250.000 euros de volumen de ingresos anuales en el conjunto de sus actividades, excluidas las agrícolas, ganaderas y forestales.
+C: Superar 250.000 euros de volumen de compras anuales.
+D: Todas las respuestas anteriores.
+SOLUCION: D
+NORMA: OM HAC/1425/2025, art. 3
+
+COD: 2D01048
+PREGUNTA: ¿Cómo se consignará la cuota repercutida de IVA en las facturas no simplificadas?
+A: Se consignará separadamente de la base imponible, salvo excepciones.
+B: Solo se consignará separadamente si lo pide el cliente.
+C: Se consignará siempre la cantidad total, sin distinguir la base imponible y la cuota del impuesto.
+D: Se consignará en la factura solo la cuota del impuesto.
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 88
+
+COD: 2D01049
+PREGUNTA: ¿A qué tipo impositivo tributan los vehículos adaptados a personas con movilidad reducida en el Impuesto sobre el Valor Añadido?
+A: Están exentos.
+B: Al 4 %.
+C: Al 10 %.
+D: Al 21 %.
+SOLUCION: B
+NORMA: Ley 37/1992, Art. 91
+
+COD: 2D01050
+PREGUNTA: ¿Cómo se calcula la base imponible del IVA en un caso de autoconsumo de bienes?
+A: Será siempre la base que se fijó en el momento de la adquisición del bien.
+B: Si el bien ha sido objeto de transformación, será el coste de los bienes y servicios utilizados en el proceso.
+C: Si el bien ha sido objeto de transformación, será el coste de los bienes y servicios utilizados en el proceso, sin incluir los costes de personal.
+D: No hace falta calcularla porque no es un supuesto que tribute por IVA.
+SOLUCION: B
+NORMA: Ley 37/1992, Art. 79
+
+COD: 2D01051
+PREGUNTA: ¿Cómo se deben llevar los libros registro que exige el Impuesto sobre el Valor Añadido?
+A: A través de la Sede electrónica de la Agencia Tributaria, en todo caso.
+B: A través de la Sede electrónica de la Agencia Tributaria, cuando la empresa esté obligada a presentar declaraciones mensuales.
+C: A través de la Sede electrónica de la Agencia Tributaria, salvo que la empresa esté obligada a presentar declaraciones mensuales.
+D: Mediante anotaciones manuales o informáticas recogidas en soportes que custodia el empresario, en todo caso.
+SOLUCION: B
+NORMA: RD 1624/1992, Art. 62
+
+COD: 2D01052
+PREGUNTA: ¿Cómo se determina la base imponible del IVA de una operación cuando su contraprestación se ha fijado en moneda extranjera?
+A: En euros, aplicando el tipo de cambio vendedor vigente en el momento del devengo.
+B: En euros, aplicando el tipo de cambio comprador vigente en el momento del devengo.
+C: En euros, aplicando el tipo de cambio comprador vigente en el momento del pago.
+D: En la moneda utilizada para fijar la contraprestación y por el importe acordado.
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 79
+
+COD: 2D01053
+PREGUNTA: ¿Cuál de las siguientes importaciones está exenta de IVA?
+A: La de bienes personales destinados a una vivienda secundaria.
+B: La de bienes de inversión en ciertos supuestos.
+C: La de productos agrícolas en ciertos supuestos.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: Ley 37/1992, art. 30; Ley 37/1992, art. 37; Ley 37/1992, art. 38
+
+COD: 2D01054
+PREGUNTA: ¿Cuál de las siguientes operaciones está exenta de IVA?
+A: El servicio postal universal.
+B: La asistencia sanitaria.
+C: El transporte en ambulancia.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 20
+
+COD: 2D01055
+PREGUNTA: ¿Cuál de las siguientes operaciones no está sujeta al IVA?
+A: La entrega de muestras a título gratuito.
+B: Los servicios prestados a sus socios por una sociedad anónima a cambio de un precio.
+C: Los servicios prestados a una cooperativa por sus socios de trabajo.
+D: Las respuestas A y C son correctas.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 7
+
+COD: 2D01056
+PREGUNTA: ¿Cuál de las siguientes operaciones se considera adquisición intracomunitaria?
+A: Una importación de bienes efectuada al territorio español de aplicación del IVA.
+B: Una operación efectuada desde otro Estado miembro de la Unión Europea a cualquier punto del territorio español.
+C: Una operación efectuada desde otro Estado miembro de la Unión Europea al territorio español de aplicación del IVA.
+D: Las respuestas A y C son correctas.
+SOLUCION: C
+NORMA: Ley 37/1992, art. 3; Ley 37/1992, art. 15
+
+COD: 2D01057
+PREGUNTA: ¿Cuándo debe aplicar un sujeto pasivo del IVA la regla de prorrata?
+A: Siempre.
+B: Siempre que realice operaciones interiores e intracomunitarias de la misma naturaleza.
+C: Cuando realice operaciones que originan derecho a deducción y otras de la misma naturaleza que no originan tal derecho.
+D: Nunca, esta regla no existe.
+SOLUCION: C
+NORMA: Ley 37/1992, Art. 102
+
+COD: 2D01058
+PREGUNTA: ¿Cuándo debe hacer un empresario la repercusión del IVA a su cliente?
+A: A lo largo de los 15 días siguientes a la fecha de entrega de la mercancía o de prestación del servicio.
+B: A lo largo de los 30 días siguientes a la fecha de entrega de la mercancía o de prestación del servicio.
+C: Dentro del plazo de un año desde la entrega de la mercancía o prestación del servicio.
+D: En el momento de expedir y entregar la factura.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 88
+
+COD: 2D01059
+PREGUNTA: ¿Cuándo se pierde el derecho a repercutir las cuotas de IVA a los clientes?
+A: A los 15 días de la fecha de la operación.
+B: Al año de la fecha de devengo.
+C: A los cuatro años de la fecha de devengo.
+D: Una vez vencido el plazo voluntario de presentación de la declaración por este impuesto en la que debería figurar contabilizada la operación. 
+SOLUCION: B
+NORMA: Ley 37/1992, Art. 88
+
+COD: 2D01060
+PREGUNTA: ¿Cuándo se produce el devengo del IVA en una entrega de bienes de tracto sucesivo?
+A: Cuando finaliza la entrega.
+B: Cuando se produce la primera entrega.
+C: Cuando se haya entregado la mitad de los bienes.
+D: En el momento en que resulte exigible la parte del precio que comprende cada percepción.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 75
+
+COD: 2D01061
+PREGUNTA: ¿Cuándo se produce el devengo del IVA en una entrega de bienes con pagos anticipados?
+A: En el momento de la entrega de los bienes.
+B: Cuando esté pagada toda la entrega.
+C: En el momento del cobro por los importes percibidos.
+D: A los 15 días de cada cobro.
+SOLUCION: C
+NORMA: Ley 37/1992, Art. 75
+
+COD: 2D01062
+PREGUNTA: ¿Cuándo se puede hacer la rectificación de las cuotas de IVA repercutidas a los clientes?
+A: Como máximo, hasta los 15 días de la fecha de la operación.
+B: Como máximo, hasta un año de la fecha de devengo.
+C: Como máximo, hasta los cuatro años de la fecha de devengo.
+D: No es posible rectificar las cuotas; si hay un error habrá que emitir una nueva factura en sentido contrario.
+SOLUCION: C
+NORMA: Ley 37/1992, Art. 89
+
+COD: 2D01063
+PREGUNTA: ¿Deben registrar de algún modo los activos fijos adquiridos quienes están acogidos al régimen simplificado del IVA?
+A: No.
+B: Sí, en el libro registro de facturas recibidas.
+C: Sí, en el libro registro de bienes de inversión.
+D: No, salvo que tengan una vida útil superior a diez años.
+SOLUCION: B
+NORMA: RD 1624/1992, Art. 40
+
+COD: 2D01064
+PREGUNTA: ¿En qué caso se presumirá, a efectos del IVA, que se ejerce una actividad empresarial?
+A: Cuando se anuncie un establecimiento mercantil.
+B: Solo cuando se abra al público un establecimiento mercantil, no bastando con su mero anuncio.
+C: Solo cuando se haya efectuado alguna venta, no bastando el anuncio del establecimiento ni su apertura.
+D: No se presume en ningún caso, debiendo quedar probado siempre antes de exigirle obligaciones relacionadas con el IVA.
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 5
+
+COD: 2D01065
+PREGUNTA: ¿En qué condiciones se entiende que una sociedad mercantil es empresario o profesional a efectos del IVA?
+A: Es necesario que tenga abierto un establecimiento mercantil.
+B: Es necesario que se haya probado que efectuó algún servicio para terceras personas.
+C: Se considera siempre empresario o profesional, salvo prueba en contrario.
+D: Las respuestas A y B son correctas.
+SOLUCION: C
+NORMA: Ley 37/1992, Art. 5
+
+COD: 2D01066
+PREGUNTA: ¿En qué supuestos se puede modificar la base imponible del IVA fijada para una operación?
+A: Por los envases devueltos que sean susceptibles de reutilización.
+B: Por los descuentos aplicados con posterioridad.
+C: Cuando una operación quede sin efecto.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 80
+
+COD: 2D01067
+PREGUNTA: ¿Está sujeta al IVA la prestación de un servicio por un empresario a título gratuito?
+A: Sí, cuando lo preste en el ejercicio de su actividad.
+B: Sí, cuando lo preste para otro empresario.
+C: No.
+D: No, salvo que lo preste para un consumidor final.
+SOLUCION: C
+NORMA: Ley 37/1992, Art. 4
+
+COD: 2D01068
+PREGUNTA: ¿Esta sujeta al IVA la prestación de un servicio por una sociedad anónima a uno de sus socios?
+A: Sí, cuando lo preste a título gratuito.
+B: Sí, cuando lo preste a título oneroso.
+C: En ningún caso.
+D: No, salvo que el socio no tenga el control de la sociedad.
+SOLUCION: B
+NORMA: Ley 37/1992, Art. 4
+
+COD: 2D01069
+PREGUNTA: ¿Está sujeta al IVA la transmisión de la totalidad de los bienes que integran el patrimonio empresarial por cese en la actividad?
+A: No, pues la transmisión se produce cuando ya no se es empresario.
+B: No, salvo que se transmita a un consumidor final.
+C: Sí, pues se considera realizada en el desarrollo de la actividad empresarial.
+D: Solo cuando incluya medios de transporte o inmuebles.
+SOLUCION: C
+NORMA: Ley 37/1992, Art. 4
+
+COD: 2D01070
+PREGUNTA: ¿Está sujeto al IVA el autoconsumo de bienes?
+A: No, pues no hay una entrega de bienes.
+B: Sí, pues se asimila a la entrega.
+C: Sí, salvo que el autoconsumo sea hecho por los propios socios de la sociedad que los ha producido.
+D: Está sujeto, pero exento en todos los casos.
+SOLUCION: B
+NORMA: Ley 37/1992, Art. 9
+
+COD: 2D01071
+PREGUNTA: ¿Forman parte de la base imponible del IVA los embalajes de un producto que es objeto de venta?
+A: Sí, en todo caso.
+B: Nunca.
+C: Siempre que sean cargados a los destinatarios.
+D: Siempre que sean cargados a los destinatarios, salvo que sean susceptibles de devolución.
+SOLUCION: C
+NORMA: Ley 37/1992, Art. 78
+
+COD: 2D01072
+PREGUNTA: ¿Pueden ser sujetos pasivos del IVA entidades que carezcan de personalidad jurídica?
+A: No, pues no pueden operar en el tráfico jurídico.
+B: No, salvo que estén en trámites para adquirirla.
+C: Sí, cuando constituyan un patrimonio separado.
+D: Lo serán todas las que efectúen una operación sujeta al impuesto.
+SOLUCION: C
+NORMA: Ley 37/1992, Art. 84
+
+COD: 2D01073
+PREGUNTA: ¿Qué afirmación, referida al cálculo de las cuotas soportadas por operaciones corrientes en el régimen simplificado de IVA, es cierta?
+A: Se tiene derecho a deducir el 1 % de la cuota devengada en concepto de cuotas soportadas de difícil justificación.
+B: Se pueden deducir siempre todas las cuotas soportadas referidas a la actividad.
+C: Las cuotas que no hayan podido ser deducidas por exceso se podrán deducir en el ejercicio siguiente.
+D: Todas las afirmaciones son ciertas.
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 123
+
+COD: 2D01074
+PREGUNTA: ¿Qué carácter se atribuye al transporte por carretera a efectos del IVA?
+A: Se considera una prestación de servicios.
+B: Se considera prestación de servicios en el caso del transporte de personas, y entrega de bienes en el caso del transporte de mercancías.
+C: Se considera operación intracomunitaria, salvo cuando sea transporte internacional.
+D: Se considera entrega de bienes.
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 11
+
+COD: 2D01075
+PREGUNTA: ¿Qué carácter tiene el régimen simplificado de IVA?
+A: Es de aplicación obligatoria para todos los empresarios que cumplan los parámetros estipulados.
+B: Es de aplicación voluntaria para cualquier empresario o profesional.
+C: Es de aplicación voluntaria, quedando excluido del mismo quien renuncie a su aplicación.
+D: Es de aplicación voluntaria, quedando excluido del mismo quien no solicite su aplicación.
+SOLUCION: C
+NORMA: Ley 37/1992, Art. 122
+
+COD: 2D01076
+PREGUNTA: ¿Qué condición tienen las exportaciones y las importaciones de bienes a efectos del IVA?
+A: Las exportaciones están exentas y las importaciones están sujetas.
+B: Las exportaciones están sujetas y las importaciones están exentas.
+C: Los dos tipos de operación están sujetos, pero exentos.
+D: Ninguno de los dos tipos está sujeto, pues se les aplican los aranceles aduaneros en lugar del IVA.
+SOLUCION: A
+NORMA: Ley 37/1992, art. 17; Ley 37/1992, art. 21
+
+COD: 2D01077
+PREGUNTA: ¿Qué consideración tienen, a efectos del IVA, los materiales utilizados para proteger las mercancías e importados junto con las mismas?
+A: Estarán exentos de IVA en determinados supuestos.
+B: Estarán siempre exentos de IVA, pues no son el objeto de la operación.
+C: Tendrán siempre el mismo tratamiento que corresponda a la mercancía.
+D: No estarán sujetos nunca al IVA.
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 55
+
+COD: 2D01078
+PREGUNTA: ¿Qué cuotas se pueden deducir en la liquidación del Impuesto sobre el Valor Añadido?
+A: Las que se hayan soportado por entregas de bienes y prestaciones de servicios.
+B: Las que se hayan soportado por adquisiciones intracomunitarias.
+C: Las que se hayan soportado por importación de bienes.
+D: Todas las anteriores.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 92
+
+COD: 2D01079
+PREGUNTA: ¿Qué cuotas se pueden deducir para la liquidación del Impuesto sobre el Valor Añadido?
+A: En su integridad las soportadas en bienes adquiridos, con independencia del destino de los mismos.
+B: En su integridad las soportadas en bienes adquiridos que se utilicen para operaciones interiores sujetas y no exentas.
+C: En su integridad las soportadas en bienes adquiridos que se utilicen para operaciones interiores sujetas, aunque estén exentas en su totalidad.
+D: En su integridad las soportadas en bienes adquiridos que se utilicen para operaciones interiores sujetas y  no exentas o exentas en no más del 50 %.
+SOLUCION: B
+NORMA: Ley 37/1992, Art. 94
+
+COD: 2D01080
+PREGUNTA: ¿Qué cuotas son deducibles en el IVA?
+A: Las soportadas una vez que se ha iniciado la actividad empresarial o profesional.
+B: Las soportadas con anterioridad al inicio de la actividad, con determinadas condiciones.
+C: Las devengadas después de haber iniciado la actividad.
+D: Las respuestas A y B son correctas.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 93
+
+COD: 2D01081
+PREGUNTA: ¿Qué documentos son soporte adecuado para justificar las deducciones practicadas en la liquidación del IVA?
+A: Facturas originales.
+B: Documentos de liquidación de importaciones.
+C: Recibos de agricultores.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 97
+
+COD: 2D01082
+PREGUNTA: ¿Qué empresarios no pueden acogerse al régimen simplificado de IVA?
+A: Los que realicen cualquier otra actividad a la que no sea aplicable dicho régimen.
+B: Los que realicen cualquier otra actividad a la que no sea aplicable dicho régimen, salvo que sean actividades acogidas al régimen de agricultura, ganadería y pesca.
+C: Los que realicen cualquier otra actividad a la que no sea aplicable dicho régimen, salvo que sean actividades acogidas al régimen del recargo de equivalencia.
+D: Las respuestas B y C son correctas.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 122
+
+COD: 2D01083
+PREGUNTA: ¿Qué empresarios pueden acogerse al régimen del criterio de caja para declarar el IRPF?
+A: Los que tengan un volumen de operaciones que no haya superado dos millones de euros en el año anterior.
+B: Los que tengan un volumen de operaciones que no haya superado cinco millones de euros en el año anterior.
+C: Los que hayan tenido un número de empleados inferior a cincuenta en el año anterior.
+D: Ninguno, el régimen del criterio de caja no se aplica al IRPF sino al IVA.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 163 decies
+
+COD: 2D01084
+PREGUNTA: ¿Qué empresarios pueden acogerse al régimen del criterio de caja para declarar el IVA?
+A: Los que tengan un volumen de operaciones que no haya superado dos millones de euros en el año anterior.
+B: Los que tengan un volumen de operaciones que no haya superado cinco millones de euros en el año anterior.
+C: Los que hayan tenido un número de empleados inferior a cincuenta en el año anterior.
+D: Ninguno, el régimen del criterio de caja no se aplica al IVA sino al IRPF.
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 163 decies
+
+COD: 2D01085
+PREGUNTA: ¿Qué prestaciones de servicios se consideran realizadas en el territorio español de aplicación del IVA?
+A: Cuando el destinatario de las mismas sea un empresario, radique en dicho territorio su sede y se presten para dicha sede.
+B: Salvo excepciones, cuando el destinatario de las mismas no sea empresario, si se prestan por un empresario radicado en dicho territorio.
+C: Las relacionadas con inmuebles radicados en dicho territorio.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 69; Ley 37/1992, Art. 70
+
+COD: 2D01086
+PREGUNTA: ¿Qué responsabilidad incumbe a los destinatarios de una operación sujeta a IVA respecto de la deuda tributaria?
+A: Serán siempre responsables subsidiarios.
+B: Serán siempre los sujetos pasivos del impuesto.
+C: Serán siempre responsables solidarios.
+D: Serán responsables solidarios cuando medie acción culposa o dolosa por su parte.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 87
+
+COD: 2D01087
+PREGUNTA: ¿Qué responsabilidad incumbe, respecto de las deudas tributarias por IVA derivadas de una importación, a las asociaciones garantes que contemplan algunos convenios internacionales?
+A: Serán responsables solidarios.
+B: Serán responsables subsidiarios siempre.
+C: Serán responsables subsidiarios cuando actúen con culpa o dolo.
+D: No tienen ninguna responsabilidad respecto de las deudas de IVA, pues su función se limita a garantizar el pago de los derechos arancelarios.
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 87
+
+COD: 2D01088
+PREGUNTA: ¿Qué sucede con la cuota del IVA cuando no se haya repercutido expresamente en la factura?
+A: Se entenderá siempre que la contraprestación incluyó la cuota.
+B: Se entenderá siempre que la contraprestación no incluyó la cuota.
+C: Se entenderá que la contraprestación no incluyó la cuota, pero no sucederá así cuando no sea obligatoria la repercusión expresa.
+D: Será necesario siempre anular la factura y emitir una nueva.
+SOLUCION: C
+NORMA: Ley 37/1992, Art. 78
+
+COD: 2D01089
+PREGUNTA: ¿Qué tipo de operaciones intracomunitarias están sujetas al pago de IVA en España?
+A: Las adquisiciones efectuadas a título oneroso por empresarios cuando el transmitente sea un empresario. 
+B: Las adquisiciones efectuadas a título oneroso por quien no tenga la condición de empresario cuando el transmitente sea un empresario. 
+C: Las adquisiciones de medios de transporte nuevos por quien no tenga la condición de empresario. 
+D: Las respuestas A y C son correctas.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 13
+
+COD: 2D01090
+PREGUNTA: ¿Quién tiene la condición de sujeto pasivo del IVA en una entrega de bienes?
+A: Siempre el empresario que la realiza.
+B: Normalmente el empresario que la realiza, pero en algunos supuestos es el empresario que recibe la entrega.
+C: Siempre el que la realiza, sea o no empresario.
+D: Normalmente el que la realiza, sea o no empresario, pero en algunos supuestos es quien recibe la entrega.
+SOLUCION: B
+NORMA: Ley 37/1992, Art. 84
+
+COD: 2D01091
+PREGUNTA: ¿Quién tiene la condición de sujeto pasivo del IVA en una importación de bienes?
+A: Quien la realiza.
+B: Quien expide la mercancía.
+C: El transportista.
+D: Nadie, pues no es una operación sujeta al impuesto.
+SOLUCION: A
+NORMA: Ley 37/1992, Art. 86
+
+COD: 2D01092
+PREGUNTA: ¿Se considera empresarios a efectos del IVA a las personas que realicen actividades que impliquen la ordenación por cuenta propia de factores de producción materiales, pero no humanos, con la finalidad de intervenir en la producción de bienes?
+A: No, es necesario que efectúen también la ordenación de factores humanos.
+B: Solo cuando se inscriban en el Censo de Empresarios.
+C: Solo cuando también lleven a cabo la entrega de los bienes producidos.
+D: Sí.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 5
+
+COD: 2D01093
+PREGUNTA: ¿Se incluyen en la base imponible del IVA los descuentos aplicados en la prestación de un servicio?
+A: Sí, siempre.
+B: Se incluyen cuando no superan el 1 %.
+C: Nunca.
+D: No se incluyen cuando sean aplicados en el momento de la operación o antes.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 78
+
+COD: 2D01094
+PREGUNTA: ¿Sobre qué cantidad hay que aplicar el IVA cuando una operación está gravada simultáneamente con otros tributos?
+A: Sobre el precio de la operación, excluyendo el importe de los otros tributos en todos los casos, pues no forman parte de la base imponible.
+B: Sobre el precio de la operación, incluyendo el importe de los otros tributos, pues forman parte de la base imponible, salvo el impuesto especial sobre determinados medios de transporte.
+C: Sobre el precio de la operación, incluyendo el importe de los otros tributos en todos los casos, pues forman parte de la base imponible.
+D: Sobre el precio de la operación, incluyendo el importe de los otros tributos en todos los casos, pues forman parte de la base imponible, salvo el impuesto sobre la electricidad.
+SOLUCION: B
+NORMA: Ley 37/1992, Art. 78
+
+COD: 2D01095
+PREGUNTA: El régimen del criterio de caja no se puede aplicar a:
+A: adquisiciones intracomunitarias de bienes.
+B: supuestos de inversión del sujeto pasivo.
+C: autoconsumos.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: Ley 37/1992, Art. 163 duodecies
+
+COD: 2D01096
+PREGUNTA: En caso de acogerse al régimen del criterio de caja, el impuesto se devenga:
+A: en el momento de entregar el bien o prestar el servicio.
+B: en el momento de expedir la factura.
+C: en el momento del cobro.
+D: el 31 de diciembre de cada año, en todo caso.
+SOLUCION: C
+NORMA: Ley 37/1992, Art. 163 terdecies
+
+COD: 2D01097
+PREGUNTA: La importación de carburantes contenidos en los depósitos de vehículos se considera a efectos del IVA:
+A: una operación siempre exenta.
+B: una operación exenta cuando, tratándose de vehículos industriales, no se superen 200 litros.
+C: una operación exenta, salvo que se trate de turismos de uso particular.
+D: una operación no sujeta en ningún caso, pues el carburante se considera integrado en el propio vehículo.
+SOLUCION: B
+NORMA: Ley 37/1992, Art. 57
+
+COD: 2D01098
+PREGUNTA: La renuncia al régimen simplificado de IVA se aplica para:
+A: un mínimo de dos años.
+B: un mínimo de tres años.
+C: un mínimo de cinco años.
+D: un máximo de tres años, debiendo ser solicitada nuevamente al finalizar este período.
+SOLUCION: B
+NORMA: Ley 37/1992, Art. 122
+
+COD: 2D01099
+PREGUNTA: Las entregas de bienes muebles corporales que deban ser objeto de transporte con destino a un adquirente en Canarias se consideran realizadas en el territorio español de aplicación del IVA:
+A: cuando el transporte finalice en dicho territorio.
+B: cuando el transporte discurra por dicho territorio.
+C: cuando el transporte se inicie en dicho territorio.
+D: Nunca.
+SOLUCION: C
+NORMA: Ley 37/1992, Art. 68
+
+COD: 2D01100
+PREGUNTA: Si una operación está sujeta al IVA:
+A: no estará sujeta, salvo excepciones, al Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+B: no estará sujeta, salvo excepciones, al concepto "transmisiones patrimoniales onerosas" del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+C: no estará sujeta, salvo excepciones, al concepto "actos jurídicos documentados" del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+D: estará sujeta, salvo excepciones, al Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, pero exenta de su pago.
+SOLUCION: B
+NORMA: Ley 37/1992, Art. 4
+
+COD: 2D01101
+PREGUNTA: Las prestaciones de servicios accesorios al transporte se consideran realizadas en el territorio español de aplicación del IVA:
+A: cuando se presten materialmente en dicho territorio y su destinatario sea un empresario no radicado en él.
+B: cuando se presten materialmente en dicho territorio y su destinatario no sea empresario ni profesional.
+C: cuando su destinatario sea un empresario y tenga su sede en dicho territorio, aunque no se presten materialmente en el mismo ni estén destinados a esa sede.
+D: Todas las respuestas son correctas.
+SOLUCION: B
+NORMA: Ley 37/1992, Art. 70
+
+COD: 2D02001
+PREGUNTA: ¿Cuándo se devenga por primera vez el Impuesto sobre Vehículos de Tracción Mecánica?
+A: A partir del día en que se produzca la adquisición del vehículo.
+B: A partir del día 1 de enero siguiente a la fecha de matriculación del vehículo o de autorización de su circulación.
+C: A partir del día 1 enero siguiente a la adquisición del vehículo.
+D: A partir del primer día del trimestre natural siguiente a la fecha de adquisición del vehículo.
+SOLUCION: A
+NORMA: RD Legislativo 2/2004, Art. 96
+
+COD: 2D02002
+PREGUNTA: ¿Qué grava el Impuesto sobre Vehículos de Tracción Mecánica?
+A: La adquisición de vehículos de esta naturaleza que sean aptos para circular por las vías públicas.
+B: La titularidad de vehículos de esta naturaleza aptos para circular por las vías públicas.
+C: La utilización de vehículos de transporte.
+D: Ninguna de las respuestas anteriores es cierta.
+SOLUCION: B
+NORMA: RD Legislativo 2/2004, Art. 92
+
+COD: 2D02003
+PREGUNTA: ¿Qué vehículos están exentos del Impuesto sobre Vehículos de Tracción Mecánica?
+A: Las ambulancias y vehículos directamente destinados a la asistencia sanitaria.
+B: Los turismos y motocicletas.
+C: Los vehículos de transporte de mercancías.
+D: Los autocares de transporte de viajeros por carretera.
+SOLUCION: A
+NORMA: RD Legislativo 2/2004, Art. 93
+
+COD: 2D02004
+PREGUNTA: ¿A quién corresponde la gestión y liquidación del Impuesto sobre Vehículos de Tracción Mecánica?
+A: Al Estado.
+B: A las Comunidades Autónomas.
+C: Al ayuntamiento del domicilio que conste en el permiso de circulación del vehículo.
+D: Al ayuntamiento al que asigne el vehículo el Ministerio de Industria.
+SOLUCION: C
+NORMA: RD Legislativo 2/2004, Art. 97
+
+COD: 2D02005
+PREGUNTA: El Impuesto sobre Vehículos de Tracción Mecánica se exigirá de acuerdo:
+A: a los kilogramos de carga útil que tengan.
+B: a los caballos fiscales que tengan.
+C: a las plazas para viajeros que tengan.
+D: Todas las respuestas anteriores son correctas según la clase de vehículo de que se trate.
+SOLUCION: D
+NORMA: RD Legislativo 2/2004, Art. 95
+
+COD: 2D02006
+PREGUNTA: ¿Quién es el sujeto pasivo del Impuesto sobre Vehículos de Tracción Mecánica?
+A: La persona física o jurídica a cuyo nombre conste el vehículo, según el permiso de circulación.
+B: La persona física a cuyo nombre conste el vehículo, según el permiso de circulación, y, si consta a nombre de una sociedad, el administrador de la misma.
+C: La persona a cuyo nombre conste el vehículo, según el permiso de circulación, y su cónyuge y descendientes en primer grado si los tiene.
+D: Todas las respuestas anteriores son incorrectas.
+SOLUCION: A
+NORMA: RD Legislativo 2/2004, Art. 94
+
+COD: 2D02007
+PREGUNTA: De las opciones siguientes, ¿cuál es un caso de exención del Impuesto sobre Vehículos de Tracción Mecánica?
+A: Los vehículos matriculados a nombre de discapacitados para su uso exclusivo.
+B: Los autobuses destinados al servicio de transporte público urbano.
+C: Los camiones adquiridos entre 1980 y 1990 procedentes de importación.
+D: Las respuestas A y B son correctas.
+SOLUCION: D
+NORMA: RD Legislativo 2/2004, Art. 93
+
+COD: 2D02008
+PREGUNTA: ¿Qué vehículos están sujetos al Impuesto sobre Vehículos de Tracción Mecánica?
+A: Todos los vehículos matriculados.
+B: Los vehículos aptos para circular.
+C: Los vehículos dados de baja por antigüedad del modelo que estén autorizados para circular excepcionalmente.
+D: Las respuestas B y C son correctas.
+SOLUCION: B
+NORMA: RD Legislativo 2/2004, Art. 92
+
+COD: 2D02009
+PREGUNTA: ¿A quién van destinados los recursos recaudados con el Impuesto sobre Vehículos de Tracción Mecánica?
+A: A la Unión Europea.
+B: Al Estado.
+C: A las Comunidades Autónomas.
+D: A los ayuntamientos.
+SOLUCION: D
+NORMA: RD Legislativo 2/2004, Art. 59
+
+COD: 2D02010
+PREGUNTA: ¿Pueden los ayuntamientos establecer bonificaciones en la cuota del Impuesto sobre Vehículos de Tracción Mecánica?
+A: Sí, en función del tipo de carburante utilizado.
+B: Sí, en función de las características de los motores.
+C: No.
+D: Las respuestas A y B son correctas.
+SOLUCION: D
+NORMA: RD Legislativo 2/2004, Art. 95
+
+COD: 2D02011
+PREGUNTA: ¿Cómo se aplica la cuota del Impuesto sobre Vehículos de Tracción Mecánica el año en el que se produce la primera adquisición del vehículo?
+A: Se paga el año completo.
+B: Se paga la parte proporcional desde el día de adquisición.
+C: Se paga la parte proporcional desde el día de matriculación.
+D: Se prorratea por trimestres naturales.
+SOLUCION: D
+NORMA: RD Legislativo 2/2004, Art. 96
+
+COD: 2D02012
+PREGUNTA: ¿Es preciso efectuar alguna gestión en relación con el Impuesto sobre Vehículos de Tracción Mecánica para poder tramitar el cambio de titularidad de un vehículo?
+A: No.
+B: Es preciso acreditar el pago del impuesto correspondiente al año en el que se efectúa el cambio de titularidad.
+C: Es preciso acreditar el pago del impuesto correspondiente al año anterior a aquel en el que se efectúa el cambio de titularidad.
+D: Es preciso haber pagado el impuesto del año anterior y del año corriente, pero no es preciso acreditarlo ante la Jefatura de Tráfico.
+SOLUCION: C
+NORMA: RD Legislativo 2/2004, art. 99
+
+COD: 2D02013
+PREGUNTA: ¿Pueden los ayuntamientos bonificar la cuota del Impuesto sobre Vehículos de Tracción Mecánica en atención a la antigüedad de los mismos?
+A: Sí, pero solo a los calificados como vehículos históricos.
+B: Sí, a los que tengan una antigüedad mínima de 40 años.
+C: Sí, a los que tengan una antigüedad mínima de 25 años.
+D: No.
+SOLUCION: C
+NORMA: RD Legislativo 2/2004, Art. 95
+
+COD: 2D02014
+PREGUNTA: ¿Pueden los ayuntamientos incrementar la cuota del Impuesto sobre Vehículos de Tracción Mecánica?
+A: Sí, tanto como decidan por acuerdo del Pleno.
+B: Sí, hasta el límite fijado por la ley.
+C: No, solo pueden aplicar bonificaciones.
+D: No, deben aplicar siempre la tarifa fijada por la ley, sin incrementarla ni reducirla.
+SOLUCION: B
+NORMA: RD Legislativo 2/2004, Art. 95
+
+COD: 2D02015
+PREGUNTA: ¿Qué vehículo se considera apto para la circulación y, por tanto, sujeto, en principio, al Impuesto sobre Vehículos de Tracción Mecánica?
+A: Los que tengan permiso de circulación temporal.
+B: Los que tengan matrícula turística.
+C: Solo los que tengan permiso de circulación definitivo.
+D: Las respuestas A y B son correctas.
+SOLUCION: D
+NORMA: RD Legislativo 2/2004, Art. 92
+
+COD: 2D02016
+PREGUNTA: ¿Qué vehículos están exentos del Impuesto sobre Vehículos de Tracción Mecánica?
+A: Los autobuses de transporte público urbano.
+B: Los camiones de reparto urbano.
+C: Los tractores utilizados en el sector de la construcción.
+D: Todas las respuestas son correctas.
+SOLUCION: A
+NORMA: RD Legislativo 2/2004, Art. 93
+
+COD: 2D02017
+PREGUNTA: ¿Qué vehículos están exentos del Impuesto sobre Vehículos de Tracción Mecánica?
+A: Los vehículos adaptados para el uso por personas con movilidad reducida.
+B: Los vehículos proyectados y construidos especialmente para el uso por personas con movilidad reducida.
+C: Los vehículos matriculados a nombre de personas con discapacidad, de uso compartido con su cónyuge.
+D: Todas las respuestas son correctas.
+SOLUCION: B
+NORMA: RD Legislativo 2/2004, Art. 93
+
+COD: 2D02018
+PREGUNTA: ¿Qué vehículos no están sujetos al Impuesto sobre Vehículos de Tracción Mecánica?
+A: Los que tengan permiso de circulación temporal.
+B: Los que tengan matrícula turística.
+C: Los remolques y semirremolques cuya carga útil no supere 750 kilogramos.
+D: Todos los remolques y semirremolques.
+SOLUCION: C
+NORMA: RD Legislativo 2/2004, Art. 92
+
+COD: 2D02019
+PREGUNTA: El Impuesto sobre Vehículos de Tracción Mecánica:
+A: es de exigencia obligatoria para todos los ayuntamientos.
+B: es de exigencia voluntaria para todos los ayuntamientos.
+C: es de exigencia obligatoria en los ayuntamientos con población superior a 50.000 habitantes y voluntaria en los restantes.
+D: es de exigencia voluntaria en los ayuntamientos con población superior a 50.000 habitantes y obligatoria en los restantes.
+SOLUCION: A
+NORMA: RD Legislativo 2/2004, art. 59
+
+COD: 2D02020
+PREGUNTA: En el caso de los autobuses, la tarifa del Impuesto sobre Vehículos de Tracción Mecánica:
+A: se gradúa en función de sus caballos fiscales.
+B: se gradúa en función de su masa máxima autorizada.
+C: se gradúa en función de su número de plazas.
+D: se gradúa en función de su destino (servicio urbano o de carretera).
+SOLUCION: C
+NORMA: RD Legislativo 2/2004, art. 95
+
+COD: 2D02021
+PREGUNTA: En el caso de los camiones, la tarifa del Impuesto sobre Vehículos de Tracción Mecánica:
+A: se gradúa en función de sus caballos fiscales.
+B: se gradúa en función de su carga útil.
+C: se gradúa en función de su masa máxima autorizada.
+D: se gradúa en función de su destino (servicio público o privado complementario).
+SOLUCION: B
+NORMA: RD Legislativo 2/2004, art. 95
+
+COD: 2D02022
+PREGUNTA: En el caso de que el titular de un vehículo sea una entidad sin personalidad jurídica, pero que constituye una unidad económica, como una comunidad de bienes, ¿quién será el sujeto pasivo del Impuesto sobre Vehículos de Tracción Mecánica?
+A: La comunidad de bienes.
+B: Todos los integrantes de la comunidad de bienes a título individual.
+C: Los integrantes de la comunidad de bienes que desempeñen funciones de gestión y dirección.
+D: Los integrantes de la comunidad con participación superior al 25 %.
+SOLUCION: A
+NORMA: RD Legislativo 2/2004, Art. 94
+
+COD: 2D02023
+PREGUNTA: ¿Cómo se aplica la cuota del Impuesto sobre Vehículos de Tracción Mecánica el año en el que se produce la baja definitiva del vehículo?
+A: Se paga el año completo.
+B: Se paga la parte proporcional hasta el día de baja, excluido este.
+C: Se paga la parte proporcional hasta el día de baja, incluido este.
+D: Se prorratea por trimestres naturales.
+SOLUCION: D
+NORMA: RD Legislativo 2/2004, art. 96
+
+COD: 2D02024
+PREGUNTA: ¿Cómo se aplica la cuota del Impuesto sobre Vehículos de Tracción Mecánica el año en el que se produce una baja temporal del vehículo?
+A: Se paga el año completo.
+B: Se paga la parte proporcional hasta el día de baja.
+C: Se prorratea por trimestres naturales si la baja es debida al robo del vehículo.
+D: Se prorratea por trimestres naturales siempre, con independencia de cuál sea el motivo de la baja.
+SOLUCION: C
+NORMA: RD Legislativo 2/2004, art. 96
+
+COD: 2D03001
+PREGUNTA: ¿A qué impuestos está sujeta la fabricación de gasolina y gasóleo?
+A: Impuesto sobre el Patrimonio e Impuesto sobre Sociedades.
+B: Impuesto sobre Actividades Económicas e Impuesto sobre Bienes Inmuebles.
+C: Impuesto sobre Hidrocarburos e Impuesto sobre el Valor Añadido.
+D: Ninguno de los anteriores.
+SOLUCION: C
+NORMA: Ley 37/1992, art. 1; Ley 38/1992, art. 46
+
+COD: 2D03002
+PREGUNTA: Para tener derecho a la devolución parcial del Impuesto sobre Hidrocarburos por consumo de gasóleo de uso profesional, ¿qué requisito deben cumplir los vehículos dedicados al transporte de pasajeros?
+A: Pertenecer a la categoría M2.
+B: Pertenecer a la categoría M3.
+C: Ser un taxi.
+D: Todas las respuestas anteriores son correctas.
+SOLUCION: D
+NORMA: Ley 38/1992, Art. 52 bis
+
+COD: 2D03003
+PREGUNTA: ¿Qué cantidad máxima de litros genera derecho a devolución parcial del Impuesto sobre Hidrocarburos en el caso de empresas de transporte de mercancías y de viajeros en autobús?
+A: 25.000 litros por vehículo y año.
+B: 25.000 litros por empresa y año.
+C: 50.000 litros por vehículo y año.
+D: 50.000 litros por empresa.
+SOLUCION: C
+NORMA: Ley 38/1992, Art. 52 bis
+
+COD: 2D03004
+PREGUNTA: ¿Qué cantidad máxima de litros por vehículo y año genera derecho a devolución parcial del Impuesto sobre Hidrocarburos en el caso de empresas de transporte de mercancías y de viajeros en autobús?
+A: 25.000 litros.
+B: 50.000 litros.
+C: 75.000 litros.
+D: 100.000 litros.
+SOLUCION: B
+NORMA: Ley 38/1992, Art. 52 bis
+
+COD: 2D03005
+PREGUNTA: ¿Qué vehículos generan derecho a la devolución parcial del Impuesto sobre Hidrocarburos?
+A: Los vehículos de la categoría M1.
+B: Los vehículos de la categoría M2.
+C: Los vehículos de la categoría M3.
+D: Las respuestas B y C son correctas.
+SOLUCION: D
+NORMA: Ley 38/1992, Art. 52 bis
+
+COD: 2D03006
+PREGUNTA: ¿Qué vehículos generan derecho a la devolución parcial del Impuesto sobre Hidrocarburos?
+A: Los vehículos dedicados al transporte de mercancías con MMA igual o superior a 7,5 toneladas.
+B: Los vehículos de las categorías M2 y M3.
+C: Los taxis.
+D: Todos los anteriores.
+SOLUCION: D
+NORMA: Ley 38/1992, Art. 52 bis
+
+COD: 2D03007
+PREGUNTA: ¿Deben tributar por el Impuesto sobre Hidrocarburos los biocarburantes y los biocombustibles?
+A: Sí.
+B: No.
+C: Depende de cada Comunidad Autónoma.
+D: Los biocarburantes no, pero los biocombustibles sí.
+SOLUCION: A
+NORMA: Ley 38/1992, Art. 50 bis
+
+COD: 2D03008
+PREGUNTA: ¿Sobre qué producto de los siguientes recae el tipo de gravamen estatal más elevado del Impuesto sobre Hidrocarburos?
+A: Sobre las gasolinas con plomo.
+B: Sobre las gasolinas sin plomo.
+C: Sobre los gasóleos.
+D: Sobre los fuelóleos.
+SOLUCION: A
+NORMA: Ley 38/1992, Art. 50
+
+COD: 2D03009
+PREGUNTA: A los efectos del Impuesto sobre Hidrocarburos, la utilización de un producto comprendido en el ámbito objetivo de este impuesto con fines de combustión en un motor se considera:
+A: uso como carburante.
+B: uso como combustible.
+C: uso como carburante cuando el motor se utiliza para propulsar un vehículo y uso como combustible cuando el motor se utiliza para otra finalidad.
+D: indistintamente uso como carburante o como combustible.
+SOLUCION: A
+NORMA: Ley 38/1992, Art. 49
+
+COD: 2D03010
+PREGUNTA: ¿Permite la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, que dos Estados miembros acuerden el establecimiento de un sistema común de tasas?
+A: En ningún caso.
+B: Solo cuando se vaya a aplicar a vías transfronterizas.
+C: Sí, cuando puedan adherirse al mismo otros Estados miembros.
+D: Solo cuando se trate de vías con elevada intensidad de tráfico.
+SOLUCION: C
+NORMA: Directiva 1999/62/CE, art. 8
+
+COD: 2D03011
+PREGUNTA: Según la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, ¿cuándo pueden los Estados optar por cobrar peajes únicamente a vehículos pesados de mercancías con masa máxima en carga admisible igual o superior a 12 toneladas?
+A: Cuando la imposición a vehículos de tonelaje inferior tenga importantes consecuencias negativas sobre la fluidez del tráfico.
+B: Cuando la imposición a vehículos de tonelaje inferior suponga costes administrativos superiores al 15 % de los ingresos adicionales que habría generado esa imposición.
+C: Nunca.
+D: Las respuestas A y B son correctas.
+SOLUCION: D
+NORMA: Directiva 1999/62/CE, art. 7
+
+COD: 2D03012
+PREGUNTA: Según la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, si concurren determinadas circunstancias, los Estados pueden optar por cobrar peajes únicamente a vehículos pesados de mercancías con masa máxima en carga admisible igual o superior a:
+A: 6 toneladas.
+B: 10 toneladas.
+C: 12 toneladas.
+D: 15 toneladas.
+SOLUCION: C
+NORMA: Directiva 1999/62/CE, art. 7
+
+COD: 2D03013
+PREGUNTA: Según la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, ¿los vehículos pesados exentos de instalar y utilizar tacógrafo pueden tener algún beneficio en cuanto al pago de peajes?
+A: No se contempla ninguno.
+B: Sí, pueden beneficiarse de reducciones.
+C: Sí, pueden beneficiarse de exenciones.
+D: Las respuestas B y C son correctas.
+SOLUCION: D
+NORMA: Directiva 1999/62/CE, art. 7
+
+COD: 2D03014
+PREGUNTA: Según la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, los Estados pueden aplicar tarifas reducidas o exenciones de los peajes a:
+A: vehículos pesados exentos de la obligación de instalar y utilizar tacógrafo.
+B: vehículos destinados a la defensa nacional.
+C: vehículos de protección civil.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: Directiva 1999/62/CE, art. 7
+
+COD: 2D03015
+PREGUNTA: Según la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, los peajes por el uso de vías no supondrán discriminación por razón:
+A: de la nacionalidad del transportista.
+B: del Estado de establecimiento del transportista.
+C: del origen o destino de la operación de transporte.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: Directiva 1999/62/CE, art. 7
+
+COD: 2D03016
+PREGUNTA: ¿Permite la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, la aplicación de peajes en carreteras convencionales?
+A: Sí, en todo caso.
+B: No.
+C: Solo si no supone discriminación contra el tráfico internacional y no distorsiona la competencia.
+D: Solo si son de nueva construcción.
+SOLUCION: C
+NORMA: Directiva 1999/62/CE, art. 7
+
+COD: 2D03017
+PREGUNTA: ¿En qué vías se pueden aplicar peajes en las condiciones fijadas por la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias?
+A: En las que forman parte de la red transeuropea de carreteras.
+B: En las que forman parte de la red transeuropea de carreteras, pero solo si son autopistas.
+C: En las autopistas, aunque no formen parte de la red transeuropea de carreteras.
+D: Las respuestas A y C son correctas.
+SOLUCION: D
+NORMA: Directiva 1999/62/CE, art. 7
+
+COD: 2D03018
+PREGUNTA: Según la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, ¿qué información debe figurar en el recibo acreditativo del pago?
+A: El importe total del peaje.
+B: En su caso, el importe de la tasa por uso de infraestructura.
+C: En su caso, el importe de la tasa por costes externos.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: Directiva 1999/62/CE, Art. 7 undecies
+
+COD: 2D03019
+PREGUNTA: Según la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, la tasa por infraestructura para vehículos pesados puede incluir:
+A: los costes de construcción y mantenimiento.
+B: un rendimiento del capital utilizado.
+C: un margen de beneficio.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: Directiva 1999/62/CE, Art. 7 ter
+
+COD: 2D03020
+PREGUNTA: Según la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, ¿se puede añadir algún tipo de recargo a la tasa por infraestructura?
+A: Sí, cuando la vía sufra graves problemas de congestión.
+B: Sí, cuando se trate de vías transfronterizas.
+C: Sí, cuando existan vías alternativas.
+D: Las respuestas A y C son correctas.
+SOLUCION: A
+NORMA: Directiva 1999/62/CE, Art. 7 septies
+
+COD: 2D03021
+PREGUNTA: Según la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, en el caso de tramos de carretera que sufran graves problemas de congestión, si concurren determinadas circunstancias, se puede:
+A: añadir un recargo a la tasa por costes externos.
+B: añadir un recargo a la tasa por infraestructura.
+C: prohibir la circulación de determinadas categorías de vehículos.
+D: prohibir la circulación de modo temporal.
+SOLUCION: B
+NORMA: Directiva 1999/62/CE, Art. 7 septies
+
+COD: 2D03022
+PREGUNTA: Según la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, la tasa por costes externos correspondiente a contaminación atmosférica no se aplica a vehículos pesados que cumplan las normas de emisiones EURO más estrictas hasta:
+A: 4 años después de la fecha de aplicación de dichas normas.
+B: 3 años después de la fecha de aplicación de dichas normas.
+C: 2 años después de la fecha de aplicación de dichas normas.
+D: 1 año después de la fecha de aplicación de dichas normas.
+SOLUCION: A
+NORMA: Directiva 1999/62/CE, 7 quater bis
+
+COD: 2D03023
+PREGUNTA: Según la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, ¿en qué caso la tasa por costes externos puede incluir el coste de la contaminación acústica?
+A: Cuando el ruido provocado por el tráfico supere 60 db(A).
+B: En los tramos de vía en los que haya una población expuesta al ruido del tráfico.
+C: En todo caso.
+D: Nunca.
+SOLUCION: C
+NORMA: Directiva 1999/62/CE, Art. 7 quater
+
+COD: 2D03024
+PREGUNTA: Según la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, cuando un transportista no pueda acreditar la categoría EURO de su vehículo a efectos de emisiones, ¿qué peaje se le puede aplicar?
+A: Hasta el nivel máximo exigible.
+B: Hasta el 50 % del máximo exigible.
+C: Hasta el 75 % del máximo exigible.
+D: Se le puede aplicar el nivel máximo de modo provisional, con derecho a devolución de lo pagado en exceso cuando presente la documentación correspondiente.
+SOLUCION: A
+NORMA: Directiva 1999/62/CE, 7 undecies
+
+COD: 2D03025
+PREGUNTA: Según la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, salvo excepciones, ¿en qué porcentaje, como máximo, puede ser superior la tasa por infraestructura cobrada a un vehículo pesado respecto de la que se cobra a vehículos equivalentes que cumplen las normas de emisiones EURO más estrictas?
+A: 50 %.
+B: 75 %.
+C: 100 %.
+D: 150 %.
+SOLUCION: C
+NORMA: Directiva 1999/62/CE, Art. 7 octies
+
+COD: 2D03026
+PREGUNTA: Según la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, los Estados pueden obligar a que los vehículos matriculados en su territorio abonen la tasa por utilización:
+A: semanalmente.
+B: mensualmente.
+C: anualmente.
+D: Los Estados no pueden obligar a una determinada periodicidad en el pago.
+SOLUCION: C
+NORMA: Directiva 1999/62/CE, Art. 7 bis
+
+COD: 2D03027
+PREGUNTA: La Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, establece los criterios que deben seguirse en caso de imposición de peajes a:
+A: vehículos destinados al transporte de mercancías con masa máxima en carga admisible superior a 3,5 toneladas.
+B: vehículos destinados al transporte de viajeros con masa máxima en carga admisible superior a 3,5 toneladas.
+C: vehículos destinados al transporte de mercancías con masa máxima en carga admisible superior a 7,5 toneladas.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: Directiva 1999/62/CE, art. 2
+
+COD: 2D03028
+PREGUNTA: Según la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, ¿qué elementos de coste pueden integrarse en el peaje?
+A: La tasa por infraestructura.
+B: La tasa por elevada ocupación.
+C: La tasa por costes externos.
+D: Las respuestas A y C son correctas.
+SOLUCION: D
+NORMA: Directiva 1999/62/CE, art. 2
+
+COD: 2D03029
+PREGUNTA: Según la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, la tasa por costes externos tiene por objeto recuperar los costes generados por el tráfico y soportados en un Estado como consecuencia de:
+A: la contaminación acústica.
+B: la contaminación atmosférica.
+C: la contaminación de las aguas.
+D: Las respuestas A y B son correctas.
+SOLUCION: D
+NORMA: Directiva 1999/62/CE, art. 2
+
+COD: 2D03030
+PREGUNTA: Según la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, la tasa por costes externos tiene por objeto recuperar los costes generados por el tráfico y soportados en un Estado como consecuencia de:
+A: la gestión de residuos derivados de los vehículos.
+B: la contaminación atmosférica.
+C: la saturación de las carreteras.
+D: Todas las respuestas son correctas.
+SOLUCION: B
+NORMA: Directiva 1999/62/CE, art. 2
+
+COD: 2D03031
+PREGUNTA: Según la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, la tasa por infraestructura tiene por objeto recuperar los costes de:
+A: mantenimiento.
+B: construcción.
+C: funcionamiento.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: Directiva 1999/62/CE, art. 2
+
+COD: 2D03032
+PREGUNTA: ¿Afecta la Directiva 1999/62/CE, relativa a la aplicación de gravámenes a los vehículos por la utilización de infraestructuras viarias, a todos los vehículos españoles con independencia de su lugar de matriculación?
+A: Sí, afecta siempre a los matriculados en cualquier punto del territorio nacional.
+B: No, solo afecta a los matriculados en la Península.
+C: No, puede no afectar a los matriculados en Canarias, Ceuta y Melilla, dependiendo de su uso.
+D: No, puede no afectar a los matriculados en Canarias, Baleares, Ceuta y Melilla, dependiendo de su uso.
+SOLUCION: C
+NORMA: Directiva 1999/62/CE, Art. 1
+
+COD: 2D03033
+PREGUNTA: ¿Con qué periodicidad debe la Agencia Tributaria acordar la devolución del Impuesto sobre Hidrocarburos por consumo de gasóleo en el transporte por carretera?
+A: Mensualmente.
+B: Trimestralmente.
+C: Anualmente.
+D: Cada vez que se efectúa un suministro a algún vehículo.
+SOLUCION: A
+NORMA: OM HFP/941/2022, art. 9
+
+COD: 2D03034
+PREGUNTA: ¿Cuál es el momento de devengo del Impuesto sobre Hidrocarburos?
+A: El momento de la salida del producto de la fábrica.
+B: El momento de la venta al distribuidor mayorista.
+C: El momento de la venta al distribuidor minorista.
+D: El momento de la venta al cliente final.
+SOLUCION: A
+NORMA: Ley 38/1992, art. 7
+
+COD: 2D03035
+PREGUNTA: ¿Cuál es el momento de devengo del Impuesto sobre Hidrocarburos?
+A: El momento de la venta al distribuidor.
+B: El momento de la venta al cliente final.
+C: El momento de su despacho de aduana a libre práctica.
+D: Todas las respuestas son correctas.
+SOLUCION: C
+NORMA: Ley 38/1992, art. 7
+
+COD: 2D03036
+PREGUNTA: ¿El beneficiario de devoluciones del Impuesto sobre Hidrocarburos por el gasóleo consumido en el transporte por carretera tiene que efectuar alguna gestión administrativa en relación con dichas devoluciones?
+A: Solo darse de alta en el Censo de beneficiarios.
+B: Presentar declaraciones trimestrales indicando los suministros efectuados en cada vehículo.
+C: Presentar declaraciones trimestrales indicando los kilómetros recorridos con cada vehículo.
+D: Presentar declaraciones anuales indicando los kilómetros recorridos con cada vehículo.
+SOLUCION: D
+NORMA: OM HFP/941/2022, art. 10
+
+COD: 2D03037
+PREGUNTA: ¿En qué casos se tiene derecho a la devolución del Impuesto sobre Hidrocarburos?
+A: En fabricaciones efectuadas en el territorio español.
+B: En ventas a distribuidores mayoristas.
+C: En importaciones.
+D: En exportaciones.
+SOLUCION: D
+NORMA: Ley 38/1992, art. 10
+
+COD: 2D03038
+PREGUNTA: ¿Están sujetas al Impuesto sobre Hidrocarburos las pérdidas de producto inherentes a la propia naturaleza del mismo que se produzcan durante el transporte?
+A: En ningún caso.
+B: No, cuando sucedan mientras el producto se encuentra en régimen suspensivo y hasta ciertos porcentajes.
+C: Siempre están sujetas, salvo que no sobrepasen ciertos porcentajes.
+D: Están sujetas, salvo que se demuestre que las pérdidas no son imputables a actuación incorrecta del transportista o del expedidor.
+SOLUCION: B
+NORMA: Ley 38/1992, art. 6
+
+COD: 2D03039
+PREGUNTA: ¿Qué carácter tiene el Impuesto sobre Hidrocarburos?
+A: Impuesto general de fabricación.
+B: Impuesto especial de fabricación.
+C: Impuesto general de importación.
+D: Impuesto especial de importación.
+SOLUCION: B
+NORMA: Ley 38/1992, art. 2
+
+COD: 2D03040
+PREGUNTA: ¿Qué carácter tiene el Impuesto sobre Hidrocarburos?
+A: Un impuesto indirecto que grava en fase única.
+B: Un impuesto directo que grava en fase única.
+C: Un impuesto indirecto multifase.
+D: Un impuesto directo multifase.
+SOLUCION: A
+NORMA: Ley 38/1992, art. 1
+
+COD: 2D03041
+PREGUNTA: ¿Qué producto de los siguientes es objeto del Impuesto sobre Hidrocarburos?
+A: Biometanol.
+B: Aceites.
+C: Gasóleo.
+D: Todos los anteriores.
+SOLUCION: D
+NORMA: Ley 38/1992, art. 50
+
+COD: 2D03042
+PREGUNTA: ¿Qué se requiere para poder optar a la devolución parcial del Impuesto sobre Hidrocarburos por el gasóleo consumido en actividades agrarias?
+A: Figurar en el Censo de Empresarios, Profesionales y Retenedores en relación con dichas actividades.
+B: Inscribirse en el Censo de beneficiarios de devoluciones por gasóleo agrícola a lo largo del primer trimestre del año.
+C: Inscribirse en el Censo de Obligados Tributarios.
+D: Inscribirse en el Censo de beneficiarios de devoluciones por gasóleo agrícola antes de efectuar consumos.
+SOLUCION: A
+NORMA: Ley 38/1992, 52 ter
+
+COD: 2D03043
+PREGUNTA: ¿Qué se requiere para poder optar a la devolución parcial del Impuesto sobre Hidrocarburos por el gasóleo consumido en el transporte por carretera?
+A: Inscribirse en el Censo de beneficiarios de devoluciones por gasóleo profesional y de vehículos de su titularidad con carácter previo a realizar consumos.
+B: Inscribirse en el Censo de beneficiarios de devoluciones por gasóleo profesional a lo largo del primer trimestre del año.
+C: Inscribirse en el Censo de Obligados Tributarios.
+D: Basta con figurar inscrito en el Censo de Empresarios, Profesionales y Retenedores.
+SOLUCION: A
+NORMA: OM HFP/941/2022, art. 2
+
+COD: 2D03044
+PREGUNTA: ¿Qué se requiere para tener derecho a la devolución del Impuesto sobre Hidrocarburos por el gasóleo consumido como carburante en barcos?
+A: Que no efectúen navegación privada de recreo.
+B: Que no efectúen navegación internacional.
+C: Que el gasóleo lleve los trazadores estipulados.
+D: Las respuestas A y C son correctas.
+SOLUCION: D
+NORMA: Ley 38/1992, art. 52
+
+COD: 2D03045
+PREGUNTA: ¿Qué se requiere para tener derecho a devolución parcial del Impuesto sobre Hidrocarburos por el gasóleo consumido en el transporte por carretera?
+A: Disponer de, al menos, dos vehículos.
+B: Haber efectuado un consumo de, al menos, 10.000 litros en el año.
+C: Disponer de las autorizaciones que se requieran para ejercer la actividad.
+D: Todas las respuestas son correctas.
+SOLUCION: C
+NORMA: Ley 38/1992, Art. 52 bis
+
+COD: 2D03046
+PREGUNTA: ¿Se tiene derecho a la devolución parcial del Impuesto sobre Hidrocarburos por el gasóleo consumido en el transporte por carretera si se hace el pago con una tarjeta-gasóleo?
+A: No, salvo que se solicite expresamente y sea autorizada por la Agencia Tributaria.
+B: Sí, pero la tarjeta debe figurar en el Registro de tarjetas-gasóleo profesional
+C: Sí, siempre que la tarjeta haya sido expedida por una entidad bancaria o de crédito autorizada para operar en España.
+D: Sí, siempre que los cargos de la tarjeta se hagan en una cuenta diferenciada.
+SOLUCION: B
+NORMA: OM HFP/941/2022, art. 3
+
+COD: 2D03047
+PREGUNTA: A efectos del Impuesto sobre Hidrocarburos, se considera importación:
+A: la entrada de mercancías no pertenecientes a la Unión que son objeto del impuesto.
+B: la entrada de mercancías no pertenecientes a la Unión que son objeto del impuesto y se incluyen en el régimen aduanero de despacho a libre práctica.
+C: la entrada de mercancías no pertenecientes a la Unión que son objeto del impuesto y se incluyen en el régimen aduanero de tránsito.
+D: la entrada de mercancías no pertenecientes a la Unión que son objeto del impuesto y se incluyen en los regímenes aduaneros de despacho a libre práctica o de tránsito.
+SOLUCION: B
+NORMA: Ley 38/1992, art. 4; Reglamento Comunitario (UE) 952/2013, art. 201
+
+COD: 2D03048
+PREGUNTA: El hecho imponible del Impuesto sobre Hidrocarburos es:
+A: la venta de los productos objeto del mismo.
+B: la importación de los productos objeto del mismo.
+C: la exportación de los productos objeto del mismo.
+D: Todas las respuestas son correctas.
+SOLUCION: B
+NORMA: Ley 38/1992, art. 5
+
+COD: 2D03049
+PREGUNTA: El Impuesto sobre Hidrocarburos se aplica:
+A: en todo el territorio español.
+B: en todo el territorio español, salvo Canarias y Baleares.
+C: en todo el territorio español, salvo Ceuta y Melilla.
+D: en todo el territorio español, salvo Canarias, Ceuta y Melilla.
+SOLUCION: D
+NORMA: Ley 38/1992, art. 3
+
+COD: 2D03050
+PREGUNTA: El Impuesto sobre Hidrocarburos se gestiona:
+A: mediante declaraciones del contribuyente y posterior liquidación por la Agencia Tributaria.
+B: mediante autoliquidaciones.
+C: siempre en la forma prevista para la deuda aduanera.
+D: con la mera facturación al adquirente de los productos, salvo que se trate de importaciones.
+SOLUCION: B
+NORMA: Ley 38/1992, art. 18
+
+COD: 2D03051
+PREGUNTA: El Impuesto sobre Hidrocarburos se liquida:
+A: por meses naturales.
+B: por trimestres naturales.
+C: cuando la Agencia Tributaria emite la liquidación.
+D: Las respuestas A y B son correctas.
+SOLUCION: A
+NORMA: RD 1165/1995, art. 44
+
+COD: 2D03052
+PREGUNTA: El transporte de productos objeto del Impuesto sobre Hidrocarburos:
+A: se debe hacer siempre amparado por documentos que acrediten el pago del impuesto.
+B: se debe hacer siempre amparado por documentos que acrediten el pago del impuesto, salvo que se trate de productos fabricados en España.
+C: se debe hacer siempre amparado por documentos que acrediten el pago del impuesto, salvo que se trate de importaciones.
+D: se debe hacer amparado por documentos que acrediten el pago del impuesto o que se encuentran en régimen suspensivo.
+SOLUCION: D
+NORMA: Ley 38/1992, art. 15
+
+COD: 2D03053
+PREGUNTA: En el sentido que les atribuye la normativa reguladora del Impuesto sobre Hidrocarburos:
+A: fabricación y transformación son términos plenamente equivalentes.
+B: toda fabricación implica transformación.
+C: la transformación obtiene productos objeto del impuesto a partir de otros que también lo son.
+D: Las respuestas B y C son correctas.
+SOLUCION: C
+NORMA: Ley 38/1992, art. 4
+
+COD: 2D03054
+PREGUNTA: En el transporte por carretera de productos objeto del Impuesto sobre Hidrocarburos, en caso de carecer de documento de circulación:
+A: se pueden inmovilizar los productos, pero nunca los vehículos.
+B: se inmovilizarán los productos, pero nunca los vehículos.
+C: se inmovilizarán los productos, y también los vehículos cuando se trate de carga completa.
+D: se inmovilizarán los productos y los vehículos en todo caso.
+SOLUCION: C
+NORMA: RD 1165/1995, art. 34
+
+COD: 2D03055
+PREGUNTA: En el transporte por carretera de productos objeto del Impuesto sobre Hidrocarburos:
+A: cada unidad de transporte debe tener, al menos, un documento de circulación por destinatario.
+B: cada unidad de transporte debe tener un documento de circulación, con independencia del número de destinatarios.
+C: un mismo documento de circulación puede amparar varias unidades de transporte si viajan juntas.
+D: un mismo documento de circulación puede amparar varias unidades de transporte si viajan juntas y tienen un mismo destinatario.
+SOLUCION: A
+NORMA: RD 1165/1995, art. 34
+
+COD: 2D03056
+PREGUNTA: Está exento del Impuesto sobre Hidrocarburos:
+A: el uso del producto como carburante en barcos, excluidas actividades privadas de recreo.
+B: el uso del producto como carburante en barcos, excluidas actividades privadas de recreo  y de transporte.
+C: el uso del producto como carburante en barcos, excluidas actividades privadas de recreo y actividades pesqueras.
+D: el uso del producto como carburante o combustible en barcos, excluidas actividades privadas de recreo.
+SOLUCION: A
+NORMA: Ley 38/1992, art. 51; Ley 38/1992, art. 49
+
+COD: 2D03057
+PREGUNTA: La cuota tributaria exigible en virtud del Impuesto sobre Hidrocarburos resulta de:
+A: un tipo impositivo general.
+B: un tipo impositivo especial.
+C: un tipo impositivo municipal.
+D: Las respuestas A y B son correctas.
+SOLUCION: D
+NORMA: Ley 38/1992, Art. 50
+
+COD: 2D03058
+PREGUNTA: En lo que se refiere al Impuesto sobre Hidrocarburos, la importación de gasóleo en el depósito de un vehículo comercial:
+A: está sometida a tributación siempre.
+B: está exenta siempre.
+C: está exenta hasta la cantidad de 200 litros.
+D: está exenta en la cantidad necesaria para que el vehículo efectúe el trayecto programado.
+SOLUCION: C
+NORMA: Ley 38/1992, art. 51
+
+COD: 2D03059
+PREGUNTA: Los documentos que amparan el transporte por carretera de productos objeto del Impuesto sobre Hidrocarburos:
+A: deben permanecer en la sede del expedidor.
+B: deben acompañar a las expediciones.
+C: deben permanecer en el centro de destino.
+D: Todas las respuestas son correctas.
+SOLUCION: B
+NORMA: RD 1165/1995, art. 34
+
+COD: 2D03060
+PREGUNTA: Señale la afirmación correcta, referida al Impuesto sobre Hidrocarburos:
+A: Los sujetos pasivos deben soportar las cuotas devengadas y no pueden repercutirlas.
+B: Los sujetos pasivos deben repercutir las cuotas devengadas sobre los adquirentes.
+C: Los sujetos pasivos pueden repercutir las cuotas devengadas sobre los adquirentes solo si tienen la condición de contribuyentes.
+D: Los contribuyentes pueden repercutir las cuotas devengadas sobre los sustitutos.
+SOLUCION: B
+NORMA: Ley 38/1992, art. 14
+
+COD: 2D03061
+PREGUNTA: Son contribuyentes del Impuesto sobre Hidrocarburos:
+A: los empresarios de transporte, por los productos objeto de dicho impuesto que transporten en sus vehículos.
+B: los empresarios de transporte, por los productos objeto de dicho impuesto que consuman en el ejercicio de su actividad.
+C: los representantes fiscales de los vendedores establecidos en otro Estado.
+D: los depositarios autorizados.
+SOLUCION: D
+NORMA: Ley 38/1992, art. 8
+
+COD: 2D04001
+PREGUNTA: ¿Qué caracteriza al Impuesto sobre la Renta de las Personas Físicas?
+A: Es un impuesto de naturaleza indirecta.
+B: Es un impuesto de naturaleza directa.
+C: No grava los rendimientos del capital mobiliario.
+D: No grava los rendimientos de actividades empresariales.
+SOLUCION: B
+NORMA: Ley 35/2006, art. 1
+
+COD: 2D04002
+PREGUNTA: ¿Qué grava el Impuesto sobre la Renta de las Personas Físicas?
+A: Las rentas del trabajo personal, del capital mobiliario e inmobiliario, de actividades económicas y las ganancias y pérdidas patrimoniales.
+B: Las rentas del trabajo personal, las del capital mobiliario y del capital inmobiliario, exclusivamente.
+C: Las rentas del trabajo personal y las de actividades profesionales, empresariales y artísticas, exclusivamente.
+D: Las rentas del trabajo personal y las del capital mobiliario, exclusivamente.
+SOLUCION: A
+NORMA: Ley 35/2006, art. 6
+
+COD: 2D04003
+PREGUNTA: ¿Qué impuesto grava el beneficio obtenido con su actividad si un transportista se constituye como empresario individual?
+A: El Impuesto sobre la Renta de las Personas Físicas.
+B: El impuesto sobre el Patrimonio Neto Empresarial.
+C: El Impuesto sobre Sociedades.
+D: El Impuesto sobre el Valor Añadido.
+SOLUCION: A
+NORMA: Ley 35/2006, art. 1
+
+COD: 2D04004
+PREGUNTA: ¿Cuándo prescribe el derecho de la Administración para determinar la deuda tributaria por el IRPF mediante la oportuna liquidación?
+A: A los 8 años.
+B: A los 6 años.
+C: A los 5 años.
+D: A los 4 años.
+SOLUCION: D
+NORMA: Ley 58/2003, art. 66
+
+COD: 2D04005
+PREGUNTA: ¿A quién es aplicable el régimen de estimación objetiva en el Impuesto sobre la Renta de las Personas Físicas?
+A: Al empresario individual, persona física.
+B: A las sociedades de garantía recíproca.
+C: A las sociedades anónimas.
+D: A las sociedades de responsabilidad limitada.
+SOLUCION: A
+NORMA: Ley 35/2006, art. 28
+
+COD: 2D04006
+PREGUNTA: ¿Qué periodicidad tienen los pagos fraccionados del Impuesto sobre la Renta de las Personas Físicas por obtención de rendimientos de actividades económicas?
+A: Anual.
+B: Trimestral.
+C: Bimestral.
+D: Cuatrimestral.
+SOLUCION: B
+NORMA: RD 439/2007, art. 110; RD 439/2007, art. 111
+
+COD: 2D04007
+PREGUNTA: Como norma general, ¿cuándo debe comunicar su renuncia al régimen de estimación objetiva del IRPF un empresario acogido al mismo?
+A: Debe hacerlo antes del 30 de enero del ejercicio a partir del cual quiere renunciar.
+B: Debe hacerlo hasta el 31 de diciembre del año anterior a aquel a partir del cual quiere renunciar.
+C: Debe hacerlo con un preaviso de un mes.
+D: No cabe la renuncia.
+SOLUCION: B
+NORMA: RD 439/2007, art. 33
+
+COD: 2D04008
+PREGUNTA: ¿Qué obligaciones formales tiene que cumplir un empresario transportista que tribute en el régimen de estimación objetiva del IRPF?
+A: Llevar el libro registro de ingresos.
+B: Conservar facturas emitidas y recibidas, y libro registro de bienes de inversión, si deduce amortizaciones.
+C: Llevar el libro registro de cobros y pagos.
+D: Llevar el libro registro de ventas.
+SOLUCION: B
+NORMA: RD 439/2007, art. 68
+
+COD: 2D04009
+PREGUNTA: ¿En qué plazos están obligados los empresarios y profesionales a ingresar en Hacienda los pagos a cuenta si determinan el rendimiento neto de la actividad por el régimen de estimación directa del IRPF?
+A: En los 20 días siguientes a la finalización del trimestre de que se trate.
+B: En los 30 días siguientes a la finalización del trimestre.
+C: En los días 5 de cada mes.
+D: En los 3 primeros trimestres, entre el día 1 y el 20 de los meses de abril, julio y octubre ; y en el cuarto trimestre, entre el 1 y el 30 del mes de enero.
+SOLUCION: D
+NORMA: RD 439/2007, art. 110; RD 439/2007, art. 111
+
+COD: 2D04010
+PREGUNTA: ¿Cuándo deben ingresar los empresarios la parte de salario retenida a sus trabajadores a cuenta del IRPF?
+A: Anualmente.
+B: Trimestralmente.
+C: Mensualmente.
+D: Semestralmente.
+SOLUCION: B
+NORMA: RD 439/2007, art. 108
+
+COD: 2D04011
+PREGUNTA: ¿Qué variaciones patrimoniales se tienen en cuenta a efectos del Impuesto sobre la Renta de las Personas Físicas?
+A: Las ganancias y pérdidas en el valor del patrimonio del contribuyente.
+B: Los incrementos en el valor del patrimonio, exclusivamente.
+C: Las disminuciones en el valor del patrimonio, exclusivamente.
+D: Los cambios de entidad bancaria donde se tenga depositado el capital.
+SOLUCION: A
+NORMA: Ley 35/2006, art. 33
+
+COD: 2D04012
+PREGUNTA: ¿Cómo tributa en el IRPF el empresario que ejerza diversas actividades?
+A: Por el régimen de estimación directa en todas ellas y en todo caso.
+B: Por el régimen de estimación directa en las actividades que rebasen los límites establecidos y por el régimen de estimación objetiva en las que no lo rebasen.
+C: Puede optar por actividades y tributar a la vez en ambos regímenes, estimación directa y objetiva.
+D: Deberá determinar los rendimientos netos de todas sus actividades por un único método, estimación objetiva, si es posible, o estimación directa.
+SOLUCION: D
+NORMA: RD 439/2007, art. 35
+
+COD: 2D04013
+PREGUNTA: ¿Cómo se cuantifican los asientos de un vehículo a efectos de determinar el rendimiento de un empresario de transporte de viajeros por carretera en el sistema de estimación objetiva del IRPF?
+A: Por el número de unidades que aparecen en la tarjeta de inspección técnica del vehículo.
+B: Por el número de unidades que aparecen en la tarjeta de inspección técnica del vehículo, minorado en un 10 %.
+C: Por el número de unidades que aparecen en la tarjeta de inspección técnica del vehículo, excluido el asiento del conductor y el del guía.
+D: Por el número de unidades que aparece en la tarjeta de inspección técnica del vehículo, minorado en un 15 %.
+SOLUCION: C
+NORMA: OM HAC/1425/2025, Anexo II, Instrucciones IRPF, 2
+
+COD: 2D04015
+PREGUNTA: ¿Cuál es el coeficiente lineal máximo de amortización de los vehículos de transporte en el sistema de estimación objetiva del IRPF?
+A: 30 %.
+B: 25 %.
+C: 20 %.
+D: 10 %.
+SOLUCION: B
+NORMA: OM HAC/1425/2025, Anexo II, Instrucciones IRPF, 2
+
+COD: 2D04016
+PREGUNTA: ¿Qué transportistas de viajeros por carretera pueden tributar por el régimen de estimación objetiva en el Impuesto sobre la Renta de las Personas Físicas?
+A: Los transportistas que tengan un máximo de cinco vehículos cualquier día del año anterior.
+B: Los transportistas que tengan un máximo de cinco vehículos cualquier día del año anterior o un máximo de cuatro si superan en conjunto las 100 plazas.
+C: Los transportistas que tengan un volumen de compras que no exceda de 350.000 euros.
+D: Los transportistas que tengan un volumen de compras que no exceda de 400.000 euros.
+SOLUCION: A
+NORMA: OM HAC/1425/2025, art. 3
+
+COD: 2D04017
+PREGUNTA: ¿Cuánto tiempo se debe permanecer, normalmente, fuera del sistema de estimación objetiva del IRPF si se renuncia a su aplicación?
+A: 1 año.
+B: 3 años.
+C: 5 años.
+D: 7 años.
+SOLUCION: B
+NORMA: Ley 35/2006, art. 31
+
+COD: 2D04018
+PREGUNTA: ¿Quiénes están sometidos obligatoriamente al régimen de estimación directa normal del Impuesto sobre la Renta de las Personas Físicas?
+A: Los empleados que en el año anterior hayan percibido retribuciones superiores a 60.000 euros.
+B: Los empresarios individuales cuyo importe neto de cifra de negocios de todas sus actividades en el año anterior sea inferior a 600.000 euros y no hayan renunciado a la estimación directa simplificada.
+C: Los empresarios individuales cuyo importe neto de cifra de negocios de todas sus actividades en el año anterior sea superior a 600.000 euros.
+D: Las sociedades que en el año anterior haya obtenido ingresos superiores a 601.012,10 euros.
+SOLUCION: C
+NORMA: Ley 35/2006, art. 30
+
+COD: 2D04019
+PREGUNTA: ¿A qué régimen de estimación del rendimiento a efectos del IRPF puede acogerse un empresario individual del transporte con dos vehículos, si en el año anterior el volumen de rendimientos íntegros del conjunto de sus actividades no supera 150.000 euros anuales, el volumen de rendimientos por el que está obligado a expedir factura no supera 75.000 euros y el volumen de compras no supera 150.000 euros?
+A: Al régimen de estimación objetiva.
+B: Al régimen de estimación directa simplificada.
+C: A cualquiera de los citados en las contestaciones A y B.
+D: A ninguno de los citados anteriormente.
+SOLUCION: C
+NORMA: Ley 35/2006, art. 30; Ley 35/2006, art. 31
+
+COD: 2D04020
+PREGUNTA: ¿Qué empresarios de los que se señalan a continuación pueden tributar en el régimen de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas?
+A: Todos los empresarios colectivos o individuales que superen los 600.000 euros de cifra de negocios en el conjunto de sus actividades en el año anterior.
+B: Todos los empresarios colectivos o individuales que no superen los 600.000 euros de cifra de negocios  en el conjunto de sus actividades en el año anterior.
+C: Todos los empresarios individuales que puedan acogerse al sistema de signos, índices o módulos y no renuncien a él ni estén excluidos de su aplicación.
+D: Cualquier empresario individual o colectivo que así lo solicite.
+SOLUCION: C
+NORMA: Ley 35/2006, art. 31
+
+COD: 2D04021
+PREGUNTA: ¿Cómo se considera la amortización de los elementos de transportes en el sistema de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas?
+A: Minoración por incentivos a la inversión.
+B: Minoración por incentivos al empleo.
+C: Gasto de difícil justificación.
+D: Plusvalía de la explotación.
+SOLUCION: A
+NORMA: OM HAC/1425/2025, Anexo II, Instrucciones IRPF, 2
+
+COD: 2D04022
+PREGUNTA: ¿Cuál es el pago fraccionado a realizar trimestralmente por un empresario acogido a la modalidad de estimación objetiva del IRPF si tiene cinco personas contratadas a jornada completa?
+A: El 10 % del rendimiento neto.
+B: El 8 % del rendimiento neto.
+C: El 4 % del rendimiento neto.
+D: No tiene que realizar pago fraccionado.
+SOLUCION: C
+NORMA: Ley 35/2006, art. 101
+
+COD: 2D04023
+PREGUNTA: ¿Se puede reducir el rendimiento neto resultante de la aplicación de los índices o módulos en el sistema de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas?
+A: Sí, siempre que el declarante lo solicite en plazo.
+B: En ningún caso.
+C: Sí, cuando se produzca un incendio que origine gastos extraordinarios ajenos al proceso normal de la actividad.
+D: Las tres respuestas anteriores son falsas.
+SOLUCION: C
+NORMA: RD 439/2007, art. 37
+
+COD: 2D04024
+PREGUNTA: ¿A quién se considera personal no asalariado en el sistema de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas?
+A: A la persona contratada laboralmente que trabaje en la actividad.
+B: A la persona menor de edad contratada a tiempo parcial.
+C: Al empresario individual.
+D: Todas las respuestas anteriores son falsas.
+SOLUCION: C
+NORMA: OM HAC/1425/2025, Anexo II, Instrucciones IRPF, 2
+
+COD: 2D04025
+PREGUNTA: ¿Cuál es, con carácter general, el período impositivo en el Impuesto sobre la Renta de las Personas Físicas?
+A: El año natural.
+B: El trimestre natural.
+C: El cuarto trimestre del año.
+D: Los meses de abril, julio y octubre de cada año.
+SOLUCION: A
+NORMA: Ley 35/2006, art. 12
+
+COD: 2D04026
+PREGUNTA: ¿Cuál es, con carácter general, la fecha de devengo del Impuesto sobre la Renta de las Personas Físicas?
+A: El día 1 de enero de cada año.
+B: Los días 20 de abril, julio y octubre y el día 31 de enero.
+C: El día 31 de enero de cada año.
+D: El día 31 de diciembre de cada año.
+SOLUCION: D
+NORMA: Ley 35/2006, art. 12
+
+COD: 2D04027
+PREGUNTA: ¿Por qué conceptos está constituida la base imponible del Impuesto sobre la Renta de las Personas Físicas?
+A: Está constituida por el importe de la renta del contribuyente.
+B: Está constituida por el importe de los gastos que haya tenido el contribuyente en el año.
+C: Está constituida por el líquido a percibir que consta en la nómina de los trabajadores.
+D: Todas las anteriores son falsas.
+SOLUCION: A
+NORMA: Ley 35/2006, art. 15
+
+COD: 2D04028
+PREGUNTA: De las opciones siguientes, ¿cuáles tendrán la consideración de bienes afectos a la actividad de transporte en el Impuesto sobre la Renta de las Personas Físicas?
+A: Los muebles de la vivienda del transportista.
+B: Los camiones y otros vehículos que emplea el transportista en su actividad.
+C: La vivienda habitual del transportista.
+D: El coche particular del transportista.
+SOLUCION: B
+NORMA: Ley 35/2006, art. 29
+
+COD: 2D04029
+PREGUNTA: ¿Qué gasto no tendrá la consideración de deducible para la determinación del rendimiento neto de la actividad de transporte en el sistema de estimación directa normal del IRPF?
+A: Las sanciones tributarias.
+B: La amortización del vehículo afecto a la actividad.
+C: El combustible del vehículo afecto a la actividad.
+D: Todas las anteriores son verdaderas.
+SOLUCION: A
+NORMA: Ley 35/2006, art. 28; Ley 27/2014, art. 15
+
+COD: 2D04030
+PREGUNTA: ¿Quiénes son contribuyentes del Impuesto sobre la Renta de las Personas Físicas?
+A: Las sociedades anónimas.
+B: Las sociedades limitadas.
+C: Las personas físicas que tengan su residencia habitual en territorio español.
+D: Los bancos y cajas de ahorro.
+SOLUCION: C
+NORMA: Ley 35/2006, art. 8
+
+COD: 2D04031
+PREGUNTA: ¿Cómo se podrá realizar el pago de la deuda tributaria en el caso de que la autoliquidación del IRPF resulte positiva y el contribuyente esté obligado a presentar declaración?
+A: Se podrá realizar en doce plazos mensuales.
+B: En una sola vez, sin fraccionamientos.
+C: Podrá hacerse en forma de pago único o de forma fraccionada en dos plazos.
+D: Se podrá pagar en tres plazos.
+SOLUCION: C
+NORMA: RD 439/2007, art. 62
+
+COD: 2D04032
+PREGUNTA: ¿Qué es la base liquidable en el Impuesto sobre la Renta de las Personas Físicas?
+A: Es el resultado de practicar en la base imponible una serie de reducciones.
+B: Es el resultado de la autoliquidación.
+C: Es la cantidad que tenemos que pagar.
+D: Es la cantidad que nos devuelven.
+SOLUCION: A
+NORMA: Ley 35/2006, art. 50
+
+COD: 2D04033
+PREGUNTA: ¿Cómo se obtiene la cuota íntegra del Impuesto sobre la Renta de las Personas Físicas?
+A: Fraccionando la cuota diferencial en dos partes.
+B: Restando el rendimiento neto del trabajo personal y el rendimiento de las actividades económicas.
+C: Aplicando el tipo de gravamen a la base imponible.
+D: Aplicando el tipo de gravamen a la base liquidable.
+SOLUCION: D
+NORMA: Ley 35/2006, art. 62
+
+COD: 2D04034
+PREGUNTA: ¿Cuánto debe ingresar trimestralmente en concepto de pago fraccionado un transportista que no tiene trabajadores asalariados y tributa en el régimen de estimación objetiva del IRPF?
+A: 5 % del rendimiento neto.
+B: 4 % del rendimiento neto.
+C: 2 % del rendimiento neto.
+D: 3 % del rendimiento neto.
+SOLUCION: C
+NORMA: Ley 35/2006, art. 101
+
+COD: 2D04035
+PREGUNTA: ¿Cuál de las siguientes rentas es propia de la base imponible del Impuesto sobre la Renta de las Personas Físicas de un empresario?
+A: El rendimiento neto de su actividad empresarial.
+B: Una indemnización por despido.
+C: Una prestación extraordinaria como consecuencia de un acto de terrorismo.
+D: Un premio científico relevante.
+SOLUCION: A
+NORMA: Ley 35/2006, art. 7; Ley 35/2006, art. 27
+
+COD: 2D04036
+PREGUNTA: ¿Cómo es el tipo de gravamen en el Impuesto sobre la Renta de las Personas Físicas?
+A: Un porcentaje progresivo.
+B: Un porcentaje constante.
+C: Una cantidad fija.
+D: Depende del tipo de actividad.
+SOLUCION: A
+NORMA: Ley 35/2006, art. 1
+
+COD: 2D04037
+PREGUNTA: ¿Cómo se calcula el valor de las amortizaciones del inmovilizado material en el sistema de estimación directa simplificada del IRPF?
+A: Por el sistema de números dígitos.
+B: De forma lineal, en función de la tabla de amortización simplificada aprobada por orden ministerial.
+C: Según el plan de amortización presentado a Hacienda por el empresario.
+D: Por el sistema de porcentaje constante.
+SOLUCION: B
+NORMA: RD 439/2007, art. 30
+
+COD: 2D04038
+PREGUNTA: ¿Qué porcentaje del rendimiento neto deben ingresar trimestralmente a Hacienda los empresarios que calculan este rendimiento por el régimen de estimación directa del IRPF?
+A: 25 % del rendimiento neto.
+B: 20 % del rendimiento neto.
+C: 15 % del rendimiento neto.
+D: 10 % del rendimiento neto.
+SOLUCION: B
+NORMA: Ley 35/2006, art. 101
+
+COD: 2D04039
+PREGUNTA: Cuando un contribuyente fracciona el pago del Impuesto sobre la Renta de las Personas Físicas, ¿cuánto debe pagar en el momento de presentar la declaración?
+A: El 60 %
+B: El 50 %
+C: El 40 %
+D: El 30 %
+SOLUCION: A
+NORMA: RD 439/2007, art. 62
+
+COD: 2D04040
+PREGUNTA: ¿Cuál de las siguientes es, con carácter general, causa de exclusión del régimen de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas?
+A: Que el rendimiento neto sea superior a 50.000 euros en el año anterior.
+B: Que el volumen de compras exceda los 250.000 euros en el año anterior, excluidos los bienes de inversión.
+C: Que invierta más de 100.000 euros en bienes de inversión en el ejercicio en curso.
+D: Que el volumen de ventas exceda de 30.000 euros en el ejercicio anterior.
+SOLUCION: B
+NORMA: Ley 35/2006, art. 31; Ley 35/2006, disposición transitoria trigésimo segunda
+
+COD: 2D04041
+PREGUNTA: ¿Por cuánto computa en el módulo "personal no asalariado" del régimen de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas el titular de la actividad que solo realiza tareas de dirección?
+A: Por 1 persona/año.
+B: Por 0,75 personas/año.
+C: Por 0,50 personas/año.
+D: Por 0,25 personas/año.
+SOLUCION: D
+NORMA: OM HAC/1425/2025, Anexo II, Instrucciones IRPF, 2
+
+COD: 2D04044
+PREGUNTA: ¿Cuáles son los plazos de presentación de las declaraciones trimestrales para un transportista acogido al régimen de estimación objetiva del IRPF?
+A: Desde el día 1 hasta el 20 de los meses de abril, julio y octubre, y desde el día 1 hasta el 30 del mes de enero.
+B: Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero.
+C: Desde el día 1 hasta el 20 de los meses de abril, julio y octubre, y desde el día 1 hasta el 31 del mes de enero.
+D: Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 30 del mes de enero.
+SOLUCION: A
+NORMA: RD 439/2007, art. 110; RD 439/2007, art. 111
+
+COD: 2D04045
+PREGUNTA: ¿Cuál de las siguientes rentas está exenta del IRPF?
+A: Los sueldos y jornales.
+B: Los rendimientos de la actividad de transporte.
+C: Los premios de la lotería nacional.
+D: Ninguna de las anteriores.
+SOLUCION: D
+NORMA: Ley 35/2006, art. 7
+
+COD: 2D04046
+PREGUNTA: ¿Qué impuesto grava la obtención de renta por un empresario de transportes constituido en sociedad anónima?
+A: Impuesto sobre Sociedades.
+B: Impuesto sobre la Renta de las Personas Físicas, en la modalidad de estimación directa.
+C: Impuesto sobre la Renta de las Personas Físicas, en la modalidad de estimación objetiva.
+D: Impuesto sobre el Valor Añadido e Impuesto de Actividades Económicas.
+SOLUCION: A
+NORMA: Ley 27/2014, art. 4; Ley 27/2014, art. 7
+
+COD: 2D04047
+PREGUNTA: ¿Cómo se denomina en el Impuesto de Sociedades el importe de la depreciación efectiva sufrida por los bienes del inmovilizado a causa de su uso?
+A: Pérdida.
+B: Leasing.
+C: Amortización.
+D: Inmovilizado.
+SOLUCION: C
+NORMA: Ley 27/2014, art. 12
+
+COD: 2D04048
+PREGUNTA: ¿Qué se requiere para que la amortización practicada se pueda considerar un gasto deducible en el Impuesto sobre Sociedades?
+A: Que el bien se haya comprado al contado.
+B: Que corresponda a la depreciación efectiva.
+C: Que constituya amortización de un bien inmueble, exclusivamente.
+D: La amortización no se puede considerar gasto deducible.
+SOLUCION: B
+NORMA: Ley 27/2014, art. 12
+
+COD: 2D04049
+PREGUNTA: ¿Qué conceptos se computan para determinar la base imponible en el Impuesto sobre Sociedades?
+A: Las pérdidas por deterioro de los créditos derivadas de las posibles insolvencias de los deudores.
+B: Las multas y sanciones.
+C: Las pérdidas del juego.
+D: Ninguno de los anteriores.
+SOLUCION: A
+NORMA: Ley 27/2014, art. 13; Ley 27/2014, art. 15
+
+COD: 2D04050
+PREGUNTA: ¿Qué requisito deben cumplir los contribuyentes del Impuesto sobre Sociedades para ser considerados entidades de reducida dimensión?
+A: Tener en el período impositivo anterior una cifra de negocios cuyo importe neto sea inferior a 18.000.000 euros.
+B: Tener en el período impositivo anterior una cifra de negocios cuyo importe neto sea inferior a 15.000.000 euros.
+C: Tener en el período impositivo anterior una cifra de negocios cuyo importe neto sea inferior a 10.000.000 euros.
+D: Tener forma jurídica de sociedad limitada y no ser entidad patrimonial.
+SOLUCION: C
+NORMA: Ley 27/2014, art. 101
+
+COD: 2D04051
+PREGUNTA: ¿Qué consideración tienen las amortizaciones en el Impuesto sobre Sociedades?
+A: Un gasto deducible.
+B: Un pago deducible.
+C: Un gasto no deducible en ningún caso.
+D: Un pago no deducible en ningún caso.
+SOLUCION: A
+NORMA: Ley 27/2014, art. 12
+
+COD: 2D04052
+PREGUNTA: ¿Qué clase de impuesto es el Impuesto sobre Sociedades?
+A: Un impuesto de naturaleza indirecta.
+B: Un impuesto que grava el hecho de constituir una sociedad.
+C: Un impuesto que grava a las sociedades anónimas exclusivamente.
+D: Un impuesto directo que grava las rentas obtenidas por una sociedad.
+SOLUCION: D
+NORMA: Ley 27/2014, art. 1
+
+COD: 2D04053
+PREGUNTA: ¿Qué obligaciones formales tienen que cumplir las empresas sujetas al Impuesto sobre Sociedades?
+A: Llevar el libro registro de ingresos.
+B: Llevar el libro registro de compras y de gastos.
+C: Llevar el libro registro de provisiones de bienes de inversión.
+D: Llevar los libros de contabilidad de acuerdo con lo previsto en el Código de Comercio.
+SOLUCION: D
+NORMA: Ley 27/2014, art. 120
+
+COD: 2D04054
+PREGUNTA: ¿Cuál es, con carácter general, el tipo de gravamen del Impuesto sobre Sociedades?
+A: El 50 %.
+B: El 40 %.
+C: El 25 %
+D: El 20 %.
+SOLUCION: C
+NORMA: Ley 27/2014, art. 29
+
+COD: 2D04055
+PREGUNTA: ¿Cuál es el tiempo máximo admitido para el período impositivo del Impuesto sobre Sociedades, en el caso de una sociedad anónima que desarrolla la actividad de transporte?
+A: 24 meses.
+B: 12 meses.
+C: 6 meses.
+D: 3 meses.
+SOLUCION: B
+NORMA: Ley 27/2014, art. 27
+
+COD: 2D04056
+PREGUNTA: ¿Quiénes están exentos del Impuesto sobre Sociedades?
+A: Las sociedades mercantiles.
+B: Las uniones temporales de empresa.
+C: Los fondos de inversión.
+D: El Estado, las Comunidades Autónomas y las entidades locales.
+SOLUCION: D
+NORMA: Ley 27/2014, art. 7; Ley 27/2014, art. 9
+
+COD: 2D04057
+PREGUNTA: ¿Cómo se realiza la liquidación de la deuda correspondiente al Impuesto sobre Sociedades?
+A: Es autoliquidada por el sujeto pasivo.
+B: Es liquidada por la Administración tributaria.
+C: Es liquidada por el ayuntamiento del domicilio fiscal de la empresa.
+D: Todas las anteriores son falsas.
+SOLUCION: A
+NORMA: Ley 27/2014, art. 125
+
+COD: 2D04058
+PREGUNTA: ¿Cuándo deberán efectuar los sujetos pasivos los pagos fraccionados del Impuesto sobre Sociedades?
+A: En los primeros veinte días naturales de los meses de abril, octubre y diciembre.
+B: En los primeros veinte días naturales de los meses de abril, julio, octubre y enero.
+C: Únicamente en los primeros veinte días naturales del mes de abril.
+D: Depende del tipo de entidad.
+SOLUCION: A
+NORMA: Ley 27/2014, art. 40
+
+COD: 2D04059
+PREGUNTA: Como regla general, ¿cómo se determinará la base imponible en el Impuesto sobre Sociedades?
+A: Por el método de estimación objetiva.
+B: Por el método de estimación directa.
+C: Por el método de estimación indirecta.
+D: Por el método de estimación directa simplificada.
+SOLUCION: B
+NORMA: Ley 27/2014, art. 10
+
+COD: 2D04060
+PREGUNTA: ¿Qué se consideran correcciones de valor para determinar la base imponible en el Impuesto sobre Sociedades?
+A: Las amortizaciones y las pérdidas por deterioro del valor de los elementos patrimoniales.
+B: Las retenciones y pagos a cuenta.
+C: Las deducciones.
+D: Las bonificaciones en la cuota.
+SOLUCION: A
+NORMA: Ley 27/2014, art. 12; Ley 27/2014, art. 13
+
+COD: 2D04061
+PREGUNTA: ¿Cuál es el porcentaje mínimo admisible en el Impuesto de Sociedades para el método de amortización a porcentaje constante sobre valor pendiente?
+A: 15 %.
+B: 11 %.
+C: 10 %.
+D: 5 %.
+SOLUCION: B
+NORMA: Ley 27/2014, art. 12
+
+COD: 2D04062
+PREGUNTA: ¿Cuál de las siguientes opciones da derecho a los sujetos pasivos a practicar deducciones en la cuota íntegra del Impuesto sobre Sociedades?
+A: Los donativos.
+B: Las cantidades invertidas en investigación y desarrollo.
+C: Las cantidades gastadas en comidas de trabajo del personal.
+D: Las pérdidas por juego.
+SOLUCION: B
+NORMA: Ley 27/2014, art. 35
+
+COD: 2D04063
+PREGUNTA: ¿Qué es la cuota íntegra en el Impuesto sobre Sociedades?
+A: La cantidad resultante de aplicar a la base imponible el tipo de gravamen.
+B: La cantidad resultante de aplicar a la base imponible las bonificaciones que procedan.
+C: La cantidad resultante de minorar la base imponible con los pagos a cuenta.
+D: La cantidad resultante de aplicar a la base imponible las deducciones estipuladas por la ley.
+SOLUCION: A
+NORMA: Ley 27/2014, art. 30
+
+COD: 2D04064
+PREGUNTA: ¿Cuándo se devenga el Impuesto sobre Sociedades por las rentas sujetas al tipo general de gravamen?
+A: El día 20 del último trimestre.
+B: El último día del período impositivo.
+C: El día 1 de enero.
+D: Cuando se paga.
+SOLUCION: B
+NORMA: Ley 27/2014, art. 28
+
+COD: 2D04065
+PREGUNTA: ¿Cuándo hay que presentar la declaración del Impuesto sobre Sociedades?
+A: La declaración se presentará en el plazo de los 25 días naturales siguientes a los 6 meses posteriores a la conclusión del período impositivo.
+B: La declaración se presentará en el plazo de los 15 días naturales siguientes a los 6 meses posteriores a la conclusión del período impositivo.
+C: En el momento del devengo del impuesto.
+D: La declaración se presentará en el plazo de los 25 días naturales siguientes a los 3 meses posteriores a la conclusión del período impositivo.
+SOLUCION: A
+NORMA: Ley 27/2014, art. 124
+
+COD: 2D04066
+PREGUNTA: ¿Quién de los siguientes es contribuyente del Impuesto sobre Sociedades?
+A: Las personas jurídicas, incluidas todas las sociedades civiles.
+B: El empresario individual.
+C: Los empleados de una sociedad.
+D: Las personas jurídicas, excepto las sociedades civiles que no tengan objeto mercantil.
+SOLUCION: D
+NORMA: Ley 27/2014, art. 7
+
+COD: 2D04067
+PREGUNTA: ¿Qué plazo tiene que transcurrir para poder deducir, en el Impuesto sobre Sociedades, las pérdidas por posibles insolvencias de los deudores, si no concurre ninguna otra de las circunstancias previstas por la Ley?
+A: Un año desde el vencimiento de la deuda.
+B: Tres meses desde el vencimiento de la deuda.
+C: Seis meses desde el vencimiento de la deuda.
+D: Dos años desde el vencimiento de la deuda.
+SOLUCION: C
+NORMA: Ley 27/2014, art. 13
+
+COD: 2D04068
+PREGUNTA: ¿Cómo podrá realizarse el pago de la deuda tributaria correspondiente al Impuesto sobre Sociedades?
+A: Mediante la entrega de bienes inmuebles de la empresa.
+B: Mediante la entrega de dinero, exclusivamente.
+C: Mediante la entrega de bienes integrantes del Patrimonio Histórico Español.
+D: Ninguna de las anteriores.
+SOLUCION: C
+NORMA: Ley 27/2014, art. 125
+
+COD: 2D04069
+PREGUNTA: ¿Qué constituye la base imponible del Impuesto sobre Sociedades?
+A: La renta del período impositivo menos la compensación de bases imponibles negativas de ejercicios anteriores.
+B: Las ventas del período impositivo.
+C: Los ingresos del período impositivo.
+D: El resultado contable del período impositivo.
+SOLUCION: A
+NORMA: Ley 27/2014, art. 10
+
+COD: 2D04070
+PREGUNTA: A efectos del Impuesto sobre Sociedades, ¿cuál será el domicilio fiscal de las sociedades residentes en territorio español que desarrollan la actividad de transporte?
+A: El lugar de matriculación de sus vehículos.
+B: El domicilio social en todo caso.
+C: El domicilio social, siempre que en el mismo se centralice la dirección y gestión.
+D: El domicilio particular del administrador de la entidad.
+SOLUCION: C
+NORMA: Ley 27/2014, art. 8
+
+COD: 2D04071
+PREGUNTA: ¿Qué activos permiten aplicar una deducción en concepto de amortización en el Impuesto sobre Sociedades?
+A: Los edificios.
+B: El mobiliario.
+C: Las marcas.
+D: Todos los anteriores.
+SOLUCION: D
+NORMA: Ley 27/2014, art. 12
+
+COD: 2D04072
+PREGUNTA: Con carácter general, ¿cuál es el porcentaje de retención o ingreso a cuenta del Impuesto de Sociedades que deben aplicar quienes abonen determinadas rentas sujetas a este impuesto?
+A: 25 %.
+B: 20 %.
+C: 19 %.
+D: 18 %.
+SOLUCION: C
+NORMA: Ley 27/2014, art. 128
+
+COD: 2D04073
+PREGUNTA: El empresario que abone determinadas rentas sujetas al Impuesto sobre Sociedades, ¿está obligado a efectuar retenciones con ocasión de su pago?
+A: Sí.
+B: Solo si es un empresario extranjero.
+C: Solo si es una sociedad mercantil.
+D: No, nunca.
+SOLUCION: A
+NORMA: Ley 27/2014, art. 128
+
+COD: 2D04074
+PREGUNTA: ¿Qué constituye el hecho imponible del Impuesto sobre Sociedades?
+A: La obtención de renta, cualquiera que fuese su fuente u origen, por el sujeto pasivo.
+B: La adquisición de bienes.
+C: Las ventas y prestaciones de servicios y los gastos financieros por la utilización de capitales ajenos.
+D: Las amortizaciones.
+SOLUCION: A
+NORMA: Ley 27/2014, art. 4
+
+COD: 2D04075
+PREGUNTA: Si en la liquidación del Impuesto sobre Sociedades la base imponible resulta negativa, ¿podrá ser compensada en los ejercicios siguientes?
+A: Sí, pero solo en los diez ejercicios siguientes.
+B: Sí, pero, una vez transcurridos diez años desde la finalización del plazo de declaración correspondiente al ejercicio con base negativa, se exige acreditar de modo específico las bases imponibles negativas cuya compensación se pretende.
+C: Sí, pero solo podrá ser compensada por empresas de reducida dimensión.
+D: No, no podrá ser compensada nunca.
+SOLUCION: B
+NORMA: Ley 27/2014, art. 26
+
+COD: 2D04076
+PREGUNTA: ¿Cuáles de los siguientes gastos no son deducibles en el Impuesto sobre Sociedades?
+A: Los gastos en investigación y desarrollo.
+B: La retribución de fondos propios.
+C: Los gastos derivados de la contabilización del propio impuesto.
+D: Las respuestas B y C son correctas.
+SOLUCION: D
+NORMA: Ley 27/2014, art. 15
+
+COD: 2D04077
+PREGUNTA: ¿Qué sucede con el beneficio o pérdida antes de impuestos que figura en la cuenta de pérdidas y ganancias de una sociedad limitada?
+A: Cada socio lo trasladará a su declaración de IRPF en proporción a su participación en la sociedad.
+B: Será igual a los dividendos por los que tributará cada socio en su IRPF.
+C: Está exento de tributación.
+D: No tiene que coincidir necesariamente con la base imponible del Impuesto sobre Sociedades.
+SOLUCION: D
+NORMA: Ley 27/2014, art. 10
+
+COD: 2D04078
+PREGUNTA: ¿Deben cumplir algún requisito las amortizaciones practicadas para que puedan deducirse en el cálculo del Impuesto sobre Sociedades?
+A: Sí, que correspondan a depreciaciones efectivas.
+B: Sí, que se calculen conforme a alguno de los métodos contemplados en la normativa reguladora de dicho impuesto.
+C: Determinados bienes pueden amortizarse libremente.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: Ley 27/2014, art. 12
+
+COD: 2D04079
+PREGUNTA: ¿Qué conceptos no serán deducibles en el Impuesto sobre Sociedades?
+A: Las multas.
+B: Las pérdidas de juego.
+C: Los donativos.
+D: Todas las respuestas son correctas.
+SOLUCION: D
+NORMA: Ley 27/2014, art. 15
+
+COD: 2D04080
+PREGUNTA: ¿Qué tipo de amortización se permite aplicar para el cálculo del rendimiento en el sistema de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas?
+A: Amortización lineal.
+B: Amortización creciente.
+C: Amortización decreciente.
+D: Cualquiera de las anteriores.
+SOLUCION: A
+NORMA: OM HAC/1425/2025, Anexo II, Instrucciones IRPF, 2
+
+COD: 2D04081
+PREGUNTA: ¿Tributa en el Impuesto sobre la Renta de las Personas Físicas una ganancia patrimonial puesta de manifiesto por la disolución de una comunidad de bienes?
+A: Sí, siempre.
+B: Sí, cuando los bienes hayan pertenecido a la comunidad durante menos de tres años.
+C: No, salvo que la comunidad de bienes haya tenido actividades lucrativas.
+D: No, porque ese supuesto no se considera alteración del patrimonio.
+SOLUCION: D
+NORMA: Ley 35/2006, art. 33
+
+COD: 2D04082
+PREGUNTA: En las transmisiones lucrativas que se produzcan por causa de muerte del contribuyente:
+A: se debe tributar en el Impuesto sobre la Renta de las Personas Físicas si se pone de manifiesto una ganancia patrimonial.
+B: las ganancias patrimoniales puestas de manifiesto están sujetas al Impuesto sobre la Renta de las Personas Físicas, pero quedan exentas.
+C: se considera que no existe ganancia ni pérdida patrimonial.
+D: se considera que nunca existe pérdida patrimonial, pero puede existir ganancia sujeta a tributación.
+SOLUCION: C
+NORMA: Ley 35/2006, art. 33
+
+COD: 2D04083
+PREGUNTA: Las ganancias que se pongan de manifiesto con ocasión de la transmisión de vivienda habitual:
+A: no tributan cuando la vivienda pertenezca a una persona mayor de 60 años.
+B: no tributan cuando se reinviertan en su totalidad en una nueva vivienda habitual.
+C: no tributan en ningún caso cuando haya constituido la vivienda habitual del contribuyente durante más de diez años.
+D: Todas las respuestas son correctas.
+SOLUCION: B
+NORMA: Ley 35/2006, art. 38
+
+COD: 2D04084
+PREGUNTA: ¿Qué consideración tienen en el Impuesto sobre la Renta de las Personas Físicas las pérdidas derivadas de la transmisión de elementos patrimoniales?
+A: No se computarán cuando el contribuyente haya adquirido el elemento en cuestión hace menos de dos años. 
+B: No se computarán cuando el elemento en cuestión se vuelva a adquirir dentro del año siguiente.
+C: No se computarán en ningún caso, pues no suponen un incremento de renta.
+D: Se computan siempre.
+SOLUCION: B
+NORMA: Ley 35/2006, art. 33
+
+COD: 2D04085
+PREGUNTA: ¿Cómo se determina en el Impuesto sobre la Renta de las Personas Físicas el importe de una ganancia patrimonial en caso de transmisión?
+A: Por el precio de venta.
+B: Por el valor de mercado.
+C: Por el precio de compra capitalizado al 5 %.
+D: Por la diferencia entre los valores de adquisición y de transmisión del elemento patrimonial.
+SOLUCION: D
+NORMA: Ley 35/2006, art. 34
+
+COD: 2D04086
+PREGUNTA: ¿Cómo se calcula el valor de adquisición de un elemento patrimonial en el Impuesto sobre la Renta de las Personas Físicas, a efectos de determinar la existencia de ganancia o pérdida patrimonial con ocasión de su transmisión?
+A: Coincide con el precio de compra.
+B: Es el precio de adquisición, descontando los tributos pagados y sumando el importe de las mejoras efectuadas.
+C: Es el precio de adquisición, descontando los tributos pagados y sumando el importe de las mejoras efectuadas y las amortizaciones practicadas.
+D: Es el precio de adquisición, incluidos los tributos y gastos pagados, al que se sumará el importe de las mejoras efectuadas y se descontarán las amortizaciones practicadas.
+SOLUCION: D
+NORMA: Ley 35/2006, art. 35
+
+COD: 2D04087
+PREGUNTA: Los bienes cuya tenencia no se corresponda con la renta declarada en el Impuesto sobre la Renta de las Personas Físicas:
+A: se considerarán ganancias patrimoniales no justificadas y deberán tributar como tales en el período impositivo respecto del que se descubran.
+B: se considerarán ganancias patrimoniales no justificadas y deberán tributar como tales en el primer período siguiente a aquel en el que sean descubiertos.
+C: se integrarán en la base liquidable general del período impositivo siguiente a aquel en el que sean descubiertos.
+D: se integrarán en la base liquidable general del período impositivo respecto del que se descubran.
+SOLUCION: D
+NORMA: Ley 35/2006, art. 39
+
+COD: 2D04088
+PREGUNTA: ¿Qué se entiende por "cuota diferencial" en el Impuesto sobre la Renta de las Personas Físicas?
+A: El resultado de minorar la cuota íntegra con diferentes deducciones en la forma prevista por la ley.
+B: El resultado de minorar la cuota líquida con las retenciones, pagos a cuenta y pagos fraccionados efectuados, entre otros, en la forma prevista por la ley.
+C: El resultado de aplicar el tipo impositivo a la base imponible.
+D: El importe de aplicar el tipo impositivo a la base liquidable.
+SOLUCION: B
+NORMA: Ley 35/2006, art. 79
+
+COD: 2D04089
+PREGUNTA: ¿Qué obligaciones formales tienen que cumplir los empresarios de carácter mercantil sujetos al régimen de estimación directa normal del IRPF?
+A: Basta con que lleven libros registro de ventas y de compras.
+B: Solo deben llevar el libro diario.
+C: Basta con que lleven libros registro de ventas, de compras y de bienes de inversión.
+D: Deben llevar la contabilidad conforme a lo dispuesto en el Código de Comercio.
+SOLUCION: D
+NORMA: RD 439/2007, art. 68
+
+COD: 2D04090
+PREGUNTA: Serán contribuyentes del Impuesto sobre la Renta de las Personas Físicas:
+A: las personas que tengan en España el núcleo principal de sus actividades.
+B: las personas de nacionalidad española, aunque residan en el extranjero por motivo de desempeñar un empleo oficial.
+C: las personas que permanezcan en España 183 días durante el año natural.
+D: Las respuestas A y B son correctas.
+SOLUCION: D
+NORMA: Ley 35/2006, art. 8; Ley 35/2006, art. 9; Ley 35/2006, art. 10
+
+COD: 2D04091
+PREGUNTA: A efectos del Impuesto sobre la Renta de las Personas Físicas, ¿a qué período impositivo se imputan los salarios percibidos por un trabajador?
+A: Al período en el que se cobren.
+B: Al período en el que sean descubiertos por Hacienda.
+C: Al período en el que sean exigibles por su perceptor.
+D: Las respuesta B y C son correctas.
+SOLUCION: C
+NORMA: Ley 35/2006, art. 14
+
+COD: 2D04092
+PREGUNTA: ¿Cómo se determinan, normalmente, las ganancias patrimoniales en el Impuesto sobre la Renta de las Personas Físicas?
+A: Por la diferencia entre todos los ingresos y todos los gastos imputables al elemento patrimonial en cuestión.
+B: Por la diferencia entre valor de transmisión y valor de adquisición.
+C: Por estimación objetiva.
+D: Por la diferencia entre todos los ingresos y todos los gastos del contribuyente en el ejercicio.
+SOLUCION: B
+NORMA: Ley 35/2006, art. 15
+
+COD: 2D04093
+PREGUNTA: ¿Cómo se determinan, normalmente, los rendimientos netos en el Impuesto sobre la Renta de las Personas Físicas?
+A: Por la diferencia entre todos los ingresos y todos los gastos.
+B: Por la diferencia entre valor de adquisición y valor de transmisión.
+C: Por estimación objetiva.
+D: Por la diferencia entre ingresos computables y gastos deducibles.
+SOLUCION: D
+NORMA: Ley 35/2006, art. 15
+
+COD: 2D04094
+PREGUNTA: ¿Cómo clasifica la base imponible el Impuesto sobre la Renta de las Personas Físicas?
+A: De rendimientos y de ganancias patrimoniales.
+B: Anual y plurianual.
+C: General y del ahorro.
+D: Normal y especial.
+SOLUCION: C
+NORMA: Ley 35/2006, art. 15
+
+COD: 2D04095
+PREGUNTA: ¿Qué tipo de renta son los rendimientos del trabajo en el Impuesto sobre la Renta de las Personas Físicas?
+A: Renta general.
+B: Renta del ahorro.
+C: Renta de trabajo dependiente.
+D: Renta anual.
+SOLUCION: A
+NORMA: Ley 35/2006, art. 45; Ley 35/2006, art. 46
+
+COD: 2D04096
+PREGUNTA: ¿Qué tipo de renta son en el Impuesto sobre la Renta de las Personas Físicas las ganancias patrimoniales derivadas de la transmisión de un elemento patrimonial?
+A: Renta general.
+B: Renta del ahorro.
+C: Renta irregular.
+D: Renta excepcional.
+SOLUCION: B
+NORMA: Ley 35/2006, art. 45; Ley 35/2006, art. 46
+
+COD: 2D04097
+PREGUNTA: ¿Cómo se calcula el mínimo personal y familiar en el Impuesto sobre la Renta de las Personas Físicas?
+A: Sumando las cantidades estipuladas como mínimo a la base imponible.
+B: Sumando las cantidades estipuladas como mínimo a la base liquidable.
+C: Sumando las cantidades estipuladas como mínimo a la cuota diferencial.
+D: Sumando las cantidades estipuladas como mínimo del contribuyente y mínimos por descendientes, ascendientes y discapacidad.
+SOLUCION: D
+NORMA: Ley 35/2006, art. 56
+
+COD: 2D04098
+PREGUNTA: ¿Cómo se calcula, generalmente, en el Impuesto sobre la Renta de las Personas Físicas, la cuantía de la base imponible?
+A: Por estimación objetiva.
+B: Por estimación directa.
+C: Por estimación indirecta.
+D: Por estimación personal.
+SOLUCION: B
+NORMA: Ley 35/2006, art. 16
+
+COD: 2D04099
+PREGUNTA: ¿Cuál de las siguientes retribuciones se considera rendimiento del trabajo en el Impuesto sobre la Renta de las Personas Físicas?
+A: Salarios.
+B: Pensiones de la Seguridad Social.
+C: Prestaciones por desempleo.
+D: Todas las anteriores.
+SOLUCION: D
+NORMA: Ley 35/2006, art. 17
+
+COD: 2D04100
+PREGUNTA: ¿Qué operación de las siguientes se hace para calcular los rendimientos netos del trabajo en el Impuesto sobre la Renta de las Personas Físicas?
+A: Descontar las cotizaciones sociales.
+B: Descontar los gastos de desplazamiento al puesto de trabajo.
+C: Descontar la cantidad de 1.000 euros en concepto de otros gastos.
+D: Las respuestas A y C son correctas.
+SOLUCION: A
+NORMA: Ley 35/2006, art. 19
+
+COD: 2D04101
+PREGUNTA: ¿Qué tipos de rendimientos del capital se distinguen en el Impuesto sobre la Renta de las Personas Físicas?
+A: De capital fijo y variable.
+B: De capital propio y ajeno.
+C: De capital mobiliario y de bienes inmuebles.
+D: De capital vinculado a actividades económicas y no vinculado.
+SOLUCION: C
+NORMA: Ley 35/2006, art. 21
+
+COD: 2D04102
+PREGUNTA: ¿Cuál de los siguientes no es rendimiento de capital mobiliario a efectos del Impuesto sobre la Renta de las Personas Físicas?
+A: Los intereses.
+B: El que deriva del arrendamiento de una vivienda.
+C: El procedente de la propiedad intelectual cuando el contribuyente no sea el autor de la obra.
+D: Los indicados en las respuestas B y C.
+SOLUCION: B
+NORMA: Ley 35/2006, art. 25
+
+COD: 2D04103
+PREGUNTA: ¿Qué se requiere para que un rendimiento tenga la consideración de rendimiento de actividad económica en el Impuesto sobre la Renta de las Personas Físicas?
+A: Que implique la ordenación por cuenta propia de medios de producción.
+B: Que implique la ordenación por cuenta propia de recursos humanos.
+C: Necesariamente, que implique la ordenación por cuenta propia de medios de producción y recursos humanos a la vez.
+D: Las respuestas A y B son correctas.
+SOLUCION: D
+NORMA: Ley 35/2006, art. 27
+
+COD: 2D04104
+PREGUNTA: ¿Qué rendimientos del capital están sujetos a tributación en el Impuesto sobre la Renta de las Personas Físicas?
+A: Todos los que provengan de bienes del contribuyente, salvo los afectos a una actividad económica realizada por él.
+B: Todos los que provengan de bienes del contribuyente, salvo los que tengan titularidad compartida con su cónyuge.
+C: Todos los que provengan de bienes del contribuyente, salvo los obtenidos en un período superior a cinco años.
+D: Todos los que provengan de cualquier bien del contribuyente.
+SOLUCION: A
+NORMA: Ley 35/2006, art. 21
+
+COD: 2D04105
+PREGUNTA: ¿Qué actividades se tienen en cuenta para excluir a un empresario del sistema de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas por haber superado el volumen de ingresos estipulado?
+A: Cada una de sus actividades por separado.
+B: Sus actividades en conjunto, pero solo las suyas.
+C: Sus actividades y las de su cónyuge cuando sean idénticas, exista una dirección común y se compartan medios.
+D: Sus actividades y las de su cónyuge, en todo caso.
+SOLUCION: C
+NORMA: Ley 35/2006, art. 31
+
+COD: 2D04106
+PREGUNTA: ¿Qué rendimientos de actividades económicas se reducen en un 30 % para calcular el Impuesto sobre la Renta de las Personas Físicas?
+A: Todos.
+B: Los que tengan un período de generación superior a un año.
+C: Los obtenidos de forma notoriamente irregular en el tiempo.
+D: Ninguno.
+SOLUCION: C
+NORMA: Ley 35/2006, art. 32
+
+COD: 2D04107
+PREGUNTA: ¿Qué modalidades de determinación de los rendimientos de actividades económicas admite el método de estimación directa del Impuesto sobre la Renta de las Personas Físicas?
+A: Normal y objetiva.
+B: Normal y simplificada.
+C: Objetiva y simplificada.
+D: Normal y detallada.
+SOLUCION: B
+NORMA: Ley 35/2006, art. 30
+
+COD: 2D04108
+PREGUNTA: ¿Qué se requiere para poder aplicar el método de estimación directa simplificada en el cálculo de rendimientos de actividades económicas a efectos del Impuesto sobre la Renta de las Personas Físicas?
+A: Que el importe neto de la cifra de negocios no haya superado 300.000 euros en el año que se calcula.
+B: Que el importe neto de la cifra de negocios no haya superado 300.000 euros en el año inmediato anterior.
+C: Que el importe neto de la cifra de negocios no haya superado 600.000 euros en el año que se calcula.
+D: Que el importe neto de la cifra de negocios no haya superado 600.000 euros en el año inmediato anterior.
+SOLUCION: D
+NORMA: Ley 35/2006, art. 30
+
+COD: 2D04109
+PREGUNTA: El método de estimación directa simplificada del Impuesto sobre la Renta de las Personas Físicas:
+A: es de aplicación voluntaria, pero la renuncia al mismo impedirá aplicarlo en los tres años siguientes.
+B: es de aplicación voluntaria, pero la renuncia al mismo impedirá aplicarlo en los cinco años siguientes.
+C: es de aplicación obligatoria durante toda la duración de la actividad, salvo que se renuncie al mismo en el momento de iniciarla.
+D: es de aplicación obligatoria siempre que se den los supuestos para su utilización.
+SOLUCION: A
+NORMA: Ley 35/2006, art. 30
+
+COD: 2D04110
+PREGUNTA: ¿Qué gastos se pueden deducir en el método de estimación directa normal del Impuesto sobre la Renta de las Personas Físicas para calcular el rendimiento neto?
+A: Todos los que tenga el empresario y su familia.
+B: Las aportaciones a mutualidades de previsión social del propio empresario.
+C: Las primas de seguros de enfermedad, hasta cierto importe.
+D: Ninguno; este método estima el rendimiento por aplicación directa de un porcentaje sobre los ingresos.
+SOLUCION: C
+NORMA: Ley 35/2006, art. 30
+
+COD: 2D04111
+PREGUNTA: En el método de estimación directa simplificada del Impuesto sobre la Renta de las Personas Físicas, ¿se admite alguna deducción por gastos de difícil justificación?
+A: No más de 1.000 euros anuales.
+B: No más de 2.000 euros anuales.
+C: No más de 1.000 euros por trimestre.
+D: No se puede deducir nada por este concepto.
+SOLUCION: B
+NORMA: Ley 35/2006, art. 30
+
+COD: 2D04112
+PREGUNTA: ¿Cómo clasifica la renta el Impuesto sobre la Renta de las Personas Físicas?
+A: De trabajo dependiente y de trabajo autónomo.
+B: General y del ahorro.
+C: Anual y plurianual.
+D: Normal y especial.
+SOLUCION: B
+NORMA: Ley 35/2006, art. 6
+
+COD: 2D04113
+PREGUNTA: ¿Cómo se articula la relación entre el Impuesto sobre la Renta de las Personas Físicas (IRPF) y el Impuesto sobre Sucesiones y Donaciones?
+A: La renta sujeta al Impuesto de Sucesiones y Donaciones está también sujeta al Impuesto sobre la Renta de las Personas Físicas, pero es posible deducir en este último la cuota pagada al aplicar el primero.
+B: La renta sujeta al Impuesto de Sucesiones y Donaciones está también sujeta al Impuesto sobre la Renta de las Personas Físicas, pues el primero grava al beneficiario de la sucesión o donación y el segundo al causante o donante.
+C: La renta sujeta al Impuesto de Sucesiones y Donaciones no está sujeta al Impuesto sobre la Renta de las Personas Físicas.
+D: Son dos impuestos que no tienen relación entre sí, pues gravan hechos imponibles completamente distintos.
+SOLUCION: C
+NORMA: Ley 35/2006, art. 6
+
+COD: 2D04114
+PREGUNTA: ¿Cómo son los tipos impositivos del Impuesto sobre la Renta de las Personas Físicas?
+A: Proporcionales.
+B: Progresivos.
+C: Mínimos.
+D: Máximos.
+SOLUCION: B
+NORMA: Ley 35/2006, art. 63
+
+COD: 2D04115
+PREGUNTA: ¿Cuál de las siguientes es una renta exenta a efectos del Impuesto sobre la Renta de las Personas Físicas?
+A: Algunos premios literarios.
+B: Las prestaciones por desempleo, cumpliendo ciertas condiciones.
+C: Las becas públicas, hasta un determinado importe.
+D: Todas las anteriores están exentas.
+SOLUCION: D
+NORMA: Ley 35/2006, art. 7
+
+COD: 2D04116
+PREGUNTA: A efectos del Impuesto sobre la Renta de las Personas Físicas, las comunidades de bienes:
+A: no tienen la consideración de contribuyentes, pues sus rentas no están sujetas a este impuesto.
+B: no tienen la consideración de contribuyentes, pues sus rentas se atribuyen a los comuneros.
+C: no tienen la consideración de contribuyentes, pues sus rentas están exentas.
+D: tienen la consideración de contribuyentes.
+SOLUCION: B
+NORMA: Ley 35/2006, art. 8
+
+COD: 2D04117
+PREGUNTA: ¿Se permite la tributación conjunta en el Impuesto sobre la Renta de las Personas Físicas?
+A: Sí, para los cónyuges no separados, los hijos menores que vivan con ellos y los mayores incapacitados sujetos a patria potestad.
+B: Sí, para los cónyuges no separados, los hijos menores en todo caso y los mayores incapacitados sujetos a patria potestad.
+C: Solo para los cónyuges no separados; los hijos menores o incapacitados no tienen la condición de contribuyentes.
+D: No, pues se trata de un impuesto personal.
+SOLUCION: A
+NORMA: Ley 35/2006, art. 82
+
+COD: 2D04118
+PREGUNTA: ¿Qué regla se aplica en el Impuesto sobre la Renta de las Personas Físicas cuando hay diferencia entre los rendimientos reales de un empresario y los que resultan de la aplicación correcta del método de estimación objetiva?
+A: Se consideran ganancias patrimoniales y se someten a tributación en su totalidad conforme a las normas aplicables a estas.
+B: Se consideran ganancias patrimoniales y se someten a tributación conforme a las normas aplicables a estas cuando la diferencia es superior al 10 %.
+C: Se consideran ganancias patrimoniales y se somete a tributación conforme a las normas aplicables a estas la diferencia que sobrepase el 10 %.
+D: No se someten a tributación en ningún caso.
+SOLUCION: D
+NORMA: Ley 35/2006, art. 31
+
+COD: 2D04119
+PREGUNTA: ¿Qué documentación deben llevar quienes determinen el rendimiento de sus actividades empresariales, a efectos del Impuesto sobre la Renta de las Personas Físicas, mediante el método de estimación directa simplificada?
+A: Libro de inventarios y balances.
+B: Libro diario y libro de inventarios y balances.
+C: Libros registro de ventas e ingresos, de compras y gastos, y de bienes de inversión.
+D: Contabilidad ajustada a lo dispuesto en el Código de Comercio.
+SOLUCION: C
+NORMA: RD 439/2007, art. 68
+
+COD: 2D04120
+PREGUNTA: ¿Qué se considera entidad patrimonial a efectos del Impuesto sobre Sociedades?
+A: Aquella en la que más de la mitad de su activo está constituido por valores.
+B: Aquella que tiene un patrimonio superior a 1.000 millones de euros.
+C: Aquella que tiene más de 1.000 millones de euros en valores.
+D: Aquella que tiene más de 500 millones de euros en valores.
+SOLUCION: A
+NORMA: Ley 27/2014, art. 5
+
+COD: 2D04121
+PREGUNTA: La normativa del Impuesto sobre Sociedades considera:
+A: que todas las sociedades y entidades realizan alguna actividad económica.
+B: que las entidades no patrimoniales no realizan una actividad económica.
+C: que las entidades patrimoniales no realizan una actividad económica.
+D: que la actividad económica de las entidades patrimoniales no constituye hecho imponible del impuesto.
+SOLUCION: C
+NORMA: Ley 27/2014, art. 5
+
+COD: 2D04122
+PREGUNTA: ¿Cómo se calcula la base imponible en el método de estimación directa del Impuesto sobre Sociedades?
+A: Por el resultado contable obtenido con la aplicación de las normas de contabilidad del Código de Comercio.
+B: Por el resultado contable obtenido con la aplicación de las normas del Plan General de Contabilidad.
+C: Corrigiendo el resultado contable mediante la aplicación de la normativa del impuesto.
+D: Reduciendo el resultado contable en el importe correspondiente a la cuota tributaria de este impuesto.
+SOLUCION: C
+NORMA: Ley 27/2014, art. 10
+
+COD: 2D04123
+PREGUNTA: ¿Cómo se imputan los ingresos y gastos a efectos del Impuesto sobre Sociedades?
+A: Al período en que se produzca su devengo.
+B: Al período en que se produzca su cobro o su pago.
+C: Los ingresos, al período de devengo, y los gastos, al período en el que se haga su pago.
+D: Los ingresos, al período en el que se cobren, y los gastos, al período de devengo.
+SOLUCION: A
+NORMA: Ley 27/2014, art. 11
+
+COD: 2D04124
+PREGUNTA: A efectos del Impuesto sobre Sociedades, las entidades patrimoniales:
+A: no existen.
+B: no pueden ser consideradas entidades de reducida dimensión en ningún caso.
+C: pueden se consideradas entidades de reducida dimensión cuando adoptan la forma jurídica de sociedades limitadas.
+D: pueden se consideradas entidades de reducida dimensión cuando tengan una cifra neta de negocios inferior a 5 millones de euros.
+SOLUCION: B
+NORMA: Ley 27/2014, art. 101
+
+COD: 2D04125
+PREGUNTA: Las entidades consideradas como de reducida dimensión, a efectos del Impuesto sobre Sociedades, podrán:
+A: amortizar libremente inversiones inmobiliarias si cumplen ciertas condiciones.
+B: amortizar inversiones inmobiliarias aplicando el coeficiente que resulte de multiplicar por 2 el coeficiente máximo previsto en las tablas oficiales.
+C: minorar su base imponible si aplican el tipo impositivo general.
+D: Todas son correctas.
+SOLUCION: D
+NORMA: Ley 27/2014, art. 102; Ley 27/2014, art. 103; Ley 27/2014, art. 105
+
+COD: 2D04126
+PREGUNTA: ¿Qué sistemas de amortización del inmovilizado son admisibles a efectos del Impuesto sobre Sociedades?
+A: El método de los números dígitos.
+B: El método de porcentaje constante sobre precio de adquisición.
+C: Cualquiera que elija el contribuyente libremente, siempre que corresponda a la depreciación efectiva.
+D: Todas las respuestas son correctas.
+SOLUCION: A
+NORMA: Ley 27/2014, art. 12
+
+COD: 2D04127
+PREGUNTA: ¿Qué método de amortización se puede aplicar a los edificios a efectos del Impuesto de Sociedades?
+A: El método de los números dígitos.
+B: El método de porcentaje constante sobre precio de adquisición.
+C: El método de amortización lineal según las tablas oficiales.
+D: El método de porcentaje constante sobre valor pendiente.
+SOLUCION: C
+NORMA: Ley 27/2014, art. 12
+
+COD: 2D04128
+PREGUNTA: ¿Permiten las normas del Impuesto sobre Sociedades la amortización libre?
+A: Sí, para cualquier elemento nuevo con valor unitario de hasta 300 euros.
+B: Sí, para los elementos nuevos del inmovilizado material con valor unitario de hasta 300 euros.
+C: Sí, para los elementos nuevos o usados del inmovilizado material con valor unitario de hasta 300 euros.
+D: No.
+SOLUCION: B
+NORMA: Ley 27/2014, art. 12
+
+COD: 2D04129
+PREGUNTA: Las entidades que abonen rentas sujetas al Impuesto sobre Sociedades:
+A: deben presentar un resumen anual de las retenciones practicadas.
+B: deben presentar una declaración de las retenciones con periodicidad trimestral en todos los casos.
+C: deben presentar declaración aunque en el período no se hayan satisfecho rentas sometidas a retención.
+D: Todas las respuestas anteriores son correctas.
+SOLUCION: A
+NORMA: RD 634/2015, art. 68
+
+COD: 2D04130
+PREGUNTA: Cuando, conforme a la normativa, se presuma la existencia de renta no declarada en el Impuesto sobre Sociedades:
+A: se imputará al período impositivo en el que se descubra.
+B: se imputará al último período impositivo finalizado.
+C: se imputará al período impositivo más antiguo que no esté prescrito.
+D: se repartirá entre todos los períodos impositivos finalizados y no prescritos.
+SOLUCION: C
+NORMA: Ley 27/2014, art. 121
+
+COD: 2D04131
+PREGUNTA: ¿Cuáles de las siguientes son personas o entidades vinculadas según las normas del Impuesto sobre Sociedades?
+A: Una sociedad y los familiares de tercer grado de sus administradores.
+B: Una sociedad y un cliente cuyas compras suponen el 20 % de su facturación.
+C: Una sociedad y los familiares de cuarto grado de sus socios.
+D: Todas las respuestas son correctas.
+SOLUCION: A
+NORMA: Ley 27/2014, art. 18
+
+COD: 2D04132
+PREGUNTA: ¿Qué se debe hacer en el cálculo del Impuesto sobre Sociedades cuando se transmite un elemento patrimonial que tiene diferente valor contable y fiscal?
+A: Descontar la diferencia de la cuota íntegra.
+B: Descontar la diferencia de la cuota diferencial.
+C: Integrar la diferencia en la base imponible.
+D: Presentar una declaración complementaria por la diferencia.
+SOLUCION: C
+NORMA: Ley 27/2014, art. 20
+
+COD: 2D04133
+PREGUNTA: Los dividendos que obtenga una sociedad derivados de su participación en el capital de otra:
+A: están siempre exentos de tributación en el Impuesto sobre Sociedades.
+B: están exentos cuando su participación en el capital sea, al menos, del 5 % y se cumplan ciertas condiciones. 
+C: están exentos cuando su participación en el capital sea menor del 5 % y se cumplan ciertas condiciones. 
+D: están exentos siempre y cuando provengan de una sociedad extranjera.
+SOLUCION: B
+NORMA: Ley 27/2014, art. 21
+
+COD: 2D04134
+PREGUNTA: Las rentas positivas obtenidas por una sociedad en el extranjero a través de un establecimiento permanente:
+A: deben tributar en todo caso en el Impuesto sobre Sociedades.
+B: deben tributar, salvo que exista convenio para evitar la doble imposición.
+C: están exentas cuando el establecimiento haya estado sujeto y no exento a un impuesto similar.
+D: están exentas cuando el establecimiento haya estado sujeto y no exento a un impuesto similar con un tipo impositivo de, al menos, el 10 %.
+SOLUCION: D
+NORMA: Ley 27/2014, art. 22
+
+COD: 2D04135
+PREGUNTA: Las rentas negativas obtenidas por una sociedad en el extranjero a través de un establecimiento permanente:
+A: no se integran en la base imponible del Impuesto sobre Sociedades cuando el establecimiento no haya estado sujeto a un impuesto similar.
+B: no se integran en la base imponible del Impuesto sobre Sociedades.
+C: no se integran en la base imponible del Impuesto sobre Sociedades cuando el establecimiento no haya estado sujeto a un impuesto similar con un tipo impositivo de, al menos, el 10 %.
+D: se integran siempre en la base imponible del Impuesto sobre Sociedades.
+SOLUCION: B
+NORMA: Ley 27/2014, art. 22
+
+COD: 2D04136
+PREGUNTA: ¿Qué tratamiento tienen, en el Impuesto sobre Sociedades, las rentas positivas procedentes de la cesión de patentes que deriven de actividades de investigación si se cumplen determinadas condiciones?
+A: El 25 % de su importe se reduce en la base imponible.
+B: El 50 % de su importe se reduce en la base imponible.
+C: Su importe se reduce en la base imponible en un porcentaje variable.
+D: El 25 % de su importe se reduce de la cuota íntegra.
+SOLUCION: C
+NORMA: Ley 27/2014, art. 23
+
+COD: 2D04137
+PREGUNTA: ¿Tienen algún beneficio en el Impuesto sobre Sociedades las entidades que incrementen sus fondos propios sin incremento de su plantilla?
+A: Cumpliendo ciertos requisitos, todas podrán reducir su base imponible en el importe del incremento.
+B: Cumpliendo ciertos requisitos, las que tributen al tipo general podrán reducir su base imponible en el importe del incremento.
+C: Cumpliendo ciertos requisitos, todas podrán reducir su base imponible en el 20 % del incremento.
+D: Cumpliendo ciertos requisitos, las que tributen al tipo general podrán reducir su base imponible en el 20 % del incremento.
+SOLUCION: D
+NORMA: Ley 27/2014, art. 25
+
+COD: 2D04138
+PREGUNTA: ¿Se pueden compensar las bases imponibles negativas del Impuesto sobre Sociedades en ejercicios posteriores?
+A: Sí, hasta 1 millón de euros.
+B: Sí, siempre que no se supere el 70 % de la base positiva que se compensa.
+C: No, salvo que las bases negativas deriven de circunstancias excepcionales e imprevistas.
+D: No.
+SOLUCION: A
+NORMA: Ley 27/2014, art. 26
+
+COD: 2D04139
+PREGUNTA: ¿Cuándo finaliza el período impositivo a efectos del Impuesto sobre Sociedades?
+A: Siempre el 31 de diciembre.
+B: Cuando finalice el ejercicio económico de la entidad.
+C: Cuando la entidad cambie su forma jurídica y ello suponga una modificación del tipo impositivo.
+D: Las respuestas B y C son correctas.
+SOLUCION: D
+NORMA: Ley 27/2014, art. 27
+
+COD: 2D04140
+PREGUNTA: El tipo impositivo del Impuesto sobre Sociedades:
+A: es único para todas las entidades.
+B: es menor del tipo general para las entidades de reducida dimensión que no sean entidades patrimoniales.
+C: es menor del tipo general para las entidades de nueva creación, salvo que se trate de entidades patrimoniales
+D: Las respuestas B y C son correctas.
+SOLUCION: D
+NORMA: Ley 27/2014, art. 29
+
+COD: 2D04141
+PREGUNTA: En caso de rentas positivas obtenidas y gravadas en el extranjero, como criterio general:
+A: se deducirá de la cuota del Impuesto sobre Sociedades el impuesto pagado en el extranjero.
+B: se deducirá de la cuota del Impuesto sobre Sociedades el impuesto que correspondería pagar en España por esas rentas.
+C: se deducirá de la base imponible del Impuesto sobre Sociedades el impuesto pagado en el extranjero.
+D: se deducirá de la cuota del Impuesto sobre Sociedades la cantidad menor de las indicadas en las letras A y B.
+SOLUCION: D
+NORMA: Ley 27/2014, art. 31
+
+COD: 2D04142
+PREGUNTA: Cuando en el cálculo del Impuesto sobre Sociedades se incluyan dividendos pagados por una sociedad no residente, si se cumplen determinadas condiciones:
+A: se deducirán de la base imponible los dividendos recibidos.
+B: se deducirán de la cuota los dividendos recibidos.
+C: se deducirá de la cuota el impuesto pagado por la entidad no residente en la cuantía correspondiente a dichos dividendos.
+D: se deducirá de la base imponible el impuesto pagado por la entidad no residente en la cuantía correspondiente a dichos dividendos.
+SOLUCION: C
+NORMA: Ley 27/2014, art. 32
+
+COD: 2D04143
+PREGUNTA: ¿Qué tratamiento tienen en el Impuesto sobre Sociedades las rentas obtenidas en Ceuta y Melilla?
+A: Tiene una bonificación del 50 % la parte de la base imponible que corresponda a las mismas cuando las entidades operen materialmente en dichos territorios.
+B: Tiene una bonificación del 50 % la parte de la cuota íntegra que corresponda a las mismas cuando las entidades operen materialmente en dichos territorios.
+C: Tiene una bonificación del 50 % la parte de la base imponible que corresponda a las mismas, en todo caso.
+D: Tiene una bonificación del 50 % la parte de la cuota íntegra que corresponda a las mismas, en todo caso.
+SOLUCION: B
+NORMA: Ley 27/2014, art. 33
+
+COD: 2D04144
+PREGUNTA: Tienen bonificación o deducción en la cuota del Impuesto sobre Sociedades:
+A: las rentas derivadas de la prestación del servicio de recogida de basuras.
+B: la contratación de cualquier trabajador a través de un contrato por tiempo indefinido.
+C: la contratación de cualquier trabajador con discapacidad igual o superior al 33 %.
+D: Todas las respuestas son correctas.
+SOLUCION: A
+NORMA: Ley 27/2014, art. 34; Ley 27/2014, art. 37; Ley 27/2014, art. 38
+
+COD: 2D04145
+PREGUNTA: ¿Cuál es la base que se utiliza para calcular los pagos fraccionados del Impuesto sobre Sociedades?
+A: La cuota íntegra del último período impositivo.
+B: La base imponible del período integrado por los 3, 9 u 11 primeros meses de cada año, de modo obligatorio si la entidad ha tenido una cifra neta de negocios superior a 6 millones de euros.
+C: Las indicadas en las letras A o B, a elegir por la entidad en todo caso.
+D: Las respuestas A y B son correctas.
+SOLUCION: D
+NORMA: Ley 27/2014, art. 40
+
+COD: 2D04146
+PREGUNTA: ¿Qué sucederá si las retenciones, ingresos a cuenta y pagos fraccionados superan el importe de la cuota líquida o, en su caso, de la cuota líquida mínima del Impuesto sobre Sociedades?
+A: Se compensará el exceso con el primer pago fraccionado que corresponda realizar en el siguiente ejercicio.
+B: Se debe solicitar a la Administración la devolución del exceso.
+C: La Administración debe efectuar de oficio la devolución del exceso.
+D: La Administración devolverá el exceso cuando haya efectuado la comprobación y, en su caso, liquidación del tributo.
+SOLUCION: C
+NORMA: Ley 27/2014, art. 41
+
+COD: 2D04147
+PREGUNTA: Las entidades sin ánimo de lucro:
+A: no están sujetas al Impuesto sobre Sociedades.
+B: están sujetas, pero totalmente exentas.
+C: están sujetas y parcialmente exentas.
+D: están sujetas o no en función del tipo de actividad que desarrollan.
+SOLUCION: C
+NORMA: Ley 27/2014, art. 9
+
+COD: 2D04148
+PREGUNTA: A efectos del Impuesto sobre Sociedades, se consideran residentes en territorio español:
+A: a las sociedades que se hayan constituido conforme a leyes españolas.
+B: a las sociedades que no se hayan constituido conforme a leyes españolas, pero tengan su establecimiento principal de producción en territorio español.
+C: a las sociedades que no se hayan constituido conforme a leyes españolas, pero tengan la fuente principal de sus ingresos en territorio español.
+D: a todas las indicadas en las letras anteriores.
+SOLUCION: A
+NORMA: Ley 27/2014, art. 8
+
+COD: 2D04149
+PREGUNTA: ¿Es obligatorio, para un empresario sometido al régimen de estimación directa del IRPF, expedir factura de las operaciones?
+A: Sí.
+B: Solo para los que determinan el rendimiento por el método normal.
+C: Solo de las operaciones con un valor superior a 10.000 euros.
+D: No.
+SOLUCION: A
+NORMA: RD 1619/2012, art. 26
+
+COD: 2D04150
+PREGUNTA: ¿Qué es la cuota líquida en el Impuesto sobre Sociedades?
+A: La cantidad resultante de aplicar a la base imponible el tipo de gravamen.
+B: La cantidad resultante de aplicar a la cuota íntegra las bonificaciones y deducciones que procedan.
+C: La cantidad resultante de aplicar a la base imponible las bonificaciones que procedan.
+D: La cantidad resultante de aplicar a la base imponible las deducciones estipuladas por la ley.
+SOLUCION: B
+NORMA: Ley 27/2014, art. 30
+
+COD: 2D04151
+PREGUNTA: La cuota líquida del Impuesto sobre Sociedades:
+A: coincide siempre con la cantidad que resulte de aplicar a la cuota íntegra las bonificaciones y deducciones que procedan.
+B: ha de alcanzar siempre un importe de, al menos, el 5 por 100 de la base imponible.
+C: nunca puede tener valor negativo.
+D: ha de alcanzar siempre un importe de, al menos, el 15 por 100 de la base imponible.
+SOLUCION: C
+NORMA: Ley 27/2014, art. 30
+
+COD: 2D04152
+PREGUNTA: Entre otros supuestos, la cuota líquida del Impuesto sobre Sociedades debe tener un valor mínimo determinado para las sociedades que tributan al tipo general cuando:
+A: el importe neto de la cifra de negocios sea, al menos, de 20 millones de euros durante los 12 meses anteriores a la fecha en que se inicie el período impositivo.
+B: el importe neto de la cifra de negocios sea, al menos, de 40 millones de euros durante los 12 meses anteriores a la fecha en que se inicie el período impositivo.
+C: el importe neto de la cifra de negocios sea, al menos, de 20 millones de euros en el período impositivo.
+D: el importe neto de la cifra de negocios sea, al menos, de 40 millones de euros en el período impositivo.
+SOLUCION: A
+NORMA: Ley 27/2014, 30 bis
+
+COD: 2D04153
+PREGUNTA: Cuando el importe neto de la cifra de negocios sea, al menos, de 20 millones de euros durante los 12 meses anteriores a la fecha en que se inicie el período impositivo, para las sociedades que tributan al tipo de gravamen general la cuota líquida del Impuesto sobre Sociedades debe ascender, como mínimo:
+A: al 20 por 100 de la base imponible, minorada o aumentada, en su caso, por determinados conceptos.
+B: al 10 por 100 de la base imponible, minorada o aumentada, en su caso, por determinados conceptos.
+C: al 12 por 100 de la base imponible, minorada o aumentada, en su caso, por determinados conceptos.
+D: al 15 por 100 de la base imponible, minorada o aumentada, en su caso, por determinados conceptos.
+SOLUCION: D
+NORMA: Ley 27/2014, 30 bis
+
+COD: 2D04154
+PREGUNTA: Cuando el importe neto de la cifra de negocios sea, al menos, de 20 millones de euros durante los 12 meses anteriores a la fecha en que se inicie el período impositivo, para las sociedades que tributan al tipo de gravamen del 15 por 100 la cuota líquida del Impuesto sobre Sociedades debe ascender, como mínimo:
+A: al 18 por 100 de la base imponible, minorada o aumentada, en su caso, por determinados conceptos.
+B: al 10 por 100 de la base imponible, minorada o aumentada, en su caso, por determinados conceptos.
+C: al 12 por 100 de la base imponible, minorada o aumentada, en su caso, por determinados conceptos.
+D: al 5 por 100 de la base imponible, minorada o aumentada, en su caso, por determinados conceptos.
+SOLUCION: B
+NORMA: Ley 27/2014, 30 bis
+
+COD: 2D04155
+PREGUNTA: Cuando el importe neto de la cifra de negocios sea, al menos, de 20 millones de euros durante los 12 meses anteriores a la fecha en que se inicie el período impositivo, para las sociedades que tributan al tipo de gravamen del 30 por 100 la cuota líquida del Impuesto sobre Sociedades debe ascender, como mínimo:
+A: al 20 por 100 de la base imponible, minorada o aumentada, en su caso, por determinados conceptos.
+B: al 10 por 100 de la base imponible, minorada o aumentada, en su caso, por determinados conceptos.
+C: al 18 por 100 de la base imponible, minorada o aumentada, en su caso, por determinados conceptos.
+D: al 5 por 100 de la base imponible, minorada o aumentada, en su caso, por determinados conceptos.
+SOLUCION: C
+NORMA: Ley 27/2014, 30 bis
+
