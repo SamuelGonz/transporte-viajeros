@@ -236,3 +236,112 @@ export async function getDashboard(): Promise<DashboardData> {
     topFalladas,
   };
 }
+
+// ---------------------------------------------------------------------------
+// Estado de consolidación por pregunta y progreso por bloque (para la home).
+// ---------------------------------------------------------------------------
+
+// Estado derivado del historial de intentos de UNA pregunta:
+//  - "fallada":       el último intento fue incorrecto (o en blanco).
+//  - "porConsolidar": último intento correcto, pero con 1 o 2 aciertos seguidos.
+//  - "consolidada":   3 o más aciertos seguidos al final del historial.
+export type QuestionState = "fallada" | "porConsolidar" | "consolidada";
+
+// Aciertos seguidos (al final del historial) para dar una pregunta por dominada.
+const CONSOLIDAR_RACHA = 3;
+
+export interface BlockProgress {
+  respondidas: number; // preguntas distintas ya intentadas del bloque
+  falladas: number;
+  porConsolidar: number;
+  consolidada: number;
+}
+
+interface StateRow {
+  questionId: string;
+  dataset: Dataset;
+  block: string;
+  state: QuestionState;
+}
+
+// Calcula el estado de cada pregunta que se ha respondido al menos una vez.
+async function getQuestionStateRows(): Promise<StateRow[]> {
+  const db = await getDb();
+  // Por pregunta: total de intentos (n) y la posición —contando desde el más
+  // reciente— del primer fallo (fail_rn). fail_rn = 1 → el último intento falló;
+  // fail_rn = NULL → nunca ha fallado.
+  const res = await db.execute(`
+    WITH ordered AS (
+      SELECT question_id, correct,
+             ROW_NUMBER() OVER (PARTITION BY question_id ORDER BY id DESC) AS rn
+      FROM attempts
+    ),
+    firstFail AS (
+      SELECT question_id, MIN(rn) AS fail_rn
+      FROM ordered WHERE correct = 0 GROUP BY question_id
+    ),
+    totals AS (
+      SELECT question_id, dataset, block, COUNT(*) AS n
+      FROM attempts GROUP BY question_id, dataset, block
+    )
+    SELECT t.question_id, t.dataset, t.block, t.n, f.fail_rn
+    FROM totals t
+    LEFT JOIN firstFail f ON f.question_id = t.question_id
+  `);
+
+  return res.rows.map((r) => {
+    const failRn = r.fail_rn == null ? null : Number(r.fail_rn);
+    const n = Number(r.n ?? 0);
+    // Racha de aciertos al final del historial.
+    const streak = failRn == null ? n : failRn - 1;
+    let state: QuestionState;
+    if (failRn === 1) state = "fallada"; // el último intento fue un fallo
+    else if (streak >= CONSOLIDAR_RACHA) state = "consolidada";
+    else state = "porConsolidar";
+    return {
+      questionId: String(r.question_id),
+      dataset: (String(r.dataset) === "casos" ? "casos" : "test") as Dataset,
+      block: String(r.block),
+      state,
+    };
+  });
+}
+
+// Progreso agregado por bloque (clave `dataset:block`) y por dataset completo
+// (clave `dataset:all`), para pintar los indicadores de la home.
+export async function getBlockProgress(): Promise<Map<string, BlockProgress>> {
+  const rows = await getQuestionStateRows();
+  const map = new Map<string, BlockProgress>();
+  const bump = (key: string, state: QuestionState) => {
+    const p =
+      map.get(key) ?? { respondidas: 0, falladas: 0, porConsolidar: 0, consolidada: 0 };
+    p.respondidas += 1;
+    if (state === "fallada") p.falladas += 1;
+    else if (state === "porConsolidar") p.porConsolidar += 1;
+    else p.consolidada += 1;
+    map.set(key, p);
+  };
+  for (const r of rows) {
+    bump(`${r.dataset}:${r.block}`, r.state);
+    bump(`${r.dataset}:all`, r.state);
+  }
+  return map;
+}
+
+// IDs de las preguntas de un bloque (o "all") que están en el estado indicado.
+// Se usa para lanzar exámenes de repaso filtrados.
+export async function getQuestionIdsByState(
+  dataset: Dataset,
+  block: string,
+  state: QuestionState
+): Promise<string[]> {
+  const rows = await getQuestionStateRows();
+  return rows
+    .filter(
+      (r) =>
+        r.dataset === dataset &&
+        r.state === state &&
+        (block === "all" || r.block === block)
+    )
+    .map((r) => r.questionId);
+}

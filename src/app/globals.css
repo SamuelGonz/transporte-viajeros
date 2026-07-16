@@ -134,6 +134,85 @@ body {
   font-size: 0.85rem;
 }
 
+/* ---- Indicadores de progreso bajo cada bloque ---- */
+.block-cell {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.block-cell .block-btn {
+  height: 100%;
+  width: 100%;
+}
+
+.block-progress {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0 2px;
+}
+
+.bp-summary {
+  font-size: 0.78rem;
+  color: var(--text-dim);
+}
+
+.bp-summary b {
+  color: var(--text);
+  font-weight: 700;
+}
+
+.bp-states {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 10px;
+  font-size: 0.74rem;
+  font-weight: 600;
+}
+
+.bp-fail {
+  color: #fca5a5;
+}
+
+.bp-pend {
+  color: #fbbf24;
+}
+
+.bp-done {
+  color: #86efac;
+}
+
+.block-actions {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-top: 2px;
+}
+
+.mini-btn {
+  flex: 1 1 0;
+  min-width: 0;
+  background: var(--bg-card-2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 8px;
+  padding: 6px 8px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: border-color 0.15s, opacity 0.15s;
+}
+
+.mini-btn:hover:not(:disabled) {
+  border-color: var(--primary);
+}
+
+.mini-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
 /* ---- Controles ---- */
 .controls-row {
   display: flex;

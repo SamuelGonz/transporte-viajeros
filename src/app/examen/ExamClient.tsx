@@ -13,9 +13,11 @@ export default function ExamClient() {
   const type = params.get("type") === "casos" ? "casos" : "test";
   const block = params.get("block") || "all";
   const count = params.get("count") || "10";
+  const mode = params.get("mode") || "";
   const esCaso = type === "casos";
 
   const [status, setStatus] = useState<Status>("loading");
+  const [errorMsg, setErrorMsg] = useState("No se pudieron cargar las preguntas.");
   const [questions, setQuestions] = useState<Question[]>([]);
   const [index, setIndex] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
@@ -26,7 +28,8 @@ export default function ExamClient() {
   useEffect(() => {
     let active = true;
     setStatus("loading");
-    fetch(`/api/questions?type=${type}&block=${block}&count=${count}`)
+    const modeParam = mode ? `&mode=${mode}` : "";
+    fetch(`/api/questions?type=${type}&block=${block}&count=${count}${modeParam}`)
       .then((r) => r.json())
       .then((data) => {
         if (!active) return;
@@ -34,6 +37,12 @@ export default function ExamClient() {
           setQuestions(data.questions);
           setStatus("ready");
         } else {
+          // Sin preguntas: en modo repaso suele significar que no hay pendientes.
+          if (mode === "falladas") {
+            setErrorMsg("¡No tienes preguntas falladas en este bloque! 🎉");
+          } else if (mode === "consolidar") {
+            setErrorMsg("¡No tienes preguntas por consolidar en este bloque! 🎉");
+          }
           setStatus("error");
         }
       })
@@ -41,7 +50,7 @@ export default function ExamClient() {
     return () => {
       active = false;
     };
-  }, [type, block, count]);
+  }, [type, block, count, mode]);
 
   if (status === "loading") {
     return (
@@ -55,7 +64,7 @@ export default function ExamClient() {
     return (
       <main className="container">
         <div className="card center">
-          <p style={{ marginBottom: 16 }}>No se pudieron cargar las preguntas.</p>
+          <p style={{ marginBottom: 16 }}>{errorMsg}</p>
           <Link href="/" className="btn btn-secondary">
             Volver al inicio
           </Link>

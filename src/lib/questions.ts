@@ -73,11 +73,13 @@ function shuffle<T>(arr: T[]): T[] {
 }
 
 // Devuelve `count` preguntas aleatorias del bloque indicado
-// ("all" combina todos los bloques del dataset).
+// ("all" combina todos los bloques del dataset). Si se pasa `onlyIds`, la
+// selección se restringe a esas preguntas (repaso de falladas / por consolidar).
 export async function getExamQuestions(
   dataset: Dataset,
   blockId: string,
-  count: number
+  count: number,
+  onlyIds?: Set<string>
 ): Promise<Question[]> {
   let pool: Question[] = [];
 
@@ -88,6 +90,8 @@ export async function getExamQuestions(
   } else {
     pool = await readBlock(dataset, blockId);
   }
+
+  if (onlyIds) pool = pool.filter((q) => onlyIds.has(q.id));
 
   return shuffle(pool).slice(0, count);
 }
