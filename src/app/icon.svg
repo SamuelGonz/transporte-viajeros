@@ -1,0 +1,27 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" rx="7" fill="#3b82f6"/>
+  <g fill="#ffffff">
+    <!-- Carrocería del autobús -->
+    <rect x="6" y="7" width="20" height="16" rx="3"/>
+  </g>
+  <g fill="#3b82f6">
+    <!-- Ventanas -->
+    <rect x="8.5" y="9.5" width="4" height="4" rx="1"/>
+    <rect x="14" y="9.5" width="4" height="4" rx="1"/>
+    <rect x="19.5" y="9.5" width="4" height="4" rx="1"/>
+    <!-- Franja inferior -->
+    <rect x="6" y="16.5" width="20" height="2"/>
+  </g>
+  <g fill="#1e293b">
+    <!-- Ruedas -->
+    <circle cx="11" cy="24" r="2.6"/>
+    <circle cx="21" cy="24" r="2.6"/>
+  </g>
+  <g fill="#ffffff">
+    <circle cx="11" cy="24" r="1"/>
+    <circle cx="21" cy="24" r="1"/>
+    <!-- Faros -->
+    <rect x="24.5" y="19.5" width="1.5" height="2" rx="0.7"/>
+    <rect x="6" y="19.5" width="1.5" height="2" rx="0.7"/>
+  </g>
+</svg>
