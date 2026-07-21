@@ -5,6 +5,8 @@ export type Dataset = "test" | "casos";
 
 export interface Question {
   id: string;
+  // Bloque real al que pertenece la pregunta (se añade al leer el fichero).
+  block: string;
   pregunta: string;
   // En los test hay 4 opciones (A-D); en los casos prácticos hasta 8 (A-H).
   opciones: Record<string, string>;
@@ -36,7 +38,8 @@ export async function getBlocks(dataset: Dataset): Promise<BlockInfo[]> {
 
 async function readBlock(dataset: Dataset, blockId: string): Promise<Question[]> {
   const raw = await fs.readFile(path.join(datasetDir(dataset), `${blockId}.json`), "utf8");
-  return JSON.parse(raw) as Question[];
+  const questions = JSON.parse(raw) as Omit<Question, "block">[];
+  return questions.map((q) => ({ ...q, block: blockId }));
 }
 
 // Dado un conjunto de referencias (dataset+bloque+id), devuelve el texto de

@@ -6,7 +6,9 @@ import { useState } from "react";
 export default function LoginForm() {
    const router = useRouter();
    const params = useSearchParams();
-   const from = params.get("from") || "/";
+   // Solo rutas internas: evita redirecciones a otros dominios vía ?from=.
+   const rawFrom = params.get("from") || "/";
+   const from = rawFrom.startsWith("/") && !rawFrom.startsWith("//") ? rawFrom : "/";
 
    const [username, setUsername] = useState("");
    const [password, setPassword] = useState("");

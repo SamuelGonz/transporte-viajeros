@@ -37,8 +37,17 @@ async function ensureSchema(c: Client): Promise<void> {
 
 export async function getDb(): Promise<Client> {
   if (!client) {
-    client = createDbClient();
-    ready = ensureSchema(client);
+    const c = createDbClient();
+    client = c;
+    // Si la creación del esquema falla (p. ej. corte de red con Turso), se
+    // descarta el cliente para que la siguiente petición lo reintente.
+    ready = ensureSchema(c).catch((err) => {
+      if (client === c) {
+        client = null;
+        ready = null;
+      }
+      throw err;
+    });
   }
   await ready;
   return client;

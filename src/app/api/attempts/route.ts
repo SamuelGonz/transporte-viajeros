@@ -9,7 +9,7 @@ export async function POST(request: Request) {
     const body = await request.json();
     const { questionId, dataset, block, selected, correct } = body ?? {};
 
-    if (!questionId || typeof correct !== "boolean") {
+    if (questionId == null || questionId === "" || typeof correct !== "boolean") {
       return NextResponse.json({ error: "Datos incompletos." }, { status: 400 });
     }
 

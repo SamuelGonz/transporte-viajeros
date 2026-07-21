@@ -25,8 +25,10 @@ export async function recordAttempt(input: RecordInput): Promise<QuestionStats> 
 
   // La última vez que se respondió ANTES de este intento (para el "hace X días").
   const prev = await db.execute({
-    sql: `SELECT created_at FROM attempts WHERE question_id = ? ORDER BY id DESC LIMIT 1`,
-    args: [input.questionId],
+    sql: `SELECT created_at FROM attempts
+          WHERE question_id = ? AND dataset = ?
+          ORDER BY id DESC LIMIT 1`,
+    args: [input.questionId, input.dataset],
   });
   const previousAt = prev.rows.length ? String(prev.rows[0].created_at) : null;
 
@@ -48,8 +50,8 @@ export async function recordAttempt(input: RecordInput): Promise<QuestionStats> 
             SUM(CASE WHEN correct = 1 THEN 1 ELSE 0 END) AS correct,
             SUM(CASE WHEN correct = 0 AND selected IS NOT NULL THEN 1 ELSE 0 END) AS wrong,
             SUM(CASE WHEN selected IS NULL THEN 1 ELSE 0 END)                     AS blank
-          FROM attempts WHERE question_id = ?`,
-    args: [input.questionId],
+          FROM attempts WHERE question_id = ? AND dataset = ?`,
+    args: [input.questionId, input.dataset],
   });
 
   const r = agg.rows[0];
@@ -99,13 +101,26 @@ export interface DashboardData {
 const pct = (correct: number, total: number) =>
   total > 0 ? Math.round((correct / total) * 100) : 0;
 
-// Últimos N días en formato YYYY-MM-DD (UTC, para casar con datetime('now')).
+// La BD guarda created_at en UTC; el día de estudio se calcula en hora española
+// para que responder a las 00:30 no cuente como el día anterior.
+const TZ = "Europe/Madrid";
+const diaFmt = new Intl.DateTimeFormat("en-CA", {
+  timeZone: TZ,
+  year: "numeric",
+  month: "2-digit",
+  day: "2-digit",
+});
+// "YYYY-MM-DD HH:MM:SS" (UTC, formato de SQLite) -> "YYYY-MM-DD" en hora local.
+function diaLocal(createdAt: string): string {
+  return diaFmt.format(new Date(createdAt.replace(" ", "T") + "Z"));
+}
+
+// Últimos N días en formato YYYY-MM-DD (hora española).
 function ultimosDias(n: number): string[] {
   const hoy = new Date();
   const dias: string[] = [];
   for (let i = n - 1; i >= 0; i--) {
-    const d = new Date(hoy.getTime() - i * 86400000);
-    dias.push(d.toISOString().slice(0, 10));
+    dias.push(diaFmt.format(new Date(hoy.getTime() - i * 86400000)));
   }
   return dias;
 }
@@ -168,18 +183,20 @@ export async function getDashboard(): Promise<DashboardData> {
     };
   });
 
+  // Se traen los intentos recientes y se agrupan por día en hora española
+  // (agrupar con date() en SQL usaría el día UTC).
   const diaQ = await db.execute(`
-    SELECT date(created_at) AS d, COUNT(*) AS total, SUM(correct) AS correct
+    SELECT created_at, correct
     FROM attempts
-    WHERE date(created_at) >= date('now', '-13 days')
-    GROUP BY d
+    WHERE created_at >= datetime('now', '-15 days')
   `);
   const diaMap = new Map<string, { total: number; correct: number }>();
   for (const r of diaQ.rows) {
-    diaMap.set(String(r.d), {
-      total: Number(r.total ?? 0),
-      correct: Number(r.correct ?? 0),
-    });
+    const d = diaLocal(String(r.created_at));
+    const v = diaMap.get(d) ?? { total: 0, correct: 0 };
+    v.total += 1;
+    v.correct += Number(r.correct ?? 0);
+    diaMap.set(d, v);
   }
   const porDia = ultimosDias(14).map((date) => {
     const v = diaMap.get(date);
@@ -267,26 +284,30 @@ interface StateRow {
 // Calcula el estado de cada pregunta que se ha respondido al menos una vez.
 async function getQuestionStateRows(): Promise<StateRow[]> {
   const db = await getDb();
-  // Por pregunta: total de intentos (n) y la posición —contando desde el más
-  // reciente— del primer fallo (fail_rn). fail_rn = 1 → el último intento falló;
-  // fail_rn = NULL → nunca ha fallado.
+  // Por pregunta (id + dataset): total de intentos (n) y la posición —contando
+  // desde el más reciente— del primer fallo (fail_rn). fail_rn = 1 → el último
+  // intento falló; fail_rn = NULL → nunca ha fallado. Los IDs pueden repetirse
+  // entre datasets, así que todo se agrupa por (question_id, dataset).
   const res = await db.execute(`
     WITH ordered AS (
-      SELECT question_id, correct,
-             ROW_NUMBER() OVER (PARTITION BY question_id ORDER BY id DESC) AS rn
+      SELECT question_id, dataset, correct,
+             ROW_NUMBER() OVER (PARTITION BY question_id, dataset ORDER BY id DESC) AS rn
       FROM attempts
     ),
     firstFail AS (
-      SELECT question_id, MIN(rn) AS fail_rn
-      FROM ordered WHERE correct = 0 GROUP BY question_id
+      SELECT question_id, dataset, MIN(rn) AS fail_rn
+      FROM ordered WHERE correct = 0 GROUP BY question_id, dataset
     ),
     totals AS (
-      SELECT question_id, dataset, block, COUNT(*) AS n
-      FROM attempts GROUP BY question_id, dataset, block
+      SELECT question_id, dataset,
+             MIN(CASE WHEN block <> 'all' THEN block END) AS block,
+             COUNT(*) AS n
+      FROM attempts GROUP BY question_id, dataset
     )
-    SELECT t.question_id, t.dataset, t.block, t.n, f.fail_rn
+    SELECT t.question_id, t.dataset, COALESCE(t.block, 'all') AS block, t.n, f.fail_rn
     FROM totals t
-    LEFT JOIN firstFail f ON f.question_id = t.question_id
+    LEFT JOIN firstFail f
+      ON f.question_id = t.question_id AND f.dataset = t.dataset
   `);
 
   return res.rows.map((r) => {

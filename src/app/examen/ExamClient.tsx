@@ -124,7 +124,8 @@ export default function ExamClient() {
       body: JSON.stringify({
         questionId: q.id,
         dataset: type,
-        block,
+        // Bloque real de la pregunta (en exámenes "all" el de la URL no sirve).
+        block: q.block,
         selected: opt,
         correct: acierto,
       }),
@@ -201,7 +202,9 @@ export default function ExamClient() {
                 <b>Norma:</b> {q.norma}
               </p>
             )}
-            {stats && <StatsBar stats={stats} />}
+            {/* Solo si la ficha es de ESTA pregunta (una respuesta lenta del
+                servidor podría llegar cuando ya se ha pasado a la siguiente). */}
+            {stats && stats.questionId === q.id && <StatsBar stats={stats} />}
           </>
         )}
       </div>
