@@ -349,6 +349,22 @@ export async function getBlockProgress(): Promise<Map<string, BlockProgress>> {
   return map;
 }
 
+// Último intento (MAX(id) de attempts, monótono en el tiempo) por pregunta del
+// dataset. Las preguntas sin entrada en el mapa nunca se han respondido.
+export async function getLastAttemptMap(dataset: Dataset): Promise<Map<string, number>> {
+  const db = await getDb();
+  const res = await db.execute({
+    sql: `SELECT question_id, MAX(id) AS last_id
+          FROM attempts WHERE dataset = ? GROUP BY question_id`,
+    args: [dataset],
+  });
+  const map = new Map<string, number>();
+  for (const r of res.rows) {
+    map.set(String(r.question_id), Number(r.last_id));
+  }
+  return map;
+}
+
 // IDs de las preguntas de un bloque (o "all") que están en el estado indicado.
 // Se usa para lanzar exámenes de repaso filtrados.
 export async function getQuestionIdsByState(

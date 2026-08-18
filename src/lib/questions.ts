@@ -66,13 +66,32 @@ export async function getPreguntaTextos(
 }
 
 // Baraja de Fisher-Yates.
-function shuffle<T>(arr: T[]): T[] {
+export function shuffle<T>(arr: T[]): T[] {
   const a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [a[i], a[j]] = [a[j], a[i]];
   }
   return a;
+}
+
+// Todas las preguntas del bloque indicado ("all" combina todos los bloques).
+async function getPool(dataset: Dataset, blockId: string): Promise<Question[]> {
+  if (blockId === "all") {
+    const blocks = await getBlocks(dataset);
+    const all = await Promise.all(blocks.map((b) => readBlock(dataset, b.id)));
+    return all.flat();
+  }
+  return readBlock(dataset, blockId);
+}
+
+// IDs de todas las preguntas del bloque (para modos de repaso temporales).
+export async function getBlockQuestionIds(
+  dataset: Dataset,
+  blockId: string
+): Promise<string[]> {
+  const pool = await getPool(dataset, blockId);
+  return pool.map((q) => q.id);
 }
 
 // Devuelve `count` preguntas aleatorias del bloque indicado
@@ -84,15 +103,7 @@ export async function getExamQuestions(
   count: number,
   onlyIds?: Set<string>
 ): Promise<Question[]> {
-  let pool: Question[] = [];
-
-  if (blockId === "all") {
-    const blocks = await getBlocks(dataset);
-    const all = await Promise.all(blocks.map((b) => readBlock(dataset, b.id)));
-    pool = all.flat();
-  } else {
-    pool = await readBlock(dataset, blockId);
-  }
+  let pool = await getPool(dataset, blockId);
 
   if (onlyIds) pool = pool.filter((q) => onlyIds.has(q.id));
 

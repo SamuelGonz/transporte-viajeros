@@ -6,6 +6,11 @@ import type { BlockInfo, Dataset } from "@/lib/questions";
 import type { BlockProgress } from "@/lib/stats";
 
 const COUNTS = [10, 25, 50, 100];
+const REVIEW_MODES = [
+  { value: "falladas", label: "Repasar falladas" },
+  { value: "consolidar", label: "Consolidar pendientes" },
+  { value: "antiguas", label: "Más tiempo sin salir" },
+];
 const EMPTY: BlockProgress = {
   respondidas: 0,
   falladas: 0,
@@ -29,6 +34,8 @@ export default function StartForm({
   const router = useRouter();
   const [selected, setSelected] = useState<string>("all");
   const [count, setCount] = useState<number>(10);
+  // Modo de repaso elegido en el selector de cada bloque.
+  const [modes, setModes] = useState<Record<string, string>>({});
 
   const go = (block: string, mode?: string) => {
     const base = `type=${dataset}&block=${block}&count=${count}`;
@@ -38,6 +45,11 @@ export default function StartForm({
   // Bloque de indicadores + botones de repaso que va bajo cada tarjeta.
   const Progress = ({ id, totalPreg }: { id: string; totalPreg: number }) => {
     const p = progress[id] ?? EMPTY;
+    const mode = modes[id] ?? "falladas";
+    // "antiguas" siempre tiene preguntas (incluye las nunca respondidas).
+    const sinPendientes =
+      (mode === "falladas" && p.falladas === 0) ||
+      (mode === "consolidar" && p.porConsolidar === 0);
     return (
       <div className="block-progress">
         <div className="bp-summary">
@@ -60,21 +72,25 @@ export default function StartForm({
           </span>
         </div>
         <div className="block-actions">
+          <select
+            className="mini-select"
+            aria-label="Modo de repaso"
+            value={mode}
+            onChange={(e) => setModes((m) => ({ ...m, [id]: e.target.value }))}
+          >
+            {REVIEW_MODES.map((m) => (
+              <option key={m.value} value={m.value}>
+                {m.label}
+              </option>
+            ))}
+          </select>
           <button
             type="button"
             className="mini-btn"
-            disabled={p.falladas === 0}
-            onClick={() => go(id, "falladas")}
+            disabled={sinPendientes}
+            onClick={() => go(id, mode)}
           >
-            Repasar falladas
-          </button>
-          <button
-            type="button"
-            className="mini-btn"
-            disabled={p.porConsolidar === 0}
-            onClick={() => go(id, "consolidar")}
-          >
-            Consolidar pendientes
+            Repasar
           </button>
         </div>
       </div>

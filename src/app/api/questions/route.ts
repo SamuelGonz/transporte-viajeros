@@ -1,6 +1,15 @@
 import { NextResponse } from "next/server";
-import { getExamQuestions, type Dataset } from "@/lib/questions";
-import { getQuestionIdsByState, type QuestionState } from "@/lib/stats";
+import {
+  getBlockQuestionIds,
+  getExamQuestions,
+  shuffle,
+  type Dataset,
+} from "@/lib/questions";
+import {
+  getLastAttemptMap,
+  getQuestionIdsByState,
+  type QuestionState,
+} from "@/lib/stats";
 
 export const dynamic = "force-dynamic";
 
@@ -25,6 +34,15 @@ export async function GET(request: Request) {
     if (MODE_STATE[mode]) {
       const ids = await getQuestionIdsByState(dataset, block, MODE_STATE[mode]);
       onlyIds = new Set(ids);
+    } else if (mode === "antiguas") {
+      // Preguntas que más tiempo llevan sin salir: nunca respondidas primero
+      // (se barajan para variar los empates) y después por último intento más
+      // antiguo. Se recorta a `count` aquí para que el barajado posterior de
+      // getExamQuestions solo afecte al orden de presentación.
+      const ids = shuffle(await getBlockQuestionIds(dataset, block));
+      const lastSeen = await getLastAttemptMap(dataset);
+      ids.sort((a, b) => (lastSeen.get(a) ?? 0) - (lastSeen.get(b) ?? 0));
+      onlyIds = new Set(ids.slice(0, count));
     }
     const questions = await getExamQuestions(dataset, block, count, onlyIds);
     return NextResponse.json({ questions });

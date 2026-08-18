@@ -213,6 +213,15 @@ body {
   cursor: not-allowed;
 }
 
+/* Selector compacto de modo de repaso (misma altura que .mini-btn). */
+.mini-select {
+  flex: 2 1 0;
+  min-width: 0;
+  background: var(--bg-card-2);
+  padding: 6px 8px;
+  font-size: 0.72rem;
+}
+
 /* ---- Controles ---- */
 .controls-row {
   display: flex;
