@@ -13,7 +13,7 @@ import {
 
 export const dynamic = "force-dynamic";
 
-const ALLOWED_COUNTS = [10, 25, 50, 100];
+const ALLOWED_COUNTS = [10, 25, 50, 100, 200];
 
 // Modos de repaso: acotan el examen a preguntas en un estado concreto.
 const MODE_STATE: Record<string, QuestionState> = {
@@ -34,14 +34,20 @@ export async function GET(request: Request) {
     if (MODE_STATE[mode]) {
       const ids = await getQuestionIdsByState(dataset, block, MODE_STATE[mode]);
       onlyIds = new Set(ids);
-    } else if (mode === "antiguas") {
-      // Preguntas que más tiempo llevan sin salir: nunca respondidas primero
-      // (se barajan para variar los empates) y después por último intento más
-      // antiguo. Se recorta a `count` aquí para que el barajado posterior de
+    } else if (mode === "antiguas" || mode === "nuevas") {
+      // "antiguas": las que más tiempo llevan sin salir (nunca respondidas
+      // primero, barajadas para variar los empates, y después por último
+      // intento más antiguo). "nuevas": solo las que no han salido ninguna vez.
+      // Se recorta a `count` aquí para que el barajado posterior de
       // getExamQuestions solo afecte al orden de presentación.
-      const ids = shuffle(await getBlockQuestionIds(dataset, block));
+      let ids = shuffle(await getBlockQuestionIds(dataset, block));
       const lastSeen = await getLastAttemptMap(dataset);
-      ids.sort((a, b) => (lastSeen.get(a) ?? 0) - (lastSeen.get(b) ?? 0));
+      if (mode === "nuevas") {
+        // Solo las que no han salido ninguna vez.
+        ids = ids.filter((id) => !lastSeen.has(id));
+      } else {
+        ids.sort((a, b) => (lastSeen.get(a) ?? 0) - (lastSeen.get(b) ?? 0));
+      }
       onlyIds = new Set(ids.slice(0, count));
     }
     const questions = await getExamQuestions(dataset, block, count, onlyIds);

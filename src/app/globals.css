@@ -183,6 +183,10 @@ body {
   color: #86efac;
 }
 
+.bp-new {
+  color: #93c5fd;
+}
+
 .block-actions {
   display: flex;
   gap: 6px;

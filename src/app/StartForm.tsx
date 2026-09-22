@@ -5,11 +5,12 @@ import { useState } from "react";
 import type { BlockInfo, Dataset } from "@/lib/questions";
 import type { BlockProgress } from "@/lib/stats";
 
-const COUNTS = [10, 25, 50, 100];
+const COUNTS = [10, 25, 50, 100, 200];
 const REVIEW_MODES = [
   { value: "falladas", label: "Repasar falladas" },
   { value: "consolidar", label: "Consolidar pendientes" },
   { value: "antiguas", label: "Más tiempo sin salir" },
+  { value: "nuevas", label: "Nunca respondidas" },
 ];
 const EMPTY: BlockProgress = {
   respondidas: 0,
@@ -46,10 +47,12 @@ export default function StartForm({
   const Progress = ({ id, totalPreg }: { id: string; totalPreg: number }) => {
     const p = progress[id] ?? EMPTY;
     const mode = modes[id] ?? "falladas";
+    const nuncaRespondidas = Math.max(totalPreg - p.respondidas, 0);
     // "antiguas" siempre tiene preguntas (incluye las nunca respondidas).
     const sinPendientes =
       (mode === "falladas" && p.falladas === 0) ||
-      (mode === "consolidar" && p.porConsolidar === 0);
+      (mode === "consolidar" && p.porConsolidar === 0) ||
+      (mode === "nuevas" && nuncaRespondidas === 0);
     return (
       <div className="block-progress">
         <div className="bp-summary">
@@ -69,6 +72,9 @@ export default function StartForm({
           </span>
           <span className="bp-state bp-done" title="3 o más aciertos seguidos">
             ✓ {p.consolidada} consolidadas
+          </span>
+          <span className="bp-state bp-new" title="Todavía no han salido ninguna vez">
+            ☆ {nuncaRespondidas.toLocaleString("es-ES")} sin salir
           </span>
         </div>
         <div className="block-actions">
@@ -137,7 +143,7 @@ export default function StartForm({
             value={count}
             onChange={(e) => setCount(Number(e.target.value))}
           >
-            {COUNTS.map((c) => (
+            {COUNTS.filter((c, i) => i === 0 || c <= total).map((c) => (
               <option key={c} value={c}>
                 {c} preguntas
               </option>

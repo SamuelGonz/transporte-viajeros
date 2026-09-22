@@ -42,6 +42,8 @@ export default function ExamClient() {
             setErrorMsg("¡No tienes preguntas falladas en este bloque! 🎉");
           } else if (mode === "consolidar") {
             setErrorMsg("¡No tienes preguntas por consolidar en este bloque! 🎉");
+          } else if (mode === "nuevas") {
+            setErrorMsg("¡Ya has respondido todas las preguntas de este bloque! 🎉");
           } else if (mode === "antiguas") {
             setErrorMsg("No hay preguntas pendientes de repaso en este bloque.");
           }
